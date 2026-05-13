@@ -1,0 +1,31 @@
+{
+  "name": "pod-clawer",
+  "version": "1.0.0",
+  "description": "Daily CCTV 朝闻天下 audio crawler and mobile web player.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "crawl": "tsx src/crawler/run.ts",
+    "serve": "tsx src/api/server.ts",
+    "start": "npm run crawl && npm run serve",
+    "start:server": "npm run serve",
+    "lint": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@crawlee/playwright": "^3.15.1",
+    "cheerio": "^1.0.0",
+    "crawlee": "^3.15.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "playwright": "^1.49.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

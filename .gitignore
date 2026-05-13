@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+storage/
+*.log
+page.html
+video.html
+videoinfo.json
+data/*/video.*
+data/*/*.part
+data
