@@ -14,5 +14,6 @@
   "hlsUrl": "https://dhlsqqwx01.v.cntv.cn/asp/hlsaudio/hls/main/0303000a/3/default/168fd0754bb141bebbfdf032201fa2c3/main.m3u8",
   "audioSourceUrl": "https://dhlsqqwx01.v.cntv.cn/asp/hlsaudio/hls/main/0303000a/3/default/168fd0754bb141bebbfdf032201fa2c3/main.m3u8",
   "createdAt": "2026-05-13T07:58:43.742Z",
-  "durationSeconds": 3137.56
+  "durationSeconds": 3137.56,
+  "program": "zwtx"
 }

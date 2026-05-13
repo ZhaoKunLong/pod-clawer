@@ -2,13 +2,15 @@ import { log } from 'crawlee';
 import path from 'node:path';
 import { findTodaysEpisode, resolveVideoInfo } from './cctv.js';
 import { config } from '../config.js';
+import { getProgramConfig } from '../programs/registry.js';
 import { extractStreamFromEpisodePage } from '../parser/media.js';
-import { todayInTimezone } from '../services/date.js';
+import { latestEpisodeDateForProgram } from '../services/date.js';
 import {
   ensureEpisodeDir,
   episodeAudioPath,
   episodeExists,
   listEpisodes,
+  migrateOldEpisodes,
   pruneExpiredEpisodes,
   writeEpisodeIndex,
   writeMeta,
@@ -16,25 +18,34 @@ import {
 import { extractMp3 } from '../media/ffmpeg.js';
 import type { EpisodeMeta, StreamInfo } from '../types.js';
 
-export async function crawlDailyEpisode(targetDate = todayInTimezone(config.timezone)): Promise<EpisodeMeta> {
+export async function crawlDailyEpisode(programId: string, targetDate?: string): Promise<EpisodeMeta> {
   log.setLevel(log.LEVELS.INFO);
-  log.info(`Starting CCTV 朝闻天下 crawl for ${targetDate}`);
 
-  if (await episodeExists(targetDate)) {
+  const program = getProgramConfig(programId);
+  const resolvedDate = targetDate ?? latestEpisodeDateForProgram(program.broadcastTimeWindow, config.timezone);
+  log.info(`Starting CCTV ${program.name} crawl for ${resolvedDate}`);
+
+  // Migrate old flat data structure on first run
+  const migrated = await migrateOldEpisodes();
+  if (migrated.length) {
+    log.info(`Migrated ${migrated.length} old episode(s) to data/zwtx/: ${migrated.join(', ')}`);
+  }
+
+  if (await episodeExists(programId, resolvedDate)) {
     const { readMeta } = await import('../services/storage.js');
-    const existing = await readMeta(targetDate);
-    const removed = await pruneExpiredEpisodes(31, targetDate);
-    const episodes = await listEpisodes();
-    await writeEpisodeIndex(episodes);
-    log.info(`Episode ${targetDate} metadata already exists; skipped crawl and refreshed index.`);
+    const existing = await readMeta(programId, resolvedDate);
+    const removed = await pruneExpiredEpisodes(programId, program.retentionDays, resolvedDate);
+    const episodes = await listEpisodes(programId);
+    await writeEpisodeIndex(programId, episodes);
+    log.info(`Episode ${resolvedDate} metadata already exists; skipped crawl and refreshed index.`);
     if (removed.length) {
       log.info(`Pruned expired episodes: ${removed.join(', ')}`);
     }
     return existing;
   }
 
-  const episode = await findTodaysEpisode(targetDate);
-  await ensureEpisodeDir(targetDate);
+  const episode = await findTodaysEpisode(resolvedDate, program);
+  await ensureEpisodeDir(programId, resolvedDate);
 
   let fallback = false;
   let stream: StreamInfo;
@@ -47,12 +58,12 @@ export async function crawlDailyEpisode(targetDate = todayInTimezone(config.time
     log.warning(`Streaming extraction failed; using legacy MP3 fallback: ${message}`);
     fallback = true;
     const videoInfo = await resolveVideoInfo(episode);
-    audioPath = episodeAudioPath(targetDate);
+    audioPath = episodeAudioPath(programId, resolvedDate);
     const mediaSources = uniqueSources([videoInfo.audioSourceUrl, videoInfo.hlsUrl, videoInfo.videoUrl]);
     const mediaSource = await extractFromFirstWorkingSource(mediaSources, audioPath);
     stream = {
       guid: videoInfo.guid,
-      streamUrl: `/data/${targetDate}/audio.mp3`,
+      streamUrl: `/data/${programId}/${resolvedDate}/audio.mp3`,
       type: 'mp4' as const,
       discoveredFrom: `fallback:${mediaSource}`,
       durationSeconds: videoInfo.durationSeconds,
@@ -65,12 +76,12 @@ export async function crawlDailyEpisode(targetDate = todayInTimezone(config.time
     log.warning('FORCE_DOWNLOAD_FALLBACK=true, using legacy MP3 extraction path.');
     fallback = true;
     const videoInfo = await resolveVideoInfo(episode);
-    audioPath = episodeAudioPath(targetDate);
+    audioPath = episodeAudioPath(programId, resolvedDate);
     const mediaSources = uniqueSources([videoInfo.audioSourceUrl, videoInfo.hlsUrl, videoInfo.videoUrl]);
     const mediaSource = await extractFromFirstWorkingSource(mediaSources, audioPath);
     stream = {
       guid: videoInfo.guid,
-      streamUrl: `/data/${targetDate}/audio.mp3`,
+      streamUrl: `/data/${programId}/${resolvedDate}/audio.mp3`,
       type: 'mp4',
       discoveredFrom: `fallback:${mediaSource}`,
       durationSeconds: videoInfo.durationSeconds,
@@ -81,6 +92,7 @@ export async function crawlDailyEpisode(targetDate = todayInTimezone(config.time
 
   const meta: EpisodeMeta = {
     ...episode,
+    program: programId,
     guid: stream.guid,
     title: stream.title ?? episode.title,
     image: stream.image ?? episode.image,
@@ -97,10 +109,10 @@ export async function crawlDailyEpisode(targetDate = todayInTimezone(config.time
   };
 
   await writeMeta(meta);
-  const removed = await pruneExpiredEpisodes(31, targetDate);
-  const episodes = await listEpisodes();
-  await writeEpisodeIndex(episodes);
-  log.info(`Saved streaming metadata for ${targetDate}`);
+  const removed = await pruneExpiredEpisodes(programId, program.retentionDays, resolvedDate);
+  const episodes = await listEpisodes(programId);
+  await writeEpisodeIndex(programId, episodes);
+  log.info(`Saved streaming metadata for ${resolvedDate}`);
   if (removed.length) {
     log.info(`Pruned expired episodes: ${removed.join(', ')}`);
   }
@@ -130,8 +142,9 @@ function uniqueSources(sources: Array<string | undefined>): string[] {
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
-  const targetDate = process.argv[2];
-  crawlDailyEpisode(targetDate).catch((error: unknown) => {
+  const programId = process.argv[2] ?? 'zwtx';
+  const targetDate = process.argv[3];
+  crawlDailyEpisode(programId, targetDate).catch((error: unknown) => {
     log.exception(error as Error, 'Crawler failed');
     process.exitCode = 1;
   });

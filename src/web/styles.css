@@ -159,3 +159,35 @@ h2 {
     font-size: 24px;
   }
 }
+
+.program-tabs {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  margin-bottom: 16px;
+  padding-bottom: 2px;
+  scrollbar-width: none;
+}
+
+.program-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.program-tab {
+  flex: 0 0 auto;
+  border: 1px solid #cbd5e1;
+  border-radius: 20px;
+  padding: 7px 16px;
+  color: #475569;
+  background: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.program-tab.active {
+  border-color: #2563eb;
+  color: #fff;
+  background: #2563eb;
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "168fd0754bb141bebbfdf032201fa2c3",
+    "title": "《朝闻天下》 20260513 0800",
+    "url": "https://tv.cctv.cn/2026/05/13/VIDEcvToYnKnh3CP3cbPKY3b260513.shtml",
+    "date": "2026-05-13",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/05/13/168fd0754bb141bebbfdf032201fa2c3-1.jpg",
+    "description": "本期节目主要内容：\n    工业和信息化部：在APEC框架下开创汽车产业发展新局面；伊朗外交部发言人表示：美方在谈判中的强硬诉求不可接受；中东战事影响持续，约旦旅游业仍面临挑战；日本民众集会反对“国家情报会议”设置法案。\n（《朝闻天下》 20260513 08:00）",
+    "guid": "168fd0754bb141bebbfdf032201fa2c3",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/05/13/VIDEcvToYnKnh3CP3cbPKY3b260513.shtml",
+    "streamUrl": "https://dhlsqqwx01.v.cntv.cn/asp/hlsaudio/hls/main/0303000a/3/default/168fd0754bb141bebbfdf032201fa2c3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhlsqqwx01.v.cntv.cn/asp/hlsaudio/hls/main/0303000a/3/default/168fd0754bb141bebbfdf032201fa2c3/main.m3u8",
+    "audioSourceUrl": "https://dhlsqqwx01.v.cntv.cn/asp/hlsaudio/hls/main/0303000a/3/default/168fd0754bb141bebbfdf032201fa2c3/main.m3u8",
+    "createdAt": "2026-05-13T07:58:43.742Z",
+    "durationSeconds": 3137.56,
+    "program": "zwtx"
+  }
+]
