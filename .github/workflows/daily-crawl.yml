@@ -2,7 +2,7 @@ name: Daily CCTV Audio Crawl
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '15 0 * * *'  # 00:15 UTC = 08:15 Beijing Time (UTC+8)
   workflow_dispatch:
 
 permissions:
