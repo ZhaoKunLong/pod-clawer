@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>朝闻天下播放器</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Now Playing</p>
+          <h1 id="title">朝闻天下</h1>
+        </div>
+        <a class="refresh" href="/">日期</a>
+      </header>
+
+      <section class="player-panel">
+        <img id="cover" class="cover" alt="" />
+        <div class="player-copy">
+          <p id="date" class="date"></p>
+          <p id="description" class="description"></p>
+        </div>
+        <video id="media" class="player" controls playsinline autoplay preload="metadata"></video>
+      </section>
+
+      <section class="panel">
+        <h2>近 1 个月节目</h2>
+        <div id="episode-list" class="episode-list compact" aria-live="polite"></div>
+      </section>
+    </main>
+    <script src="/episode.js" type="module"></script>
+  </body>
+</html>

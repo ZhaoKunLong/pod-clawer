@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>朝闻天下播放器</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">CCTV</p>
+          <h1>朝闻天下播放器</h1>
+        </div>
+        <a class="refresh" href="/">刷新</a>
+      </header>
+
+      <section class="panel">
+        <h2>近 1 个月节目</h2>
+        <div id="episode-list" class="episode-list" aria-live="polite"></div>
+      </section>
+    </main>
+    <script src="/app.js" type="module"></script>
+  </body>
+</html>
