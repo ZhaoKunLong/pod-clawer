@@ -1,20 +1,38 @@
 const params = new URLSearchParams(location.search);
 const selectedDate = params.get('date');
-const DATA_INDEX_URL = './data/index.json';
+const currentProgramId = params.get('program') || 'zwtx';
+
+function buildIndexUrl(programId) {
+  return `./data/${programId}/index.json`;
+}
+
+function buildMetaUrl(programId, date) {
+  return `./data/${programId}/${encodeURIComponent(date)}/meta.json`;
+}
+
+function buildEpisodeUrl(programId, date) {
+  return `./episode.html?program=${encodeURIComponent(programId)}&date=${encodeURIComponent(date)}`;
+}
 
 async function loadDetail() {
-  const episodes = await fetchJson(DATA_INDEX_URL);
+  // Update back link to preserve program context
+  const backLink = document.querySelector('#back-link');
+  if (backLink) {
+    backLink.href = `./?program=${encodeURIComponent(currentProgramId)}`;
+  }
+
+  const episodes = await fetchJson(buildIndexUrl(currentProgramId));
   const targetDate = selectedDate || episodes[0]?.date;
   if (!targetDate) {
     document.querySelector('#title').textContent = '暂无节目';
     return;
   }
 
-  const episode = await fetchJson(`./data/${encodeURIComponent(targetDate)}/meta.json`);
-  document.title = `${episode.date} 朝闻天下`;
+  const episode = await fetchJson(buildMetaUrl(currentProgramId, targetDate));
+  document.title = `${episode.date} ${episode.program || currentProgramId}`;
   document.querySelector('#title').textContent = episode.title;
   document.querySelector('#date').textContent = `${episode.date} · ${episode.type.toUpperCase()}${episode.fallback ? ' · FALLBACK' : ''}`;
-  document.querySelector('#description').textContent = episode.description || '来自 CCTV 朝闻天下。';
+  document.querySelector('#description').textContent = episode.description || `来自 CCTV ${episode.title}。`;
 
   const cover = document.querySelector('#cover');
   if (episode.image) {
@@ -75,7 +93,7 @@ function renderHistory(episodes, targetDate) {
     ...episodes.map((episode) => {
       const link = document.createElement('a');
       link.className = `episode-row ${episode.date === targetDate ? 'active' : ''}`;
-      link.href = `./episode.html?date=${encodeURIComponent(episode.date)}`;
+      link.href = buildEpisodeUrl(currentProgramId, episode.date);
       link.innerHTML = `
         <span>
           <strong>${escapeHtml(episode.date)}</strong>

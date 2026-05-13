@@ -32,6 +32,7 @@ export type StreamInfo = {
 };
 
 export type EpisodeMeta = EpisodeCandidate & {
+  program: string;
   guid?: string;
   sourcePageUrl: string;
   streamUrl: string;

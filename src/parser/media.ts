@@ -6,6 +6,8 @@ import { config } from '../config.js';
 import { fetchJson } from '../services/http.js';
 import type { EpisodeCandidate, StreamInfo, StreamType } from '../types.js';
 
+const CCTV_REFERER = 'https://tv.cctv.cn/';
+
 type CctvMediaPayload = {
   title?: string;
   image?: string;
@@ -44,7 +46,7 @@ export async function extractStreamFromEpisodePage(episode: EpisodeCandidate): P
       async ({ page }) => {
         await page.setExtraHTTPHeaders({
           'user-agent': config.userAgent,
-          referer: config.columnUrl,
+          referer: CCTV_REFERER,
         });
         page.on('request', (request) => {
           const direct = candidateFromUrl(request.url(), `request:${request.resourceType()}`);
@@ -201,7 +203,7 @@ async function isPlayableStream(candidate: Candidate): Promise<boolean> {
     const response = await fetch(candidate.url, {
       headers: {
         'user-agent': config.userAgent,
-        referer: config.columnUrl,
+        referer: CCTV_REFERER,
       },
     });
 

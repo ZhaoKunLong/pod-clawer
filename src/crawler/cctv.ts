@@ -5,6 +5,7 @@ import { randomUUID } from 'node:crypto';
 import { config } from '../config.js';
 import { compactDate } from '../services/date.js';
 import { fetchJson } from '../services/http.js';
+import type { ProgramConfig } from '../programs/registry.js';
 import type { EpisodeCandidate, VideoInfo } from '../types.js';
 
 type CctvListItem = {
@@ -42,37 +43,35 @@ type CctvVideoInfoResponse = {
   };
 };
 
-export async function findTodaysEpisode(date: string): Promise<EpisodeCandidate> {
-  const apiCandidate = await findEpisodeViaColumnApi(date);
+export async function findTodaysEpisode(date: string, program: ProgramConfig): Promise<EpisodeCandidate> {
+  const apiCandidate = await findEpisodeViaColumnApi(date, program);
   if (apiCandidate) {
     log.info(`Selected episode from CCTV column API: ${apiCandidate.title}`);
     return apiCandidate;
   }
 
   log.warning('Column API returned no episode, falling back to rendered page extraction.');
-  return findEpisodeViaRenderedPage(date);
+  return findEpisodeViaRenderedPage(date, program);
 }
 
-async function findEpisodeViaColumnApi(date: string): Promise<EpisodeCandidate | undefined> {
-  const target = compactDate(date);
+async function findEpisodeViaColumnApi(date: string, program: ProgramConfig): Promise<EpisodeCandidate | undefined> {
   const endpoint = new URL('https://zy.api.cntv.cn/NewVideo/getVideoListByColumn');
-  endpoint.searchParams.set('id', config.columnId);
-  endpoint.searchParams.set('n', '100');
+  endpoint.searchParams.set('id', program.columnId);
+  endpoint.searchParams.set('n', '20');
   endpoint.searchParams.set('sort', 'desc');
   endpoint.searchParams.set('p', '1');
-  endpoint.searchParams.set('bd', target);
   endpoint.searchParams.set('mode', '2');
   endpoint.searchParams.set('serviceId', 'tvcctv');
 
   const data = await fetchJson<CctvListResponse>(endpoint.toString());
-  const candidates = (data.data?.list ?? []).map((item) => normalizeListItem(item, date)).filter(isEpisodeCandidate);
-  return selectLatestMorningEpisode(candidates, date);
+  const candidates = (data.data?.list ?? []).map((item) => normalizeListItem(item, date)).filter((c): c is EpisodeCandidate => isEpisodeCandidate(c, program));
+  return selectLatestEpisode(candidates, date, program);
 }
 
-async function findEpisodeViaRenderedPage(date: string): Promise<EpisodeCandidate> {
+async function findEpisodeViaRenderedPage(date: string, program: ProgramConfig): Promise<EpisodeCandidate> {
   const matches: EpisodeCandidate[] = [];
   const requestQueue = await RequestQueue.open(`column-${randomUUID()}`);
-  await requestQueue.addRequest({ url: config.columnUrl });
+  await requestQueue.addRequest({ url: program.columnUrl });
 
   const crawler = new PlaywrightCrawler({
     requestQueue,
@@ -88,7 +87,7 @@ async function findEpisodeViaRenderedPage(date: string): Promise<EpisodeCandidat
       async ({ page }) => {
         await page.setExtraHTTPHeaders({
           'user-agent': config.userAgent,
-          referer: config.columnUrl,
+          referer: program.columnUrl,
         });
       },
     ],
@@ -109,9 +108,9 @@ async function findEpisodeViaRenderedPage(date: string): Promise<EpisodeCandidat
   });
 
   await crawler.run();
-  const selected = selectLatestMorningEpisode(matches, date);
+  const selected = selectLatestEpisode(matches, date, program);
   if (!selected) {
-    throw new Error(`No 朝闻天下 episode found for ${date}`);
+    throw new Error(`No ${program.name} episode found for ${date}`);
   }
   return selected;
 }
@@ -136,26 +135,27 @@ function normalizeListItem(item: CctvListItem, date: string): EpisodeCandidate |
   };
 }
 
-function isEpisodeCandidate(candidate: EpisodeCandidate | undefined): candidate is EpisodeCandidate {
+function isEpisodeCandidate(candidate: EpisodeCandidate | undefined, program: ProgramConfig): candidate is EpisodeCandidate {
   if (!candidate) return false;
-  return /朝闻天下/.test(candidate.title) && /VIDE/.test(candidate.url) && Boolean(candidate.broadcastTime);
+  return program.titlePattern.test(candidate.title) && /VIDE/.test(candidate.url) && Boolean(candidate.broadcastTime);
 }
 
-function selectLatestMorningEpisode(candidates: EpisodeCandidate[], date: string): EpisodeCandidate | undefined {
+function selectLatestEpisode(candidates: EpisodeCandidate[], date: string, program: ProgramConfig): EpisodeCandidate | undefined {
   const compact = compactDate(date);
   const daily = candidates.filter((candidate) => {
     const titleCompact = candidate.title.replace(/\D/g, '');
     return candidate.url.includes(compact.replace(/^(\d{4})(\d{2})(\d{2})$/, '$1/$2/$3')) || titleCompact.includes(compact);
   });
 
-  const fullEpisodes = daily.filter((candidate) => /《朝闻天下》/.test(candidate.title));
-  return fullEpisodes.sort((a, b) => scoreBroadcastTime(b.broadcastTime) - scoreBroadcastTime(a.broadcastTime))[0];
+  const fullEpisodes = daily.filter((candidate) => program.fullEpisodePattern.test(candidate.title));
+  return fullEpisodes.sort((a, b) => scoreBroadcastTime(b.broadcastTime, program.broadcastTimeWindow) - scoreBroadcastTime(a.broadcastTime, program.broadcastTimeWindow))[0];
 }
 
-function scoreBroadcastTime(time?: string): number {
+function scoreBroadcastTime(time: string | undefined, window: { startHour: number; endHour: number; endMinute?: number }): number {
   if (!time) return -1;
   const [hour, minute] = time.split(':').map(Number);
-  if (hour < 5 || hour > 10) return -1;
+  const endMinutes = window.endHour * 60 + (window.endMinute ?? 0);
+  if (hour < window.startHour || hour * 60 + minute > endMinutes) return -1;
   return hour * 60 + minute;
 }
 

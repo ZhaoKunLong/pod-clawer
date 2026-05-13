@@ -1,0 +1,25 @@
+{
+  "name": "CCTV 新闻播放器",
+  "short_name": "新闻播放器",
+  "description": "朝闻天下 & 新闻联播 每日更新",
+  "start_url": "/pod-clawer/",
+  "scope": "/pod-clawer/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#e63946",
+  "background_color": "#1a1a2e",
+  "icons": [
+    {
+      "src": "/pod-clawer/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pod-clawer/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

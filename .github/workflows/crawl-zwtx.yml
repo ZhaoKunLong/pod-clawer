@@ -1,4 +1,4 @@
-name: Daily CCTV Audio Crawl
+name: Crawl CCTV 朝闻天下
 
 on:
   schedule:
@@ -28,10 +28,10 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: Crawl latest episode
-        run: npm run crawl
+        run: npm run crawl:zwtx
 
       - name: Commit metadata updates
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: update daily CCTV stream metadata'
-          file_pattern: 'data/**/*.json'
+          commit_message: 'chore: update 朝闻天下 stream metadata'
+          file_pattern: 'data/zwtx/**/*.json'

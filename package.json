@@ -6,6 +6,8 @@
   "scripts": {
     "build": "tsc",
     "crawl": "tsx src/crawler/run.ts",
+    "crawl:zwtx": "tsx src/crawler/run.ts zwtx",
+    "crawl:xwlb": "tsx src/crawler/run.ts xwlb",
     "serve": "tsx src/api/server.ts",
     "start": "npm run crawl && npm run serve",
     "start:server": "npm run serve",

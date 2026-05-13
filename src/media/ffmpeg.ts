@@ -15,7 +15,7 @@ export async function extractMp3(inputUrl: string, outputPath: string): Promise<
       'warning',
       '-y',
       '-headers',
-      `User-Agent: ${config.userAgent}\r\nReferer: ${config.columnUrl}\r\n`,
+      `User-Agent: ${config.userAgent}\r\nReferer: https://tv.cctv.cn/\r\n`,
       '-i',
       inputUrl,
       '-vn',

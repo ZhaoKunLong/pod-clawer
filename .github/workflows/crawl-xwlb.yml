@@ -1,0 +1,37 @@
+name: Crawl CCTV 新闻联播
+
+on:
+  schedule:
+    - cron: '15 13 * * *'  # 13:15 UTC = 21:15 Beijing Time (UTC+8)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browser
+        run: npx playwright install --with-deps chromium
+
+      - name: Crawl latest episode
+        run: npm run crawl:xwlb
+
+      - name: Commit metadata updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update 新闻联播 stream metadata'
+          file_pattern: 'data/xwlb/**/*.json'

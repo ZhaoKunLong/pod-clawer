@@ -3,17 +3,23 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>朝闻天下播放器</title>
+    <title>CCTV 新闻播放器</title>
     <link rel="stylesheet" href="./src/web/styles.css" />
+    <link rel="manifest" href="/pod-clawer/manifest.json" />
+    <meta name="theme-color" content="#e63946" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="新闻播放器" />
+    <link rel="apple-touch-icon" href="/pod-clawer/icons/icon-192.png" />
   </head>
   <body>
     <main class="shell">
       <header class="topbar">
         <div>
           <p class="eyebrow">Now Playing</p>
-          <h1 id="title">朝闻天下</h1>
+          <h1 id="title">CCTV 新闻</h1>
         </div>
-        <a class="refresh" href="./index.html">日期</a>
+        <a class="refresh" id="back-link" href="./index.html">日期</a>
       </header>
 
       <section class="player-panel">
@@ -31,5 +37,10 @@
       </section>
     </main>
     <script src="./src/web/episode.js" type="module"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/pod-clawer/sw.js', { scope: '/pod-clawer/' });
+      }
+    </script>
   </body>
 </html>

@@ -1,11 +1,13 @@
 import { config } from '../config.js';
 
+const CCTV_REFERER = 'https://tv.cctv.cn/';
+
 export async function fetchJson<T>(url: string, init: RequestInit = {}): Promise<T> {
   const response = await fetch(url, {
     ...init,
     headers: {
       'user-agent': config.userAgent,
-      referer: config.columnUrl,
+      referer: CCTV_REFERER,
       ...(init.headers ?? {}),
     },
   });
