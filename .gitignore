@@ -6,6 +6,7 @@ storage/
 page.html
 video.html
 videoinfo.json
+data/.DS_Store
 data/*/video.*
+data/*/audio.mp3
 data/*/*.part
-data

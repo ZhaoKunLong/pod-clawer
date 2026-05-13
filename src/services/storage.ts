@@ -23,8 +23,8 @@ export async function ensureEpisodeDir(date: string): Promise<string> {
 
 export async function episodeExists(date: string): Promise<boolean> {
   try {
-    const [audio, meta] = await Promise.all([fs.stat(episodeAudioPath(date)), fs.stat(episodeMetaPath(date))]);
-    return audio.isFile() && meta.isFile();
+    const meta = await fs.stat(episodeMetaPath(date));
+    return meta.isFile();
   } catch {
     return false;
   }
@@ -55,3 +55,25 @@ export async function listEpisodes(): Promise<EpisodeMeta[]> {
   return metas.filter((meta): meta is EpisodeMeta => Boolean(meta));
 }
 
+export async function writeEpisodeIndex(episodes: EpisodeMeta[]): Promise<void> {
+  await fs.mkdir(config.dataDir, { recursive: true });
+  const indexPath = path.join(config.dataDir, 'index.json');
+  await fs.writeFile(indexPath, `${JSON.stringify(episodes, null, 2)}\n`, 'utf8');
+}
+
+export async function pruneExpiredEpisodes(retainDays: number, referenceDate: string): Promise<string[]> {
+  const episodes = await listEpisodes();
+  const cutoff = new Date(`${referenceDate}T00:00:00+08:00`);
+  cutoff.setDate(cutoff.getDate() - (retainDays - 1));
+  const removed: string[] = [];
+
+  for (const episode of episodes) {
+    const current = new Date(`${episode.date}T00:00:00+08:00`);
+    if (current < cutoff) {
+      await fs.rm(episodeDir(episode.date), { recursive: true, force: true });
+      removed.push(episode.date);
+    }
+  }
+
+  return removed;
+}

@@ -91,3 +91,43 @@ Create a new `.env` or deployment config with:
 
 If the title pattern differs, update `selectLatestMorningEpisode` in `src/crawler/cctv.ts` to match the new program name and broadcast window. The rest of the pipeline can stay the same because CCTV episode pages generally expose `guid` and use the same `getHttpVideoInfo.do` API.
 
+## 最新更改
+
+• 我已经把方案收口到你要的部署形态了。
+
+  现在的结构是：
+
+  - 抓取结果只写 data/YYYY-MM-DD/meta.json 和 data/index.json
+  - 前端不再依赖 /episodes API，而是直接读取静态 JSON
+  - 根目录新增了 pod-clawer/index.html 和 pod-clawer/episode.html，可以直接给 GitHub Pages / Cloudflare Pages 用
+  - GitHub Actions 已改成只提交 data/**/*.json，不再安装 ffmpeg
+  - 每次更新会保留最近 31 天，过期目录会被删掉并重建 data/index.json
+  - 播放器会优先走 HLS，m3u8 用 hls.js，mp4 走原生媒体标签
+
+  关键代码在这里：
+
+  - 网络层流提取：pod-clawer/src/parser/media.ts
+  - 抓取与 31 天清理：pod-clawer/src/crawler/run.ts
+  - 静态数据存储：pod-clawer/src/services/storage.ts
+  - 静态播放器：pod-clawer/src/web/episode.js
+  - Actions: pod-clawer/.github/workflows/daily-crawl.yml
+
+  我已经确认 npm run build 通过。
+  没有完成的只有“最终一次真实联网抓取验证”，原因不是代码，而是当前环境限制：
+
+  - tsx 在沙箱里会因为 IPC socket 被拒绝
+  - 直接跑编译后的 node dist/crawler/run.js 又被当前环境的 DNS 限制拦住了，zy.api.cntv.cn 无法解析
+  - 额外的提权联网运行也被平台当次额度限制拒绝
+
+  这意味着代码层面的重构已经完成，但我没法在这个会话里做最后一次外网实抓闭环。你在自己机器或 GitHub Actions 上跑下面这两条就能完成最终验证：
+
+  npm run build
+  npm run crawl
+
+  验收标准很直接：
+
+  - data/2026-05-13/meta.json 里应当是外部 streamUrl
+  - fallback 应当是 false
+  - 仓库里不应再出现 audio.mp3
+  - data/index.json 只保留最近 31 天
+  - 根目录 index.html 打开后能列出节目，episode.html 能直接播放

@@ -2,45 +2,108 @@ import { log } from 'crawlee';
 import path from 'node:path';
 import { findTodaysEpisode, resolveVideoInfo } from './cctv.js';
 import { config } from '../config.js';
+import { extractStreamFromEpisodePage } from '../parser/media.js';
 import { todayInTimezone } from '../services/date.js';
-import { ensureEpisodeDir, episodeAudioPath, episodeExists, writeMeta } from '../services/storage.js';
+import {
+  ensureEpisodeDir,
+  episodeAudioPath,
+  episodeExists,
+  listEpisodes,
+  pruneExpiredEpisodes,
+  writeEpisodeIndex,
+  writeMeta,
+} from '../services/storage.js';
 import { extractMp3 } from '../media/ffmpeg.js';
-import type { EpisodeMeta } from '../types.js';
+import type { EpisodeMeta, StreamInfo } from '../types.js';
 
 export async function crawlDailyEpisode(targetDate = todayInTimezone(config.timezone)): Promise<EpisodeMeta> {
   log.setLevel(log.LEVELS.INFO);
   log.info(`Starting CCTV 朝闻天下 crawl for ${targetDate}`);
 
   if (await episodeExists(targetDate)) {
-    log.info(`Episode ${targetDate} already exists; skipping media processing.`);
     const { readMeta } = await import('../services/storage.js');
-    return readMeta(targetDate);
+    const existing = await readMeta(targetDate);
+    const removed = await pruneExpiredEpisodes(31, targetDate);
+    const episodes = await listEpisodes();
+    await writeEpisodeIndex(episodes);
+    log.info(`Episode ${targetDate} metadata already exists; skipped crawl and refreshed index.`);
+    if (removed.length) {
+      log.info(`Pruned expired episodes: ${removed.join(', ')}`);
+    }
+    return existing;
   }
 
   const episode = await findTodaysEpisode(targetDate);
-  const videoInfo = await resolveVideoInfo(episode);
   await ensureEpisodeDir(targetDate);
 
-  const audioPath = episodeAudioPath(targetDate);
-  const mediaSources = uniqueSources([videoInfo.audioSourceUrl, videoInfo.hlsUrl, videoInfo.videoUrl]);
-  const mediaSource = await extractFromFirstWorkingSource(mediaSources, audioPath);
+  let fallback = false;
+  let stream: StreamInfo;
+  let audioPath: string | undefined;
+
+  try {
+    stream = await extractStreamFromEpisodePage(episode);
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    log.warning(`Streaming extraction failed; using legacy MP3 fallback: ${message}`);
+    fallback = true;
+    const videoInfo = await resolveVideoInfo(episode);
+    audioPath = episodeAudioPath(targetDate);
+    const mediaSources = uniqueSources([videoInfo.audioSourceUrl, videoInfo.hlsUrl, videoInfo.videoUrl]);
+    const mediaSource = await extractFromFirstWorkingSource(mediaSources, audioPath);
+    stream = {
+      guid: videoInfo.guid,
+      streamUrl: `/data/${targetDate}/audio.mp3`,
+      type: 'mp4' as const,
+      discoveredFrom: `fallback:${mediaSource}`,
+      durationSeconds: videoInfo.durationSeconds,
+      image: videoInfo.image,
+      title: videoInfo.title,
+    };
+  }
+
+  if (process.env.FORCE_DOWNLOAD_FALLBACK === 'true') {
+    log.warning('FORCE_DOWNLOAD_FALLBACK=true, using legacy MP3 extraction path.');
+    fallback = true;
+    const videoInfo = await resolveVideoInfo(episode);
+    audioPath = episodeAudioPath(targetDate);
+    const mediaSources = uniqueSources([videoInfo.audioSourceUrl, videoInfo.hlsUrl, videoInfo.videoUrl]);
+    const mediaSource = await extractFromFirstWorkingSource(mediaSources, audioPath);
+    stream = {
+      guid: videoInfo.guid,
+      streamUrl: `/data/${targetDate}/audio.mp3`,
+      type: 'mp4',
+      discoveredFrom: `fallback:${mediaSource}`,
+      durationSeconds: videoInfo.durationSeconds,
+      image: videoInfo.image,
+      title: videoInfo.title,
+    };
+  }
 
   const meta: EpisodeMeta = {
     ...episode,
-    guid: videoInfo.guid,
-    title: videoInfo.title ?? episode.title,
-    image: videoInfo.image ?? episode.image,
+    guid: stream.guid,
+    title: stream.title ?? episode.title,
+    image: stream.image ?? episode.image,
     sourcePageUrl: episode.url,
-    videoUrl: videoInfo.videoUrl,
-    audioSourceUrl: mediaSource,
-    hlsUrl: videoInfo.hlsUrl,
-    audioPath: path.relative(config.dataDir, audioPath),
+    streamUrl: stream.streamUrl,
+    type: stream.type,
+    fallback,
+    videoUrl: stream.type === 'mp4' ? stream.streamUrl : undefined,
+    hlsUrl: stream.type === 'm3u8' ? stream.streamUrl : undefined,
+    audioSourceUrl: stream.streamUrl,
+    audioPath: audioPath ? path.relative(config.dataDir, audioPath) : undefined,
     createdAt: new Date().toISOString(),
-    durationSeconds: videoInfo.durationSeconds,
+    durationSeconds: stream.durationSeconds,
   };
 
   await writeMeta(meta);
-  log.info(`Saved episode ${targetDate} to ${audioPath}`);
+  const removed = await pruneExpiredEpisodes(31, targetDate);
+  const episodes = await listEpisodes();
+  await writeEpisodeIndex(episodes);
+  log.info(`Saved streaming metadata for ${targetDate}`);
+  if (removed.length) {
+    log.info(`Pruned expired episodes: ${removed.join(', ')}`);
+  }
   return meta;
 }
 

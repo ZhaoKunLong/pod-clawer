@@ -1,182 +1,68 @@
 # CLAUDE.md
 
-This file gives future coding agents the operational context for `pod-clawer`.
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Project Summary
+## Project Overview
 
-`pod-clawer` is a TypeScript/Node.js Crawlee project that fetches the daily CCTV `朝闻天下` full episode, extracts audio with `ffmpeg`, stores it under `data/YYYY-MM-DD`, and serves it through a lightweight Express web player.
+**pod-clawer** is a TypeScript crawler and media player for CCTV's "朝闻天下" (Morning News) program. It crawls daily episodes, extracts streaming URLs, stores metadata as JSON, and serves a web player. Designed to run on a GitHub Actions schedule and optionally deploy the frontend to GitHub Pages.
 
-Current target program:
-
-- Column page: `https://tv.cctv.cn/lm/zwtx/index.shtml`
-- Column ID: `TOPC1451558496100826`
-- Timezone for "today": `Asia/Shanghai`
-- Expected daily target: latest full morning episode, normally `08:00`
-
-## Important Commands
-
-Run from project root:
+## Commands
 
 ```bash
-npm install
-npm run build
-npm run crawl
-npm run start:server
+npm run build          # Compile TypeScript to dist/
+npm run crawl          # Crawl today's episode
+npm run serve          # Start Express server (port 3000)
+npm run start          # Crawl then serve
+npm run start:server   # Serve existing data without crawling
+npm run lint           # Type-check only (tsc --noEmit)
 ```
 
-Useful test command for a specific historical date:
-
+Run the crawler for a specific date:
 ```bash
 npx tsx src/crawler/run.ts 2023-07-16
 ```
 
-Current local server URL:
+## Architecture
 
-```text
-http://localhost:3000
-```
+### Data Flow
 
-## Directory Map
+1. **Episode Discovery** (`src/crawler/cctv.ts`): Calls CCTV API to find the day's "朝闻天下" episode. Falls back to Playwright scraping the column page if the API fails.
 
-```text
-src/
-  api/server.ts          Express API and static web server
-  crawler/cctv.ts        CCTV-specific list/page/video API extraction
-  crawler/run.ts         Daily crawl orchestration and media-source fallback
-  media/ffmpeg.ts        ffmpeg MP3 extraction
-  services/date.ts       timezone/date helpers
-  services/http.ts       fetch JSON/JSONP helpers
-  services/storage.ts    data/YYYY-MM-DD storage helpers
-  web/                   mobile-first static UI
+2. **Stream Extraction** (`src/parser/media.ts`): Launches a Playwright browser, monitors network traffic while loading the episode page, and scores candidate URLs (HLS m3u8 > MP4; audio-only > video). Validates each candidate with a HEAD/GET request.
 
-data/
-  YYYY-MM-DD/
-    audio.mp3
-    meta.json
+3. **Orchestration** (`src/crawler/run.ts`): Idempotent — skips if `data/YYYY-MM-DD/meta.json` already exists. Falls back to ffmpeg MP3 extraction if stream extraction fails. Prunes episodes older than 31 days and rebuilds the index.
 
-.github/workflows/
-  daily-crawl.yml        Runs at 00:00 UTC, 08:00 China time
-```
+4. **Storage** (`src/services/storage.ts`): Writes `data/YYYY-MM-DD/meta.json` per episode and maintains `data/index.json` (all episodes, newest first).
 
-## CCTV Extraction Flow
+5. **API Server** (`src/api/server.ts`): Express server exposing `GET /episodes` and `GET /episodes/:date`. Also serves static web assets from `src/web/` and root-level HTML files.
 
-1. The crawler calls:
+6. **Frontend** (`src/web/`): `index.html`/`app.js` lists episodes; `episode.html`/`episode.js` plays them using hls.js with native media fallback.
 
-```text
-https://zy.api.cntv.cn/NewVideo/getVideoListByColumn
-```
+### Key Types (`src/types.ts`)
 
-with:
+- `EpisodeCandidate` — discovered episode (title, url, broadcastTime, image)
+- `VideoInfo` — CCTV API video details (hlsUrl, audioSourceUrl, durationSeconds)
+- `StreamInfo` — selected stream (streamUrl, type: `'m3u8' | 'mp4'`)
+- `EpisodeMeta` — final stored record combining all above + fallback flag, createdAt
 
-```text
-id=TOPC1451558496100826
-n=100
-sort=desc
-p=1
-bd=YYYYMMDD
-mode=2
-serviceId=tvcctv
-```
+### Configuration (`src/config.ts`)
 
-2. It filters for full `《朝闻天下》 YYYYMMDD HH:MM` entries and selects the latest valid morning broadcast between 05:00 and 10:00.
+All config comes from environment variables. Key ones:
 
-3. It opens the selected episode page and parses:
+| Variable | Default | Purpose |
+|---|---|---|
+| `DATA_DIR` | `./data` | Episode storage root |
+| `CRAWLER_HEADLESS` | `true` | Playwright headless mode |
+| `CRAWLER_TIMEZONE` | `Asia/Shanghai` | Date calculations |
+| `CCTV_COLUMN_ID` | `TOPC1451558496100826` | CCTV API column ID |
+| `FORCE_DOWNLOAD_FALLBACK` | unset | Force ffmpeg MP3 path |
 
-```js
-var guid = "..."
-```
+Copy `.env.example` to `.env` to configure locally.
 
-4. It calls:
+## CI/CD
 
-```text
-https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid=<guid>
-```
+`.github/workflows/daily-crawl.yml` runs `npm run crawl` daily at 00:00 UTC (08:00 CST), then auto-commits any new `data/**/*.json` files. Requires `contents: write` permission and Playwright Chromium installed in the workflow.
 
-5. It prefers audio-only HLS, then falls back to video HLS:
+## Module System
 
-- `manifest.audio_mp3`
-- `manifest.hls_audio_url`
-- `hls_url`
-- `manifest.hls_h5e_url`
-- `manifest.hls_enc_url`
-- `manifest.hls_enc2_url`
-
-## Known Runtime Behaviors
-
-- On `2026-05-13`, CCTV returned a broken audio-only HLS URL with HTTP 404.
-- The current implementation handles this by trying all media sources in order and falling back to video HLS extraction.
-- `ffmpeg` output uses a temporary `.mp3.part` path and explicitly sets `-f mp3`; without this, ffmpeg may fail to infer the muxer.
-- Crawlee queues should not be named by stable episode IDs for one-shot page parsing. Reusing a named queue can cause reruns to process zero requests because Crawlee remembers the request as handled. Use the default temporary queue unless implementing durable multi-page crawl state intentionally.
-- Crawlee local runtime state appears under `storage/`; compiled JS appears under `dist/`. Both are ignored by `.gitignore`.
-
-## Current Verified State
-
-The crawler has successfully generated:
-
-```text
-data/2026-05-13/audio.mp3
-data/2026-05-13/meta.json
-```
-
-The generated MP3 was checked with `ffprobe`:
-
-```text
-duration=3137.536000
-size=50201517
-```
-
-API checks:
-
-```bash
-curl -s http://localhost:3000/healthz
-curl -s http://localhost:3000/episodes
-curl -s http://localhost:3000/episodes/2026-05-13
-```
-
-## API
-
-- `GET /episodes`
-- `GET /episodes/:date`
-- `GET /data/YYYY-MM-DD/audio.mp3`
-- `GET /healthz`
-
-## Web UI
-
-- Homepage: `/`
-- Detail page: `/episode.html?date=YYYY-MM-DD`
-- The detail page uses `<audio controls autoplay>`. Browser autoplay policies may block autoplay until the user interacts.
-
-## GitHub Actions
-
-Workflow file:
-
-```text
-.github/workflows/daily-crawl.yml
-```
-
-Schedule:
-
-```yaml
-cron: '0 0 * * *'
-```
-
-This is 08:00 China Standard Time. The workflow installs `ffmpeg`, installs npm dependencies, installs Playwright Chromium, runs `npm run crawl`, and commits new `data/**/*` files.
-
-## Development Notes
-
-- Keep the project TypeScript strict.
-- Run `npm run build` after code changes.
-- If testing the real crawler, expect a full episode conversion to take around 1-2 minutes and produce a roughly 45-55 MB MP3.
-- Do not mock CCTV data for crawler fixes. Use a historical date if today's page is temporarily unavailable.
-- If the CCTV list API changes, inspect the live column page script around `getVideoListByColumn`.
-- If the video API changes, inspect the episode page for `guid` and the player scripts, then update `resolveVideoInfo`.
-
-## Extending To Other CCTV Programs
-
-For another CCTV program:
-
-1. Set `CCTV_COLUMN_URL` to the target column page.
-2. Set `CCTV_COLUMN_ID` to that page's `topicID`.
-3. Update title filtering in `selectLatestMorningEpisode` if the program name or broadcast window differs.
-4. Keep the same `guid -> getHttpVideoInfo.do` media resolution pipeline unless the target program uses a different player.
-
+The project uses ES modules (`"type": "module"` in package.json) with `"moduleResolution": "bundler"` in tsconfig. Use `.js` extensions in imports even for `.ts` source files.

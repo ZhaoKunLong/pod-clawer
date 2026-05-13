@@ -1,6 +1,7 @@
 import { CheerioCrawler, log, RequestQueue } from 'crawlee';
 import { PlaywrightCrawler } from '@crawlee/playwright';
 import * as cheerio from 'cheerio';
+import { randomUUID } from 'node:crypto';
 import { config } from '../config.js';
 import { compactDate } from '../services/date.js';
 import { fetchJson } from '../services/http.js';
@@ -70,7 +71,7 @@ async function findEpisodeViaColumnApi(date: string): Promise<EpisodeCandidate |
 
 async function findEpisodeViaRenderedPage(date: string): Promise<EpisodeCandidate> {
   const matches: EpisodeCandidate[] = [];
-  const requestQueue = await RequestQueue.open();
+  const requestQueue = await RequestQueue.open(`column-${randomUUID()}`);
   await requestQueue.addRequest({ url: config.columnUrl });
 
   const crawler = new PlaywrightCrawler({
@@ -191,7 +192,7 @@ export async function resolveVideoInfo(episode: EpisodeCandidate): Promise<Video
 
 async function extractGuidFromVideoPage(url: string): Promise<string> {
   let guid: string | undefined;
-  const requestQueue = await RequestQueue.open();
+  const requestQueue = await RequestQueue.open(`video-guid-${randomUUID()}`);
   await requestQueue.addRequest({ url });
 
   const crawler = new CheerioCrawler({

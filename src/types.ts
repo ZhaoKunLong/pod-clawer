@@ -19,14 +19,28 @@ export type VideoInfo = {
   raw?: unknown;
 };
 
+export type StreamType = 'm3u8' | 'mp4';
+
+export type StreamInfo = {
+  guid?: string;
+  streamUrl: string;
+  type: StreamType;
+  discoveredFrom: string;
+  durationSeconds?: number;
+  image?: string;
+  title?: string;
+};
+
 export type EpisodeMeta = EpisodeCandidate & {
-  guid: string;
+  guid?: string;
   sourcePageUrl: string;
-  videoUrl: string;
+  streamUrl: string;
+  type: StreamType;
+  fallback: boolean;
+  videoUrl?: string;
   audioSourceUrl?: string;
   hlsUrl?: string;
-  audioPath: string;
+  audioPath?: string;
   createdAt: string;
   durationSeconds?: number;
 };
-

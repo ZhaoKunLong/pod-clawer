@@ -1,24 +1,19 @@
 import express from 'express';
 import path from 'node:path';
-import fs from 'node:fs/promises';
 import { config } from '../config.js';
-import { episodeAudioPath, listEpisodes, readMeta } from '../services/storage.js';
+import { listEpisodes, readMeta } from '../services/storage.js';
 
 const app = express();
+const repoRoot = path.resolve('.');
 const webRoot = path.resolve('src/web');
 
 app.use('/data', express.static(config.dataDir, { immutable: false, maxAge: '5m' }));
+app.use(express.static(repoRoot));
 app.use(express.static(webRoot));
 
 app.get('/episodes', async (_req, res, next) => {
   try {
-    const episodes = await listEpisodes();
-    res.json(
-      episodes.map((episode) => ({
-        ...episode,
-        audioUrl: `/data/${episode.date}/audio.mp3`,
-      })),
-    );
+    res.json(await listEpisodes());
   } catch (error) {
     next(error);
   }
@@ -32,12 +27,7 @@ app.get('/episodes/:date', async (req, res, next) => {
       return;
     }
 
-    const meta = await readMeta(date);
-    await fs.access(episodeAudioPath(date));
-    res.json({
-      ...meta,
-      audioUrl: `/data/${date}/audio.mp3`,
-    });
+    res.json(await readMeta(date));
   } catch (error) {
     res.status(404).json({ error: 'Episode not found' });
   }
@@ -54,4 +44,3 @@ app.use((error: Error, _req: express.Request, res: express.Response, _next: expr
 app.listen(config.port, () => {
   console.log(`pod-clawer server listening on http://localhost:${config.port}`);
 });
-
