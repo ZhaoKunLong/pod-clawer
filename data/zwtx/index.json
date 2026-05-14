@@ -1,5 +1,24 @@
 [
   {
+    "id": "40394c2fe3b14cd8b7cfcfe3ff52f91e",
+    "title": "《朝闻天下》 20260514 0800",
+    "url": "https://tv.cctv.cn/2026/05/14/VIDEDkzPLFlQ4kv5J1aJp2MM260514.shtml",
+    "date": "2026-05-14",
+    "broadcastTime": "08:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/05/14/40394c2fe3b14cd8b7cfcfe3ff52f91e-1.jpg",
+    "description": "本期节目主要内容：\n    2025年我国新发现大中型矿产地200处；国际社会期待中美元首会晤：引领中美关系平稳前行，惠及世界；市场监管总局：2026年一季度全国新设经营主体509.8万户；以总理办公室称：以总理在对伊朗军事行动期间秘访阿联酋。（《朝闻天下》 20260514 08:00）",
+    "program": "zwtx",
+    "guid": "40394c2fe3b14cd8b7cfcfe3ff52f91e",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/05/14/VIDEDkzPLFlQ4kv5J1aJp2MM260514.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/40394c2fe3b14cd8b7cfcfe3ff52f91e/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/40394c2fe3b14cd8b7cfcfe3ff52f91e/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/40394c2fe3b14cd8b7cfcfe3ff52f91e/main.m3u8",
+    "createdAt": "2026-05-14T04:16:05.338Z",
+    "durationSeconds": 3218.2
+  },
+  {
     "id": "168fd0754bb141bebbfdf032201fa2c3",
     "title": "《朝闻天下》 20260513 0800",
     "url": "https://tv.cctv.cn/2026/05/13/VIDEcvToYnKnh3CP3cbPKY3b260513.shtml",
