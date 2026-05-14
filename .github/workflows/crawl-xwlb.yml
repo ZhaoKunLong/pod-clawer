@@ -2,7 +2,7 @@ name: Crawl CCTV 新闻联播
 
 on:
   schedule:
-    - cron: '15 13 * * *'  # 13:15 UTC = 21:15 Beijing Time (UTC+8)
+    - cron: '15 8 * * *'  # 21:15 CN
   workflow_dispatch:
 
 permissions:
@@ -34,4 +34,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: update 新闻联播 stream metadata'
-          file_pattern: 'data/xwlb/**/*.json'
+          file_pattern: 'data/xwlb/*'

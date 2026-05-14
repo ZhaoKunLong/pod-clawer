@@ -2,7 +2,7 @@ name: Crawl CCTV 朝闻天下
 
 on:
   schedule:
-    - cron: '15 0 * * *'  # 00:15 UTC = 08:15 Beijing Time (UTC+8)
+    - cron: '15 20 * * *'  # = 10:15 AU 08:15 CN
   workflow_dispatch:
 
 permissions:
@@ -34,4 +34,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: update 朝闻天下 stream metadata'
-          file_pattern: 'data/zwtx/**/*.json'
+          file_pattern: 'data/zwtx/'
