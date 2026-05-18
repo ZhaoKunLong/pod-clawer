@@ -1,5 +1,24 @@
 [
   {
+    "id": "b2866fd8b76e4a738050298a2b5f2cd9",
+    "title": "《朝闻天下》 20260518 0800",
+    "url": "https://tv.cctv.cn/2026/05/18/VIDEvcl66bdC8Ubj11Yv2yU6260518.shtml",
+    "date": "2026-05-18",
+    "broadcastTime": "08:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/05/18/b2866fd8b76e4a738050298a2b5f2cd9-1.jpg",
+    "description": "本期节目主要内容：\n    我国成功发射千帆星座第九批组网卫星；广西柳州发生5.2级地震：地震致房屋倒塌有人员失联，救援进行中；国家应急通信融合接入平台启动全国应用；美总统特朗普发文催促伊朗尽快达成协议。\n（《朝闻天下》 20260518 08:00）",
+    "program": "zwtx",
+    "guid": "b2866fd8b76e4a738050298a2b5f2cd9",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/05/18/VIDEvcl66bdC8Ubj11Yv2yU6260518.shtml",
+    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/b2866fd8b76e4a738050298a2b5f2cd9/main.m3u8?maxbr=2048",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/b2866fd8b76e4a738050298a2b5f2cd9/main.m3u8?maxbr=2048",
+    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/b2866fd8b76e4a738050298a2b5f2cd9/main.m3u8?maxbr=2048",
+    "createdAt": "2026-05-18T21:37:02.887Z",
+    "durationSeconds": 3193.24
+  },
+  {
     "id": "9070a4abd33c48b289a6c6d849481a43",
     "title": "《朝闻天下》 20260516 0800",
     "url": "https://tv.cctv.cn/2026/05/16/VIDEYJnAOcgH2PT2U9tevNqL260516.shtml",
