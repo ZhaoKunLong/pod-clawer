@@ -1,0 +1,19 @@
+{
+  "id": "001e776efeec43e39d882f8a6c46bbe9",
+  "title": "《朝闻天下》 20260523 0800",
+  "url": "https://tv.cctv.cn/2026/05/23/VIDEtd1jtQqhW8mQttXR7WqV260523.shtml",
+  "date": "2026-05-23",
+  "broadcastTime": "08:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/05/23/001e776efeec43e39d882f8a6c46bbe9-1.jpg",
+  "description": "本期节目主要内容：\n    神舟二十三号载人飞行任务新闻发布会将于5月23日9时举行，将公布航天员名单、发射窗口和任务等情况；巴基斯坦陆军参谋长抵达德黑兰斡旋谈判；关注俄乌冲突：俄罗斯称乌克兰袭击一所学校，乌方否认。\n（《朝闻天下》 20260523 08:00）",
+  "program": "zwtx",
+  "guid": "001e776efeec43e39d882f8a6c46bbe9",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/05/23/VIDEtd1jtQqhW8mQttXR7WqV260523.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/001e776efeec43e39d882f8a6c46bbe9/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/001e776efeec43e39d882f8a6c46bbe9/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/001e776efeec43e39d882f8a6c46bbe9/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "createdAt": "2026-05-23T21:07:35.104Z",
+  "durationSeconds": 1963
+}
