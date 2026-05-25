@@ -1,0 +1,19 @@
+{
+  "id": "1c863506d5bb4f419741118bd1c6b6eb",
+  "title": "《朝闻天下》 20260525 0800",
+  "url": "https://tv.cctv.cn/2026/05/25/VIDE7812O4WtrrD5Brv7qIVC260525.shtml",
+  "date": "2026-05-25",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/05/25/1c863506d5bb4f419741118bd1c6b6eb-1.jpg",
+  "description": "本期节目主要内容：\n    神舟二十三号载人飞船发射取得圆满成功，香港各界热评神舟二十三号成功发射；塞尔维亚总统访华：武契奇登长城，开启访华第一站；伊朗总统表示：伊朗准备向全世界保证，不寻求拥有核武器。\n（《朝闻天下》 20260525 08:00）",
+  "program": "zwtx",
+  "guid": "1c863506d5bb4f419741118bd1c6b6eb",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/05/25/VIDE7812O4WtrrD5Brv7qIVC260525.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1c863506d5bb4f419741118bd1c6b6eb/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1c863506d5bb4f419741118bd1c6b6eb/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1c863506d5bb4f419741118bd1c6b6eb/main.m3u8",
+  "createdAt": "2026-05-25T21:23:19.070Z",
+  "durationSeconds": 2783.4
+}
