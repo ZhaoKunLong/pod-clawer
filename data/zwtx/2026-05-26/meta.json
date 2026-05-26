@@ -1,0 +1,19 @@
+{
+  "id": "65eca7152cf24f8db2a14e8feedab35c",
+  "title": "《朝闻天下》 20260526 0800",
+  "url": "https://tv.cctv.cn/2026/05/26/VIDEejDZgJhUZqRLAP3NKDgw260526.shtml",
+  "date": "2026-05-26",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/05/26/65eca7152cf24f8db2a14e8feedab35c-1.jpg",
+  "description": "本期节目主要内容：\n    多部门部署开展保健食品护老提升专项行动；伊朗媒体25日报道：以无人机多次袭击阿联酋，欲嫁祸伊朗；“全球坚韧船队”遭以色列海军拦截·被扣活动人士：我们遭到“地狱般的折磨”。\n（《朝闻天下》 20260526 08:00）",
+  "program": "zwtx",
+  "guid": "65eca7152cf24f8db2a14e8feedab35c",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/05/26/VIDEejDZgJhUZqRLAP3NKDgw260526.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/65eca7152cf24f8db2a14e8feedab35c/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/65eca7152cf24f8db2a14e8feedab35c/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/65eca7152cf24f8db2a14e8feedab35c/main.m3u8",
+  "createdAt": "2026-05-26T21:58:28.525Z",
+  "durationSeconds": 3213.72
+}
