@@ -1,0 +1,19 @@
+{
+  "id": "465b9ae572864f74b4bd989372397040",
+  "title": "《朝闻天下》 20260529 0800",
+  "url": "https://tv.cctv.cn/2026/05/29/VIDEXPSnpjoUHSQOlrfmqwrZ260529.shtml",
+  "date": "2026-05-29",
+  "broadcastTime": "08:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/05/29/465b9ae572864f74b4bd989372397040-1.jpg",
+  "description": "本期节目主要内容：\n    伊朗伊斯兰革命卫队称：霍尔木兹海峡管控仅由革命卫队负责；“全球治理之友小组”会议在联合国总部举行，多国代表高度评价并支持全球治理倡议；国际能源署发布《2026年世界能源投资报告》·记者观察：全球能源投资重点正向“能源安全”倾斜。\n（《朝闻天下》 20260529 08:00）",
+  "program": "zwtx",
+  "guid": "465b9ae572864f74b4bd989372397040",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/05/29/VIDEXPSnpjoUHSQOlrfmqwrZ260529.shtml",
+  "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/465b9ae572864f74b4bd989372397040/main.m3u8?maxbr=2048",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/465b9ae572864f74b4bd989372397040/main.m3u8?maxbr=2048",
+  "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/465b9ae572864f74b4bd989372397040/main.m3u8?maxbr=2048",
+  "createdAt": "2026-05-29T22:04:49.320Z",
+  "durationSeconds": 3169.88
+}
