@@ -1,0 +1,19 @@
+{
+  "id": "edfd7ccc203a44d8b2d1267757c44709",
+  "title": "《朝闻天下》 20260531 0800",
+  "url": "https://tv.cctv.cn/2026/05/31/VIDE8VFQhLt8TMW8p8EvKV4k260531.shtml",
+  "date": "2026-05-31",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/05/31/edfd7ccc203a44d8b2d1267757c44709-1.jpg",
+  "description": "本期节目主要内容：\n    伊朗称对霍尔木兹海峡航运实施全面管理；日本民众集会，反对通过设立“国家情报局”法案；据美国媒体报道：伊朗袭击科威特美军基地致数名美国人轻伤；关注黎以局势：黎总理指责以色列实施“焦土政策”。\n（《朝闻天下》 20260531 08:00）",
+  "program": "zwtx",
+  "guid": "edfd7ccc203a44d8b2d1267757c44709",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/05/31/VIDE8VFQhLt8TMW8p8EvKV4k260531.shtml",
+  "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/edfd7ccc203a44d8b2d1267757c44709/main.m3u8?maxbr=2048",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/edfd7ccc203a44d8b2d1267757c44709/main.m3u8?maxbr=2048",
+  "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/edfd7ccc203a44d8b2d1267757c44709/main.m3u8?maxbr=2048",
+  "createdAt": "2026-05-31T21:15:17.703Z",
+  "durationSeconds": 3177.96
+}
