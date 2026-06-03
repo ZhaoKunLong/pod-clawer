@@ -1,0 +1,19 @@
+{
+  "id": "2da6f7edb16240eaa344dc633c5eb62d",
+  "title": "《朝闻天下》 20260603 0800",
+  "url": "https://tv.cctv.cn/2026/06/03/VIDEdJX2lrQaU5C78hW2Odb3260603.shtml",
+  "date": "2026-06-03",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/06/03/2da6f7edb16240eaa344dc633c5eb62d-1.jpg",
+  "description": "本期节目主要内容：\n    专家解读《加快农业农村现代化“十五五”规划》：围绕农业农村现代化，提出七项重点任务；关注巴以局势：哈马斯发言人表示愿意移交加沙地带治理权；农业农村部和中国气象局发布设施农业风灾和冬小麦倒伏风险预警。\n（《朝闻天下》 20260603 08:00）",
+  "program": "zwtx",
+  "guid": "2da6f7edb16240eaa344dc633c5eb62d",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/06/03/VIDEdJX2lrQaU5C78hW2Odb3260603.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2da6f7edb16240eaa344dc633c5eb62d/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2da6f7edb16240eaa344dc633c5eb62d/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2da6f7edb16240eaa344dc633c5eb62d/main.m3u8",
+  "createdAt": "2026-06-03T22:34:01.763Z",
+  "durationSeconds": 3157.72
+}
