@@ -1,0 +1,19 @@
+{
+  "id": "4cefee8576c948eca40baa6b702f70fd",
+  "title": "《朝闻天下》 20260604 0800",
+  "url": "https://tv.cctv.cn/2026/06/04/VIDEGwB8FbUDL8DpdNiyY1xN260604.shtml",
+  "date": "2026-06-04",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/06/04/4cefee8576c948eca40baa6b702f70fd-1.jpg",
+  "description": "本期节目主要内容：\n    中国外交部：中国产业补贴政策严格遵守世贸组织规则；关注俄乌冲突：俄称拦截乌军无人机，乌称打击俄关键目标；联合国安理会非常任理事国选举：吉尔吉斯斯坦等五国当选非常任理事国。\n（《朝闻天下》 20260604 08:00）",
+  "program": "zwtx",
+  "guid": "4cefee8576c948eca40baa6b702f70fd",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/06/04/VIDEGwB8FbUDL8DpdNiyY1xN260604.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4cefee8576c948eca40baa6b702f70fd/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4cefee8576c948eca40baa6b702f70fd/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4cefee8576c948eca40baa6b702f70fd/main.m3u8",
+  "createdAt": "2026-06-04T21:53:55.664Z",
+  "durationSeconds": 3216.2
+}
