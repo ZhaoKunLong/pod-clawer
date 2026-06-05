@@ -1,0 +1,19 @@
+{
+  "id": "eaef3d6e6ead47e59812514d28ee36e3",
+  "title": "《朝闻天下》 20260605 0800",
+  "url": "https://tv.cctv.cn/2026/06/05/VIDEUefMDxTGVOdoml0Mb3lI260605.shtml",
+  "date": "2026-06-05",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/06/05/eaef3d6e6ead47e59812514d28ee36e3-1.jpg",
+  "description": "本期节目主要内容：\n    工业和信息化部：2026年前四月电子信息制造业生产快速增长；美国总统表示：若达成协议，不排除与伊朗最高领袖会晤；黎总统称停火协议获批后24小时内可实施；联合国秘书长谴责联黎部队遇袭事件。\n（《朝闻天下》 20260605 08:00）",
+  "program": "zwtx",
+  "guid": "eaef3d6e6ead47e59812514d28ee36e3",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/06/05/VIDEUefMDxTGVOdoml0Mb3lI260605.shtml",
+  "streamUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/eaef3d6e6ead47e59812514d28ee36e3/main.m3u8?maxbr=2048&contentid=15120519184043",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/eaef3d6e6ead47e59812514d28ee36e3/main.m3u8?maxbr=2048&contentid=15120519184043",
+  "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/eaef3d6e6ead47e59812514d28ee36e3/main.m3u8?maxbr=2048&contentid=15120519184043",
+  "createdAt": "2026-06-05T21:44:07.553Z",
+  "durationSeconds": 3149.72
+}
