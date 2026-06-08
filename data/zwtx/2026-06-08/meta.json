@@ -1,0 +1,19 @@
+{
+  "id": "18377ca625bb4f13833f90d05a73f0fe",
+  "title": "《朝闻天下》 20260608 0700",
+  "url": "https://tv.cctv.cn/2026/06/08/VIDEFoqOgtRqsAwmyVGrPws6260608.shtml",
+  "date": "2026-06-08",
+  "broadcastTime": "07:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/06/08/18377ca625bb4f13833f90d05a73f0fe-1.jpg",
+  "description": "本期节目主要内容：\n    截至2026年5月末，我国外汇储备规模为34422亿美元；把电站建到太空，“逐日工程”取得新进展；新闻分析：加沙停火频遭破坏，新协议落地希望渺茫；俄罗斯总统助理表示：俄乌既有公开接触也有非公开接触。（《朝闻天下》 20260608 07:00）",
+  "program": "zwtx",
+  "guid": "18377ca625bb4f13833f90d05a73f0fe",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/06/08/VIDEFoqOgtRqsAwmyVGrPws6260608.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/18377ca625bb4f13833f90d05a73f0fe/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/18377ca625bb4f13833f90d05a73f0fe/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/18377ca625bb4f13833f90d05a73f0fe/main.m3u8",
+  "createdAt": "2026-06-08T22:01:02.797Z",
+  "durationSeconds": 3312.12
+}
