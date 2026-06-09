@@ -1,5 +1,24 @@
 [
   {
+    "id": "317aef1e502b43cdb04c200770145e9a",
+    "title": "《朝闻天下》 20260609 0800",
+    "url": "https://tv.cctv.cn/2026/06/09/VIDE7ikDWFNPrIgkZO19Ojob260609.shtml",
+    "date": "2026-06-09",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/06/09/317aef1e502b43cdb04c200770145e9a-1.jpg",
+    "description": "本期节目主要内容：\n    习近平出席金正恩举行的欢迎仪式；习近平出席金正恩举行的欢迎宴会；多项先行指标显示我国经济运行稳中向好；伊朗与以色列先后宣布停止袭击对方。\n（《朝闻天下》 20260609 08:00）",
+    "program": "zwtx",
+    "guid": "317aef1e502b43cdb04c200770145e9a",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/06/09/VIDE7ikDWFNPrIgkZO19Ojob260609.shtml",
+    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/317aef1e502b43cdb04c200770145e9a/main.m3u8?maxbr=2048",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/317aef1e502b43cdb04c200770145e9a/main.m3u8?maxbr=2048",
+    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/317aef1e502b43cdb04c200770145e9a/main.m3u8?maxbr=2048",
+    "createdAt": "2026-06-09T21:59:32.740Z",
+    "durationSeconds": 3166.12
+  },
+  {
     "id": "18377ca625bb4f13833f90d05a73f0fe",
     "title": "《朝闻天下》 20260608 0700",
     "url": "https://tv.cctv.cn/2026/06/08/VIDEFoqOgtRqsAwmyVGrPws6260608.shtml",
