@@ -1,5 +1,24 @@
 [
   {
+    "id": "d7f091cb72fd46df882efd9ba52a1239",
+    "title": "《朝闻天下》 20260610 0800",
+    "url": "https://tv.cctv.cn/2026/06/10/VIDEMqFBQdjlu3zp80vom8sH260610.shtml",
+    "date": "2026-06-10",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/06/10/d7f091cb72fd46df882efd9ba52a1239-1.jpg",
+    "description": "本期节目主要内容：\n    习近平和彭丽媛参谒中朝友谊塔；习近平夫妇出席金正恩夫妇举行的小范围午宴；美军称打击伊朗，伊朗南部多地发生爆炸；关注俄乌冲突：俄称打击乌军弹药库，乌称袭击俄燃料设施。\n（《朝闻天下》 20260610 08:00）",
+    "program": "zwtx",
+    "guid": "d7f091cb72fd46df882efd9ba52a1239",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/06/10/VIDEMqFBQdjlu3zp80vom8sH260610.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d7f091cb72fd46df882efd9ba52a1239/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d7f091cb72fd46df882efd9ba52a1239/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d7f091cb72fd46df882efd9ba52a1239/main.m3u8",
+    "createdAt": "2026-06-10T22:20:58.454Z",
+    "durationSeconds": 3235.16
+  },
+  {
     "id": "317aef1e502b43cdb04c200770145e9a",
     "title": "《朝闻天下》 20260609 0800",
     "url": "https://tv.cctv.cn/2026/06/09/VIDE7ikDWFNPrIgkZO19Ojob260609.shtml",
