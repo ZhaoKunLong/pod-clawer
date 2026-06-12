@@ -1,5 +1,24 @@
 [
   {
+    "id": "b7d7d1f48df74b1c8982093f1912d1ce",
+    "title": "《朝闻天下》 20260612 0800",
+    "url": "https://tv.cctv.cn/2026/06/12/VIDEyoJYIcgBqdxJDnjfv8XK260612.shtml",
+    "date": "2026-06-12",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/06/12/b7d7d1f48df74b1c8982093f1912d1ce-1.jpg",
+    "description": "本期节目主要内容：\n    美总统称取消11日晚针对伊朗的打击；伊朗各方强硬回应美方威胁；关注黎以局势：以媒称以军或进一步扩大在黎南部军事行动；欧洲央行宣布加息25个基点。\n（《朝闻天下》 20260612 08:00）",
+    "program": "zwtx",
+    "guid": "b7d7d1f48df74b1c8982093f1912d1ce",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/06/12/VIDEyoJYIcgBqdxJDnjfv8XK260612.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b7d7d1f48df74b1c8982093f1912d1ce/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b7d7d1f48df74b1c8982093f1912d1ce/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b7d7d1f48df74b1c8982093f1912d1ce/main.m3u8",
+    "createdAt": "2026-06-12T22:00:55.394Z",
+    "durationSeconds": 3217.16
+  },
+  {
     "id": "70880d082aaf4794927f0ece93d42e52",
     "title": "《朝闻天下》 20260611 0800",
     "url": "https://tv.cctv.cn/2026/06/11/VIDEo3d7TgQqjuHDJ5yXtl6P260611.shtml",
