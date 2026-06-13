@@ -1,5 +1,24 @@
 [
   {
+    "id": "12a7df203bfd4a69ae34c57559b1cef3",
+    "title": "《新闻联播》 20260612 2100",
+    "url": "https://tv.cctv.cn/2026/06/12/VIDERU9rLZMfJGjX45Tt1AzW260612.shtml",
+    "date": "2026-06-12",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/06/12/12a7df203bfd4a69ae34c57559b1cef3-1.jpg",
+    "description": "本期节目主要内容：\n1.应习近平邀请 缅甸总统将对中国进行国事访问；\n2.【牢记初心使命 奋进复兴征程】跨越时空的井冈山精神照亮革命老区高质量发展新路；\n3.赵乐际同新加坡国会议长会谈；\n4.韩正会见新加坡国会议长；\n5.【凝心聚力 真抓实干 奋力实现“十五五”良好开局】科技赋能福建新能源产业建设 云南加快推进“绿电+先进制造”深度融合；\n6.5月末社会融资规模存量458.81万亿元；\n7.市场监管总局等部门约谈7家涉火车票销售第三方平台；\n8.【在希望的田野上】全国小麦收获过八成 夏播进入高峰；\n9.【一线调研】织密全域物流网 畅通经济大动脉；\n10.第48届世界技能大赛将于9月22日至27日在上海举办；\n11.我国不断完善以失能老人照护为重点的基本养老服务体系；\n12.国内联播快讯：\n（1）大湾区内地九市前5个月对APEC其他经济体进出口2.8万亿元；\n（2）《中国个人信息保护报告（2025年）》发布；\n（3）2026年“非遗好物 国潮焕新”非遗消夏购物月启动；\n（4）2026重庆国际动画电影周闭幕；\n（5）入汛以来南方强降雨频繁；\n13.美称美伊或将签署协议 伊称美方不断改变立场影响进程；\n14.国际联播快讯：\n（1）欧洲央行近三年来首次加息；\n（2）报告说全球被迫流离失所者超1.17亿人；\n（3）美中西部遭遇强风暴致大面积停电；\n（4）2026美加墨世界杯开幕。\n（《新闻联播》 20260612 21:00）",
+    "program": "xwlb",
+    "guid": "12a7df203bfd4a69ae34c57559b1cef3",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/06/12/VIDERU9rLZMfJGjX45Tt1AzW260612.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/2/a/7/12a7df203bfd4a69ae34c57559b1cef3/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/2/a/7/12a7df203bfd4a69ae34c57559b1cef3/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/2/a/7/12a7df203bfd4a69ae34c57559b1cef3/mp3/main.m3u8",
+    "createdAt": "2026-06-13T10:40:56.294Z",
+    "durationSeconds": 1799.4
+  },
+  {
     "id": "fd7edff7cd7748aa9626184c02ca43bb",
     "title": "《新闻联播》 20260608 2100",
     "url": "https://tv.cctv.cn/2026/06/08/VIDExbWHS6j4fh6DMBMyX8ll260608.shtml",
@@ -359,24 +378,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/8/1/a/281a2fa69dca4cfa8255206b5d1bba96/mp3/main.m3u8",
     "createdAt": "2026-05-13T15:52:32.044Z",
     "durationSeconds": 1799.16
-  },
-  {
-    "id": "1351b96c0a474332b22120e00d017047",
-    "title": "《新闻联播》 20260512 2100",
-    "url": "https://tv.cctv.cn/2026/05/12/VIDEsAbPAUFSpzUyG3RYBi0C260512.shtml",
-    "date": "2026-05-12",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/photoAlbum/vms/standard/img/2026/5/12/VIDE7MrMyZlvrgPxUUh9yy4R260512.jpg",
-    "description": "本期节目主要内容：\r\n1.习近平举行仪式欢迎塔吉克斯坦总统访华；\r\n2.习近平同塔吉克斯坦总统会谈；\r\n3.习近平会见文莱王储；\r\n4.习近平会见联合国教科文组织总干事；\r\n5.李强会见塔吉克斯坦总统；\r\n6.李强致电祝贺毛焦尔就任匈牙利总理；\r\n7.赵乐际会见塔吉克斯坦总统；\r\n8.韩正同文莱王储举行会谈；\r\n9.今年以来我国未来产业布局提速；\r\n10.我国农村供水保障水平显著提升；\r\n11.各地各部门开展防灾减灾科普教育活动；\r\n12.国内联播快讯：\r\n（1）我国护士队伍持续壮大 专业素质稳步提升；\r\n（2）2026世界数字教育大会发布八项重要成果；\r\n（3）中央网信办全面部署推进规范短视频内容标注工作；\r\n（4）今年前4个月全国食品贸易进出口同比增长6.5%；\r\n（5）《纺织服装卓越品牌培育行动方案（2026—2028年）》印发；\r\n（6）2026年全国家庭教育宣传周活动启动；\r\n（7）西十高铁全线拉通试验启动；\r\n（8）东北最长跨海大桥主线钢栈桥首段合龙；\r\n13.国际社会高度关注中美元首会晤 期待两国合作为世界注入更多稳定性；\r\n14.国际联播快讯：\r\n（1）伊朗呼吁美国接受其方案；\r\n（2）黎称以军袭击黎南部多地 致7人死亡；\r\n（3）德乌将研发无人机 俄称阻碍局势调解；\r\n（4）日本实际家庭消费连续4个月同比下滑。\r\n（《新闻联播》 20260512 21:00）",
-    "program": "xwlb",
-    "guid": "1351b96c0a474332b22120e00d017047",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/05/12/VIDEsAbPAUFSpzUyG3RYBi0C260512.shtml",
-    "streamUrl": "https://dhlsaliwx01.v.cntv.cn/asp/audio/1/3/5/1/1351b96c0a474332b22120e00d017047/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhlsaliwx01.v.cntv.cn/asp/audio/1/3/5/1/1351b96c0a474332b22120e00d017047/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhlsaliwx01.v.cntv.cn/asp/audio/1/3/5/1/1351b96c0a474332b22120e00d017047/mp3/main.m3u8",
-    "createdAt": "2026-05-13T09:23:43.135Z",
-    "durationSeconds": 1799.8
   }
 ]
