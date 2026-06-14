@@ -1,5 +1,24 @@
 [
   {
+    "id": "5d5fe3f7e3bd45c1880e0e2b46d37141",
+    "title": "《新闻联播》 20260613 2100",
+    "url": "https://tv.cctv.cn/2026/06/13/VIDEDMpA4pKHCfwwyJCwik5p260613.shtml",
+    "date": "2026-06-13",
+    "broadcastTime": "21:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/06/13/5d5fe3f7e3bd45c1880e0e2b46d37141-1.jpg",
+    "description": "本期节目主要内容：\n1.【新思想引领新征程】守护文化瑰宝 赓续中华文脉；\n2.第十八届海峡论坛大会在厦门举行 王沪宁出席并致辞；\n3.【伟大征程】铭记烽火历史 传承抗战精神；\n4.我国海洋生态保护修复取得新成效；\n5.多项措施促进铁路与旅游融合发展；\n6.各地推动人才下乡 助力乡村振兴；\n7.【一线调研】算力网织就数字经济新底座；\n8.国内联播快讯：\n（1）文化和自然遗产日主场城市活动在武汉举行；\n（2）多部门联合发文 推动新能源重卡规模化应用；\n（3）四部门部署农村务农务工出行安全整治工作；\n（4）中央网信办开设“涉AI应用乱象举报专区”；\n（5）我国将持续推动建设全国一体化反诈技防能力；\n（6）南方今起降雨增强 局地特大暴雨；\n9.伊朗外长披露伊美谅解备忘录草案部分内容 国际油价进一步下跌；\n10.国际联播快讯：\n（1）黎媒称黎以新谈判将涉及“试点区”问题；\n（2）古巴国家主席谴责美国收紧对古石油封锁；\n（3）南极半岛出现异常高温；\n11.文化和自然遗产日。\n（《新闻联播》 20260613 21:00）",
+    "program": "xwlb",
+    "guid": "5d5fe3f7e3bd45c1880e0e2b46d37141",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/06/13/VIDEDMpA4pKHCfwwyJCwik5p260613.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/d/5/f/5d5fe3f7e3bd45c1880e0e2b46d37141/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/d/5/f/5d5fe3f7e3bd45c1880e0e2b46d37141/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/d/5/f/5d5fe3f7e3bd45c1880e0e2b46d37141/mp3/main.m3u8",
+    "createdAt": "2026-06-14T11:10:19.576Z",
+    "durationSeconds": 1799.32
+  },
+  {
     "id": "12a7df203bfd4a69ae34c57559b1cef3",
     "title": "《新闻联播》 20260612 2100",
     "url": "https://tv.cctv.cn/2026/06/12/VIDERU9rLZMfJGjX45Tt1AzW260612.shtml",
@@ -359,24 +378,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/d/5/e/5/d5e519dbad2a43ea92da61dfb267ab96/mp3/main.m3u8",
     "createdAt": "2026-05-15T10:40:18.866Z",
     "durationSeconds": 1799.64
-  },
-  {
-    "id": "281a2fa69dca4cfa8255206b5d1bba96",
-    "title": "《新闻联播》 20260513 2100",
-    "url": "https://tv.cctv.cn/2026/05/13/VIDEMUoPmzSvMAJ2YBUgofLM260513.shtml",
-    "date": "2026-05-13",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/05/13/281a2fa69dca4cfa8255206b5d1bba96-1.jpg",
-    "description": "本期节目主要内容：\n1.【新思想引领新征程】推进国际科技创新中心建设 打造世界级科技创新策源地；\n2.【“十五五”开好局起好步】奋力谱写中国式现代化建设四川新篇章 接续奋斗 开创云南发展新局面；\n3.中美在韩国举行经贸磋商；\n4.一季度全国新设经营主体509.8万户；\n5.外资加速布局中国服务业；\n6.一季度我国水电清洁能源基地建设全面提速；\n7.前4个月全国铁路完成固定资产投资2008亿元；\n8.2025年我国新发现大中型矿产地200处；\n9.全国春灌已全面展开；\n10.多元化文旅场景赋能入境游提质扩容；\n11.国务院新闻办举行“新征程上的奋斗者”中外记者见面会；\n12.国内联播快讯：\n（1）我国2025年药品注册申报和审结数量均创历史新高；\n（2）2025年全国林草种苗质量抽检情况公布；\n（3）“义新欧”中欧班列前4个月出口增长超20%；\n（4）四川盆地发现超深层千亿方级页岩气田；\n（5）引江济淮工程阶段验收工作全面完成；\n（6）2026电影票房突破140亿元；\n13.国际社会期待中美元首会晤引领中美关系平稳前行 惠及世界；\n14.日本民众集会抗议高市政权“扩军”修宪等危险动向；\n15.国际联播快讯：\n（1）黎总统指责以袭击破坏缓和局势努力；\n（2）英工党内部就首相去留分歧严重；\n（3）日本10年期国债收益率升至近30年新高。\n（《新闻联播》 20260513 21:00）",
-    "program": "xwlb",
-    "guid": "281a2fa69dca4cfa8255206b5d1bba96",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/05/13/VIDEMUoPmzSvMAJ2YBUgofLM260513.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/8/1/a/281a2fa69dca4cfa8255206b5d1bba96/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/8/1/a/281a2fa69dca4cfa8255206b5d1bba96/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/8/1/a/281a2fa69dca4cfa8255206b5d1bba96/mp3/main.m3u8",
-    "createdAt": "2026-05-13T15:52:32.044Z",
-    "durationSeconds": 1799.16
   }
 ]
