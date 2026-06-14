@@ -1,5 +1,24 @@
 [
   {
+    "id": "eb7de45ddc1d41f7abff660bfab467ab",
+    "title": "《朝闻天下》 20260614 0800",
+    "url": "https://tv.cctv.cn/2026/06/14/VIDEiHQ8K0vZKqC5nvjxO9R8260614.shtml",
+    "date": "2026-06-14",
+    "broadcastTime": "08:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/06/14/eb7de45ddc1d41f7abff660bfab467ab-1.jpg",
+    "description": "本期节目主要内容：\n    我国世界遗产总数达60项，居世界前列；伊朗外交部发言人称：伊美潜在谅解仅为推动双方继续对话；伊朗多家银行出现技术故障，已展开修复；日本民众集会，反对高市政权推动扩军修宪。\n（《朝闻天下》 20260614 08:00）",
+    "program": "zwtx",
+    "guid": "eb7de45ddc1d41f7abff660bfab467ab",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/06/14/VIDEiHQ8K0vZKqC5nvjxO9R8260614.shtml",
+    "streamUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/eb7de45ddc1d41f7abff660bfab467ab/main.m3u8?maxbr=2048&contentid=15120519184043",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/eb7de45ddc1d41f7abff660bfab467ab/main.m3u8?maxbr=2048&contentid=15120519184043",
+    "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/eb7de45ddc1d41f7abff660bfab467ab/main.m3u8?maxbr=2048&contentid=15120519184043",
+    "createdAt": "2026-06-14T21:37:57.604Z",
+    "durationSeconds": 3241.08
+  },
+  {
     "id": "fed02a217e4e4f7f8668aa94d3306985",
     "title": "《朝闻天下》 20260613 0800",
     "url": "https://tv.cctv.cn/2026/06/13/VIDEXF2B5XrxIWc6VM6bnUmY260613.shtml",
@@ -492,24 +511,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9070a4abd33c48b289a6c6d849481a43/main.m3u8",
     "createdAt": "2026-05-16T21:03:27.960Z",
     "durationSeconds": 3216.52
-  },
-  {
-    "id": "40394c2fe3b14cd8b7cfcfe3ff52f91e",
-    "title": "《朝闻天下》 20260514 0800",
-    "url": "https://tv.cctv.cn/2026/05/14/VIDEDkzPLFlQ4kv5J1aJp2MM260514.shtml",
-    "date": "2026-05-14",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/05/14/40394c2fe3b14cd8b7cfcfe3ff52f91e-1.jpg",
-    "description": "本期节目主要内容：\n    2025年我国新发现大中型矿产地200处；国际社会期待中美元首会晤：引领中美关系平稳前行，惠及世界；市场监管总局：2026年一季度全国新设经营主体509.8万户；以总理办公室称：以总理在对伊朗军事行动期间秘访阿联酋。（《朝闻天下》 20260514 08:00）",
-    "program": "zwtx",
-    "guid": "40394c2fe3b14cd8b7cfcfe3ff52f91e",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/05/14/VIDEDkzPLFlQ4kv5J1aJp2MM260514.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/40394c2fe3b14cd8b7cfcfe3ff52f91e/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/40394c2fe3b14cd8b7cfcfe3ff52f91e/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/40394c2fe3b14cd8b7cfcfe3ff52f91e/main.m3u8",
-    "createdAt": "2026-05-14T04:16:05.338Z",
-    "durationSeconds": 3218.2
   }
 ]
