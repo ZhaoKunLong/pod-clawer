@@ -1,5 +1,24 @@
 [
   {
+    "id": "8b877dfcff934c38af1d25c416d5c738",
+    "title": "《朝闻天下》 20260619 0800",
+    "url": "https://tv.cctv.cn/2026/06/19/VIDEfvgxLo9zeMyNeugMMvZE260619.shtml",
+    "date": "2026-06-19",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/06/19/8b877dfcff934c38af1d25c416d5c738-1.jpg",
+    "description": "本期节目主要内容：\n    美伊签署谅解备忘录：伊朗最高领袖持不同意见，但批准相关安排；美伊签署谅解备忘录：多艘船只18日通过霍尔木兹海峡；安理会召开巴以问题紧急公开会，中方对加沙局势表示严重关切。\n（《朝闻天下》 20260619 08:00）",
+    "program": "zwtx",
+    "guid": "8b877dfcff934c38af1d25c416d5c738",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/06/19/VIDEfvgxLo9zeMyNeugMMvZE260619.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8b877dfcff934c38af1d25c416d5c738/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8b877dfcff934c38af1d25c416d5c738/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8b877dfcff934c38af1d25c416d5c738/main.m3u8",
+    "createdAt": "2026-06-19T21:20:51.686Z",
+    "durationSeconds": 3193.32
+  },
+  {
     "id": "c19413113edc48b499a40ada71d595f5",
     "title": "《朝闻天下》 20260617 0800",
     "url": "https://tv.cctv.cn/2026/06/17/VIDEIGyJQsLxxYA5Fh6hxkYc260617.shtml",
@@ -511,43 +530,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/62efba3c566c48caa5904f11a90094ed/main.m3u8",
     "createdAt": "2026-05-20T22:04:58.183Z",
     "durationSeconds": 3216.6
-  },
-  {
-    "id": "ffbd5245ef43421b894f3b4b8f4bc1a5",
-    "title": "《朝闻天下》 20260519 0800",
-    "url": "https://tv.cctv.cn/2026/05/19/VIDEVtDISqxivjkLJSLRxdKF260519.shtml",
-    "date": "2026-05-19",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/05/19/ffbd5245ef43421b894f3b4b8f4bc1a5-1.jpg",
-    "description": "本期节目主要内容：\n    第79届世界卫生大会拒绝涉台提案：世卫大会连续第10年拒绝所谓涉台提案；广西柳州市柳南区再次发生5.2级地震；伊朗成立管理霍尔木兹海峡新机构；伊朗外交部发言人：伊美谈判仍在继续。\n（《朝闻天下》 20260519 08:00）",
-    "program": "zwtx",
-    "guid": "ffbd5245ef43421b894f3b4b8f4bc1a5",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/05/19/VIDEVtDISqxivjkLJSLRxdKF260519.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ffbd5245ef43421b894f3b4b8f4bc1a5/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ffbd5245ef43421b894f3b4b8f4bc1a5/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ffbd5245ef43421b894f3b4b8f4bc1a5/main.m3u8",
-    "createdAt": "2026-05-19T21:44:42.864Z",
-    "durationSeconds": 3163.72
-  },
-  {
-    "id": "b2866fd8b76e4a738050298a2b5f2cd9",
-    "title": "《朝闻天下》 20260518 0800",
-    "url": "https://tv.cctv.cn/2026/05/18/VIDEvcl66bdC8Ubj11Yv2yU6260518.shtml",
-    "date": "2026-05-18",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/05/18/b2866fd8b76e4a738050298a2b5f2cd9-1.jpg",
-    "description": "本期节目主要内容：\n    我国成功发射千帆星座第九批组网卫星；广西柳州发生5.2级地震：地震致房屋倒塌有人员失联，救援进行中；国家应急通信融合接入平台启动全国应用；美总统特朗普发文催促伊朗尽快达成协议。\n（《朝闻天下》 20260518 08:00）",
-    "program": "zwtx",
-    "guid": "b2866fd8b76e4a738050298a2b5f2cd9",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/05/18/VIDEvcl66bdC8Ubj11Yv2yU6260518.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/b2866fd8b76e4a738050298a2b5f2cd9/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/b2866fd8b76e4a738050298a2b5f2cd9/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/b2866fd8b76e4a738050298a2b5f2cd9/main.m3u8?maxbr=2048",
-    "createdAt": "2026-05-18T21:37:02.887Z",
-    "durationSeconds": 3193.24
   }
 ]
