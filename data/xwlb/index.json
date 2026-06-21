@@ -1,5 +1,23 @@
 [
   {
+    "id": "VIDE2flMySL99j9yksI4qlbc260620",
+    "title": "《新闻联播》 20260620 1900",
+    "url": "https://tv.cctv.com/2026/06/20/VIDE2flMySL99j9yksI4qlbc260620.shtml",
+    "date": "2026-06-20",
+    "broadcastTime": "19:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/21/449ecfcccf7b46d7a8cafbb196229bec-1.jpg",
+    "program": "xwlb",
+    "guid": "449ecfcccf7b46d7a8cafbb196229bec",
+    "sourcePageUrl": "https://tv.cctv.com/2026/06/20/VIDE2flMySL99j9yksI4qlbc260620.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/4/9/e/449ecfcccf7b46d7a8cafbb196229bec/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/4/9/e/449ecfcccf7b46d7a8cafbb196229bec/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/4/9/e/449ecfcccf7b46d7a8cafbb196229bec/mp3/main.m3u8",
+    "createdAt": "2026-06-21T11:26:32.719Z",
+    "durationSeconds": 1799.88
+  },
+  {
     "id": "14b0aa635e054d1c8ae943c82559542f",
     "title": "《新闻联播》 20260619 2100",
     "url": "https://tv.cctv.cn/2026/06/19/VIDEodpb5aYkfaSY3CpC7TaB260619.shtml",
@@ -339,25 +357,6 @@
     "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/07fe0d9f49a748299dc54a178680ee8e/main.m3u8",
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/07fe0d9f49a748299dc54a178680ee8e/main.m3u8",
     "createdAt": "2026-05-22T11:20:43.583Z",
-    "durationSeconds": 15.06
-  },
-  {
-    "id": "b25babf57b674d82af6a6742f4f0b060",
-    "title": "郎酒青花郎8月新闻联播前贴01_1753671720",
-    "url": "https://tv.cctv.cn/2026/05/20/VIDE5wSLgfIDwTRDdHQ5XeZA260520.shtml",
-    "date": "2026-05-20",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2025/07/28/4ee9975111af4d51b0e6e22433014259-180.jpg",
-    "description": "本期节目主要内容：\n1.习近平举行仪式欢迎俄罗斯总统访华；\n2.习近平同俄罗斯总统会谈；\n3.习近平同俄罗斯总统共同会见记者；\n4.习近平同俄罗斯总统共同出席“中俄教育年”开幕式并致辞；\n5.应习近平邀请 塞尔维亚总统将对中国进行国事访问；\n6.李强会见俄罗斯总统；\n7.李强签署国务院令 公布《中华人民共和国矿产资源法实施条例》；\n8.服务业经济平稳增长 发展潜力持续释放；\n9.神舟二十三号载人飞行任务各系统进行发射场区演练；\n10.国务院新闻办举行“新征程上的奋斗者”中外记者见面会；\n11.联播快讯：\n（1）4月份全国全社会用电量同比增长6.0%；\n（2）《网络食品销售经营者落实食品安全主体责任监督管理规定》今起实施；\n（3）最高检部署长江经济带水污染防治公益诉讼专项监督；\n（4）伊称坚决应对侵略 美称继续海上封锁；\n（5）黎真主党称摧毁以色列一处“铁穹”系统；\n（6）北约官员称美将从欧洲撤出约5千兵力；\n（7）联合国多机构共同应对埃博拉疫情；\n（8）美东部多地高温预警 影响超3千万人。\n（《新闻联播》 20260520 21:00）",
-    "program": "xwlb",
-    "guid": "4ee9975111af4d51b0e6e22433014259",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/05/20/VIDE5wSLgfIDwTRDdHQ5XeZA260520.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4ee9975111af4d51b0e6e22433014259/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4ee9975111af4d51b0e6e22433014259/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4ee9975111af4d51b0e6e22433014259/main.m3u8",
-    "createdAt": "2026-05-21T11:39:21.510Z",
     "durationSeconds": 15.06
   }
 ]
