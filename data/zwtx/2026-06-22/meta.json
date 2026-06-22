@@ -1,0 +1,19 @@
+{
+  "id": "3b17276e23364ae4a1412388d7611198",
+  "title": "《朝闻天下》 20260622 0700",
+  "url": "https://tv.cctv.cn/2026/06/22/VIDEfVw16ueAH198Gsui2ZWA260622.shtml",
+  "date": "2026-06-22",
+  "broadcastTime": "07:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/06/22/3b17276e23364ae4a1412388d7611198-1.jpg",
+  "description": "本期节目主要内容：\n    2026年APEC工商领导人中国论坛：凝聚共识、开放合作，构建亚太合作新格局；伟大征程：党的十一届三中全会开启改革开放和社会主义现代化建设新时期；伊朗、美国和斡旋方举行首轮四方会谈。（《朝闻天下》 20260622 07:00）",
+  "program": "zwtx",
+  "guid": "3b17276e23364ae4a1412388d7611198",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/06/22/VIDEfVw16ueAH198Gsui2ZWA260622.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3b17276e23364ae4a1412388d7611198/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3b17276e23364ae4a1412388d7611198/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3b17276e23364ae4a1412388d7611198/main.m3u8",
+  "createdAt": "2026-06-22T22:16:28.795Z",
+  "durationSeconds": 3299.72
+}
