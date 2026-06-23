@@ -1,0 +1,19 @@
+{
+  "id": "e866baeb2a564fbd8caf1a365a7206ac",
+  "title": "《朝闻天下》 20260623 0800",
+  "url": "https://tv.cctv.cn/2026/06/23/VIDEfZOAO8SE1RSN9BqIj68Z260623.shtml",
+  "date": "2026-06-23",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/06/23/e866baeb2a564fbd8caf1a365a7206ac-1.jpg",
+  "description": "本期节目主要内容：\n    海军辽宁舰编队完成远海实战化训练；可再生能源消费刚性考核指标出台；伊朗：伊美将继续在专家和技术层面磋商；以色列称将继续维持在黎南部“安全区”。\n（《朝闻天下》 20260623 08:00）",
+  "program": "zwtx",
+  "guid": "e866baeb2a564fbd8caf1a365a7206ac",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/06/23/VIDEfZOAO8SE1RSN9BqIj68Z260623.shtml",
+  "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/e866baeb2a564fbd8caf1a365a7206ac/main.m3u8?maxbr=2048",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/e866baeb2a564fbd8caf1a365a7206ac/main.m3u8?maxbr=2048",
+  "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/e866baeb2a564fbd8caf1a365a7206ac/main.m3u8?maxbr=2048",
+  "createdAt": "2026-06-23T21:51:22.393Z",
+  "durationSeconds": 3191.08
+}
