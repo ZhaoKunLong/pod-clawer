@@ -1,0 +1,19 @@
+{
+  "id": "7d30e914b11c40a1a1162ae5040c693e",
+  "title": "《朝闻天下》 20260624 0800",
+  "url": "https://tv.cctv.cn/2026/06/24/VIDEtvrySm2LxqM3lLyKAsxl260624.shtml",
+  "date": "2026-06-24",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/06/24/7d30e914b11c40a1a1162ae5040c693e-1.jpg",
+  "description": "本期节目主要内容：\n    5月全国使用外资同比增长5.9%；特朗普再称伊朗同意国际原子能机构核查；关注俄乌冲突：俄称在顿涅茨克方向推进；安理会审议中非局势：中方呼吁助力中非破解发展难题。\n（《朝闻天下》 20260624 08:00）",
+  "program": "zwtx",
+  "guid": "7d30e914b11c40a1a1162ae5040c693e",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/06/24/VIDEtvrySm2LxqM3lLyKAsxl260624.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7d30e914b11c40a1a1162ae5040c693e/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7d30e914b11c40a1a1162ae5040c693e/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7d30e914b11c40a1a1162ae5040c693e/main.m3u8",
+  "createdAt": "2026-06-24T21:44:37.434Z",
+  "durationSeconds": 2964.6
+}
