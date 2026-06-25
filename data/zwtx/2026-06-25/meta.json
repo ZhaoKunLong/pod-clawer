@@ -1,0 +1,19 @@
+{
+  "id": "18cba853e49c439a8cf862cb4b489320",
+  "title": "《朝闻天下》 20260625 0800",
+  "url": "https://tv.cctv.cn/2026/06/25/VIDEOg7EobyKqHZaPZzDvohe260625.shtml",
+  "date": "2026-06-25",
+  "broadcastTime": "08:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/06/25/18cba853e49c439a8cf862cb4b489320-1.jpg",
+  "description": "本期节目主要内容：\n    伊朗议长表示：伊美签署谅解备忘录表明“美国战败”；国际原子能机构要求核查伊朗核设施；委内瑞拉连续发生7级以上强震；西班牙：高温天气持续，民众经受热浪考验。\n（《朝闻天下》 20260625 08:00）",
+  "program": "zwtx",
+  "guid": "18cba853e49c439a8cf862cb4b489320",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/06/25/VIDEOg7EobyKqHZaPZzDvohe260625.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/18cba853e49c439a8cf862cb4b489320/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/18cba853e49c439a8cf862cb4b489320/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/18cba853e49c439a8cf862cb4b489320/main.m3u8",
+  "createdAt": "2026-06-25T21:53:42.639Z",
+  "durationSeconds": 3193.48
+}
