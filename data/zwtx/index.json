@@ -1,5 +1,24 @@
 [
   {
+    "id": "5b379d9efae6489ca9323dd4fbba545f",
+    "title": "《朝闻天下》 20260626 0800",
+    "url": "https://tv.cctv.cn/2026/06/26/VIDEECKbUG2XHFOm6Y0d1QKl260626.shtml",
+    "date": "2026-06-26",
+    "broadcastTime": "08:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/26/5b379d9efae6489ca9323dd4fbba545f-1.jpg",
+    "description": "本期节目主要内容：\n    达沃斯“智”观察：规模化创新，企业组团解锁增长新动能；委内瑞拉发生7级以上强震：委内瑞拉宣布多项措施应对强震灾情；刚果（金）埃博拉确诊病例升至1118例；光影点亮盛夏，多元好片解锁暑期生活。\n（《朝闻天下》 20260626 08:00）",
+    "program": "zwtx",
+    "guid": "5b379d9efae6489ca9323dd4fbba545f",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/06/26/VIDEECKbUG2XHFOm6Y0d1QKl260626.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5b379d9efae6489ca9323dd4fbba545f/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5b379d9efae6489ca9323dd4fbba545f/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5b379d9efae6489ca9323dd4fbba545f/main.m3u8",
+    "createdAt": "2026-06-26T21:40:02.245Z",
+    "durationSeconds": 3226.84
+  },
+  {
     "id": "18cba853e49c439a8cf862cb4b489320",
     "title": "《朝闻天下》 20260625 0800",
     "url": "https://tv.cctv.cn/2026/06/25/VIDEOg7EobyKqHZaPZzDvohe260625.shtml",
@@ -530,24 +549,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/640719fa3fcc49cc9eeaec223c47da3f/main.m3u8",
     "createdAt": "2026-05-27T22:07:53.668Z",
     "durationSeconds": 3165.96
-  },
-  {
-    "id": "65eca7152cf24f8db2a14e8feedab35c",
-    "title": "《朝闻天下》 20260526 0800",
-    "url": "https://tv.cctv.cn/2026/05/26/VIDEejDZgJhUZqRLAP3NKDgw260526.shtml",
-    "date": "2026-05-26",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/05/26/65eca7152cf24f8db2a14e8feedab35c-1.jpg",
-    "description": "本期节目主要内容：\n    多部门部署开展保健食品护老提升专项行动；伊朗媒体25日报道：以无人机多次袭击阿联酋，欲嫁祸伊朗；“全球坚韧船队”遭以色列海军拦截·被扣活动人士：我们遭到“地狱般的折磨”。\n（《朝闻天下》 20260526 08:00）",
-    "program": "zwtx",
-    "guid": "65eca7152cf24f8db2a14e8feedab35c",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/05/26/VIDEejDZgJhUZqRLAP3NKDgw260526.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/65eca7152cf24f8db2a14e8feedab35c/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/65eca7152cf24f8db2a14e8feedab35c/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/65eca7152cf24f8db2a14e8feedab35c/main.m3u8",
-    "createdAt": "2026-05-26T21:58:28.525Z",
-    "durationSeconds": 3213.72
   }
 ]
