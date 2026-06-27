@@ -1,0 +1,19 @@
+{
+  "id": "5eaf6b8c9e37402eb08e40d3aa2202f7",
+  "title": "《朝闻天下》 20260627 0800",
+  "url": "https://tv.cctv.cn/2026/06/27/VIDEoKet7Pn5G6NfI9nLSC5G260627.shtml",
+  "date": "2026-06-27",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/06/27/5eaf6b8c9e37402eb08e40d3aa2202f7-1.jpg",
+  "description": "本期节目主要内容：\n    国家外汇管理局：5月我国外汇市场成交23.14万亿元人民币；委内瑞拉发生7级以上强震：遇难人数升至920人，委全力展开搜救；美军称对伊朗目标实施打击，伊朗展开反击。\n（《朝闻天下》 20260627 08:00）",
+  "program": "zwtx",
+  "guid": "5eaf6b8c9e37402eb08e40d3aa2202f7",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/06/27/VIDEoKet7Pn5G6NfI9nLSC5G260627.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5eaf6b8c9e37402eb08e40d3aa2202f7/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5eaf6b8c9e37402eb08e40d3aa2202f7/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5eaf6b8c9e37402eb08e40d3aa2202f7/main.m3u8",
+  "createdAt": "2026-06-27T21:19:51.477Z",
+  "durationSeconds": 3135.88
+}
