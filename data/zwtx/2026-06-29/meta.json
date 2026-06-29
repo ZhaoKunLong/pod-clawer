@@ -1,0 +1,19 @@
+{
+  "id": "125d59299ff24e9a8d948c4d5b773014",
+  "title": "《朝闻天下》 20260629 0800",
+  "url": "https://tv.cctv.cn/2026/06/29/VIDESVXpY8QMdMjP9W0q0FXE260629.shtml",
+  "date": "2026-06-29",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/06/29/125d59299ff24e9a8d948c4d5b773014-1.jpg",
+  "description": "本期节目主要内容：\n    委内瑞拉发生7级以上强震：委内瑞拉地震遇难人数上升至1450人；伊朗称摧毁8处美军重要基础设施；关注黎以局势：黎真主党议员指责黎政府签署“投降协议”；关注俄乌冲突：俄称继续在顿涅茨克两城镇推进。\n（《朝闻天下》 20260629 08:00）",
+  "program": "zwtx",
+  "guid": "125d59299ff24e9a8d948c4d5b773014",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/06/29/VIDESVXpY8QMdMjP9W0q0FXE260629.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/125d59299ff24e9a8d948c4d5b773014/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/125d59299ff24e9a8d948c4d5b773014/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/125d59299ff24e9a8d948c4d5b773014/main.m3u8",
+  "createdAt": "2026-06-29T21:44:06.659Z",
+  "durationSeconds": 3165.24
+}
