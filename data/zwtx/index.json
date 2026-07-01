@@ -1,5 +1,24 @@
 [
   {
+    "id": "1e55516f25b64669802c63d307aeea8a",
+    "title": "《朝闻天下》 20260701 0700",
+    "url": "https://tv.cctv.cn/2026/07/01/VIDEn6ImmcvXDMnQ8P8HUV7f260701.shtml",
+    "date": "2026-07-01",
+    "broadcastTime": "07:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/01/1e55516f25b64669802c63d307aeea8a-1.jpg",
+    "description": "本期节目主要内容：\n    中共中央政治局召开会议，研究部署防汛抗旱工作，中共中央总书记习近平主持会议；委内瑞拉发生7级以上强震，地震遇难人数上升至1943人；特朗普限制“出生公民权”行政令被推翻；2026年美加墨世界杯：挪威队击败科特迪瓦队挺进世界杯16强。（《朝闻天下》 20260701 07:00）",
+    "program": "zwtx",
+    "guid": "1e55516f25b64669802c63d307aeea8a",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/01/VIDEn6ImmcvXDMnQ8P8HUV7f260701.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1e55516f25b64669802c63d307aeea8a/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1e55516f25b64669802c63d307aeea8a/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1e55516f25b64669802c63d307aeea8a/main.m3u8",
+    "createdAt": "2026-07-01T21:46:22.489Z",
+    "durationSeconds": 3129.96
+  },
+  {
     "id": "f2989dc146824bcd98cf91f5808946ce",
     "title": "《朝闻天下》 20260629 0800",
     "url": "https://tv.cctv.cn/2026/06/30/VIDEQUSBPjh8KkKuRJe7IBoX260630.shtml",
@@ -549,24 +568,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/30b591f64c3f4a53a84180a79f3dc625/main.m3u8?maxbr=2048&contentid=18120319242338",
     "createdAt": "2026-06-01T22:37:04.583Z",
     "durationSeconds": 3254.6
-  },
-  {
-    "id": "edfd7ccc203a44d8b2d1267757c44709",
-    "title": "《朝闻天下》 20260531 0800",
-    "url": "https://tv.cctv.cn/2026/05/31/VIDE8VFQhLt8TMW8p8EvKV4k260531.shtml",
-    "date": "2026-05-31",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/05/31/edfd7ccc203a44d8b2d1267757c44709-1.jpg",
-    "description": "本期节目主要内容：\n    伊朗称对霍尔木兹海峡航运实施全面管理；日本民众集会，反对通过设立“国家情报局”法案；据美国媒体报道：伊朗袭击科威特美军基地致数名美国人轻伤；关注黎以局势：黎总理指责以色列实施“焦土政策”。\n（《朝闻天下》 20260531 08:00）",
-    "program": "zwtx",
-    "guid": "edfd7ccc203a44d8b2d1267757c44709",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/05/31/VIDE8VFQhLt8TMW8p8EvKV4k260531.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/edfd7ccc203a44d8b2d1267757c44709/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/edfd7ccc203a44d8b2d1267757c44709/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/edfd7ccc203a44d8b2d1267757c44709/main.m3u8?maxbr=2048",
-    "createdAt": "2026-05-31T21:15:17.703Z",
-    "durationSeconds": 3177.96
   }
 ]
