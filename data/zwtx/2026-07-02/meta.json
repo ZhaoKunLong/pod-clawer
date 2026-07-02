@@ -1,0 +1,19 @@
+{
+  "id": "82c7895cd0aa47b7ae87c9755010c267",
+  "title": "《朝闻天下》 20260702 0800",
+  "url": "https://tv.cctv.cn/2026/07/02/VIDEogoejp5pKS3AseS3u6YO260702.shtml",
+  "date": "2026-07-02",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/07/02/82c7895cd0aa47b7ae87c9755010c267-1.jpg",
+  "description": "本期节目主要内容：\n    庆祝中国共产党成立105周年大会在京隆重举行；委内瑞拉发生7级以上强震·专家：沉积层放大地面震动，导致灾情严重；以防长称以军将在黎巴嫩等地无限期驻留；美联储主席表示：当前美国通胀水平仍然过高。\n（《朝闻天下》 20260702 08:00）",
+  "program": "zwtx",
+  "guid": "82c7895cd0aa47b7ae87c9755010c267",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/02/VIDEogoejp5pKS3AseS3u6YO260702.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/82c7895cd0aa47b7ae87c9755010c267/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/82c7895cd0aa47b7ae87c9755010c267/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/82c7895cd0aa47b7ae87c9755010c267/main.m3u8",
+  "createdAt": "2026-07-02T21:23:41.616Z",
+  "durationSeconds": 3194.04
+}
