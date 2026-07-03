@@ -1,5 +1,24 @@
 [
   {
+    "id": "0c8970fac15b4c99be8d0edebe9361dd",
+    "title": "《新闻联播》 20260702 2100",
+    "url": "https://tv.cctv.cn/2026/07/02/VIDEoar38Sec5FkNwJtU0ZbK260702.shtml",
+    "date": "2026-07-02",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/02/0c8970fac15b4c99be8d0edebe9361dd-1.jpg",
+    "description": "本期节目主要内容：\n1.奋进新征程 建功新时代 奋力创造新的历史辉煌——习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话引发热烈反响；\n2.《习近平谈治国理政》第五卷土耳其推介会在安卡拉举行；\n3.各地庆祝建党105周年 凝聚新征程奋进力量；\n4.“七一勋章”获得者马善祥：矛盾化解践初心；\n5.前5个月我国知识密集型服务出口增长12.2%；\n6.机电产品出口增势良好 外贸发展质效双升；\n7.各地采取有力措施做好防汛防台风工作；\n8.国内联播快讯：\n（1）2026年高校毕业生等青年就业服务攻坚行动启动；\n（2）市场监管总局开展食品抽检队伍扩容提质增效行动；\n（3）北京人工智能赋能科学研究实施方案启动；\n（4）中老铁路累计进出口货值突破900亿元；\n（5）中俄蒙“万里茶道”十条跨境精品旅游线路发布；\n9.国际人士高度评价习近平在庆祝中国共产党成立105周年大会上的重要讲话；\n10.国际联播快讯：\n（1）俄称在日本部署美导弹严重破坏亚太稳定；\n（2）美国称不同意以现有形式续签美墨加协定；\n（3）“北溪”爆炸案一乌克兰嫌疑人被德起诉；\n（4）欧盟法院驳回上诉 谷歌面临巨额罚单；\n（5）美军一直升机在阿拉伯海紧急水上迫降；\n（6）机构称6月单日全球海面平均温度破纪录。\n（《新闻联播》 20260702 21:00）",
+    "program": "xwlb",
+    "guid": "0c8970fac15b4c99be8d0edebe9361dd",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/02/VIDEoar38Sec5FkNwJtU0ZbK260702.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/c/8/9/0c8970fac15b4c99be8d0edebe9361dd/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/c/8/9/0c8970fac15b4c99be8d0edebe9361dd/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/c/8/9/0c8970fac15b4c99be8d0edebe9361dd/mp3/main.m3u8",
+    "createdAt": "2026-07-03T11:01:38.986Z",
+    "durationSeconds": 1799.32
+  },
+  {
     "id": "e01b28fa00a44fe281a207ebee2aac32",
     "title": "《新闻联播》 20260701 2100",
     "url": "https://tv.cctv.cn/2026/07/01/VIDEnXWst1pzgRcXVcc9PRX4260701.shtml",
@@ -376,25 +395,6 @@
     "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/b/d/8/5bd87132a2d6456bbe82eda1730f429d/mp3/main.m3u8",
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/b/d/8/5bd87132a2d6456bbe82eda1730f429d/mp3/main.m3u8",
     "createdAt": "2026-06-03T12:52:18.174Z",
-    "durationSeconds": 1799.08
-  },
-  {
-    "id": "2fdb797670cb459988389ecbf4692c3b",
-    "title": "《新闻联播》 20260601 2100",
-    "url": "https://tv.cctv.cn/2026/06/01/VIDEua33VxemIJvHHUOkv6Ta260601.shtml",
-    "date": "2026-06-01",
-    "broadcastTime": "21:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/01/2fdb797670cb459988389ecbf4692c3b-1.jpg",
-    "description": "本期节目主要内容：\n1.《求是》杂志发表习近平总书记重要文章《前瞻布局和发展未来产业》；\n2.【新思想引领新征程】传承红色基因增长知识本领 在新征程上跑好历史接力赛；\n3.韩正会见巴西外长；\n4.【“十五五”开好局起好步】谱写中原大地推进中国式现代化新篇章 重庆打造新时代西部大开发重要战略支点；\n5.全国共有少先队员1.12亿名；\n6.我国推进儿童友好建设城乡全覆盖；\n7.今年以来我国制造业高端化智能化转型加速；\n8.【在希望的田野上】科技赋能夏收夏种 助力粮食稳产丰收；\n9.我国全面进入汛期；\n10.全国人大常委会启动职业教育法执法检查；\n11.国内联播快讯：\n（1）2026年国家医保药品目录调整工作正式启动；\n（2）最高检发布《未成年人检察工作白皮书（2025）》；\n（3）《供水条例》今起施行；\n（4）网络餐饮新规今起施行；\n（5）《商业秘密保护规定》今起施行；\n（6）长征十二号乙遥一运载火箭发射成功；\n（7）哈伊高铁开行首趟动车组测试列车；\n（8）广州—乌鲁木齐—法兰克福新航线今日首航；\n（9）新疆独库公路开启今年季节性通行；\n（10）2026年全国粮食和物资储备科技活动周今天启动；\n（11）2026年中央广播电视总台“六一”晚会今晚播出；\n12.美称打击霍尔木兹海峡附近伊朗军事目标 伊称打击美空军基地以回应侵略 伊称在确认权益得到保障前不会批准任何协议 美称协议将明确禁止伊朗拥核；\n13.国际联播快讯：\n（1）以升级在黎军事行动 多方批评；\n（2）国际原子能机构称必须停止袭击核设施；\n（3）卢卡申科警告对白军事攻击将致严重后果；\n（4）墨西哥总统指责美干涉墨内政；\n（5）英首相称英最大铁路运营商收归国有；\n（6）台风来袭 日本多地航班取消供电中断。\n（《新闻联播》 20260601 21:00）",
-    "program": "xwlb",
-    "guid": "2fdb797670cb459988389ecbf4692c3b",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/01/VIDEua33VxemIJvHHUOkv6Ta260601.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/2fdb797670cb459988389ecbf4692c3b/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/2fdb797670cb459988389ecbf4692c3b/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/2fdb797670cb459988389ecbf4692c3b/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "createdAt": "2026-06-01T13:49:16.729Z",
     "durationSeconds": 1799.08
   }
 ]
