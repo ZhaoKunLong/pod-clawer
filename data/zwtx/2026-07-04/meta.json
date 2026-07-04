@@ -1,0 +1,19 @@
+{
+  "id": "e90621897aa842e391b48a746f0dc9a1",
+  "title": "《朝闻天下》 20260704 0800",
+  "url": "https://tv.cctv.cn/2026/07/04/VIDEdZvsBqthaKQeQ81rBmGU260704.shtml",
+  "date": "2026-07-04",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/07/04/e90621897aa842e391b48a746f0dc9a1-1.jpg",
+  "description": "本期节目主要内容：\n    《循环经济发展“十五五”规划》印发：到2030年资源循环利用产业产值达8万亿元；台风“美莎克”7月3日晚在海南陵水沿海登陆：台风登陆后风雨强劲，未来几天仍有雨；伊朗称将回应违反谅解备忘录的行为。\n（《朝闻天下》 20260704 08:00）",
+  "program": "zwtx",
+  "guid": "e90621897aa842e391b48a746f0dc9a1",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/04/VIDEdZvsBqthaKQeQ81rBmGU260704.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e90621897aa842e391b48a746f0dc9a1/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e90621897aa842e391b48a746f0dc9a1/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e90621897aa842e391b48a746f0dc9a1/main.m3u8",
+  "createdAt": "2026-07-04T21:13:53.790Z",
+  "durationSeconds": 3188.6
+}
