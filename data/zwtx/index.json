@@ -1,5 +1,24 @@
 [
   {
+    "id": "c1a91c831dd8477da49ffa179af64928",
+    "title": "《朝闻天下》 20260705 0800",
+    "url": "https://tv.cctv.cn/2026/07/05/VIDEWow6BqvX4jSpyAjoje8P260705.shtml",
+    "date": "2026-07-05",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/07/05/c1a91c831dd8477da49ffa179af64928-1.jpg",
+    "description": "本期节目主要内容：\n    2026年前5个月我国机器人出口近200亿元；关注俄乌冲突：俄乌针对对方目标发动大规模袭击；民众举行抗议集会，反对日本政府扩军备武；美国：罕见热浪来袭，多地“独立日”活动取消。\n（《朝闻天下》 20260705 08:00）",
+    "program": "zwtx",
+    "guid": "c1a91c831dd8477da49ffa179af64928",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/05/VIDEWow6BqvX4jSpyAjoje8P260705.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c1a91c831dd8477da49ffa179af64928/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c1a91c831dd8477da49ffa179af64928/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c1a91c831dd8477da49ffa179af64928/main.m3u8",
+    "createdAt": "2026-07-05T21:18:39.987Z",
+    "durationSeconds": 3122.2
+  },
+  {
     "id": "e90621897aa842e391b48a746f0dc9a1",
     "title": "《朝闻天下》 20260704 0800",
     "url": "https://tv.cctv.cn/2026/07/04/VIDEdZvsBqthaKQeQ81rBmGU260704.shtml",
@@ -549,24 +568,5 @@
     "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/eaef3d6e6ead47e59812514d28ee36e3/main.m3u8?maxbr=2048&contentid=15120519184043",
     "createdAt": "2026-06-05T21:44:07.553Z",
     "durationSeconds": 3149.72
-  },
-  {
-    "id": "4cefee8576c948eca40baa6b702f70fd",
-    "title": "《朝闻天下》 20260604 0800",
-    "url": "https://tv.cctv.cn/2026/06/04/VIDEGwB8FbUDL8DpdNiyY1xN260604.shtml",
-    "date": "2026-06-04",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/04/4cefee8576c948eca40baa6b702f70fd-1.jpg",
-    "description": "本期节目主要内容：\n    中国外交部：中国产业补贴政策严格遵守世贸组织规则；关注俄乌冲突：俄称拦截乌军无人机，乌称打击俄关键目标；联合国安理会非常任理事国选举：吉尔吉斯斯坦等五国当选非常任理事国。\n（《朝闻天下》 20260604 08:00）",
-    "program": "zwtx",
-    "guid": "4cefee8576c948eca40baa6b702f70fd",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/04/VIDEGwB8FbUDL8DpdNiyY1xN260604.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4cefee8576c948eca40baa6b702f70fd/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4cefee8576c948eca40baa6b702f70fd/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4cefee8576c948eca40baa6b702f70fd/main.m3u8",
-    "createdAt": "2026-06-04T21:53:55.664Z",
-    "durationSeconds": 3216.2
   }
 ]

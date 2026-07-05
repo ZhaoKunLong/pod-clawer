@@ -1,0 +1,19 @@
+{
+  "id": "c1a91c831dd8477da49ffa179af64928",
+  "title": "《朝闻天下》 20260705 0800",
+  "url": "https://tv.cctv.cn/2026/07/05/VIDEWow6BqvX4jSpyAjoje8P260705.shtml",
+  "date": "2026-07-05",
+  "broadcastTime": "08:00",
+  "image": "https://p5.img.cctvpic.com/fmspic/2026/07/05/c1a91c831dd8477da49ffa179af64928-1.jpg",
+  "description": "本期节目主要内容：\n    2026年前5个月我国机器人出口近200亿元；关注俄乌冲突：俄乌针对对方目标发动大规模袭击；民众举行抗议集会，反对日本政府扩军备武；美国：罕见热浪来袭，多地“独立日”活动取消。\n（《朝闻天下》 20260705 08:00）",
+  "program": "zwtx",
+  "guid": "c1a91c831dd8477da49ffa179af64928",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/05/VIDEWow6BqvX4jSpyAjoje8P260705.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c1a91c831dd8477da49ffa179af64928/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c1a91c831dd8477da49ffa179af64928/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c1a91c831dd8477da49ffa179af64928/main.m3u8",
+  "createdAt": "2026-07-05T21:18:39.987Z",
+  "durationSeconds": 3122.2
+}
