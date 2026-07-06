@@ -1,0 +1,19 @@
+{
+  "id": "9a94b4779b3847faad25b0829b07c67e",
+  "title": "《朝闻天下》 20260706 0800",
+  "url": "https://tv.cctv.cn/2026/07/06/VIDE58BQpHDztv1e6nXdV0Qp260706.shtml",
+  "date": "2026-07-06",
+  "broadcastTime": "08:00",
+  "image": "https://p5.img.cctvpic.com/fmspic/2026/07/06/9a94b4779b3847faad25b0829b07c67e-1.jpg",
+  "description": "本期节目主要内容：\n    天问二号抵达目标小行星开展科学探测；委内瑞拉发生7级以上强震：委内瑞拉地震遇难人数升至3342人；以色列总理称继续坚持反对伊核计划。\n（《朝闻天下》 20260706 08:00）",
+  "program": "zwtx",
+  "guid": "9a94b4779b3847faad25b0829b07c67e",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/06/VIDE58BQpHDztv1e6nXdV0Qp260706.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9a94b4779b3847faad25b0829b07c67e/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9a94b4779b3847faad25b0829b07c67e/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9a94b4779b3847faad25b0829b07c67e/main.m3u8",
+  "createdAt": "2026-07-06T21:46:31.608Z",
+  "durationSeconds": 3143.64
+}

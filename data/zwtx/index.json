@@ -1,5 +1,24 @@
 [
   {
+    "id": "9a94b4779b3847faad25b0829b07c67e",
+    "title": "《朝闻天下》 20260706 0800",
+    "url": "https://tv.cctv.cn/2026/07/06/VIDE58BQpHDztv1e6nXdV0Qp260706.shtml",
+    "date": "2026-07-06",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/07/06/9a94b4779b3847faad25b0829b07c67e-1.jpg",
+    "description": "本期节目主要内容：\n    天问二号抵达目标小行星开展科学探测；委内瑞拉发生7级以上强震：委内瑞拉地震遇难人数升至3342人；以色列总理称继续坚持反对伊核计划。\n（《朝闻天下》 20260706 08:00）",
+    "program": "zwtx",
+    "guid": "9a94b4779b3847faad25b0829b07c67e",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/06/VIDE58BQpHDztv1e6nXdV0Qp260706.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9a94b4779b3847faad25b0829b07c67e/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9a94b4779b3847faad25b0829b07c67e/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9a94b4779b3847faad25b0829b07c67e/main.m3u8",
+    "createdAt": "2026-07-06T21:46:31.608Z",
+    "durationSeconds": 3143.64
+  },
+  {
     "id": "c1a91c831dd8477da49ffa179af64928",
     "title": "《朝闻天下》 20260705 0800",
     "url": "https://tv.cctv.cn/2026/07/05/VIDEWow6BqvX4jSpyAjoje8P260705.shtml",
@@ -549,24 +568,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/0a6b03beeeb34f5b9049f82b35c3b165/main.m3u8",
     "createdAt": "2026-06-06T21:17:00.924Z",
     "durationSeconds": 3104.6
-  },
-  {
-    "id": "eaef3d6e6ead47e59812514d28ee36e3",
-    "title": "《朝闻天下》 20260605 0800",
-    "url": "https://tv.cctv.cn/2026/06/05/VIDEUefMDxTGVOdoml0Mb3lI260605.shtml",
-    "date": "2026-06-05",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/06/05/eaef3d6e6ead47e59812514d28ee36e3-1.jpg",
-    "description": "本期节目主要内容：\n    工业和信息化部：2026年前四月电子信息制造业生产快速增长；美国总统表示：若达成协议，不排除与伊朗最高领袖会晤；黎总统称停火协议获批后24小时内可实施；联合国秘书长谴责联黎部队遇袭事件。\n（《朝闻天下》 20260605 08:00）",
-    "program": "zwtx",
-    "guid": "eaef3d6e6ead47e59812514d28ee36e3",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/05/VIDEUefMDxTGVOdoml0Mb3lI260605.shtml",
-    "streamUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/eaef3d6e6ead47e59812514d28ee36e3/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/eaef3d6e6ead47e59812514d28ee36e3/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/eaef3d6e6ead47e59812514d28ee36e3/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "createdAt": "2026-06-05T21:44:07.553Z",
-    "durationSeconds": 3149.72
   }
 ]
