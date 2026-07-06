@@ -1,5 +1,24 @@
 [
   {
+    "id": "98896b70fa074006925b0b7b2a4bf61f",
+    "title": "《新闻联播》 20260705 2100",
+    "url": "https://tv.cctv.cn/2026/07/05/VIDEBhQq6nle8OxLUL326Fzv260705.shtml",
+    "date": "2026-07-05",
+    "broadcastTime": "21:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/05/98896b70fa074006925b0b7b2a4bf61f-1.jpg",
+    "description": "本期节目主要内容：\n1.《习近平关于基层工作方法论述摘编》出版发行；\n2.【伟大征程】践行绿色发展理念 绘就生态中国壮美画卷；\n3.铸牢听党指挥的强军之魂 攻坚建军百年奋斗目标——习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话在全军引发热烈反响；\n4.人民日报评论员文章：坚定信心、接续奋斗，不断创造无愧于时代和人民的新业绩——论学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话；\n5.“七一勋章”获得者吴亚琴：温暖一方邻里 守住万家灯火；\n6.各地采取有效措施 积极应对强降雨天气；\n7.香港首个空间站科学载荷“天韵相机”完成部署；\n8.国内联播快讯：\n（1）今年以来我国快递业务量突破千亿件；\n（2）1—5月规模以上电子信息制造业增加值实现两位数增长；\n（3）上半年全国共新开国际航空货运航线92条；\n（4）太平岭核电2号机组成功并网；\n（5）2026年暑期档电影票房破20亿元；\n9.国际人士高度评价习近平在庆祝中国共产党成立105周年大会上的重要讲话；\n10.国际联播快讯：\n（1）伊朗警告域外国家勿干涉霍尔木兹海峡；\n（2）以官员首次承认曾在阿联酋部署“铁穹”；\n（3）极端高温或致环法赛部分赛段取消。\n（《新闻联播》 20260705 21:00）",
+    "program": "xwlb",
+    "guid": "98896b70fa074006925b0b7b2a4bf61f",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/05/VIDEBhQq6nle8OxLUL326Fzv260705.shtml",
+    "streamUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/98896b70fa074006925b0b7b2a4bf61f/main.m3u8?maxbr=2048&contentid=15120519184043",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/98896b70fa074006925b0b7b2a4bf61f/main.m3u8?maxbr=2048&contentid=15120519184043",
+    "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/98896b70fa074006925b0b7b2a4bf61f/main.m3u8?maxbr=2048&contentid=15120519184043",
+    "createdAt": "2026-07-06T12:16:10.999Z",
+    "durationSeconds": 1799.56
+  },
+  {
     "id": "1e2df4ea548f4ec091d0fe3389453f2b",
     "title": "《新闻联播》 20260704 2100",
     "url": "https://tv.cctv.cn/2026/07/04/VIDEfTA4irt4L7NpfZyr2JAH260704.shtml",
@@ -358,24 +377,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/2/b/5/22b55075643e424a9f17fa52e50ee975/mp3/main.m3u8",
     "createdAt": "2026-06-07T10:37:57.460Z",
     "durationSeconds": 1799.4
-  },
-  {
-    "id": "4be752a8ae944c7cbcf9ceb89fbd4aa2",
-    "title": "《新闻联播》 20260604 2100",
-    "url": "https://tv.cctv.cn/2026/06/04/VIDEX0ro9sgZ7rYrmRCX39QM260604.shtml",
-    "date": "2026-06-04",
-    "broadcastTime": "21:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/04/4be752a8ae944c7cbcf9ceb89fbd4aa2-1.jpg",
-    "description": "本期节目主要内容：\n1.【新思想引领新征程】践行绿色发展 人与自然和谐共生；\n2.【树立和践行正确政绩观】坚持民生为大 推进学习教育走深走实；\n3.我国自贸试验区持续提升对外开放水平；\n4.166家外资企业获增值电信业务经营试点批复；\n5.我国高端钢材供给持续增强；\n6.我国3D打印产业进入快速发展新阶段；\n7.海水淡化能力显著提升 有力保障沿海地区用水需求；\n8.《中国消费者权益保护状况年度报告（2025）》发布；\n9.各地培育新场景新业态 激发消费活力；\n10.【一线调研】信息流背后的精准麦收；\n11.国内联播快讯：\n（1）1至4月规上电子信息制造业增加值同比增长14%；\n（2）端午假期铁路运输火车票今起发售；\n（3）北京文旅十大科技应用场景发布；\n（4）广州往返阿斯塔纳首条直飞航线开通；\n（5）我国在云霄直流通道开展输电权市场化交易；\n12.伊朗称在阿曼湾打击一艘美军舰 美军予以否认 美众院通过决议要求美总统结束对伊朗军事行动；\n13.国际联播快讯：\n（1）以黎同意有条件停火 黎真主党未回应；\n（2）吉尔吉斯斯坦等当选安理会非常任理事国；\n（3）俄乌称拦截对方来袭无人机；\n（4）美国称将调整其北约部队的规模；\n（5）日元兑美元汇率跌至一个月来低位；\n（6）世卫称刚果（金）埃博拉防控获进展。\n（《新闻联播》 20260604 21:00）",
-    "program": "xwlb",
-    "guid": "4be752a8ae944c7cbcf9ceb89fbd4aa2",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/04/VIDEX0ro9sgZ7rYrmRCX39QM260604.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/b/e/7/4be752a8ae944c7cbcf9ceb89fbd4aa2/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/b/e/7/4be752a8ae944c7cbcf9ceb89fbd4aa2/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/b/e/7/4be752a8ae944c7cbcf9ceb89fbd4aa2/mp3/main.m3u8",
-    "createdAt": "2026-06-05T11:38:17.178Z",
-    "durationSeconds": 1799.56
   }
 ]
