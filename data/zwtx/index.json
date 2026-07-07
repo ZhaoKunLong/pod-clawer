@@ -1,5 +1,24 @@
 [
   {
+    "id": "8296af6fbdcf4c6c84fea2b47338e951",
+    "title": "《朝闻天下》 20260707 0700",
+    "url": "https://tv.cctv.cn/2026/07/07/VIDEafdHw3nxHHYi6MxuyDAH260707.shtml",
+    "date": "2026-07-07",
+    "broadcastTime": "07:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/07/8296af6fbdcf4c6c84fea2b47338e951-1.jpg",
+    "description": "本期节目主要内容：\n    中俄“海上联合-2026”联合演习开幕；“七一勋章”获得者王於昌：恪守忠诚，居功不显；中央气象台继续发布强对流天气黄色预警；委内瑞拉地震遇难人数升至3535人；绑定北约，日本再军事化图谋凸显。（《朝闻天下》 20260707 07:00）",
+    "program": "zwtx",
+    "guid": "8296af6fbdcf4c6c84fea2b47338e951",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/07/VIDEafdHw3nxHHYi6MxuyDAH260707.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8296af6fbdcf4c6c84fea2b47338e951/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8296af6fbdcf4c6c84fea2b47338e951/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8296af6fbdcf4c6c84fea2b47338e951/main.m3u8",
+    "createdAt": "2026-07-07T21:40:04.441Z",
+    "durationSeconds": 3239.56
+  },
+  {
     "id": "9a94b4779b3847faad25b0829b07c67e",
     "title": "《朝闻天下》 20260706 0800",
     "url": "https://tv.cctv.cn/2026/07/06/VIDE58BQpHDztv1e6nXdV0Qp260706.shtml",
@@ -549,24 +568,5 @@
     "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/4d06b44a1bab481b8586ff8f14b97130/main.m3u8?maxbr=2048",
     "createdAt": "2026-06-07T21:34:55.610Z",
     "durationSeconds": 3162.12
-  },
-  {
-    "id": "0a6b03beeeb34f5b9049f82b35c3b165",
-    "title": "《朝闻天下》 20260606 0800",
-    "url": "https://tv.cctv.cn/2026/06/06/VIDEAlnYUfbCnRHit4Lsol0a260606.shtml",
-    "date": "2026-06-06",
-    "broadcastTime": "08:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/06/06/0a6b03beeeb34f5b9049f82b35c3b165-1.jpg",
-    "description": "本期节目主要内容：\n    私募投资基金新规出台，行业迎系统性升级；以空袭黎南部多地，黎真主党与以军交火；美军称击落伊朗四架无人机；受能源价格上涨拖累，欧元区经济出现萎缩。\n（《朝闻天下》 20260606 08:00）",
-    "program": "zwtx",
-    "guid": "0a6b03beeeb34f5b9049f82b35c3b165",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/06/VIDEAlnYUfbCnRHit4Lsol0a260606.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/0a6b03beeeb34f5b9049f82b35c3b165/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/0a6b03beeeb34f5b9049f82b35c3b165/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/0a6b03beeeb34f5b9049f82b35c3b165/main.m3u8",
-    "createdAt": "2026-06-06T21:17:00.924Z",
-    "durationSeconds": 3104.6
   }
 ]
