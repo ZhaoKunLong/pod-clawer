@@ -1,5 +1,24 @@
 [
   {
+    "id": "de481d5d36b14a81aa9e90a6fde5a49c",
+    "title": "《朝闻天下》 20260708 0700",
+    "url": "https://tv.cctv.cn/2026/07/08/VIDEQfDjHuTunzZaQQTB6X4Z260708.shtml",
+    "date": "2026-07-08",
+    "broadcastTime": "07:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/07/08/de481d5d36b14a81aa9e90a6fde5a49c-1.jpg",
+    "description": "本期节目主要内容：\n    湖北多地遭遇强对流天气袭击·湖北大冶：道路清障房屋除险，加快恢复生产生活；英国海上贸易行动办公室发布通报称：24小时内三艘船只在霍尔木兹海峡遇袭；土耳其：特朗普再次称格陵兰岛“应由美国控制”；英国改革党党首因丑闻辞去议员职务。（《朝闻天下》 20260708 07:00）",
+    "program": "zwtx",
+    "guid": "de481d5d36b14a81aa9e90a6fde5a49c",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/08/VIDEQfDjHuTunzZaQQTB6X4Z260708.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/de481d5d36b14a81aa9e90a6fde5a49c/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/de481d5d36b14a81aa9e90a6fde5a49c/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/de481d5d36b14a81aa9e90a6fde5a49c/main.m3u8",
+    "createdAt": "2026-07-08T21:22:46.261Z",
+    "durationSeconds": 3291
+  },
+  {
     "id": "8296af6fbdcf4c6c84fea2b47338e951",
     "title": "《朝闻天下》 20260707 0700",
     "url": "https://tv.cctv.cn/2026/07/07/VIDEafdHw3nxHHYi6MxuyDAH260707.shtml",
@@ -549,24 +568,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/18377ca625bb4f13833f90d05a73f0fe/main.m3u8",
     "createdAt": "2026-06-08T22:01:02.797Z",
     "durationSeconds": 3312.12
-  },
-  {
-    "id": "4d06b44a1bab481b8586ff8f14b97130",
-    "title": "《朝闻天下》 20260607 0800",
-    "url": "https://tv.cctv.cn/2026/06/07/VIDEqguABVDOF2G33xVydx7h260607.shtml",
-    "date": "2026-06-07",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/06/07/4d06b44a1bab481b8586ff8f14b97130-1.jpg",
-    "description": "本期节目主要内容：\n    美以伊战事100天：伊朗谴责美国袭击伊朗沿海雷达设施；“三夏”麦收地图：全国小麦收获进度近六成；关注俄乌冲突：俄称控制乌一居民点，乌称打击俄多地目标；美国：受虫害影响，得州宣布进入“灾难状态”。\n（《朝闻天下》 20260607 08:00）",
-    "program": "zwtx",
-    "guid": "4d06b44a1bab481b8586ff8f14b97130",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/07/VIDEqguABVDOF2G33xVydx7h260607.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/4d06b44a1bab481b8586ff8f14b97130/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/4d06b44a1bab481b8586ff8f14b97130/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/4d06b44a1bab481b8586ff8f14b97130/main.m3u8?maxbr=2048",
-    "createdAt": "2026-06-07T21:34:55.610Z",
-    "durationSeconds": 3162.12
   }
 ]

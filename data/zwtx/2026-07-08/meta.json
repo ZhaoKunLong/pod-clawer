@@ -1,0 +1,19 @@
+{
+  "id": "de481d5d36b14a81aa9e90a6fde5a49c",
+  "title": "《朝闻天下》 20260708 0700",
+  "url": "https://tv.cctv.cn/2026/07/08/VIDEQfDjHuTunzZaQQTB6X4Z260708.shtml",
+  "date": "2026-07-08",
+  "broadcastTime": "07:00",
+  "image": "https://p5.img.cctvpic.com/fmspic/2026/07/08/de481d5d36b14a81aa9e90a6fde5a49c-1.jpg",
+  "description": "本期节目主要内容：\n    湖北多地遭遇强对流天气袭击·湖北大冶：道路清障房屋除险，加快恢复生产生活；英国海上贸易行动办公室发布通报称：24小时内三艘船只在霍尔木兹海峡遇袭；土耳其：特朗普再次称格陵兰岛“应由美国控制”；英国改革党党首因丑闻辞去议员职务。（《朝闻天下》 20260708 07:00）",
+  "program": "zwtx",
+  "guid": "de481d5d36b14a81aa9e90a6fde5a49c",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/08/VIDEQfDjHuTunzZaQQTB6X4Z260708.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/de481d5d36b14a81aa9e90a6fde5a49c/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/de481d5d36b14a81aa9e90a6fde5a49c/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/de481d5d36b14a81aa9e90a6fde5a49c/main.m3u8",
+  "createdAt": "2026-07-08T21:22:46.261Z",
+  "durationSeconds": 3291
+}
