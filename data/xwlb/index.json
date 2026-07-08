@@ -1,5 +1,24 @@
 [
   {
+    "id": "9f4aeda28e434e42958bcc4c80313c54",
+    "title": "《新闻联播》 20260707 2100",
+    "url": "https://tv.cctv.cn/2026/07/07/VIDECXZenum5EUA79cPJcWMV260707.shtml",
+    "date": "2026-07-07",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/07/9f4aeda28e434e42958bcc4c80313c54-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平对防汛救灾工作作出重要指示强调 要全力组织抢险救援、伤员救治、群众安置 扎实做好防灾救灾各项工作 确保人民群众生命财产安全 李强作出批示；\n2.【新思想引领新征程】加快高水平科技自立自强 奋进科技强国建设；\n3.只争朝夕 不负韶华 在新征程上跑好历史接力赛——习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话引发热烈反响；\n4.全国政协召开主席会议成员务虚会 王沪宁主持并讲话；\n5.纪念全民族抗战爆发89周年仪式在京举行；\n6.各地举行活动纪念全民族抗战爆发89周年；\n7.中共中央组织部印发《关于在防汛救灾工作中充分发挥基层党组织战斗堡垒作用和广大党员先锋模范作用的通知》；\n8.中央组织部从代中央管理党费中划拨6000万元 用于支持广西、甘肃等5省区防汛救灾工作；\n9.极端天气影响我国多地 各方全力组织抢险救援；\n10.陕西省委原常委、西安市委原书记方红卫严重违纪违法被开除党籍和公职；\n11.联播快讯：\n（1）2026世界人工智能大会将于7月17日至20日举办；\n（2）6月份中国仓储指数重回扩张区间；\n（3）“互联网企业云端招聘月”释放超20万个就业岗位；\n（4）伊朗：若威胁持续 不会启动协议谈判；\n（5）乌称打击俄大型炼油企业 俄称将反制；\n（6）德国通过新财政预算草案 军费大幅增加；\n12.二十四节气·小暑。\n（《新闻联播》 20260707 21:00）",
+    "program": "xwlb",
+    "guid": "9f4aeda28e434e42958bcc4c80313c54",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/07/VIDECXZenum5EUA79cPJcWMV260707.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/f/4/a/9f4aeda28e434e42958bcc4c80313c54/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/f/4/a/9f4aeda28e434e42958bcc4c80313c54/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/f/4/a/9f4aeda28e434e42958bcc4c80313c54/mp3/main.m3u8",
+    "createdAt": "2026-07-08T10:31:52.163Z",
+    "durationSeconds": 1799.32
+  },
+  {
     "id": "750788eb79a2440c9e713cb37cb648ea",
     "title": "《新闻联播》 20260706 2100",
     "url": "https://tv.cctv.cn/2026/07/06/VIDE6lXmxDbJUUca8T8Aku8W260706.shtml",
@@ -377,24 +396,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/4/b/9/34b93535eb7e492c9ab741111a72f4e9/mp3/main.m3u8",
     "createdAt": "2026-06-08T12:43:32.530Z",
     "durationSeconds": 1799.48
-  },
-  {
-    "id": "22b55075643e424a9f17fa52e50ee975",
-    "title": "《新闻联播》 20260606 2100",
-    "url": "https://tv.cctv.cn/2026/06/06/VIDEVUeWxrtAYYJ274NB0DF6260606.shtml",
-    "date": "2026-06-06",
-    "broadcastTime": "21:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/06/22b55075643e424a9f17fa52e50ee975-1.jpg",
-    "description": "本期节目主要内容：\n1.【牢记初心使命 奋进复兴征程】红色沃土不断书写时代华章；\n2.韩正会见俄罗斯总统；\n3.韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞；\n4.【在希望的田野上】全国麦收近六成 夏播陆续展开；\n5.我国服务贸易持续扩能提质；\n6.财政金融“组合拳” 更大力度支持扩内需；\n7.我国海上风电加快向深远海发展；\n8.【一线调研】一张网夯实水安全坚实底座；\n9.国内联播快讯：\n（1）1至4月国开行发放4406亿元贷款 加力支持基础设施建设；\n（2）国家防总针对重庆贵州启动防汛四级应急响应；\n（3）国家林草局发布10项荒漠化防治标准；\n（4）“十四五”时期我国眼健康服务体系不断完善；\n（5）我国自主研制全集成航空电动发动机下线交付；\n（6）全球海洋现象智能预报大模型“琅琊”2.0发布；\n10.美军袭击伊朗部分沿海地区 伊朗称打击美海军第五舰队重要设施；\n11.国际联播快讯：\n（1）俄乌进行新一轮被俘人员交换；\n（2）乌克兰一无人艇在罗马尼亚黑海港口爆炸；\n（3）世贸组织称今年全球货物贸易保持韧性；\n（4）欧元区及欧盟一季度经济均出现萎缩；\n（5）国际空间站因漏气维修 宇航员避险。\n（《新闻联播》 20260606 21:00）",
-    "program": "xwlb",
-    "guid": "22b55075643e424a9f17fa52e50ee975",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/06/VIDEVUeWxrtAYYJ274NB0DF6260606.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/2/b/5/22b55075643e424a9f17fa52e50ee975/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/2/b/5/22b55075643e424a9f17fa52e50ee975/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/2/b/5/22b55075643e424a9f17fa52e50ee975/mp3/main.m3u8",
-    "createdAt": "2026-06-07T10:37:57.460Z",
-    "durationSeconds": 1799.4
   }
 ]
