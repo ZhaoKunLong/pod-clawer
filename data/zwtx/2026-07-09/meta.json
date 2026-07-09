@@ -1,0 +1,19 @@
+{
+  "id": "d01d11bb57c64576a026a8510273704c",
+  "title": "《朝闻天下》 20260709 0800",
+  "url": "https://tv.cctv.cn/2026/07/09/VIDEeGdquQ9NrYhjGfzzDoWp260709.shtml",
+  "date": "2026-07-09",
+  "broadcastTime": "08:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/07/09/d01d11bb57c64576a026a8510273704c-1.jpg",
+  "description": "本期节目主要内容：\n    国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会在京召开，习近平发表重要讲话；伊朗多地传出爆炸声，美军称再次打击伊朗；广西贵港：强降雨致多所学校内涝严重，紧急转移学生。\n（《朝闻天下》 20260709 08:00）",
+  "program": "zwtx",
+  "guid": "d01d11bb57c64576a026a8510273704c",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/09/VIDEeGdquQ9NrYhjGfzzDoWp260709.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d01d11bb57c64576a026a8510273704c/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d01d11bb57c64576a026a8510273704c/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d01d11bb57c64576a026a8510273704c/main.m3u8",
+  "createdAt": "2026-07-09T21:41:26.787Z",
+  "durationSeconds": 3142.12
+}
