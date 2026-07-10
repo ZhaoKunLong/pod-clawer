@@ -1,0 +1,19 @@
+{
+  "id": "0eb9b5687df64fe6abfcec4622d588fe",
+  "title": "《朝闻天下》 20260710 0800",
+  "url": "https://tv.cctv.cn/2026/07/10/VIDE8vJKCe2uw1XohBvy7hHm260710.shtml",
+  "date": "2026-07-10",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/07/10/0eb9b5687df64fe6abfcec4622d588fe-1.jpg",
+  "description": "本期节目主要内容：\n    中央气象台7月10日早继续发布台风橙色预警；《“十五五”碳达峰行动方案》发布：新增用电量由新增清洁能源电量覆盖；加快零售业创新发展：“三新”试点首批86亿元支持资金拨付；伊朗南部多地遭袭，伊对美军目标展开打击。\n（《朝闻天下》 20260710 08:00）",
+  "program": "zwtx",
+  "guid": "0eb9b5687df64fe6abfcec4622d588fe",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/10/VIDE8vJKCe2uw1XohBvy7hHm260710.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/0eb9b5687df64fe6abfcec4622d588fe/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/0eb9b5687df64fe6abfcec4622d588fe/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/0eb9b5687df64fe6abfcec4622d588fe/main.m3u8",
+  "createdAt": "2026-07-10T21:35:06.381Z",
+  "durationSeconds": 3204.6
+}
