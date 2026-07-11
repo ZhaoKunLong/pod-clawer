@@ -1,5 +1,24 @@
 [
   {
+    "id": "756babe189094363b3b3241fb85d12d8",
+    "title": "《朝闻天下》 20260711 0800",
+    "url": "https://tv.cctv.cn/2026/07/11/VIDEAD56mrTW0Ug6JbpQvh9M260711.shtml",
+    "date": "2026-07-11",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/11/756babe189094363b3b3241fb85d12d8-1.jpg",
+    "description": "本期节目主要内容：\n    “巴威”再度加强为强台风级，向浙闽靠近；浙江乐清：“巴威”逼近，提前转移受影响区域群众；美国总统称已同意与伊朗继续谈判；霍尔木兹海峡通航量继续下降。\n（《朝闻天下》 20260711 08:00）",
+    "program": "zwtx",
+    "guid": "756babe189094363b3b3241fb85d12d8",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/11/VIDEAD56mrTW0Ug6JbpQvh9M260711.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/756babe189094363b3b3241fb85d12d8/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/756babe189094363b3b3241fb85d12d8/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/756babe189094363b3b3241fb85d12d8/main.m3u8",
+    "createdAt": "2026-07-11T21:03:41.530Z",
+    "durationSeconds": 3139.56
+  },
+  {
     "id": "0eb9b5687df64fe6abfcec4622d588fe",
     "title": "《朝闻天下》 20260710 0800",
     "url": "https://tv.cctv.cn/2026/07/10/VIDE8vJKCe2uw1XohBvy7hHm260710.shtml",
@@ -549,24 +568,5 @@
     "audioSourceUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/70880d082aaf4794927f0ece93d42e52/main.m3u8?maxbr=2048&contentid=16121029231855",
     "createdAt": "2026-06-11T22:14:24.439Z",
     "durationSeconds": 3090.04
-  },
-  {
-    "id": "d7f091cb72fd46df882efd9ba52a1239",
-    "title": "《朝闻天下》 20260610 0800",
-    "url": "https://tv.cctv.cn/2026/06/10/VIDEMqFBQdjlu3zp80vom8sH260610.shtml",
-    "date": "2026-06-10",
-    "broadcastTime": "08:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/06/10/d7f091cb72fd46df882efd9ba52a1239-1.jpg",
-    "description": "本期节目主要内容：\n    习近平和彭丽媛参谒中朝友谊塔；习近平夫妇出席金正恩夫妇举行的小范围午宴；美军称打击伊朗，伊朗南部多地发生爆炸；关注俄乌冲突：俄称打击乌军弹药库，乌称袭击俄燃料设施。\n（《朝闻天下》 20260610 08:00）",
-    "program": "zwtx",
-    "guid": "d7f091cb72fd46df882efd9ba52a1239",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/10/VIDEMqFBQdjlu3zp80vom8sH260610.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d7f091cb72fd46df882efd9ba52a1239/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d7f091cb72fd46df882efd9ba52a1239/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d7f091cb72fd46df882efd9ba52a1239/main.m3u8",
-    "createdAt": "2026-06-10T22:20:58.454Z",
-    "durationSeconds": 3235.16
   }
 ]
