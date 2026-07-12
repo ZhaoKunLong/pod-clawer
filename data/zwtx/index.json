@@ -1,5 +1,24 @@
 [
   {
+    "id": "fcd6243721cb4adb86aa05ce5bfaddff",
+    "title": "《朝闻天下》 20260712 0800",
+    "url": "https://tv.cctv.cn/2026/07/12/VIDEdlOdOm2SYXlE9NnjM7WO260712.shtml",
+    "date": "2026-07-12",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/07/12/fcd6243721cb4adb86aa05ce5bfaddff-1.jpg",
+    "description": "本期节目主要内容：\n    铁路部门多举措守护汛期运输安全；日本：民众集会反对修宪扩军，担忧民生受挤压；伊朗称发射导弹打击一艘违规船只；美军称对伊朗展开本周第三轮打击。\n（《朝闻天下》 20260712 08:00）",
+    "program": "zwtx",
+    "guid": "fcd6243721cb4adb86aa05ce5bfaddff",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/12/VIDEdlOdOm2SYXlE9NnjM7WO260712.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fcd6243721cb4adb86aa05ce5bfaddff/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fcd6243721cb4adb86aa05ce5bfaddff/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fcd6243721cb4adb86aa05ce5bfaddff/main.m3u8",
+    "createdAt": "2026-07-12T21:05:06.375Z",
+    "durationSeconds": 3200.04
+  },
+  {
     "id": "756babe189094363b3b3241fb85d12d8",
     "title": "《朝闻天下》 20260711 0800",
     "url": "https://tv.cctv.cn/2026/07/11/VIDEAD56mrTW0Ug6JbpQvh9M260711.shtml",
@@ -549,24 +568,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b7d7d1f48df74b1c8982093f1912d1ce/main.m3u8",
     "createdAt": "2026-06-12T22:00:55.394Z",
     "durationSeconds": 3217.16
-  },
-  {
-    "id": "70880d082aaf4794927f0ece93d42e52",
-    "title": "《朝闻天下》 20260611 0800",
-    "url": "https://tv.cctv.cn/2026/06/11/VIDEo3d7TgQqjuHDJ5yXtl6P260611.shtml",
-    "date": "2026-06-11",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/11/70880d082aaf4794927f0ece93d42e52-1.jpg",
-    "description": "本期节目主要内容：\n    记者观察：中东总体局势呈现高度脆弱性和不确定性；美国总统称“将再给伊朗几天时间考虑”；关注黎以局势：以军持续袭击黎巴嫩南部致多人死伤；关注巴以局势：以军称打死两名哈马斯负责资金运营人员。\n（《朝闻天下》 20260611 08:00）",
-    "program": "zwtx",
-    "guid": "70880d082aaf4794927f0ece93d42e52",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/11/VIDEo3d7TgQqjuHDJ5yXtl6P260611.shtml",
-    "streamUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/70880d082aaf4794927f0ece93d42e52/main.m3u8?maxbr=2048&contentid=16121029231855",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/70880d082aaf4794927f0ece93d42e52/main.m3u8?maxbr=2048&contentid=16121029231855",
-    "audioSourceUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/70880d082aaf4794927f0ece93d42e52/main.m3u8?maxbr=2048&contentid=16121029231855",
-    "createdAt": "2026-06-11T22:14:24.439Z",
-    "durationSeconds": 3090.04
   }
 ]
