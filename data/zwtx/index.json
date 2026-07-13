@@ -1,5 +1,24 @@
 [
   {
+    "id": "e4e8eaaddfb74f008eb3d0cee6d84033",
+    "title": "《朝闻天下》 20260713 0800",
+    "url": "https://tv.cctv.cn/2026/07/13/VIDE3F4GVoNptuzPwgSRyjW2260713.shtml",
+    "date": "2026-07-13",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/07/13/e4e8eaaddfb74f008eb3d0cee6d84033-1.jpg",
+    "description": "本期节目主要内容：\n    中国经济半年报：超四成小麦晚播，“四补一促”实现产量逆袭；中央气象台继续发布台风蓝色预警：“巴威”深入内陆，减弱为热带风暴；辽宁朝阳：强降雨引发内涝，大凌河出现超警洪水。\n（《朝闻天下》 20260713 08:00）",
+    "program": "zwtx",
+    "guid": "e4e8eaaddfb74f008eb3d0cee6d84033",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/13/VIDE3F4GVoNptuzPwgSRyjW2260713.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e4e8eaaddfb74f008eb3d0cee6d84033/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e4e8eaaddfb74f008eb3d0cee6d84033/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e4e8eaaddfb74f008eb3d0cee6d84033/main.m3u8",
+    "createdAt": "2026-07-13T21:12:24.154Z",
+    "durationSeconds": 3130.76
+  },
+  {
     "id": "fcd6243721cb4adb86aa05ce5bfaddff",
     "title": "《朝闻天下》 20260712 0800",
     "url": "https://tv.cctv.cn/2026/07/12/VIDEdlOdOm2SYXlE9NnjM7WO260712.shtml",
@@ -549,24 +568,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fed02a217e4e4f7f8668aa94d3306985/main.m3u8",
     "createdAt": "2026-06-13T21:37:37.283Z",
     "durationSeconds": 3165.56
-  },
-  {
-    "id": "b7d7d1f48df74b1c8982093f1912d1ce",
-    "title": "《朝闻天下》 20260612 0800",
-    "url": "https://tv.cctv.cn/2026/06/12/VIDEyoJYIcgBqdxJDnjfv8XK260612.shtml",
-    "date": "2026-06-12",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/06/12/b7d7d1f48df74b1c8982093f1912d1ce-1.jpg",
-    "description": "本期节目主要内容：\n    美总统称取消11日晚针对伊朗的打击；伊朗各方强硬回应美方威胁；关注黎以局势：以媒称以军或进一步扩大在黎南部军事行动；欧洲央行宣布加息25个基点。\n（《朝闻天下》 20260612 08:00）",
-    "program": "zwtx",
-    "guid": "b7d7d1f48df74b1c8982093f1912d1ce",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/12/VIDEyoJYIcgBqdxJDnjfv8XK260612.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b7d7d1f48df74b1c8982093f1912d1ce/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b7d7d1f48df74b1c8982093f1912d1ce/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b7d7d1f48df74b1c8982093f1912d1ce/main.m3u8",
-    "createdAt": "2026-06-12T22:00:55.394Z",
-    "durationSeconds": 3217.16
   }
 ]

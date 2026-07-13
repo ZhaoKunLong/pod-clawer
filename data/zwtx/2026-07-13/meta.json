@@ -1,0 +1,19 @@
+{
+  "id": "e4e8eaaddfb74f008eb3d0cee6d84033",
+  "title": "《朝闻天下》 20260713 0800",
+  "url": "https://tv.cctv.cn/2026/07/13/VIDE3F4GVoNptuzPwgSRyjW2260713.shtml",
+  "date": "2026-07-13",
+  "broadcastTime": "08:00",
+  "image": "https://p5.img.cctvpic.com/fmspic/2026/07/13/e4e8eaaddfb74f008eb3d0cee6d84033-1.jpg",
+  "description": "本期节目主要内容：\n    中国经济半年报：超四成小麦晚播，“四补一促”实现产量逆袭；中央气象台继续发布台风蓝色预警：“巴威”深入内陆，减弱为热带风暴；辽宁朝阳：强降雨引发内涝，大凌河出现超警洪水。\n（《朝闻天下》 20260713 08:00）",
+  "program": "zwtx",
+  "guid": "e4e8eaaddfb74f008eb3d0cee6d84033",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/13/VIDE3F4GVoNptuzPwgSRyjW2260713.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e4e8eaaddfb74f008eb3d0cee6d84033/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e4e8eaaddfb74f008eb3d0cee6d84033/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e4e8eaaddfb74f008eb3d0cee6d84033/main.m3u8",
+  "createdAt": "2026-07-13T21:12:24.154Z",
+  "durationSeconds": 3130.76
+}
