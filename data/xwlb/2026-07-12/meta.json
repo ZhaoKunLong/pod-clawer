@@ -1,0 +1,18 @@
+{
+  "id": "VIDEYIiQeTY69cpNbwfffV1L260713",
+  "title": "《新闻联播》 20260712 2100",
+  "url": "https://tv.cctv.com/2026/07/13/VIDEYIiQeTY69cpNbwfffV1L260713.shtml",
+  "date": "2026-07-12",
+  "broadcastTime": "21:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/07/13/b98f13f26f51438aacf1c0392d601a85-1.jpg",
+  "program": "xwlb",
+  "guid": "b98f13f26f51438aacf1c0392d601a85",
+  "sourcePageUrl": "https://tv.cctv.com/2026/07/13/VIDEYIiQeTY69cpNbwfffV1L260713.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/b/9/8/f/b98f13f26f51438aacf1c0392d601a85/mp3/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/b/9/8/f/b98f13f26f51438aacf1c0392d601a85/mp3/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/b/9/8/f/b98f13f26f51438aacf1c0392d601a85/mp3/main.m3u8",
+  "createdAt": "2026-07-13T11:31:17.251Z",
+  "durationSeconds": 1799.88
+}
