@@ -1,5 +1,24 @@
 [
   {
+    "id": "976a7c0963824936ab16af5dea6a5b46",
+    "title": "《新闻联播》 20260713 2100",
+    "url": "https://tv.cctv.cn/2026/07/13/VIDETolIWCFMdHbUJqC6qtiy260713.shtml",
+    "date": "2026-07-13",
+    "broadcastTime": "21:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/07/13/976a7c0963824936ab16af5dea6a5b46-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话；\n2.【新思想引领新征程】人工智能蓬勃兴起 锻造高质量发展新引擎；\n3.李强主持召开经济形势专家和企业家座谈会；\n4.王沪宁会见第十一届世界华侨华人社团联谊大会全体代表；\n5.国务院印发《国民健康“十五五”规划》；\n6.中共中央办公厅 国务院办公厅印发《关于完善自然资源资产管理制度体系的意见》；\n7.台风“巴威”北上 各地各部门全力应对；\n8.【党旗在基层一线高高飘扬】无惧急流 紧急转移被困群众；\n9.上半年铁路客运多项指标创新高 激发消费潜能；\n10.金融多向发力 确保夏粮收购平稳有序；\n11.“七一勋章”获得者陈俊武：许国七十载 志为石化梦；\n12.国内联播快讯：\n（1）我国上半年创新药对外授权交易额超千亿美元；\n（2）中国电商物流指数连续四个月环比回升；\n（3）塔里木油田向西气东输供气突破4000亿立方米；\n（4）第三十二届中国兰州投资贸易洽谈会今天闭幕；\n（5）2026暑期档票房超30亿元 “电影+”活动持续升级；\n13.美军称打击伊朗防空系统 伊朗称打击美军基地设施：\n（1）霍尔木兹海峡通行情况美伊说法不一；\n（2）美伊冲突再起 推动国际油价显著上涨；\n14.国际联播快讯：\n（1）俄称打击乌港口设施 乌称袭击俄炼油厂；\n（2）国际足联将探讨继续扩大世界杯参赛规模。\n（《新闻联播》 20260713 21:00）",
+    "program": "xwlb",
+    "guid": "976a7c0963824936ab16af5dea6a5b46",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/13/VIDETolIWCFMdHbUJqC6qtiy260713.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/976a7c0963824936ab16af5dea6a5b46/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/976a7c0963824936ab16af5dea6a5b46/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/976a7c0963824936ab16af5dea6a5b46/main.m3u8",
+    "createdAt": "2026-07-14T10:12:42.967Z",
+    "durationSeconds": 1799.08
+  },
+  {
     "id": "VIDEYIiQeTY69cpNbwfffV1L260713",
     "title": "《新闻联播》 20260712 2100",
     "url": "https://tv.cctv.com/2026/07/13/VIDEYIiQeTY69cpNbwfffV1L260713.shtml",
@@ -414,24 +433,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/d/5/f/5d5fe3f7e3bd45c1880e0e2b46d37141/mp3/main.m3u8",
     "createdAt": "2026-06-14T11:10:19.576Z",
     "durationSeconds": 1799.32
-  },
-  {
-    "id": "12a7df203bfd4a69ae34c57559b1cef3",
-    "title": "《新闻联播》 20260612 2100",
-    "url": "https://tv.cctv.cn/2026/06/12/VIDERU9rLZMfJGjX45Tt1AzW260612.shtml",
-    "date": "2026-06-12",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/06/12/12a7df203bfd4a69ae34c57559b1cef3-1.jpg",
-    "description": "本期节目主要内容：\n1.应习近平邀请 缅甸总统将对中国进行国事访问；\n2.【牢记初心使命 奋进复兴征程】跨越时空的井冈山精神照亮革命老区高质量发展新路；\n3.赵乐际同新加坡国会议长会谈；\n4.韩正会见新加坡国会议长；\n5.【凝心聚力 真抓实干 奋力实现“十五五”良好开局】科技赋能福建新能源产业建设 云南加快推进“绿电+先进制造”深度融合；\n6.5月末社会融资规模存量458.81万亿元；\n7.市场监管总局等部门约谈7家涉火车票销售第三方平台；\n8.【在希望的田野上】全国小麦收获过八成 夏播进入高峰；\n9.【一线调研】织密全域物流网 畅通经济大动脉；\n10.第48届世界技能大赛将于9月22日至27日在上海举办；\n11.我国不断完善以失能老人照护为重点的基本养老服务体系；\n12.国内联播快讯：\n（1）大湾区内地九市前5个月对APEC其他经济体进出口2.8万亿元；\n（2）《中国个人信息保护报告（2025年）》发布；\n（3）2026年“非遗好物 国潮焕新”非遗消夏购物月启动；\n（4）2026重庆国际动画电影周闭幕；\n（5）入汛以来南方强降雨频繁；\n13.美称美伊或将签署协议 伊称美方不断改变立场影响进程；\n14.国际联播快讯：\n（1）欧洲央行近三年来首次加息；\n（2）报告说全球被迫流离失所者超1.17亿人；\n（3）美中西部遭遇强风暴致大面积停电；\n（4）2026美加墨世界杯开幕。\n（《新闻联播》 20260612 21:00）",
-    "program": "xwlb",
-    "guid": "12a7df203bfd4a69ae34c57559b1cef3",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/12/VIDERU9rLZMfJGjX45Tt1AzW260612.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/2/a/7/12a7df203bfd4a69ae34c57559b1cef3/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/2/a/7/12a7df203bfd4a69ae34c57559b1cef3/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/2/a/7/12a7df203bfd4a69ae34c57559b1cef3/mp3/main.m3u8",
-    "createdAt": "2026-06-13T10:40:56.294Z",
-    "durationSeconds": 1799.4
   }
 ]
