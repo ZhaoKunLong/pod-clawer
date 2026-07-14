@@ -1,0 +1,19 @@
+{
+  "id": "d10fb5195f0741ccb370d33732b8cb8a",
+  "title": "《朝闻天下》 20260714 0600",
+  "url": "https://tv.cctv.cn/2026/07/14/VIDEX8ygIDbCBUSIhOAw0hER260714.shtml",
+  "date": "2026-07-14",
+  "broadcastTime": "06:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/07/14/d10fb5195f0741ccb370d33732b8cb8a-1.jpg",
+  "description": "本期节目主要内容：\n    中国经济半年报：2026年上半年铁路发送旅客23.48亿人次；“七一勋章”获得者陈俊武：许国七十载，志为石化梦；《南海仲裁案裁决新批驳》报告发布·专家：所谓“裁决”是违反国际法坏典型；国际油价13日大幅上涨。（《朝闻天下》 20260714 06:00）",
+  "program": "zwtx",
+  "guid": "d10fb5195f0741ccb370d33732b8cb8a",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/14/VIDEX8ygIDbCBUSIhOAw0hER260714.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d10fb5195f0741ccb370d33732b8cb8a/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d10fb5195f0741ccb370d33732b8cb8a/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d10fb5195f0741ccb370d33732b8cb8a/main.m3u8",
+  "createdAt": "2026-07-14T21:13:58.541Z",
+  "durationSeconds": 3201.16
+}
