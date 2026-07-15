@@ -1,0 +1,19 @@
+{
+  "id": "c3970d80d477439499d06e528e836d4a",
+  "title": "《朝闻天下》 20260715 0800",
+  "url": "https://tv.cctv.cn/2026/07/15/VIDETjSmwyfXWxJvt2y3fVr9260715.shtml",
+  "date": "2026-07-15",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/07/15/c3970d80d477439499d06e528e836d4a-1.jpg",
+  "description": "本期节目主要内容：\n    美再发起对伊打击，伊朗报复袭击美军基地；联合国：霍尔木兹海峡必须保持航运自由；关注黎以局势：以色列与黎巴嫩在罗马举行新一轮谈判；台风“巴威”停止编号。\n（《朝闻天下》 20260715 08:00）",
+  "program": "zwtx",
+  "guid": "c3970d80d477439499d06e528e836d4a",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/15/VIDETjSmwyfXWxJvt2y3fVr9260715.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c3970d80d477439499d06e528e836d4a/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c3970d80d477439499d06e528e836d4a/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c3970d80d477439499d06e528e836d4a/main.m3u8",
+  "createdAt": "2026-07-15T21:14:17.263Z",
+  "durationSeconds": 3094.6
+}
