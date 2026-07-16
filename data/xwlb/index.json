@@ -1,5 +1,24 @@
 [
   {
+    "id": "d2a0aa0a91d4433999abd91c4a8413b0",
+    "title": "《新闻联播》 20260715 2100",
+    "url": "https://tv.cctv.cn/2026/07/15/VIDEah0ZktVJfmfnk7G5da7u260715.shtml",
+    "date": "2026-07-15",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/15/d2a0aa0a91d4433999abd91c4a8413b0-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平在上海考察时强调 全面践行人民城市理念 高质量推进城市更新；\n2.韩正会见新西兰前总理；\n3.上半年GDP同比增长4.7% 中国经济持续向新向优；\n4.上半年金融总量合理增长 信贷结构持续优化；\n5.东北地区全力开展防汛抢险排涝工作；\n6.【树立和践行正确政绩观】办好群众身边事 学习教育见实效；\n7.我国持续推进农村公路提质升级；\n8.【文化中国行】呵护古城肌理 赓续千年姑苏繁华；\n9.国内联播快讯：\n（1）“十五五”时期支持建设200个左右“无废城市”；\n（2）前六个月全社会用电量同比增长5.3%；\n（3）6月份一线城市商品住宅销售价格环比上涨；\n（4）《人工智能拟人化互动服务管理暂行办法》今起施行；\n（5）长三角一体化示范区建设三年行动计划发布；\n（6）《市场监督管理严重违法失信名单管理办法》今起施行；\n（7）我国派专家组加入埃博拉“突发事件管理支持小组”支援非洲疫情防控；\n10.2026上合组织国家文明对话在比什凯克举行；\n11.美国称对伊朗实施打击并恢复海上封锁 伊朗称打击地区内美军基地 美媒称白宫讨论对伊大规模进攻计划 伊朗称美已违反谅解备忘录所有条款；\n12.国际联播快讯：\n（1）黎巴嫩与以色列举行新一轮会谈；\n（2）欧盟上半年从俄进口液化天然气创纪录；\n（3）美联储主席：高通胀已成为过度负担；\n（4）巴黎近郊大火 6人涉嫌引发火情被捕；\n（5）英将对16至17岁青少年实施社媒“宵禁”。\n（《新闻联播》 20260715 21:00）",
+    "program": "xwlb",
+    "guid": "d2a0aa0a91d4433999abd91c4a8413b0",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/15/VIDEah0ZktVJfmfnk7G5da7u260715.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d2a0aa0a91d4433999abd91c4a8413b0/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d2a0aa0a91d4433999abd91c4a8413b0/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d2a0aa0a91d4433999abd91c4a8413b0/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "createdAt": "2026-07-16T10:22:32.303Z",
+    "durationSeconds": 1799.72
+  },
+  {
     "id": "7b4ba94094d74c88a3713a98013ac096",
     "title": "《新闻联播》 20260714 2100",
     "url": "https://tv.cctv.cn/2026/07/14/VIDEZYxrqDvSUpi36StzElx9260714.shtml",
