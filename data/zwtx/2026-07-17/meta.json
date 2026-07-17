@@ -1,0 +1,19 @@
+{
+  "id": "7995cb30ee0e4422860467bd20494cb9",
+  "title": "《朝闻天下》 20260717 0800",
+  "url": "https://tv.cctv.cn/2026/07/17/VIDEmnAtY63yBCH3rDM4kL6V260717.shtml",
+  "date": "2026-07-17",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/07/17/7995cb30ee0e4422860467bd20494cb9-1.jpg",
+  "description": "本期节目主要内容：\n    当AI遇见青年：开放共赢，为全球AI治理提供中国方案；美军连续第六晚对伊朗发动空袭，伊朗谴责；科威特防空系统拦截32架无人机；美媒称伊朗小学遭袭事件调查被美军搁置。\n（《朝闻天下》 20260717 08:00）",
+  "program": "zwtx",
+  "guid": "7995cb30ee0e4422860467bd20494cb9",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/17/VIDEmnAtY63yBCH3rDM4kL6V260717.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7995cb30ee0e4422860467bd20494cb9/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7995cb30ee0e4422860467bd20494cb9/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7995cb30ee0e4422860467bd20494cb9/main.m3u8",
+  "createdAt": "2026-07-17T21:07:22.074Z",
+  "durationSeconds": 3031.8
+}
