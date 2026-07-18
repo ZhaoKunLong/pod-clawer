@@ -1,0 +1,19 @@
+{
+  "id": "2565d3f19e2a4da3b9799306a660606a",
+  "title": "《新闻联播》 20260717 2100",
+  "url": "https://tv.cctv.cn/2026/07/17/VIDENSBsMmSKFnMzdApeXE7q260717.shtml",
+  "date": "2026-07-17",
+  "broadcastTime": "21:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/07/17/2565d3f19e2a4da3b9799306a660606a-1.jpg",
+  "description": "本期节目主要内容：\n1.习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话；\n2.央视快评：携手构建公正合理的全球人工智能治理体系；\n3.习近平会见泰国总理；\n4.习近平会见柬埔寨首相；\n5.习近平会见联合国秘书长；\n6.赵乐际在甘肃调研；\n7.王沪宁对朝鲜进行正式友好访问；\n8.上半年我国涉外收支规模创新高 外汇市场交易量稳步增长；\n9.国务院新闻办举行“促进团结进步 昂扬奋斗力量”中外记者见面会；\n10.美军连续第六晚对伊朗实施打击 伊朗袭击美军基地 霍尔木兹海峡通行持续受阻；\n11.乌总统称军方与国防部存在分歧 已任命新代理防长。\n（《新闻联播》 20260717 21:00）",
+  "program": "xwlb",
+  "guid": "2565d3f19e2a4da3b9799306a660606a",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/17/VIDENSBsMmSKFnMzdApeXE7q260717.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/5/6/5/2565d3f19e2a4da3b9799306a660606a/mp3/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/5/6/5/2565d3f19e2a4da3b9799306a660606a/mp3/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/5/6/5/2565d3f19e2a4da3b9799306a660606a/mp3/main.m3u8",
+  "createdAt": "2026-07-18T09:47:38.789Z",
+  "durationSeconds": 1799.32
+}
