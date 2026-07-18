@@ -1,5 +1,24 @@
 [
   {
+    "id": "99733c1f33bb4066a3b7873357860f2a",
+    "title": "《朝闻天下》 20260718 0800",
+    "url": "https://tv.cctv.cn/2026/07/18/VIDEQHmzzA29KjfCr0PTlE3M260718.shtml",
+    "date": "2026-07-18",
+    "broadcastTime": "08:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/18/99733c1f33bb4066a3b7873357860f2a-1.jpg",
+    "description": "本期节目主要内容：\n    分歧严重，欧盟对俄新一轮制裁谈判陷僵局；重庆彭水发生山体崩塌：1100余人安全转移，保障受灾群众生活；美军连续第七晚发动打击，伊朗多地遭袭；关注巴以局势：以军空袭加沙难民营致8人死亡。\n（《朝闻天下》 20260718 08:00）",
+    "program": "zwtx",
+    "guid": "99733c1f33bb4066a3b7873357860f2a",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/18/VIDEQHmzzA29KjfCr0PTlE3M260718.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/99733c1f33bb4066a3b7873357860f2a/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/99733c1f33bb4066a3b7873357860f2a/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/99733c1f33bb4066a3b7873357860f2a/main.m3u8",
+    "createdAt": "2026-07-18T21:04:16.177Z",
+    "durationSeconds": 3199.56
+  },
+  {
     "id": "7995cb30ee0e4422860467bd20494cb9",
     "title": "《朝闻天下》 20260717 0800",
     "url": "https://tv.cctv.cn/2026/07/17/VIDEmnAtY63yBCH3rDM4kL6V260717.shtml",
@@ -549,24 +568,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8b877dfcff934c38af1d25c416d5c738/main.m3u8",
     "createdAt": "2026-06-19T21:20:51.686Z",
     "durationSeconds": 3193.32
-  },
-  {
-    "id": "c19413113edc48b499a40ada71d595f5",
-    "title": "《朝闻天下》 20260617 0800",
-    "url": "https://tv.cctv.cn/2026/06/17/VIDEIGyJQsLxxYA5Fh6hxkYc260617.shtml",
-    "date": "2026-06-17",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/17/c19413113edc48b499a40ada71d595f5-1.jpg",
-    "description": "本期节目主要内容：\n    伊朗外长：伊美谅解备忘录将在瑞士签署；关注黎以局势：黎以冲突持续，黎巴嫩筹备第五轮谈判；关注俄乌冲突：俄称控制一居民点，乌称袭击俄炼油厂；欧洲议会投票批准欧美贸易协议。\n（《朝闻天下》 20260617 08:00）",
-    "program": "zwtx",
-    "guid": "c19413113edc48b499a40ada71d595f5",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/17/VIDEIGyJQsLxxYA5Fh6hxkYc260617.shtml",
-    "streamUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/c19413113edc48b499a40ada71d595f5/main.m3u8?maxbr=2048&contentid=16121029231855",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/c19413113edc48b499a40ada71d595f5/main.m3u8?maxbr=2048&contentid=16121029231855",
-    "audioSourceUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/c19413113edc48b499a40ada71d595f5/main.m3u8?maxbr=2048&contentid=16121029231855",
-    "createdAt": "2026-06-17T22:12:11.079Z",
-    "durationSeconds": 3154.2
   }
 ]
