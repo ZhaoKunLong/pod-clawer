@@ -1,5 +1,24 @@
 [
   {
+    "id": "f97e33fb9ed34af3970c574db3645e25",
+    "title": "《新闻联播》 20260718 2100",
+    "url": "https://tv.cctv.cn/2026/07/18/VIDERIw20xqzccN85yomXEOA260718.shtml",
+    "date": "2026-07-18",
+    "broadcastTime": "21:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/07/18/f97e33fb9ed34af3970c574db3645e25-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平对重庆彭水县山体崩塌作出重要指示强调 科学组织搜救 加强监测预警和巡查排险 切实保障人民群众生命财产安全 李强作出批示；\n2.让人工智能更好造福人类——习近平主席在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话引发热烈反响；\n3.央视快评：共同促进全球人工智能向上向善、造福人类；\n4.张国清赶赴重庆彭水县指导山体崩塌灾害现场搜救和应急处置工作；\n5.重庆彭水山体崩塌救援安置工作加紧进行；\n6.上半年我国邮政行业寄递业务量同比增长4.2%；\n7.上半年全国铁路完成固定资产投资3632亿元；\n8.多项首发技术和创新成果亮相世界人工智能大会；\n9.【活力中国调研行】开在制造业重镇里的“AI超市”；\n10.“废品”变“资源” 以旧换新激发循环经济新活力；\n11.国内联播快讯：\n（1）“十五五”时期有效保障农用地和建设用地土壤环境安全；\n（2）全国已建成高质量数据集12万个；\n（3）上半年我国民航旅客运输量达3.8亿人次；\n（4）我国部署七大行动促进海水淡化产业发展；\n（5）新疆双口岸2026年中欧班列通行量突破1万列；\n（6）“共青团·伙伴计划”启动实施；\n（7）CMG小喇叭夏令营活动启动；\n12.美媒称美或扩大对伊朗军事行动 伊朗称打击多处美军基地；\n13.国际联播快讯：\n（1）4架无人机在美驻伊拉克领馆附近被击落；\n（2）俄称打击乌港口 乌称实施多轮远程打击；\n（3）德总理称德常规部队将首次参加法核演习；\n（4）伯纳姆当选英国工党党首 将出任首相；\n（5）加拿大林火烟霾影响美国 美威胁征税。\n（《新闻联播》 20260718 21:00）",
+    "program": "xwlb",
+    "guid": "f97e33fb9ed34af3970c574db3645e25",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/18/VIDERIw20xqzccN85yomXEOA260718.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f97e33fb9ed34af3970c574db3645e25/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f97e33fb9ed34af3970c574db3645e25/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f97e33fb9ed34af3970c574db3645e25/main.m3u8",
+    "createdAt": "2026-07-19T10:03:03.790Z",
+    "durationSeconds": 1799.4
+  },
+  {
     "id": "2565d3f19e2a4da3b9799306a660606a",
     "title": "《新闻联播》 20260717 2100",
     "url": "https://tv.cctv.cn/2026/07/17/VIDENSBsMmSKFnMzdApeXE7q260717.shtml",
@@ -451,25 +470,6 @@
     "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/4/b/0/14b0aa635e054d1c8ae943c82559542f/mp3/main.m3u8",
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/4/b/0/14b0aa635e054d1c8ae943c82559542f/mp3/main.m3u8",
     "createdAt": "2026-06-20T10:42:30.471Z",
-    "durationSeconds": 1799.32
-  },
-  {
-    "id": "4c6cbb864fdc4c6fa4c3657ff99fc177",
-    "title": "《新闻联播》 20260617 2100",
-    "url": "https://tv.cctv.cn/2026/06/17/VIDEqHyijsNGPD4nWjjobhaQ260617.shtml",
-    "date": "2026-06-17",
-    "broadcastTime": "21:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/17/4c6cbb864fdc4c6fa4c3657ff99fc177-1.jpg",
-    "description": "本期节目主要内容：\n1.习近平对常态化做好东西部协作工作作出重要指示强调 总结运用闽宁协作等有益经验 不断增强区域发展协调性 推动全体人民共同富裕迈出坚实步伐；\n2.学习贯彻习近平党建思想 深入推进新时代党的建设新的伟大工程；\n3.人民日报评论员文章：加强新时代党的建设的根本遵循——论学习贯彻习近平党建思想；\n4.韩正会见美国前运输部长；\n5.国务院印发《实施就业优先战略“十五五”规划》；\n6.【在希望的田野上】全国夏粮丰收成定局；\n7.中国政府发布关于全球治理的白皮书；\n8.中国戏剧家协会第十次全国代表大会、中国民间文艺家协会第十一次全国代表大会、中国书法家协会第九次全国代表大会在北京召开；\n9.第三十二届北京国际图书博览会在京举办；\n10.我国荒漠化防治取得显著成效；\n11.多项金融开放举措今天发布；\n12.国务院新闻办举行“新征程上的奋斗者”中外记者见面会；\n13.国内联播快讯：\n（1）财政部在香港发行2026年第三期150亿元人民币国债；\n（2）三部门部署端午假期前后安全防范工作；\n（3）《外卖平台补贴行为规范十条（征求意见稿）》公开征求意见；\n（4）2025年全国禁毒部门共破获毒品犯罪案件2.7万起；\n（5）7月1日起全国铁路实行新的列车运行图；\n（6）我国成功发射卫星互联网低轨22组卫星；\n（7）2026新疆文化和旅游发展大会召开；\n14.伊朗称第二阶段谈判将聚焦核问题及解除制裁 美称与伊朗谈判已进入第二阶段 海事情报公司称伊朗油轮驶出美军封锁线 国际油价大幅下跌；\n15.国际联播快讯：\n（1）俄舰在英吉利海峡向一逼近游艇开火示警；\n（2）德国机构警告依赖美AI模型存在风险；\n（3）非疾控警告本轮埃博拉疫情恐严重恶化；\n（4）美国加州和佛州发生林火火灾。\n（《新闻联播》 20260617 21:00）",
-    "program": "xwlb",
-    "guid": "4c6cbb864fdc4c6fa4c3657ff99fc177",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/17/VIDEqHyijsNGPD4nWjjobhaQ260617.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/c/6/c/4c6cbb864fdc4c6fa4c3657ff99fc177/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/c/6/c/4c6cbb864fdc4c6fa4c3657ff99fc177/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/c/6/c/4c6cbb864fdc4c6fa4c3657ff99fc177/mp3/main.m3u8",
-    "createdAt": "2026-06-18T12:03:46.422Z",
     "durationSeconds": 1799.32
   }
 ]
