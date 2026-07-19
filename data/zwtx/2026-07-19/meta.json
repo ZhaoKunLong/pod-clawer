@@ -1,0 +1,19 @@
+{
+  "id": "be7a4939e2f143779a04d227efb925e6",
+  "title": "《朝闻天下》 20260719 0600",
+  "url": "https://tv.cctv.cn/2026/07/19/VIDE9HuTIWmFDVVS2RBOJAty260719.shtml",
+  "date": "2026-07-19",
+  "broadcastTime": "06:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/07/19/be7a4939e2f143779a04d227efb925e6-1.jpg",
+  "description": "本期节目主要内容：\n    外媒聚焦2026世界人工智能大会：中国推动全球AI发展合作与技术交流；2026年上半年，西南油气田天然气产量突破250亿立方米；关注巴以局势：以军空袭加沙城致8人死亡；专家分析：高市内阁支持率为何不断走低？（《朝闻天下》 20260719 06:00）",
+  "program": "zwtx",
+  "guid": "be7a4939e2f143779a04d227efb925e6",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/19/VIDE9HuTIWmFDVVS2RBOJAty260719.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/be7a4939e2f143779a04d227efb925e6/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/be7a4939e2f143779a04d227efb925e6/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/be7a4939e2f143779a04d227efb925e6/main.m3u8",
+  "createdAt": "2026-07-19T21:05:34.099Z",
+  "durationSeconds": 3294.2
+}
