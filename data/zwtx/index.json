@@ -1,5 +1,24 @@
 [
   {
+    "id": "2869045c214a497e95db3c34242a27ea",
+    "title": "《朝闻天下》 20260720 0800",
+    "url": "https://tv.cctv.cn/2026/07/20/VIDEkjSrQMmatoJT7SVRkmio260720.shtml",
+    "date": "2026-07-20",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/07/20/2869045c214a497e95db3c34242a27ea-1.jpg",
+    "description": "本期节目主要内容：\n    中国经济半年报：国开行发放940亿元贷款支持稳外贸稳外资；2026世界人工智能大会：算力创新，打造AI时代新“燃料”；约旦称击落伊朗导弹，将保持最高级别戒备；美伊冲突持续，国际原油期货价格大幅上涨。\n（《朝闻天下》 20260720 08:00）",
+    "program": "zwtx",
+    "guid": "2869045c214a497e95db3c34242a27ea",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/20/VIDEkjSrQMmatoJT7SVRkmio260720.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2869045c214a497e95db3c34242a27ea/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2869045c214a497e95db3c34242a27ea/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2869045c214a497e95db3c34242a27ea/main.m3u8",
+    "createdAt": "2026-07-20T21:22:42.534Z",
+    "durationSeconds": 3174.6
+  },
+  {
     "id": "be7a4939e2f143779a04d227efb925e6",
     "title": "《朝闻天下》 20260719 0600",
     "url": "https://tv.cctv.cn/2026/07/19/VIDE9HuTIWmFDVVS2RBOJAty260719.shtml",
@@ -568,24 +587,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/976d5e4aa33b43268e822b6e277ace54/main.m3u8",
     "createdAt": "2026-06-20T21:40:05.820Z",
     "durationSeconds": 3226.52
-  },
-  {
-    "id": "8b877dfcff934c38af1d25c416d5c738",
-    "title": "《朝闻天下》 20260619 0800",
-    "url": "https://tv.cctv.cn/2026/06/19/VIDEfvgxLo9zeMyNeugMMvZE260619.shtml",
-    "date": "2026-06-19",
-    "broadcastTime": "08:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/06/19/8b877dfcff934c38af1d25c416d5c738-1.jpg",
-    "description": "本期节目主要内容：\n    美伊签署谅解备忘录：伊朗最高领袖持不同意见，但批准相关安排；美伊签署谅解备忘录：多艘船只18日通过霍尔木兹海峡；安理会召开巴以问题紧急公开会，中方对加沙局势表示严重关切。\n（《朝闻天下》 20260619 08:00）",
-    "program": "zwtx",
-    "guid": "8b877dfcff934c38af1d25c416d5c738",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/19/VIDEfvgxLo9zeMyNeugMMvZE260619.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8b877dfcff934c38af1d25c416d5c738/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8b877dfcff934c38af1d25c416d5c738/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8b877dfcff934c38af1d25c416d5c738/main.m3u8",
-    "createdAt": "2026-06-19T21:20:51.686Z",
-    "durationSeconds": 3193.32
   }
 ]
