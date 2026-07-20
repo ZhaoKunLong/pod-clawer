@@ -1,5 +1,24 @@
 [
   {
+    "id": "22088151838c4a788b1ab19e364a694b",
+    "title": "《新闻联播》 20260719 2100",
+    "url": "https://tv.cctv.cn/2026/07/19/VIDEq0sjDnvsKATGapoyWbwz260719.shtml",
+    "date": "2026-07-19",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/19/VIDENa1lowd9Row77kGFhvdP260719.jpg",
+    "description": "本期节目主要内容：\r\n1.【新思想引领新征程】以人民为中心 绘就现代化城市民生幸福新画卷；\r\n2.李希在重庆调研；\r\n3.【树立和践行正确政绩观】为民造福 真抓实干 推动学习教育见行见效；\r\n4.国家四部门部署做好地质灾害风险隐患巡查排查工作；\r\n5.我国国家物流枢纽发展取得明显成效；\r\n6.“七一勋章”获得者吾哈斯·苏来曼：马背上的健康卫士；\r\n7.神舟二十三号乘组在轨近两月 各项工作有序推进；\r\n8.【新闻特写】连接彼此 共创未来；\r\n9.国内联播快讯：\r\n（1）《2026中国AI盛典》暨《全球智惠平台·AI语料场景合作清单》启动；\r\n（2）上海市人形机器人中试服务平台正式启用；\r\n（3）今年上半年深圳累计进出口2.88万亿元；\r\n（4）今年上半年我国西南地区最大油气田产量创新高；\r\n（5）全球最大煤制油项目智能化改造完成；\r\n（6）内蒙古第36届旅游那达慕开幕；\r\n（7）2026年电影票房破200亿元 暑期档超44亿元；\r\n10.美伊持续相互打击对方目标 伊朗称美违反承诺伊方已停止履行谅解备忘录；\r\n11.国际联播快讯：\r\n（1）俄乌相互打击对方物流设施；\r\n（2）以军袭击加沙城 多名儿童死亡；\r\n（3）伊拉克宣布将重修跨国输油管道；\r\n（4）西班牙多地林火灾情扩大。\r\n（《新闻联播》 20260719 21:00）",
+    "program": "xwlb",
+    "guid": "22088151838c4a788b1ab19e364a694b",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/19/VIDEq0sjDnvsKATGapoyWbwz260719.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/22088151838c4a788b1ab19e364a694b/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/22088151838c4a788b1ab19e364a694b/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/22088151838c4a788b1ab19e364a694b/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "createdAt": "2026-07-20T11:15:49.398Z",
+    "durationSeconds": 1799.4
+  },
+  {
     "id": "f97e33fb9ed34af3970c574db3645e25",
     "title": "《新闻联播》 20260718 2100",
     "url": "https://tv.cctv.cn/2026/07/18/VIDERIw20xqzccN85yomXEOA260718.shtml",
