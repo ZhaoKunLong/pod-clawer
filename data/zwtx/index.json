@@ -1,5 +1,24 @@
 [
   {
+    "id": "b0a1f1b9c01f43b088f449005193ce02",
+    "title": "《朝闻天下》 20260721 0800",
+    "url": "https://tv.cctv.cn/2026/07/21/VIDENprqRzBJSoGRHNlo2szf260721.shtml",
+    "date": "2026-07-21",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/21/b0a1f1b9c01f43b088f449005193ce02-1.jpg",
+    "description": "本期节目主要内容：\n    中国经济半年报：2026年上半年规上工业增加值同比增长5.4%；世界人工智能大会达成丰硕成果；美军对伊朗展开新一轮打击行动；联合国对中东多地敌对行动再起深感关切。\n（《朝闻天下》 20260721 08:00）",
+    "program": "zwtx",
+    "guid": "b0a1f1b9c01f43b088f449005193ce02",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/21/VIDENprqRzBJSoGRHNlo2szf260721.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b0a1f1b9c01f43b088f449005193ce02/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b0a1f1b9c01f43b088f449005193ce02/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b0a1f1b9c01f43b088f449005193ce02/main.m3u8",
+    "createdAt": "2026-07-21T21:32:29.298Z",
+    "durationSeconds": 3143.8
+  },
+  {
     "id": "2869045c214a497e95db3c34242a27ea",
     "title": "《朝闻天下》 20260720 0800",
     "url": "https://tv.cctv.cn/2026/07/20/VIDEkjSrQMmatoJT7SVRkmio260720.shtml",
@@ -568,24 +587,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6a7a614dcec54aa28e15e82aadf67d13/main.m3u8",
     "createdAt": "2026-06-21T21:41:01.050Z",
     "durationSeconds": 3180.04
-  },
-  {
-    "id": "976d5e4aa33b43268e822b6e277ace54",
-    "title": "《朝闻天下》 20260620 0800",
-    "url": "https://tv.cctv.cn/2026/06/20/VIDENf9scjKXHKaHoILJipSR260620.shtml",
-    "date": "2026-06-20",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/20/976d5e4aa33b43268e822b6e277ace54-1.jpg",
-    "description": "本期节目主要内容：\n    欧洲理事会主席表示：正建立直接向俄罗斯传递信息的外交渠道；古画里的端午：龙凤竞渡展盛景；贵州铜仁：龙舟赛接连上演，传统民俗氛围浓。\n（《朝闻天下》 20260620 08:00）",
-    "program": "zwtx",
-    "guid": "976d5e4aa33b43268e822b6e277ace54",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/20/VIDENf9scjKXHKaHoILJipSR260620.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/976d5e4aa33b43268e822b6e277ace54/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/976d5e4aa33b43268e822b6e277ace54/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/976d5e4aa33b43268e822b6e277ace54/main.m3u8",
-    "createdAt": "2026-06-20T21:40:05.820Z",
-    "durationSeconds": 3226.52
   }
 ]
