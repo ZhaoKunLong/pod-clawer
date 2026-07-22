@@ -1,5 +1,24 @@
 [
   {
+    "id": "a985053e7f684c0d8b6e0f89dd001d32",
+    "title": "《朝闻天下》 20260722 0800",
+    "url": "https://tv.cctv.cn/2026/07/22/VIDEPSRWDvTe5U7I5cwdYjyD260722.shtml",
+    "date": "2026-07-22",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/22/a985053e7f684c0d8b6e0f89dd001d32-1.jpg",
+    "description": "本期节目主要内容：\n    开局起步“十五五”系列主题新闻发布会：2030年基本建成现代化综合交通运输体系；工业和信息化部：我国将建设国家级零碳工厂、零碳算力设施；伊朗持续打击中东多国的美军目标，巴林、科威特、约旦多地传出爆炸声。\n（《朝闻天下》 20260722 08:00）",
+    "program": "zwtx",
+    "guid": "a985053e7f684c0d8b6e0f89dd001d32",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/22/VIDEPSRWDvTe5U7I5cwdYjyD260722.shtml",
+    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/a985053e7f684c0d8b6e0f89dd001d32/main.m3u8?maxbr=2048",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/a985053e7f684c0d8b6e0f89dd001d32/main.m3u8?maxbr=2048",
+    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/a985053e7f684c0d8b6e0f89dd001d32/main.m3u8?maxbr=2048",
+    "createdAt": "2026-07-22T21:21:05.606Z",
+    "durationSeconds": 3194.68
+  },
+  {
     "id": "b0a1f1b9c01f43b088f449005193ce02",
     "title": "《朝闻天下》 20260721 0800",
     "url": "https://tv.cctv.cn/2026/07/21/VIDENprqRzBJSoGRHNlo2szf260721.shtml",
@@ -568,24 +587,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3b17276e23364ae4a1412388d7611198/main.m3u8",
     "createdAt": "2026-06-22T22:16:28.795Z",
     "durationSeconds": 3299.72
-  },
-  {
-    "id": "6a7a614dcec54aa28e15e82aadf67d13",
-    "title": "《朝闻天下》 20260621 0800",
-    "url": "https://tv.cctv.cn/2026/06/21/VIDECAdeFVrsS7256KChTeMw260621.shtml",
-    "date": "2026-06-21",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/06/21/6a7a614dcec54aa28e15e82aadf67d13-1.jpg",
-    "description": "本期节目主要内容：\n    端午假期第二天，中短途出行活跃；美伊技术层级谈判将于21日在瑞士举行：伊朗谈判代表团抵达瑞士，美副总统已启程；馆长讲述·藏品里悟初心——谁主沉浮：两件藏品里的道路问答。\n（《朝闻天下》 20260621 08:00）",
-    "program": "zwtx",
-    "guid": "6a7a614dcec54aa28e15e82aadf67d13",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/21/VIDECAdeFVrsS7256KChTeMw260621.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6a7a614dcec54aa28e15e82aadf67d13/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6a7a614dcec54aa28e15e82aadf67d13/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6a7a614dcec54aa28e15e82aadf67d13/main.m3u8",
-    "createdAt": "2026-06-21T21:41:01.050Z",
-    "durationSeconds": 3180.04
   }
 ]

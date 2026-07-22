@@ -1,0 +1,19 @@
+{
+  "id": "a985053e7f684c0d8b6e0f89dd001d32",
+  "title": "《朝闻天下》 20260722 0800",
+  "url": "https://tv.cctv.cn/2026/07/22/VIDEPSRWDvTe5U7I5cwdYjyD260722.shtml",
+  "date": "2026-07-22",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/07/22/a985053e7f684c0d8b6e0f89dd001d32-1.jpg",
+  "description": "本期节目主要内容：\n    开局起步“十五五”系列主题新闻发布会：2030年基本建成现代化综合交通运输体系；工业和信息化部：我国将建设国家级零碳工厂、零碳算力设施；伊朗持续打击中东多国的美军目标，巴林、科威特、约旦多地传出爆炸声。\n（《朝闻天下》 20260722 08:00）",
+  "program": "zwtx",
+  "guid": "a985053e7f684c0d8b6e0f89dd001d32",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/22/VIDEPSRWDvTe5U7I5cwdYjyD260722.shtml",
+  "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/a985053e7f684c0d8b6e0f89dd001d32/main.m3u8?maxbr=2048",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/a985053e7f684c0d8b6e0f89dd001d32/main.m3u8?maxbr=2048",
+  "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/a985053e7f684c0d8b6e0f89dd001d32/main.m3u8?maxbr=2048",
+  "createdAt": "2026-07-22T21:21:05.606Z",
+  "durationSeconds": 3194.68
+}
