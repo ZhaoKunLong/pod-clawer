@@ -1,5 +1,24 @@
 [
   {
+    "id": "622b6566e3d3466aa946509b4b09b0ee",
+    "title": "《新闻联播》 20260721 2100",
+    "url": "https://tv.cctv.cn/2026/07/21/VIDE5brAqq7UxPOtEpxFGivu260721.shtml",
+    "date": "2026-07-21",
+    "broadcastTime": "21:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/07/21/622b6566e3d3466aa946509b4b09b0ee-1.jpg",
+    "description": "本期节目主要内容：\n1.【新思想引领新征程】加力推进节能降碳 书写绿色发展新答卷；\n2.李强致电祝贺伯纳姆就任英国首相；\n3.【在希望的田野上】全国粮食生产有序推进；\n4.【“十五五”开好局起好步】2030年我国基本建成现代化综合交通运输体系；\n5.“在高质量发展中保障和改善民生”形势政策系列报告会第五场报告会在京举行；\n6.19项措施促家政服务业高质量发展；\n7.万亿元民营企业再贷款落地 支持民营经济发展；\n8.“七一勋章”获得者钟掘：迎难而上 为国攻坚；\n9.我国2026年度育儿补贴已发放超过2500万人；\n10.免签政策持续发力 入境游市场热力攀升；\n11.书香伴夏 全民阅读点亮暑期生活；\n12.国内联播快讯：\n（1）《推动平台企业赋能个体工商户发展行动方案》印发；\n（2）我国首次启动实施质量督察工作；\n（3）上半年上海外贸出口首破万亿元大关；\n（4）全球首艘41800吨双向航行自卸船在江苏交付；\n（5）西渝高铁七星坪隧道贯通；\n（6）强流重离子加速器装置建成试运行；\n（7）新疆塔里木河第27次生态输水第二阶段启动；\n（8）总台暑期精品节目片单发布；\n13.美国伊朗继续打击对方目标 媒体称美加大中东军事部署 伊朗称已收到调解方停火提议；\n14.国际联播快讯：\n（1）伊拉克民兵武装称或参与对美作战；\n（2）也门胡塞武装宣布对沙特实施海上禁运；\n（3）哈亚出任巴勒斯坦伊斯兰抵抗运动领导人；\n（4）美国将对加拿大数百项商品加征50%关税。\n（《新闻联播》 20260721 21:00）",
+    "program": "xwlb",
+    "guid": "622b6566e3d3466aa946509b4b09b0ee",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/21/VIDE5brAqq7UxPOtEpxFGivu260721.shtml",
+    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/622b6566e3d3466aa946509b4b09b0ee/main.m3u8?maxbr=2048",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/622b6566e3d3466aa946509b4b09b0ee/main.m3u8?maxbr=2048",
+    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/622b6566e3d3466aa946509b4b09b0ee/main.m3u8?maxbr=2048",
+    "createdAt": "2026-07-22T10:35:34.584Z",
+    "durationSeconds": 1799.64
+  },
+  {
     "id": "bb5a7e8ffbd042078bcbf9b3598428c1",
     "title": "《新闻联播》 20260720 2100",
     "url": "https://tv.cctv.cn/2026/07/20/VIDE3XFmUj3tjsWLeLe4u1G0260720.shtml",
@@ -472,23 +491,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/0/f/b/60fbb157ae104e0aa132a5f1258deb28/mp3/main.m3u8",
     "createdAt": "2026-06-22T13:45:21.688Z",
     "durationSeconds": 1801.4
-  },
-  {
-    "id": "VIDE2flMySL99j9yksI4qlbc260620",
-    "title": "《新闻联播》 20260620 1900",
-    "url": "https://tv.cctv.com/2026/06/20/VIDE2flMySL99j9yksI4qlbc260620.shtml",
-    "date": "2026-06-20",
-    "broadcastTime": "19:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/21/449ecfcccf7b46d7a8cafbb196229bec-1.jpg",
-    "program": "xwlb",
-    "guid": "449ecfcccf7b46d7a8cafbb196229bec",
-    "sourcePageUrl": "https://tv.cctv.com/2026/06/20/VIDE2flMySL99j9yksI4qlbc260620.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/4/9/e/449ecfcccf7b46d7a8cafbb196229bec/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/4/9/e/449ecfcccf7b46d7a8cafbb196229bec/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/4/9/e/449ecfcccf7b46d7a8cafbb196229bec/mp3/main.m3u8",
-    "createdAt": "2026-06-21T11:26:32.719Z",
-    "durationSeconds": 1799.88
   }
 ]
