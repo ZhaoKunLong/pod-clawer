@@ -1,0 +1,19 @@
+{
+  "id": "6d42791e014349b08c0889823921f925",
+  "title": "《朝闻天下》 20260723 0800",
+  "url": "https://tv.cctv.cn/2026/07/23/VIDEbpQ9Ck17cJBV1XXOykp6260723.shtml",
+  "date": "2026-07-23",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/07/23/6d42791e014349b08c0889823921f925-1.jpg",
+  "description": "本期节目主要内容：\n    中国经济半年报：造船业三大指标再创新高；美军连续第12晚对伊朗发动军事打击；联合国：美伊冲突正让世界变得更加不安全；胡塞武装对沙特禁运，红海多艘油轮改道。\n（《朝闻天下》 20260723 08:00）",
+  "program": "zwtx",
+  "guid": "6d42791e014349b08c0889823921f925",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/23/VIDEbpQ9Ck17cJBV1XXOykp6260723.shtml",
+  "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/6d42791e014349b08c0889823921f925/main.m3u8?maxbr=2048",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/6d42791e014349b08c0889823921f925/main.m3u8?maxbr=2048",
+  "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/6d42791e014349b08c0889823921f925/main.m3u8?maxbr=2048",
+  "createdAt": "2026-07-23T21:20:26.626Z",
+  "durationSeconds": 3143.96
+}
