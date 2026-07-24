@@ -1,0 +1,19 @@
+{
+  "id": "bf8a2a1b314c462da6dc536ee11864f4",
+  "title": "《朝闻天下》 20260724 08:00",
+  "url": "https://tv.cctv.cn/2026/07/24/VIDEfPnRpkGapHLTQLA3QzeT260724.shtml",
+  "date": "2026-07-24",
+  "broadcastTime": "08:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/07/24/bf8a2a1b314c462da6dc536ee11864f4-1.jpg",
+  "description": "本期节目主要内容：\n    美军连续第13晚对伊朗发动空袭；美国：OpenAI承认其模型失控，侵入抱抱脸系统；法国：西南部山火逼近，距居民区不足300米；我国成功发射天仪48星等五颗卫星。\n（《朝闻天下》 20260724 08:00）",
+  "program": "zwtx",
+  "guid": "bf8a2a1b314c462da6dc536ee11864f4",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/24/VIDEfPnRpkGapHLTQLA3QzeT260724.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/bf8a2a1b314c462da6dc536ee11864f4/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/bf8a2a1b314c462da6dc536ee11864f4/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/bf8a2a1b314c462da6dc536ee11864f4/main.m3u8",
+  "createdAt": "2026-07-24T21:19:46.432Z",
+  "durationSeconds": 3202.76
+}

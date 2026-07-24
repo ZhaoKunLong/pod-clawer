@@ -1,5 +1,24 @@
 [
   {
+    "id": "bf8a2a1b314c462da6dc536ee11864f4",
+    "title": "《朝闻天下》 20260724 08:00",
+    "url": "https://tv.cctv.cn/2026/07/24/VIDEfPnRpkGapHLTQLA3QzeT260724.shtml",
+    "date": "2026-07-24",
+    "broadcastTime": "08:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/24/bf8a2a1b314c462da6dc536ee11864f4-1.jpg",
+    "description": "本期节目主要内容：\n    美军连续第13晚对伊朗发动空袭；美国：OpenAI承认其模型失控，侵入抱抱脸系统；法国：西南部山火逼近，距居民区不足300米；我国成功发射天仪48星等五颗卫星。\n（《朝闻天下》 20260724 08:00）",
+    "program": "zwtx",
+    "guid": "bf8a2a1b314c462da6dc536ee11864f4",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/24/VIDEfPnRpkGapHLTQLA3QzeT260724.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/bf8a2a1b314c462da6dc536ee11864f4/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/bf8a2a1b314c462da6dc536ee11864f4/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/bf8a2a1b314c462da6dc536ee11864f4/main.m3u8",
+    "createdAt": "2026-07-24T21:19:46.432Z",
+    "durationSeconds": 3202.76
+  },
+  {
     "id": "6d42791e014349b08c0889823921f925",
     "title": "《朝闻天下》 20260723 0800",
     "url": "https://tv.cctv.cn/2026/07/23/VIDEbpQ9Ck17cJBV1XXOykp6260723.shtml",
@@ -568,24 +587,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7d30e914b11c40a1a1162ae5040c693e/main.m3u8",
     "createdAt": "2026-06-24T21:44:37.434Z",
     "durationSeconds": 2964.6
-  },
-  {
-    "id": "e866baeb2a564fbd8caf1a365a7206ac",
-    "title": "《朝闻天下》 20260623 0800",
-    "url": "https://tv.cctv.cn/2026/06/23/VIDEfZOAO8SE1RSN9BqIj68Z260623.shtml",
-    "date": "2026-06-23",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/06/23/e866baeb2a564fbd8caf1a365a7206ac-1.jpg",
-    "description": "本期节目主要内容：\n    海军辽宁舰编队完成远海实战化训练；可再生能源消费刚性考核指标出台；伊朗：伊美将继续在专家和技术层面磋商；以色列称将继续维持在黎南部“安全区”。\n（《朝闻天下》 20260623 08:00）",
-    "program": "zwtx",
-    "guid": "e866baeb2a564fbd8caf1a365a7206ac",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/23/VIDEfZOAO8SE1RSN9BqIj68Z260623.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/e866baeb2a564fbd8caf1a365a7206ac/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/e866baeb2a564fbd8caf1a365a7206ac/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/e866baeb2a564fbd8caf1a365a7206ac/main.m3u8?maxbr=2048",
-    "createdAt": "2026-06-23T21:51:22.393Z",
-    "durationSeconds": 3191.08
   }
 ]
