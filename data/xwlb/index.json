@@ -1,5 +1,24 @@
 [
   {
+    "id": "5a8897109e6a4a96adff237e986b5901",
+    "title": "《新闻联播》 20260723 21:00",
+    "url": "https://tv.cctv.cn/2026/07/23/VIDEPqLRmVui3OpjtmaQuqln260723.shtml",
+    "date": "2026-07-23",
+    "broadcastTime": "21:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/07/23/5a8897109e6a4a96adff237e986b5901-1.jpg",
+    "description": "本期节目主要内容：\n1.【“义乌发展经验”启示】因地制宜 探索县域经济发展；\n2.电视专题片《世界义乌——习近平关心引领义乌发展》今晚播出；\n3.不断开创基础教育高质量发展新局面——习近平总书记对基础教育工作作出重要指示引发热烈反响；\n4.中共中央 国务院印发《关于加强新时代社会工作的意见》；\n5.赵乐际同捷克众议长会谈；\n6.王沪宁会见捷克众议长；\n7.国务院印发《全民健身计划（2026—2030年）》；\n8.扩消费稳外贸稳外资 上半年商务发展稳中有进；\n9.“在高质量发展中保障和改善民生”形势政策系列报告会第六场报告会在京举行；\n10.退役军人事务部 中央军委政治工作部 全国双拥工作领导小组办公室联合下发通知 要求做好“八一”期间拥军优属 拥政爱民工作；\n11.国内联播快讯：\n（1）防汛防台风形势复杂 国家防办部署防范应对；\n（2）上半年我国航空公司定期航线超1000条；\n（3）2026暑期档电影票房超50亿元 超百部影片点燃暑期观影热情；\n12.美国称打击伊朗沿海监视站点等目标 伊朗称袭击美军基地 美威胁袭击伊朗基础设施 伊朗称或将阻断中东石油出口；\n13.二十四节气·大暑。\n（《新闻联播》 20260723 21:00）",
+    "program": "xwlb",
+    "guid": "5a8897109e6a4a96adff237e986b5901",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/23/VIDEPqLRmVui3OpjtmaQuqln260723.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/a/8/8/5a8897109e6a4a96adff237e986b5901/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/a/8/8/5a8897109e6a4a96adff237e986b5901/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/a/8/8/5a8897109e6a4a96adff237e986b5901/mp3/main.m3u8",
+    "createdAt": "2026-07-24T10:29:49.927Z",
+    "durationSeconds": 1799.48
+  },
+  {
     "id": "12d26e5ac75a4bd5a321bcd557acdc44",
     "title": "《新闻联播》 20260722 2100",
     "url": "https://tv.cctv.cn/2026/07/22/VIDEvLFmUtbkkcWdG7x3hCV6260722.shtml",
@@ -491,24 +510,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/e/4/e/3/e4e3e6db6fc54ca1ba5e8b164b5c3e73/mp3/main.m3u8",
     "createdAt": "2026-06-25T11:10:19.551Z",
     "durationSeconds": 1799.56
-  },
-  {
-    "id": "60fbb157ae104e0aa132a5f1258deb28",
-    "title": "《新闻联播》 20260622 1900",
-    "url": "https://tv.cctv.cn/2026/06/22/VIDEulK6G1oOvyswfk9L6age260622.shtml",
-    "date": "2026-06-22",
-    "broadcastTime": "19:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/06/22/60fbb157ae104e0aa132a5f1258deb28-1.jpg",
-    "description": "本期节目主要内容：\r\n1.【牢记初心使命 奋进复兴征程】赓续延安精神 书写时代新篇；\r\n2.李强在辽宁大连调研；\r\n3.李强将出席第十七届夏季达沃斯论坛；\r\n4.王沪宁主持召开全国政协主席会议；\r\n5.丁薛祥出席第四届中国国际供应链促进博览会开幕式并作主旨讲话；\r\n6.国家出台多项举措推动利用外资固稳促优；\r\n7.【在希望的田野上】全国夏播进入高峰 科技赋能提质增效；\r\n8.海军辽宁舰编队完成远海实战化训练；\r\n9.全国人大常委会启动青藏高原生态保护法执法检查；\r\n10.南方多地强降雨 各部门多举措应对；\r\n11.国内联播快讯：\r\n（1）中央财政下达农业生产防灾救灾资金2.19亿元；\r\n（2）“十五五”时期全国公共机构单位建筑面积碳排放将力争下降8.5%；\r\n（3）端午假期全国各口岸出入境人员666.7万人次；\r\n（4）端午假期全国食品安全总体平稳；\r\n（5）广肇高速新建金马大桥合龙；\r\n（6）第31届上海电视节开幕；\r\n12.伊美比尔根山首轮谈判结束 建立技术性谈判机制 以称将依自身需要在黎南部长期驻留 黎真主党称侵略者必须撤离；\r\n13.国际联播快讯：\r\n（1）英国首相斯塔默宣布辞职；\r\n（2）俄称打击乌物流中心 乌称持续跨境打击；\r\n（3）美芝加哥发生数十起枪击 至少8人死亡；\r\n（4）欧洲多国发布高温警报。\r\n（《新闻联播》 20260622 19:00）",
-    "program": "xwlb",
-    "guid": "60fbb157ae104e0aa132a5f1258deb28",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/22/VIDEulK6G1oOvyswfk9L6age260622.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/0/f/b/60fbb157ae104e0aa132a5f1258deb28/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/0/f/b/60fbb157ae104e0aa132a5f1258deb28/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/0/f/b/60fbb157ae104e0aa132a5f1258deb28/mp3/main.m3u8",
-    "createdAt": "2026-06-22T13:45:21.688Z",
-    "durationSeconds": 1801.4
   }
 ]
