@@ -1,0 +1,19 @@
+{
+  "id": "fff57d14f68344f598c10aaea3b917c0",
+  "title": "《朝闻天下》 20260727 08:00",
+  "url": "https://tv.cctv.cn/2026/07/27/VIDEsnyPes9YlsEZsaNqVMjt260727.shtml",
+  "date": "2026-07-27",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/07/27/fff57d14f68344f598c10aaea3b917c0-1.jpg",
+  "description": "本期节目主要内容：\n    我国现代化水网建设全面提速：2026年上半年，全国实施水利项目3.3万个；伊朗外交部发言人称：伊美之间信息传递及斡旋方活动仍在进行；关注黎以局势：黎军称以军阻碍其在“试点区域”部署。\n（《朝闻天下》 20260727 08:00）",
+  "program": "zwtx",
+  "guid": "fff57d14f68344f598c10aaea3b917c0",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/07/27/VIDEsnyPes9YlsEZsaNqVMjt260727.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fff57d14f68344f598c10aaea3b917c0/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fff57d14f68344f598c10aaea3b917c0/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fff57d14f68344f598c10aaea3b917c0/main.m3u8",
+  "createdAt": "2026-07-27T21:22:51.911Z",
+  "durationSeconds": 3127.88
+}
