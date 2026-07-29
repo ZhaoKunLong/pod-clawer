@@ -1,5 +1,24 @@
 [
   {
+    "id": "7747a09da37644ea8249e2efc53f70e8",
+    "title": "《朝闻天下》 20260729 08:00",
+    "url": "https://tv.cctv.cn/2026/07/29/VIDEkCYTDMsObm7mG2kiggio260729.shtml",
+    "date": "2026-07-29",
+    "broadcastTime": "08:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/07/29/7747a09da37644ea8249e2efc53f70e8-1.jpg",
+    "description": "本期节目主要内容：\n    中国经济半年报：税收收入稳步增长，产业结构持续优化；日本熊本县发生强震：熊本县古迹熊本城部分石墙坍塌；美总统再次威胁打击伊朗“镐山”地下设施；阿曼提出联合管理霍尔木兹海峡新机制。\n（《朝闻天下》 20260729 08:00）",
+    "program": "zwtx",
+    "guid": "7747a09da37644ea8249e2efc53f70e8",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/29/VIDEkCYTDMsObm7mG2kiggio260729.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7747a09da37644ea8249e2efc53f70e8/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7747a09da37644ea8249e2efc53f70e8/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7747a09da37644ea8249e2efc53f70e8/main.m3u8",
+    "createdAt": "2026-07-29T21:11:43.709Z",
+    "durationSeconds": 3022
+  },
+  {
     "id": "b6e59f31228b4f8fa925cddb4f240d7b",
     "title": "《朝闻天下》 20260728 08:00",
     "url": "https://tv.cctv.cn/2026/07/28/VIDEtCg7K7nxcQ4USFnc0BmR260728.shtml",
@@ -568,24 +587,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/125d59299ff24e9a8d948c4d5b773014/main.m3u8",
     "createdAt": "2026-06-29T21:44:06.659Z",
     "durationSeconds": 3165.24
-  },
-  {
-    "id": "f0ab730c2881411b913b7bd645c35179",
-    "title": "《朝闻天下》 20260628 0800",
-    "url": "https://tv.cctv.cn/2026/06/28/VIDEeM8v9FHZORLVezqVicQO260628.shtml",
-    "date": "2026-06-28",
-    "broadcastTime": "08:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/06/28/f0ab730c2881411b913b7bd645c35179-1.jpg",
-    "description": "本期节目主要内容：\n    伟大征程：以高质量发展引领中国经济航船破浪前行；2026年前五月物流运行数据公布：物流需求平稳增长，结构升级态势持续显现；伊朗方面称将严厉回应违反谅解备忘录行为。\n（《朝闻天下》 20260628 08:00）",
-    "program": "zwtx",
-    "guid": "f0ab730c2881411b913b7bd645c35179",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/28/VIDEeM8v9FHZORLVezqVicQO260628.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f0ab730c2881411b913b7bd645c35179/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f0ab730c2881411b913b7bd645c35179/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f0ab730c2881411b913b7bd645c35179/main.m3u8",
-    "createdAt": "2026-06-28T21:18:34.659Z",
-    "durationSeconds": 3026.76
   }
 ]
