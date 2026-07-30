@@ -1,5 +1,24 @@
 [
   {
+    "id": "1cdba39eef844890b5b8c7c42886a537",
+    "title": "《朝闻天下》 20260730 08:00",
+    "url": "https://tv.cctv.cn/2026/07/30/VIDEBDnpDojtJs0KoZ4dnajE260730.shtml",
+    "date": "2026-07-30",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/30/1cdba39eef844890b5b8c7c42886a537-1.jpg",
+    "description": "本期节目主要内容：\n    美媒称美国重启对伊朗空袭；联合国警告中东冲突扩大，呼吁重返谈判；吉林汪清：强降雨造成河水猛涨，妥善转移安置群众；关注俄乌冲突：俄称继续打击乌港口和货船。\n（《朝闻天下》 20260730 08:00）",
+    "program": "zwtx",
+    "guid": "1cdba39eef844890b5b8c7c42886a537",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/30/VIDEBDnpDojtJs0KoZ4dnajE260730.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1cdba39eef844890b5b8c7c42886a537/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1cdba39eef844890b5b8c7c42886a537/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1cdba39eef844890b5b8c7c42886a537/main.m3u8",
+    "createdAt": "2026-07-30T21:21:49.701Z",
+    "durationSeconds": 3032.92
+  },
+  {
     "id": "7747a09da37644ea8249e2efc53f70e8",
     "title": "《朝闻天下》 20260729 08:00",
     "url": "https://tv.cctv.cn/2026/07/29/VIDEkCYTDMsObm7mG2kiggio260729.shtml",
@@ -568,24 +587,5 @@
     "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/f2989dc146824bcd98cf91f5808946ce/main.m3u8?maxbr=2048",
     "createdAt": "2026-06-30T21:46:03.528Z",
     "durationSeconds": 3139.88
-  },
-  {
-    "id": "125d59299ff24e9a8d948c4d5b773014",
-    "title": "《朝闻天下》 20260629 0800",
-    "url": "https://tv.cctv.cn/2026/06/29/VIDESVXpY8QMdMjP9W0q0FXE260629.shtml",
-    "date": "2026-06-29",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/06/29/125d59299ff24e9a8d948c4d5b773014-1.jpg",
-    "description": "本期节目主要内容：\n    委内瑞拉发生7级以上强震：委内瑞拉地震遇难人数上升至1450人；伊朗称摧毁8处美军重要基础设施；关注黎以局势：黎真主党议员指责黎政府签署“投降协议”；关注俄乌冲突：俄称继续在顿涅茨克两城镇推进。\n（《朝闻天下》 20260629 08:00）",
-    "program": "zwtx",
-    "guid": "125d59299ff24e9a8d948c4d5b773014",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/29/VIDESVXpY8QMdMjP9W0q0FXE260629.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/125d59299ff24e9a8d948c4d5b773014/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/125d59299ff24e9a8d948c4d5b773014/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/125d59299ff24e9a8d948c4d5b773014/main.m3u8",
-    "createdAt": "2026-06-29T21:44:06.659Z",
-    "durationSeconds": 3165.24
   }
 ]
