@@ -1,5 +1,24 @@
 [
   {
+    "id": "ca454202b8364e5c8e273ca46301cac2",
+    "title": "《朝闻天下》 20260731 08:00",
+    "url": "https://tv.cctv.cn/2026/07/31/VIDE15LqDGcmiRGKAYsllDpQ260731.shtml",
+    "date": "2026-07-31",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/07/31/ca454202b8364e5c8e273ca46301cac2-1.jpg",
+    "description": "本期节目主要内容：\n    就当前经济形势和下半年经济工作，中共中央召开党外人士座谈会，习近平主持并发表重要讲话；《工业绿色低碳发展“十五五”规划》发布；民政部：我国民生兜底保障水平稳步提升；联合国秘书长遴选首轮意向性投票举行。\n（《朝闻天下》 20260731 08:00）",
+    "program": "zwtx",
+    "guid": "ca454202b8364e5c8e273ca46301cac2",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/07/31/VIDE15LqDGcmiRGKAYsllDpQ260731.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ca454202b8364e5c8e273ca46301cac2/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ca454202b8364e5c8e273ca46301cac2/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ca454202b8364e5c8e273ca46301cac2/main.m3u8",
+    "createdAt": "2026-07-31T21:19:25.577Z",
+    "durationSeconds": 3139.24
+  },
+  {
     "id": "1cdba39eef844890b5b8c7c42886a537",
     "title": "《朝闻天下》 20260730 08:00",
     "url": "https://tv.cctv.cn/2026/07/30/VIDEBDnpDojtJs0KoZ4dnajE260730.shtml",
@@ -568,24 +587,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1e55516f25b64669802c63d307aeea8a/main.m3u8",
     "createdAt": "2026-07-01T21:46:22.489Z",
     "durationSeconds": 3129.96
-  },
-  {
-    "id": "f2989dc146824bcd98cf91f5808946ce",
-    "title": "《朝闻天下》 20260629 0800",
-    "url": "https://tv.cctv.cn/2026/06/30/VIDEQUSBPjh8KkKuRJe7IBoX260630.shtml",
-    "date": "2026-06-30",
-    "broadcastTime": "08:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/06/30/f2989dc146824bcd98cf91f5808946ce-1.jpg",
-    "description": "本期节目主要内容：\n    委内瑞拉发生7级以上强震：委内瑞拉地震遇难人数上升至1450人；伊朗称摧毁8处美军重要基础设施；关注黎以局势：黎真主党议员指责黎政府签署“投降协议”；关注俄乌冲突：俄称继续在顿涅茨克两城镇推进。\n（《朝闻天下》 20260629 08:00）",
-    "program": "zwtx",
-    "guid": "f2989dc146824bcd98cf91f5808946ce",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/06/30/VIDEQUSBPjh8KkKuRJe7IBoX260630.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/f2989dc146824bcd98cf91f5808946ce/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/f2989dc146824bcd98cf91f5808946ce/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/f2989dc146824bcd98cf91f5808946ce/main.m3u8?maxbr=2048",
-    "createdAt": "2026-06-30T21:46:03.528Z",
-    "durationSeconds": 3139.88
   }
 ]
