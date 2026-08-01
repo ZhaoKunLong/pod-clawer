@@ -1,0 +1,19 @@
+{
+  "id": "a8986cff6a964d7aaddb6c8ac4a29d55",
+  "title": "《朝闻天下》 20260725 08:00",
+  "url": "https://tv.cctv.cn/2026/08/01/VIDEX3wYlUUIWEYUAhf9wR83260801.shtml",
+  "date": "2026-08-01",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/08/01/a8986cff6a964d7aaddb6c8ac4a29d55-1.jpg",
+  "description": "本期节目主要内容：\n    中国经济半年报：上半年农业农村经济运行保持稳中向好势头；商务部：将14家欧盟实体列入出口管制管控名单；美媒报道称：美英筹划召开霍尔木兹海峡问题国际会议；内塔尼亚胡将访美，28日与特朗普会晤。\n（《朝闻天下》 20260725 08:00）",
+  "program": "zwtx",
+  "guid": "a8986cff6a964d7aaddb6c8ac4a29d55",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/01/VIDEX3wYlUUIWEYUAhf9wR83260801.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a8986cff6a964d7aaddb6c8ac4a29d55/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a8986cff6a964d7aaddb6c8ac4a29d55/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a8986cff6a964d7aaddb6c8ac4a29d55/main.m3u8",
+  "createdAt": "2026-08-01T21:08:50.943Z",
+  "durationSeconds": 2524.04
+}
