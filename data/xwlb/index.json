@@ -1,5 +1,24 @@
 [
   {
+    "id": "3be19a6cfbf5417fb5a790c62248ce8e",
+    "title": "《新闻联播》 20260801 21:00",
+    "url": "https://tv.cctv.cn/2026/08/01/VIDEifS7jV7lMsMDQPNQwnsJ260801.shtml",
+    "date": "2026-08-01",
+    "broadcastTime": "21:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/01/3be19a6cfbf5417fb5a790c62248ce8e-1.jpg",
+    "description": "本期节目主要内容：\n1.《求是》杂志发表习近平总书记重要文章《加快建设健康中国》；\n2.【新思想引领新征程】在党的旗帜下书写强军兴军新荣光；\n3.我国现代化水网建设提速；\n4.邮政行业寄递业务量2030年将达2900亿件；\n5.第十二批国家组织药品集采开标 药品可及性持续提升；\n6.超长期特别国债资金精准发力 加快补齐民生短板；\n7.铁路暑运过半 消夏旅游列车激发消费活力；\n8.国内联播快讯：\n（1）水利部发布《中国节约用水报告2025》；\n（2）《退役军人就业创业促进条例》今起正式实施；\n（3）《黄岩岛国家级自然保护区管理办法》印发；\n（4）中东部高温天气持续 东北局地防汛救灾加紧进行；\n（5）中国—乌兹别克斯坦“经认证的经营者”（AEO）互认安排正式实施；\n（6）穗深城际全线贯通 广深两大机场轨道直连；\n（7）雄商高铁河北段今天进入运行试验阶段；\n（8）海南首个“华龙一号”核电机组并网发电；\n（9）百吨级纯电双向行驶无人驾驶矿用自卸车成功投运；\n（10）第三批中国专家组赴刚果（金）支援埃博拉疫情防控；\n（11）2026中国西藏第七届跨喜马拉雅国际公路自行车极限赛开幕；\n9.美媒披露美以欲猛烈轰炸伊朗能源设施 伊朗称已制定全面应对计划；\n10.西班牙飞地移民危机死亡人数升至67人 意大利暂停与西班牙的申根自由通行机制 法德称加强边境管控；\n11.法国东南部林火再度蔓延 罗马尼亚全国因干旱缺电进入警报状态 世界气象组织称厄尔尼诺持续增强；\n12.国际联播快讯：\n（1）美称向乌转让导弹生产技术须非常谨慎；\n（2）哈马斯称移交武器前提是以军撤离加沙；\n（3）人工智能发展推升一季度全球商品贸易；\n（4）美军一架F-35隐形战机在加州坠毁；\n（5）遭强烈反对 国际足联放弃新商业提案。\n（《新闻联播》 20260801 21:00）",
+    "program": "xwlb",
+    "guid": "3be19a6cfbf5417fb5a790c62248ce8e",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/01/VIDEifS7jV7lMsMDQPNQwnsJ260801.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3be19a6cfbf5417fb5a790c62248ce8e/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3be19a6cfbf5417fb5a790c62248ce8e/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3be19a6cfbf5417fb5a790c62248ce8e/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "createdAt": "2026-08-02T10:10:24.664Z",
+    "durationSeconds": 1799
+  },
+  {
     "id": "fd2f686b51ed43c18eee3e619f40fc01",
     "title": "《新闻联播》 20260731 21:00",
     "url": "https://tv.cctv.cn/2026/07/31/VIDEnfPbeuvwU6cxaT6LmKAJ260731.shtml",
@@ -529,24 +548,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/c/8/9/0c8970fac15b4c99be8d0edebe9361dd/mp3/main.m3u8",
     "createdAt": "2026-07-03T11:01:38.986Z",
     "durationSeconds": 1799.32
-  },
-  {
-    "id": "e01b28fa00a44fe281a207ebee2aac32",
-    "title": "《新闻联播》 20260701 2100",
-    "url": "https://tv.cctv.cn/2026/07/01/VIDEnXWst1pzgRcXVcc9PRX4260701.shtml",
-    "date": "2026-07-01",
-    "broadcastTime": "21:00",
-    "image": "https://p3.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/1/VIDEOGVPvpRez4oxRIuTIXcq260701.jpg",
-    "description": "本期节目主要内容：\r\n1.庆祝中国共产党成立105周年大会在京隆重举行；\r\n2.《求是》杂志发表习近平总书记重要文章《做焦裕禄式的县委书记》；\r\n3.习近平致电祝贺德拉埃斯普列亚当选哥伦比亚总统；\r\n4.践行初心使命 不断创造无愧于时代和人民的新业绩——习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话引发热烈反响；\r\n5.央视快评：牢记“三个务必” 奋力创造新的历史辉煌；\r\n6.庆祝中国共产党成立105周年音乐会今晚播出；\r\n7.世界政党政要热烈祝贺中国共产党成立105周年；\r\n8.香港举行升旗仪式庆祝回归祖国29周年；\r\n9.联播快讯：\r\n（1）中央档案馆向社会集中开放一批馆藏档案；\r\n（2）全国铁路暑运启动 预计发送旅客10.1亿人次；\r\n（3）我国今天全面进入主汛期；\r\n（4）北京市郊铁路城市副中心线西段开通运营；\r\n（5）中企参建的阿联酋首条客运铁路试运营；\r\n（6）委内瑞拉一3岁儿童在强震6天后获救；\r\n（7）联合国报告称极端天气将冲击交通系统。\r\n（《新闻联播》 20260701 21:00）",
-    "program": "xwlb",
-    "guid": "e01b28fa00a44fe281a207ebee2aac32",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/01/VIDEnXWst1pzgRcXVcc9PRX4260701.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/e/0/1/b/e01b28fa00a44fe281a207ebee2aac32/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/e/0/1/b/e01b28fa00a44fe281a207ebee2aac32/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/e/0/1/b/e01b28fa00a44fe281a207ebee2aac32/mp3/main.m3u8",
-    "createdAt": "2026-07-02T11:03:24.989Z",
-    "durationSeconds": 2519.32
   }
 ]
