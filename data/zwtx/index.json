@@ -1,5 +1,24 @@
 [
   {
+    "id": "d0ab8e3d62614af2aad95ed22676c680",
+    "title": "《朝闻天下》 20260803 06:00",
+    "url": "https://tv.cctv.cn/2026/08/03/VIDEkev20yRhwDIvJicL3Xz8260803.shtml",
+    "date": "2026-08-03",
+    "broadcastTime": "06:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/03/d0ab8e3d62614af2aad95ed22676c680-1.jpg",
+    "description": "本期节目主要内容：\n    一声“阿嬷”跨海峡，两岸文脉割不断；中国空间站：首次在轨连续培养两代水稻实验进展顺利；两部门发布黄色地质灾害气象风险预警：8省份部分地区地质灾害风险较高。（《朝闻天下》 20260803 06:00）",
+    "program": "zwtx",
+    "guid": "d0ab8e3d62614af2aad95ed22676c680",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/03/VIDEkev20yRhwDIvJicL3Xz8260803.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d0ab8e3d62614af2aad95ed22676c680/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d0ab8e3d62614af2aad95ed22676c680/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d0ab8e3d62614af2aad95ed22676c680/main.m3u8",
+    "createdAt": "2026-08-03T21:19:44.896Z",
+    "durationSeconds": 3261.16
+  },
+  {
     "id": "cbf0cfea73724b6d96e74bb2441e17b1",
     "title": "《朝闻天下》 20260802 08:00",
     "url": "https://tv.cctv.cn/2026/08/02/VIDEmLF8q4GcCCUVB69W2IZ5260802.shtml",
@@ -568,24 +587,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e90621897aa842e391b48a746f0dc9a1/main.m3u8",
     "createdAt": "2026-07-04T21:13:53.790Z",
     "durationSeconds": 3188.6
-  },
-  {
-    "id": "48a979a356274600b1426523aadcf7fd",
-    "title": "《朝闻天下》 20260703 0800",
-    "url": "https://tv.cctv.cn/2026/07/03/VIDElB8ziOgn4egWXDkzgfHU260703.shtml",
-    "date": "2026-07-03",
-    "broadcastTime": "08:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/07/03/48a979a356274600b1426523aadcf7fd-1.jpg",
-    "description": "本期节目主要内容：\n    国务院残疾人工作委员会印发《残疾人保障和发展“十五五”规划》；“七一勋章”获得者马善祥：矛盾化解践初心；伊武装部队：美干涉霍尔木兹海峡将遭回应。\n（《朝闻天下》 20260703 08:00）",
-    "program": "zwtx",
-    "guid": "48a979a356274600b1426523aadcf7fd",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/03/VIDElB8ziOgn4egWXDkzgfHU260703.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/48a979a356274600b1426523aadcf7fd/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/48a979a356274600b1426523aadcf7fd/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/48a979a356274600b1426523aadcf7fd/main.m3u8",
-    "createdAt": "2026-07-03T21:21:58.845Z",
-    "durationSeconds": 3019.88
   }
 ]
