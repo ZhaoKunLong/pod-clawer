@@ -1,5 +1,24 @@
 [
   {
+    "id": "62ccad746477487691cca213658dd001",
+    "title": "《新闻联播》 20260803 2100",
+    "url": "https://tv.cctv.cn/2026/08/03/VIDEUPJORAhUUhlaoBA77Rgi260803.shtml",
+    "date": "2026-08-03",
+    "broadcastTime": "21:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/03/62ccad746477487691cca213658dd001-1.jpg",
+    "description": "本期节目主要内容：\n1.【奋力开创中国式现代化建设新局面——习近平总书记今年以来治国理政纪实】扎扎实实以科技创新支撑和引领中国式现代化；\n2.蔡奇看望慰问北戴河暑期休假专家；\n3.【树立和践行正确政绩观】惠民生促发展 推动学习教育取得实效；\n4.上半年全国生态环境质量持续改善；\n5.上半年我国海洋生产总值5.5万亿元；\n6.我国加快构建绿色低碳电力供给格局；\n7.中欧班列高质量发展取得显著成效；\n8.西部多地持续强降雨 各地积极应对；\n9.国内联播快讯：\n（1）上半年我国软件业务收入同比增长9.5%；\n（2）1至7月全国新开国际航空货运航线超100条；\n（3）粤港澳大湾区首个“华龙一号”项目一期工程全面建成；\n10.美总统称美伊将于8月3日举行谈判 伊朗称目前没有与美国举行会谈 伊朗称与阿曼讨论划定霍尔木兹海峡新航线；\n11.美国华盛顿州林火致数百栋建筑被毁 6万人接到疏散令 希腊林火逼近首都雅典 两架消防直升机相撞；\n12.国际联播快讯：\n（1）以军连日空袭加沙地带致18人死亡；\n（2）俄击落超1100架无人机 俄媒称创新高；\n（3）“欧佩克+”主要产油国决定9月继续增产；\n（4）日本与美国15年来首次联合干预汇市；\n（5）美媒称移民执法机构单月拘捕人数创新高。\n（《新闻联播》 20260803 21:00）",
+    "program": "xwlb",
+    "guid": "62ccad746477487691cca213658dd001",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/03/VIDEUPJORAhUUhlaoBA77Rgi260803.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/2/c/c/62ccad746477487691cca213658dd001/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/2/c/c/62ccad746477487691cca213658dd001/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/2/c/c/62ccad746477487691cca213658dd001/mp3/main.m3u8",
+    "createdAt": "2026-08-04T10:58:53.743Z",
+    "durationSeconds": 1799.56
+  },
+  {
     "id": "3be19a6cfbf5417fb5a790c62248ce8e",
     "title": "《新闻联播》 20260801 21:00",
     "url": "https://tv.cctv.cn/2026/08/01/VIDEifS7jV7lMsMDQPNQwnsJ260801.shtml",
@@ -529,24 +548,5 @@
     "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/1e2df4ea548f4ec091d0fe3389453f2b/main.m3u8?maxbr=2048&contentid=15120519184043",
     "createdAt": "2026-07-05T10:30:09.418Z",
     "durationSeconds": 1799.64
-  },
-  {
-    "id": "0c8970fac15b4c99be8d0edebe9361dd",
-    "title": "《新闻联播》 20260702 2100",
-    "url": "https://tv.cctv.cn/2026/07/02/VIDEoar38Sec5FkNwJtU0ZbK260702.shtml",
-    "date": "2026-07-02",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/02/0c8970fac15b4c99be8d0edebe9361dd-1.jpg",
-    "description": "本期节目主要内容：\n1.奋进新征程 建功新时代 奋力创造新的历史辉煌——习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话引发热烈反响；\n2.《习近平谈治国理政》第五卷土耳其推介会在安卡拉举行；\n3.各地庆祝建党105周年 凝聚新征程奋进力量；\n4.“七一勋章”获得者马善祥：矛盾化解践初心；\n5.前5个月我国知识密集型服务出口增长12.2%；\n6.机电产品出口增势良好 外贸发展质效双升；\n7.各地采取有力措施做好防汛防台风工作；\n8.国内联播快讯：\n（1）2026年高校毕业生等青年就业服务攻坚行动启动；\n（2）市场监管总局开展食品抽检队伍扩容提质增效行动；\n（3）北京人工智能赋能科学研究实施方案启动；\n（4）中老铁路累计进出口货值突破900亿元；\n（5）中俄蒙“万里茶道”十条跨境精品旅游线路发布；\n9.国际人士高度评价习近平在庆祝中国共产党成立105周年大会上的重要讲话；\n10.国际联播快讯：\n（1）俄称在日本部署美导弹严重破坏亚太稳定；\n（2）美国称不同意以现有形式续签美墨加协定；\n（3）“北溪”爆炸案一乌克兰嫌疑人被德起诉；\n（4）欧盟法院驳回上诉 谷歌面临巨额罚单；\n（5）美军一直升机在阿拉伯海紧急水上迫降；\n（6）机构称6月单日全球海面平均温度破纪录。\n（《新闻联播》 20260702 21:00）",
-    "program": "xwlb",
-    "guid": "0c8970fac15b4c99be8d0edebe9361dd",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/02/VIDEoar38Sec5FkNwJtU0ZbK260702.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/c/8/9/0c8970fac15b4c99be8d0edebe9361dd/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/c/8/9/0c8970fac15b4c99be8d0edebe9361dd/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/c/8/9/0c8970fac15b4c99be8d0edebe9361dd/mp3/main.m3u8",
-    "createdAt": "2026-07-03T11:01:38.986Z",
-    "durationSeconds": 1799.32
   }
 ]
