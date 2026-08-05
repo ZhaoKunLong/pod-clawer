@@ -1,5 +1,24 @@
 [
   {
+    "id": "5472b0df343f41d99b678259dc45cc1f",
+    "title": "《朝闻天下》 20260805 08:00",
+    "url": "https://tv.cctv.cn/2026/08/05/VIDEGlwXhsLJrLsEpRoBJ3Va260805.shtml",
+    "date": "2026-08-05",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/05/5472b0df343f41d99b678259dc45cc1f-1.jpg",
+    "description": "本期节目主要内容：\n    国家邮政局对申通快递立案调查；韩国抗议日《防卫白皮书》有关独岛主张；美称美伊即将就霍尔木兹海峡通行达成协议；也门胡塞武装称袭击沙特一机场。\n（《朝闻天下》 20260805 08:00）",
+    "program": "zwtx",
+    "guid": "5472b0df343f41d99b678259dc45cc1f",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/05/VIDEGlwXhsLJrLsEpRoBJ3Va260805.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5472b0df343f41d99b678259dc45cc1f/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5472b0df343f41d99b678259dc45cc1f/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5472b0df343f41d99b678259dc45cc1f/main.m3u8",
+    "createdAt": "2026-08-05T21:23:55.560Z",
+    "durationSeconds": 3160.04
+  },
+  {
     "id": "329d47b33b6b49839808795c5d6a86d2",
     "title": "《朝闻天下》 20260804 08:00",
     "url": "https://tv.cctv.cn/2026/08/04/VIDEme5noY6yYjSFEVz7MW5x260804.shtml",
@@ -568,24 +587,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9a94b4779b3847faad25b0829b07c67e/main.m3u8",
     "createdAt": "2026-07-06T21:46:31.608Z",
     "durationSeconds": 3143.64
-  },
-  {
-    "id": "c1a91c831dd8477da49ffa179af64928",
-    "title": "《朝闻天下》 20260705 0800",
-    "url": "https://tv.cctv.cn/2026/07/05/VIDEWow6BqvX4jSpyAjoje8P260705.shtml",
-    "date": "2026-07-05",
-    "broadcastTime": "08:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/07/05/c1a91c831dd8477da49ffa179af64928-1.jpg",
-    "description": "本期节目主要内容：\n    2026年前5个月我国机器人出口近200亿元；关注俄乌冲突：俄乌针对对方目标发动大规模袭击；民众举行抗议集会，反对日本政府扩军备武；美国：罕见热浪来袭，多地“独立日”活动取消。\n（《朝闻天下》 20260705 08:00）",
-    "program": "zwtx",
-    "guid": "c1a91c831dd8477da49ffa179af64928",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/05/VIDEWow6BqvX4jSpyAjoje8P260705.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c1a91c831dd8477da49ffa179af64928/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c1a91c831dd8477da49ffa179af64928/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c1a91c831dd8477da49ffa179af64928/main.m3u8",
-    "createdAt": "2026-07-05T21:18:39.987Z",
-    "durationSeconds": 3122.2
   }
 ]
