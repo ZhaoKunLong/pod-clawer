@@ -1,5 +1,24 @@
 [
   {
+    "id": "1bd70d2589034626b75162cce2f9c82a",
+    "title": "《新闻联播》 20260804 21:00",
+    "url": "https://tv.cctv.cn/2026/08/04/VIDEdcoXnSVHV595jgf33Ejv260804.shtml",
+    "date": "2026-08-04",
+    "broadcastTime": "21:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/08/04/1bd70d2589034626b75162cce2f9c82a-1.jpg",
+    "description": "本期节目主要内容：\n1.【奋力开创中国式现代化建设新局面——习近平总书记今年以来治国理政纪实】把老百姓关切的事一件一件办好；\n2.大科学装置建设全面提速 创新成果涌现；\n3.物流业景气指数继续扩张 市场需求进一步向好；\n4.国务院成立重庆彭水汉葭街道“7·17”特别重大山体崩塌灾害调查评估组；\n5.【一线调研】风雨过后茉莉开；\n6.暑期游持续升温 激发城乡消费活力；\n7.国内联播快讯：\n（1）《全国地质灾害防治“十五五”实施方案》印发；\n（2）今年上半年大宗食品抽检合格率99.51%；\n（3）《全国义务教育阶段科学教育“做中学”领航行动指南》发布；\n（4）百日千万招聘专项行动推出四个专场招聘；\n（5）2026年6至7月厄尔尼诺状态持续加强；\n8.美国多地林火失控 美媒称大火或持续数周 欧洲多国高温干旱 林火肆虐；\n9.国际联播快讯：\n（1）美称美伊正进行谈判并再次威胁伊朗；\n（2）俄舰队在太平洋西北部海域演习；\n（3）一艘土耳其货船在黑海遭无人机袭击；\n（4）美国多州联合起诉美政府新关税政策；\n（5）韩国抗议日本《防卫白皮书》涉独岛主张；\n（6）古巴24小时内发生两次全国停电。\n（《新闻联播》 20260804 21:00）",
+    "program": "xwlb",
+    "guid": "1bd70d2589034626b75162cce2f9c82a",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/04/VIDEdcoXnSVHV595jgf33Ejv260804.shtml",
+    "streamUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/1bd70d2589034626b75162cce2f9c82a/main.m3u8?maxbr=2048&contentid=161251027175538",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/1bd70d2589034626b75162cce2f9c82a/main.m3u8?maxbr=2048&contentid=161251027175538",
+    "audioSourceUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/1bd70d2589034626b75162cce2f9c82a/main.m3u8?maxbr=2048&contentid=161251027175538",
+    "createdAt": "2026-08-05T10:47:43.619Z",
+    "durationSeconds": 1799.32
+  },
+  {
     "id": "62ccad746477487691cca213658dd001",
     "title": "《新闻联播》 20260803 2100",
     "url": "https://tv.cctv.cn/2026/08/03/VIDEUPJORAhUUhlaoBA77Rgi260803.shtml",
@@ -529,24 +548,5 @@
     "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/98896b70fa074006925b0b7b2a4bf61f/main.m3u8?maxbr=2048&contentid=15120519184043",
     "createdAt": "2026-07-06T12:16:10.999Z",
     "durationSeconds": 1799.56
-  },
-  {
-    "id": "1e2df4ea548f4ec091d0fe3389453f2b",
-    "title": "《新闻联播》 20260704 2100",
-    "url": "https://tv.cctv.cn/2026/07/04/VIDEfTA4irt4L7NpfZyr2JAH260704.shtml",
-    "date": "2026-07-04",
-    "broadcastTime": "21:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/07/04/1e2df4ea548f4ec091d0fe3389453f2b-1.jpg",
-    "description": "本期节目主要内容：\n1.牢记初心使命 勇担时代重任——习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话引发热烈反响；\n2.为中华民族伟大复兴凝聚磅礴力量——习近平主席重要讲话引发港澳台人士热烈反响；\n3.《习近平谈治国理政》第五卷中斯读者会在斯里兰卡首都科伦坡举行；\n4.“七一勋章”获得者李连成：当干部就应该能吃亏；\n5.“七一”前后红色文艺作品集中上演 传承革命精神；\n6.我国加快建设循环经济高质量发展体系；\n7.【活力中国调研行】天津：打通科研成果转化“最后一公里”；\n8.各地积极应对强降雨天气；\n9.【暖心一瞬】危急时刻伸援手 凡人善举暖人心；\n10.国内联播快讯：\n（1）四部门延续实施失业保险稳岗扩岗政策举措；\n（2）《国际科技组织成立登记指引》出台；\n（3）西渝高铁石家梁隧道贯通；\n（4）全球数字经济首批灯塔案例在北京发布；\n11.多国人士高度评价习近平在庆祝中国共产党成立105周年大会上的重要讲话；\n12.俄称控制重镇康斯坦丁诺夫卡 乌称袭击圣彼得堡；\n13.国际联播快讯：\n（1）伊朗举行哈梅内伊遗体告别仪式；\n（2）用电超负荷 美国部分电力公司实施限电；\n（3）西班牙东北部发生林火 近万人受影响。\n（《新闻联播》 20260704 21:00）",
-    "program": "xwlb",
-    "guid": "1e2df4ea548f4ec091d0fe3389453f2b",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/04/VIDEfTA4irt4L7NpfZyr2JAH260704.shtml",
-    "streamUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/1e2df4ea548f4ec091d0fe3389453f2b/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/1e2df4ea548f4ec091d0fe3389453f2b/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/1e2df4ea548f4ec091d0fe3389453f2b/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "createdAt": "2026-07-05T10:30:09.418Z",
-    "durationSeconds": 1799.64
   }
 ]
