@@ -1,5 +1,24 @@
 [
   {
+    "id": "e4c1e2fc46f04e35a73d6330937cc6d6",
+    "title": "《新闻联播》 20260805 21:00",
+    "url": "https://tv.cctv.cn/2026/08/05/VIDEfJ7HAZgjKwXfHukX1U32260805.shtml",
+    "date": "2026-08-05",
+    "broadcastTime": "21:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/08/05/e4c1e2fc46f04e35a73d6330937cc6d6-1.jpg",
+    "description": "本期节目主要内容：\n1.【奋力开创中国式现代化建设新局面——习近平总书记今年以来治国理政纪实】砥砺初心使命 把党建设得更加坚强有力；\n2.上半年产业创新活力进一步激发；\n3.上半年我国服务进出口总额实现较快增长；\n4.神舟二十一号航天员乘组与记者见面会在北京举行；\n5.【活力中国调研行】人才嵌入产业链；\n6.国内联播快讯：\n（1）今年上半年中国企业信用水平总体平稳；\n（2）财政部在香港发行2026年第四期150亿元人民币国债；\n（3）今年上半年全国发放退役军人创业贷超700亿元；\n（4）今年上半年全国消协组织为消费者挽回经济损失4.47亿元；\n（5）“清风行动2026”取得阶段性成效；\n（6）捷龙三号运载火箭发射AI双星顺利入轨；\n（7）1—7月海南离岛免税购物金额超210亿元；\n（8）今年第13号台风“白海豚”维持强台风级 将影响华东地区；\n7.日本人士反对成立“国家情报局” 反对日本“再军事化” 国际人士表示日本相关举动威胁地区安全与和平；\n8.国际联播快讯：\n（1）美媒称美军关键弹药短缺 美防长否认；\n（2）俄军对乌克兰基辅发动大规模打击；\n（3）巴西政府指责美国撤销巴西驻美大使签证；\n（4）约7万非法入境休达人员已被遣返；\n（5）英媒称欧洲林火及高温损失超31亿欧元；\n（6）媒体称美海关退回约1000亿美元关税。\n（《新闻联播》 20260805 21:00）",
+    "program": "xwlb",
+    "guid": "e4c1e2fc46f04e35a73d6330937cc6d6",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/05/VIDEfJ7HAZgjKwXfHukX1U32260805.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/e/4/c/1/e4c1e2fc46f04e35a73d6330937cc6d6/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/e/4/c/1/e4c1e2fc46f04e35a73d6330937cc6d6/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/e/4/c/1/e4c1e2fc46f04e35a73d6330937cc6d6/mp3/main.m3u8",
+    "createdAt": "2026-08-06T10:50:33.437Z",
+    "durationSeconds": 1799.4
+  },
+  {
     "id": "1bd70d2589034626b75162cce2f9c82a",
     "title": "《新闻联播》 20260804 21:00",
     "url": "https://tv.cctv.cn/2026/08/04/VIDEdcoXnSVHV595jgf33Ejv260804.shtml",
@@ -529,24 +548,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/5/0/7/750788eb79a2440c9e713cb37cb648ea/mp3/main.m3u8",
     "createdAt": "2026-07-07T11:20:35.154Z",
     "durationSeconds": 1799.4
-  },
-  {
-    "id": "98896b70fa074006925b0b7b2a4bf61f",
-    "title": "《新闻联播》 20260705 2100",
-    "url": "https://tv.cctv.cn/2026/07/05/VIDEBhQq6nle8OxLUL326Fzv260705.shtml",
-    "date": "2026-07-05",
-    "broadcastTime": "21:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/05/98896b70fa074006925b0b7b2a4bf61f-1.jpg",
-    "description": "本期节目主要内容：\n1.《习近平关于基层工作方法论述摘编》出版发行；\n2.【伟大征程】践行绿色发展理念 绘就生态中国壮美画卷；\n3.铸牢听党指挥的强军之魂 攻坚建军百年奋斗目标——习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话在全军引发热烈反响；\n4.人民日报评论员文章：坚定信心、接续奋斗，不断创造无愧于时代和人民的新业绩——论学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话；\n5.“七一勋章”获得者吴亚琴：温暖一方邻里 守住万家灯火；\n6.各地采取有效措施 积极应对强降雨天气；\n7.香港首个空间站科学载荷“天韵相机”完成部署；\n8.国内联播快讯：\n（1）今年以来我国快递业务量突破千亿件；\n（2）1—5月规模以上电子信息制造业增加值实现两位数增长；\n（3）上半年全国共新开国际航空货运航线92条；\n（4）太平岭核电2号机组成功并网；\n（5）2026年暑期档电影票房破20亿元；\n9.国际人士高度评价习近平在庆祝中国共产党成立105周年大会上的重要讲话；\n10.国际联播快讯：\n（1）伊朗警告域外国家勿干涉霍尔木兹海峡；\n（2）以官员首次承认曾在阿联酋部署“铁穹”；\n（3）极端高温或致环法赛部分赛段取消。\n（《新闻联播》 20260705 21:00）",
-    "program": "xwlb",
-    "guid": "98896b70fa074006925b0b7b2a4bf61f",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/05/VIDEBhQq6nle8OxLUL326Fzv260705.shtml",
-    "streamUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/98896b70fa074006925b0b7b2a4bf61f/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/98896b70fa074006925b0b7b2a4bf61f/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/98896b70fa074006925b0b7b2a4bf61f/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "createdAt": "2026-07-06T12:16:10.999Z",
-    "durationSeconds": 1799.56
   }
 ]
