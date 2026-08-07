@@ -1,5 +1,24 @@
 [
   {
+    "id": "95aec7f40f4c445f8d98eac242176b5b",
+    "title": "《新闻联播》 20260806 21:00",
+    "url": "https://tv.cctv.cn/2026/08/06/VIDE4Wo4xBBm1BKSomqzBZqf260806.shtml",
+    "date": "2026-08-06",
+    "broadcastTime": "21:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/06/95aec7f40f4c445f8d98eac242176b5b-1.jpg",
+    "description": "本期节目主要内容：\n1.【奋力开创中国式现代化建设新局面——习近平总书记今年以来治国理政纪实】持续推动构建人类命运共同体 为世界注入更多正能量；\n2.上半年我国机械工业经济运行稳中有进；\n3.我国吸引外资结构进一步向新向好；\n4.上半年我国乡村特色产业全链升级；\n5.【党旗在基层一线高高飘扬】生死瞬间 将希望留给他人；\n6.我国“华龙一号”核电技术全面迭代升级；\n7.我国首座可抗17级台风海上浮式风电平台正式投运；\n8.国内联播快讯：\n（1）国家发展改革委安排5000万元支持陕西灾后应急恢复；\n（2）7月份中国大宗商品价格指数同比上涨15.5%；\n（3）我国加快推进数据产权登记；\n（4）我国编制完成新版全月地质图；\n（5）最高法发布生态环境法典首个配套司法解释；\n（6）最北高铁哈尔滨至伊春高铁今天启动按图运行试验；\n（7）雄安人工智能实训基地今天投运；\n（8）上合组织“天山-2026”联合网络反恐演习在新疆举行；\n9.伊朗称与阿曼涉霍尔木兹海峡谈判接近达成协议；\n10.国际联播快讯：\n（1）也门胡塞武装称一天内袭击两艘沙特油轮；\n（2）以军空袭黎南部 以媒称黎以谈判暂停；\n（3）联合国：厄尔尼诺增强加剧粮食安全问题；\n（4）英报告称部分AI模型测试中实施有害行为；\n（5）国际足联就子公司商业提案公开致歉。\n（《新闻联播》 20260806 21:00）",
+    "program": "xwlb",
+    "guid": "95aec7f40f4c445f8d98eac242176b5b",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/06/VIDE4Wo4xBBm1BKSomqzBZqf260806.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/5/a/e/95aec7f40f4c445f8d98eac242176b5b/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/5/a/e/95aec7f40f4c445f8d98eac242176b5b/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/5/a/e/95aec7f40f4c445f8d98eac242176b5b/mp3/main.m3u8",
+    "createdAt": "2026-08-07T09:17:21.353Z",
+    "durationSeconds": 1798.92
+  },
+  {
     "id": "e4c1e2fc46f04e35a73d6330937cc6d6",
     "title": "《新闻联播》 20260805 21:00",
     "url": "https://tv.cctv.cn/2026/08/05/VIDEfJ7HAZgjKwXfHukX1U32260805.shtml",
@@ -529,24 +548,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/f/4/a/9f4aeda28e434e42958bcc4c80313c54/mp3/main.m3u8",
     "createdAt": "2026-07-08T10:31:52.163Z",
     "durationSeconds": 1799.32
-  },
-  {
-    "id": "750788eb79a2440c9e713cb37cb648ea",
-    "title": "《新闻联播》 20260706 2100",
-    "url": "https://tv.cctv.cn/2026/07/06/VIDE6lXmxDbJUUca8T8Aku8W260706.shtml",
-    "date": "2026-07-06",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/06/750788eb79a2440c9e713cb37cb648ea-1.jpg",
-    "description": "本期节目主要内容：\n1.习近平致电祝贺藤森庆子当选秘鲁总统；\n2.习近平同黑山总统就中国同黑山建交20周年互致贺电；\n3.【伟大征程】携手构建人类命运共同体 谱写和平发展新篇章；\n4.勠力同心 团结奋斗 汇聚强国建设民族复兴伟业磅礴力量——习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话引发热烈反响；\n5.“七一勋章”获得者王於昌：恪守忠诚 居功不显；\n6.“在高质量发展中保障和改善民生”形势政策系列报告会第三场报告会在京举行；\n7.今年“两重”建设项目清单全部下达完毕；\n8.6月份中国物流业景气指数加快扩张；\n9.广西南宁多个水库出现险情 抢险救援加紧进行；\n10.国内联播快讯：\n（1）中央宣传部新命名一批全国爱国主义教育示范基地；\n（2）国务院安委办联合多部门部署开展安全生产“打非治违”工作；\n（3）中国政府援助委内瑞拉首批紧急人道主义救灾物资启运；\n（4）黄河调水调沙进入集中排沙阶段；\n（5）天问二号探测器抵达目标小行星展开科学探测；\n（6）我国成功发射千帆极轨15组卫星；\n11.伊媒称伊朗与卡塔尔恢复海上贸易 以色列军方称全面控制黎巴嫩南部一关键区域；\n12.国际联播快讯：\n（1）俄称对乌基辅军工设施实施大规模打击；\n（2）“欧佩克+”主要产油国决定8月继续增产；\n（3）法国南部林火蔓延 约1万人被要求撤离；\n（4）刚果（金）埃博拉死亡病例超500例。\n（《新闻联播》 20260706 21:00）",
-    "program": "xwlb",
-    "guid": "750788eb79a2440c9e713cb37cb648ea",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/06/VIDE6lXmxDbJUUca8T8Aku8W260706.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/5/0/7/750788eb79a2440c9e713cb37cb648ea/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/5/0/7/750788eb79a2440c9e713cb37cb648ea/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/5/0/7/750788eb79a2440c9e713cb37cb648ea/mp3/main.m3u8",
-    "createdAt": "2026-07-07T11:20:35.154Z",
-    "durationSeconds": 1799.4
   }
 ]
