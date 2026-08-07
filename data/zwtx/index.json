@@ -1,5 +1,24 @@
 [
   {
+    "id": "34308d355a0d4d529622e8e9e1834e53",
+    "title": "《朝闻天下》 20260807 07:00",
+    "url": "https://tv.cctv.cn/2026/08/07/VIDEOLZYdNkUcBNvIozPl5V3260807.shtml",
+    "date": "2026-08-07",
+    "broadcastTime": "07:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/07/34308d355a0d4d529622e8e9e1834e53-1.jpg",
+    "description": "本期节目主要内容：\n    中国人民银行与阿根廷中央银行续签双边本币互换协议，有效期五年；关注霍尔木兹海峡局势·消息人士：海峡通行协议或数日内公布；记者观察：黎以新一轮谈判结束，和平进程仍然脆弱；8月7日立秋，东北多地通常率先感受到秋意。（《朝闻天下》 20260807 07:00）",
+    "program": "zwtx",
+    "guid": "34308d355a0d4d529622e8e9e1834e53",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/07/VIDEOLZYdNkUcBNvIozPl5V3260807.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/34308d355a0d4d529622e8e9e1834e53/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/34308d355a0d4d529622e8e9e1834e53/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/34308d355a0d4d529622e8e9e1834e53/main.m3u8",
+    "createdAt": "2026-08-07T00:56:38.490Z",
+    "durationSeconds": 3232.68
+  },
+  {
     "id": "5472b0df343f41d99b678259dc45cc1f",
     "title": "《朝闻天下》 20260805 08:00",
     "url": "https://tv.cctv.cn/2026/08/05/VIDEGlwXhsLJrLsEpRoBJ3Va260805.shtml",
@@ -549,43 +568,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/de481d5d36b14a81aa9e90a6fde5a49c/main.m3u8",
     "createdAt": "2026-07-08T21:22:46.261Z",
     "durationSeconds": 3291
-  },
-  {
-    "id": "8296af6fbdcf4c6c84fea2b47338e951",
-    "title": "《朝闻天下》 20260707 0700",
-    "url": "https://tv.cctv.cn/2026/07/07/VIDEafdHw3nxHHYi6MxuyDAH260707.shtml",
-    "date": "2026-07-07",
-    "broadcastTime": "07:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/07/8296af6fbdcf4c6c84fea2b47338e951-1.jpg",
-    "description": "本期节目主要内容：\n    中俄“海上联合-2026”联合演习开幕；“七一勋章”获得者王於昌：恪守忠诚，居功不显；中央气象台继续发布强对流天气黄色预警；委内瑞拉地震遇难人数升至3535人；绑定北约，日本再军事化图谋凸显。（《朝闻天下》 20260707 07:00）",
-    "program": "zwtx",
-    "guid": "8296af6fbdcf4c6c84fea2b47338e951",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/07/VIDEafdHw3nxHHYi6MxuyDAH260707.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8296af6fbdcf4c6c84fea2b47338e951/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8296af6fbdcf4c6c84fea2b47338e951/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/8296af6fbdcf4c6c84fea2b47338e951/main.m3u8",
-    "createdAt": "2026-07-07T21:40:04.441Z",
-    "durationSeconds": 3239.56
-  },
-  {
-    "id": "9a94b4779b3847faad25b0829b07c67e",
-    "title": "《朝闻天下》 20260706 0800",
-    "url": "https://tv.cctv.cn/2026/07/06/VIDE58BQpHDztv1e6nXdV0Qp260706.shtml",
-    "date": "2026-07-06",
-    "broadcastTime": "08:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/07/06/9a94b4779b3847faad25b0829b07c67e-1.jpg",
-    "description": "本期节目主要内容：\n    天问二号抵达目标小行星开展科学探测；委内瑞拉发生7级以上强震：委内瑞拉地震遇难人数升至3342人；以色列总理称继续坚持反对伊核计划。\n（《朝闻天下》 20260706 08:00）",
-    "program": "zwtx",
-    "guid": "9a94b4779b3847faad25b0829b07c67e",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/06/VIDE58BQpHDztv1e6nXdV0Qp260706.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9a94b4779b3847faad25b0829b07c67e/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9a94b4779b3847faad25b0829b07c67e/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/9a94b4779b3847faad25b0829b07c67e/main.m3u8",
-    "createdAt": "2026-07-06T21:46:31.608Z",
-    "durationSeconds": 3143.64
   }
 ]
