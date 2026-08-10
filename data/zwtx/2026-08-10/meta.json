@@ -1,0 +1,19 @@
+{
+  "id": "d386092f30b1475597d0c294d705de42",
+  "title": "《朝闻天下》 20260810 08:00",
+  "url": "https://tv.cctv.cn/2026/08/10/VIDETTiQ2mDJ9wK65vWWW2SK260810.shtml",
+  "date": "2026-08-10",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/08/10/d386092f30b1475597d0c294d705de42-1.jpg",
+  "description": "本期节目主要内容：\n    国家统计局：7月份居民消费价格指数同比上涨0.5%；长崎核爆81周年：日本民众集会反对高市政权扩军修宪；伊朗外长：目前伊美没有进行任何谈判；伊朗：议会内部委员会批准霍尔木兹海峡安全纲要。\n（《朝闻天下》 20260810 08:00）",
+  "program": "zwtx",
+  "guid": "d386092f30b1475597d0c294d705de42",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/10/VIDETTiQ2mDJ9wK65vWWW2SK260810.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d386092f30b1475597d0c294d705de42/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d386092f30b1475597d0c294d705de42/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d386092f30b1475597d0c294d705de42/main.m3u8",
+  "createdAt": "2026-08-10T20:59:44.447Z",
+  "durationSeconds": 3196
+}
