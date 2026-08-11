@@ -1,5 +1,24 @@
 [
   {
+    "id": "c7be6a950144493790047374620fcc99",
+    "title": "《朝闻天下》 20260811 08:00",
+    "url": "https://tv.cctv.cn/2026/08/11/VIDEhB5t3RQPBwSY2XCqo12v260811.shtml",
+    "date": "2026-08-11",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/08/11/c7be6a950144493790047374620fcc99-1.jpg",
+    "description": "本期节目主要内容：\n    中央政府将在澳门发行60亿元人民币国债；哥伦比亚发生强烈地震：强震已致111人遇难，救灾工作启动；伊朗外交部发言人巴加埃表示：美以是造成中东地区动荡的根源；美国：特朗普称美方“百分百”控制霍尔木兹海峡。\n（《朝闻天下》 20260811 08:00）",
+    "program": "zwtx",
+    "guid": "c7be6a950144493790047374620fcc99",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/11/VIDEhB5t3RQPBwSY2XCqo12v260811.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c7be6a950144493790047374620fcc99/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c7be6a950144493790047374620fcc99/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c7be6a950144493790047374620fcc99/main.m3u8",
+    "createdAt": "2026-08-11T21:02:07.377Z",
+    "durationSeconds": 3136.52
+  },
+  {
     "id": "d386092f30b1475597d0c294d705de42",
     "title": "《朝闻天下》 20260810 08:00",
     "url": "https://tv.cctv.cn/2026/08/10/VIDETTiQ2mDJ9wK65vWWW2SK260810.shtml",
@@ -530,24 +549,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fcd6243721cb4adb86aa05ce5bfaddff/main.m3u8",
     "createdAt": "2026-07-12T21:05:06.375Z",
     "durationSeconds": 3200.04
-  },
-  {
-    "id": "756babe189094363b3b3241fb85d12d8",
-    "title": "《朝闻天下》 20260711 0800",
-    "url": "https://tv.cctv.cn/2026/07/11/VIDEAD56mrTW0Ug6JbpQvh9M260711.shtml",
-    "date": "2026-07-11",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/11/756babe189094363b3b3241fb85d12d8-1.jpg",
-    "description": "本期节目主要内容：\n    “巴威”再度加强为强台风级，向浙闽靠近；浙江乐清：“巴威”逼近，提前转移受影响区域群众；美国总统称已同意与伊朗继续谈判；霍尔木兹海峡通航量继续下降。\n（《朝闻天下》 20260711 08:00）",
-    "program": "zwtx",
-    "guid": "756babe189094363b3b3241fb85d12d8",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/11/VIDEAD56mrTW0Ug6JbpQvh9M260711.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/756babe189094363b3b3241fb85d12d8/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/756babe189094363b3b3241fb85d12d8/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/756babe189094363b3b3241fb85d12d8/main.m3u8",
-    "createdAt": "2026-07-11T21:03:41.530Z",
-    "durationSeconds": 3139.56
   }
 ]
