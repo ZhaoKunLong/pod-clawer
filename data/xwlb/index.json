@@ -1,5 +1,24 @@
 [
   {
+    "id": "3169edbc635e4d09bcc7dcef513e50c9",
+    "title": "《新闻联播》 20260810 21:00",
+    "url": "https://tv.cctv.cn/2026/08/10/VIDEoRNbqcR8KzfnouGXB8RQ260810.shtml",
+    "date": "2026-08-10",
+    "broadcastTime": "21:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/10/3169edbc635e4d09bcc7dcef513e50c9-1.jpg",
+    "description": "本期节目主要内容：\n1.【新思想引领新征程】加快构建城乡融合发展新格局；\n2.【凝心聚力 真抓实干 奋力实现“十五五”良好开局】共享智造助力河北激活产业集群新活力；\n3.南水北调东中线一期工程调水突破900亿立方米；\n4.7月先行指标折射经济稳中向优态势明显；\n5.各地各部门多举措应对台风“白海豚”影响；\n6.我国已建成国家慢性病综合防控示范区578个；\n7.服务消费拓展就业新空间；\n8.我国国际航线网络持续优化 更好满足入境游需求；\n9.【一线调研】公园拓展消费新场景；\n10.国内联播快讯：\n（1）我国已建成绿色燃料产能约800万吨；\n（2）港珠澳大桥珠海公路口岸进出境车辆累计突破2500万辆次；\n（3）中国第16次北冰洋考察队开展冰站调查作业；\n（4）濒危物种林麝现身重庆巫溪；\n11.日本民众举行集会抗议高市政权扩军修宪的危险动向；\n12.以色列总理称拒绝美支持的加沙和平计划 美媒称白宫“不在意”；\n13.胡塞武装称袭击也门政府军目标及沙特炼油厂；\n14.国际联播快讯：\n（1）美媒称美总统倾向对伊朗施加经济压力；\n（2）俄称控制更多区域 乌称敖德萨遭袭断电；\n（3）丹麦民众举行皮艇集会 支持格陵兰岛；\n（4）北美和欧洲多地林火持续蔓延。\n（《新闻联播》 20260810 21:00）",
+    "program": "xwlb",
+    "guid": "3169edbc635e4d09bcc7dcef513e50c9",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/10/VIDEoRNbqcR8KzfnouGXB8RQ260810.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/1/6/9/3169edbc635e4d09bcc7dcef513e50c9/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/1/6/9/3169edbc635e4d09bcc7dcef513e50c9/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/1/6/9/3169edbc635e4d09bcc7dcef513e50c9/mp3/main.m3u8",
+    "createdAt": "2026-08-11T09:16:21.883Z",
+    "durationSeconds": 1799.4
+  },
+  {
     "id": "78f0bb030eed428eb2458d0308339913",
     "title": "《新闻联播》 20260808 21:00",
     "url": "https://tv.cctv.cn/2026/08/08/VIDErUeBxStN4lKhevoq8irq260808.shtml",
@@ -510,24 +529,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/6/2/d/062db75e34ed45458e0a6bfbb2bbb9ee/mp3/main.m3u8",
     "createdAt": "2026-07-12T10:03:45.997Z",
     "durationSeconds": 1799.32
-  },
-  {
-    "id": "6135487ca28a4eaf9bd41ac92f2aabae",
-    "title": "《新闻联播》 20260710 2100",
-    "url": "https://tv.cctv.cn/2026/07/10/VIDEAimxyb2gLhA0q72AIcnm260710.shtml",
-    "date": "2026-07-10",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/10/VIDESwLkznjZ9KmkObBgHmaA260710.jpg",
-    "description": "本期节目主要内容：\r\n1.习近平举行仪式欢迎纳米比亚总统访华；\r\n2.习近平同纳米比亚总统会谈；\r\n3.习近平会见朝鲜内阁总理；\r\n4.人民日报评论员文章：加快推进高水平科技自立自强——论学习贯彻习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协十一大上重要讲话；\r\n5.李强主持召开国务院常务会议；\r\n6.赵乐际分别会见纳米比亚总统、朝鲜内阁总理；\r\n7.王沪宁出席建设现代化产业体系调研协商座谈会；\r\n8.中央层面整治形式主义为基层减负专项工作机制会议在京召开 蔡奇出席并讲话；\r\n9.张国清在广西指导支持受灾群众生活保障和灾后抢修恢复工作；\r\n10.夏粮丰收 产量首次突破3000亿斤；\r\n11.历史性突破 长征十号乙完成全球首次海上网系回收；\r\n12.国内联播快讯：\r\n（1）今年上半年3.69亿人次出入境 创历史新高；\r\n（2）铁路暑运旅客发送量超1亿人次；\r\n（3）全国用电负荷创历史新高 供电保障能力持续提升；\r\n（4）2026年中国航海日上海主题活动启动；\r\n13.伊朗媒体称布什尔核电站周边区域遭美军袭击 伊朗称打击美指挥中心 美媒称美伊仍在就核问题进行“技术性谈判” 伊朗未回应；\r\n14.俄称在红利曼战斗进入收尾阶段 乌称对俄海上目标实施打击 美称将许可乌生产“爱国者”防空系统 俄称采取一切必要措施予以应对。\r\n（《新闻联播》 20260710 21:00）",
-    "program": "xwlb",
-    "guid": "6135487ca28a4eaf9bd41ac92f2aabae",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/10/VIDEAimxyb2gLhA0q72AIcnm260710.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/1/3/5/6135487ca28a4eaf9bd41ac92f2aabae/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/1/3/5/6135487ca28a4eaf9bd41ac92f2aabae/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/1/3/5/6135487ca28a4eaf9bd41ac92f2aabae/mp3/main.m3u8",
-    "createdAt": "2026-07-11T09:50:38.184Z",
-    "durationSeconds": 1799.72
   }
 ]
