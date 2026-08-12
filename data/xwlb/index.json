@@ -1,5 +1,24 @@
 [
   {
+    "id": "a120990a9cba449ebccd7b02ed3c31fe",
+    "title": "《新闻联播》 20260811 21:00",
+    "url": "https://tv.cctv.cn/2026/08/11/VIDE3rbHwoWFjX9IZ0UuEeF2260811.shtml",
+    "date": "2026-08-11",
+    "broadcastTime": "21:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/08/11/a120990a9cba449ebccd7b02ed3c31fe-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平就哥伦比亚发生强烈地震向哥伦比亚总统致慰问电；\n2.【新思想引领新征程】织就更密更暖的社会保障安全网；\n3.文献纪录片《江泽民》今晚开始播出；\n4.各地抢抓农时做好田间管理；\n5.“十五五”时期我国生态质量将稳步改善；\n6.我国将加快打造现代煤炭产业体系；\n7.各地各部门积极应对“白海豚”影响；\n8.【党旗在基层一线高高飘扬】风雨中的暖心守护；\n9.【文化中国行】古文字工程揭开上古历史面纱；\n10.国内联播快讯：\n（1）上半年规模以上互联网企业完成互联网业务收入超万亿元；\n（2）“十五五”时期我国将建立国家不可移动文物资源总目录；\n（3）市场监管总局发布338项国家标准；\n（4）深化扫黑除恶专项斗争第一轮集中收网 抓获犯罪嫌疑人8200余名；\n（5）前7个月中老铁路进出口货值同比增长29.9%；\n（6）世界首台500兆瓦冲击式水电机组转子成功吊装；\n（7）第38届大众电影百花奖揭晓；\n11.哥伦比亚发生7.5级强震 进入“国家灾难状态”；\n12.美称完全控制霍尔木兹海峡 伊朗批评美封锁阻碍海峡恢复通航 伊朗最高领袖签署多份高层军事人员任命令；\n13.数据显示美国7月平均气温达新高 欧洲多国遭遇大范围干旱 林火肆虐；\n14.国际联播快讯：\n（1）联合国特使警告也门冲突升级；\n（2）以媒称约旦河西岸以定居者袭击事件飙升；\n（3）日元对美元汇率再次大幅下跌；\n（4）三大洲足联再批国际足联。\n（《新闻联播》 20260811 21:00）",
+    "program": "xwlb",
+    "guid": "a120990a9cba449ebccd7b02ed3c31fe",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/11/VIDE3rbHwoWFjX9IZ0UuEeF2260811.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a120990a9cba449ebccd7b02ed3c31fe/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a120990a9cba449ebccd7b02ed3c31fe/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a120990a9cba449ebccd7b02ed3c31fe/main.m3u8",
+    "createdAt": "2026-08-12T09:33:42.700Z",
+    "durationSeconds": 1799.24
+  },
+  {
     "id": "3169edbc635e4d09bcc7dcef513e50c9",
     "title": "《新闻联播》 20260810 21:00",
     "url": "https://tv.cctv.cn/2026/08/10/VIDEoRNbqcR8KzfnouGXB8RQ260810.shtml",
@@ -510,24 +529,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/b/9/8/f/b98f13f26f51438aacf1c0392d601a85/mp3/main.m3u8",
     "createdAt": "2026-07-13T11:31:17.251Z",
     "durationSeconds": 1799.88
-  },
-  {
-    "id": "062db75e34ed45458e0a6bfbb2bbb9ee",
-    "title": "《新闻联播》 20260711 2100",
-    "url": "https://tv.cctv.cn/2026/07/11/VIDEEyq6H0u2EhzVOUrbSf5W260711.shtml",
-    "date": "2026-07-11",
-    "broadcastTime": "21:00",
-    "image": "https://p5.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/11/VIDEeTjLps62qwY05Oe0VdpJ260711.jpg",
-    "description": "本期节目主要内容：\r\n1.习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电；\r\n2.李强举行仪式欢迎朝鲜内阁总理访华；\r\n3.李强同朝鲜内阁总理会谈；\r\n4.蔡奇出席《中朝友好合作互助条约》签订65周年纪念招待会；\r\n5.人民日报评论员文章：向着到2035年建成科技强国的目标坚定迈进——论学习贯彻习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协十一大上重要讲话；\r\n6.各地各部门积极应对台风“巴威”；\r\n7.【党旗在基层一线高高飘扬】浙江苍南：台风来临前的大转移；\r\n8.支持政策多点发力 我国持续减轻家庭生养负担；\r\n9.今年前五个月我国高端船型出口量大幅增长；\r\n10.陈立泉：五十载坚守 让中国锂电池领跑世界；\r\n11.国内联播快讯：\r\n（1）两部门再次预拨8000万元支持广西做好受灾群众救助工作；\r\n（2）我国公路运力持续扩容 数智化升级加快；\r\n（3）2026年全国暑期文化和旅游消费季启动；\r\n（4）珠海至肇庆高铁将军岭隧道贯通；\r\n（5）中国海警舰艇首次面向公众开放；\r\n（6）第二十五届环大美青海国际公路自行车赛开赛；\r\n12.日本民众举行集会 反对高市政权扩军修宪；\r\n13.美称已同意伊朗请求继续谈判 伊朗称从未提出谈判请求 卡塔尔与巴基斯坦继续斡旋 国际能源署称局势再度趋紧给市场蒙上阴影；\r\n14.国际联播快讯：\r\n（1）俄称推进战线 乌称设立远程打击司令部；\r\n（2）土或转让俄制防空系统 俄称正与土沟通；\r\n（3）欧盟初步认定美国元宇宙平台公司违规；\r\n（4）爱尔兰一客机舷窗破碎紧急返航希腊。\r\n（《新闻联播》 20260711 21:00）",
-    "program": "xwlb",
-    "guid": "062db75e34ed45458e0a6bfbb2bbb9ee",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/11/VIDEEyq6H0u2EhzVOUrbSf5W260711.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/6/2/d/062db75e34ed45458e0a6bfbb2bbb9ee/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/6/2/d/062db75e34ed45458e0a6bfbb2bbb9ee/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/6/2/d/062db75e34ed45458e0a6bfbb2bbb9ee/mp3/main.m3u8",
-    "createdAt": "2026-07-12T10:03:45.997Z",
-    "durationSeconds": 1799.32
   }
 ]
