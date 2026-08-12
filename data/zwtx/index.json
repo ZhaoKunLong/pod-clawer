@@ -1,5 +1,24 @@
 [
   {
+    "id": "5abbfa100aca4a6db1d226c02b854e9d",
+    "title": "《朝闻天下》 20260812 08:00",
+    "url": "https://tv.cctv.cn/2026/08/12/VIDEBKoHEJLEZMlRNQMrpt6j260812.shtml",
+    "date": "2026-08-12",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/12/5abbfa100aca4a6db1d226c02b854e9d-1.jpg",
+    "description": "本期节目主要内容：\n    “十五五”时期我国生态质量将稳步改善；亚洲首个柔直海上风电项目累计发电量突破100亿千瓦时；哥伦比亚西北部发生7.5级强震·专家：此次地震与委内瑞拉强震无直接关联；巴基斯坦内政部长访问德黑兰。\n（《朝闻天下》 20260812 08:00）",
+    "program": "zwtx",
+    "guid": "5abbfa100aca4a6db1d226c02b854e9d",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/12/VIDEBKoHEJLEZMlRNQMrpt6j260812.shtml",
+    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5abbfa100aca4a6db1d226c02b854e9d/main.m3u8?maxbr=2048",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5abbfa100aca4a6db1d226c02b854e9d/main.m3u8?maxbr=2048",
+    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5abbfa100aca4a6db1d226c02b854e9d/main.m3u8?maxbr=2048",
+    "createdAt": "2026-08-12T21:00:08.924Z",
+    "durationSeconds": 3191.48
+  },
+  {
     "id": "c7be6a950144493790047374620fcc99",
     "title": "《朝闻天下》 20260811 08:00",
     "url": "https://tv.cctv.cn/2026/08/11/VIDEhB5t3RQPBwSY2XCqo12v260811.shtml",
@@ -530,24 +549,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e4e8eaaddfb74f008eb3d0cee6d84033/main.m3u8",
     "createdAt": "2026-07-13T21:12:24.154Z",
     "durationSeconds": 3130.76
-  },
-  {
-    "id": "fcd6243721cb4adb86aa05ce5bfaddff",
-    "title": "《朝闻天下》 20260712 0800",
-    "url": "https://tv.cctv.cn/2026/07/12/VIDEdlOdOm2SYXlE9NnjM7WO260712.shtml",
-    "date": "2026-07-12",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/07/12/fcd6243721cb4adb86aa05ce5bfaddff-1.jpg",
-    "description": "本期节目主要内容：\n    铁路部门多举措守护汛期运输安全；日本：民众集会反对修宪扩军，担忧民生受挤压；伊朗称发射导弹打击一艘违规船只；美军称对伊朗展开本周第三轮打击。\n（《朝闻天下》 20260712 08:00）",
-    "program": "zwtx",
-    "guid": "fcd6243721cb4adb86aa05ce5bfaddff",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/12/VIDEdlOdOm2SYXlE9NnjM7WO260712.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fcd6243721cb4adb86aa05ce5bfaddff/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fcd6243721cb4adb86aa05ce5bfaddff/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fcd6243721cb4adb86aa05ce5bfaddff/main.m3u8",
-    "createdAt": "2026-07-12T21:05:06.375Z",
-    "durationSeconds": 3200.04
   }
 ]
