@@ -1,5 +1,24 @@
 [
   {
+    "id": "3135aafc244e4a4896a10bb01af9125b",
+    "title": "《朝闻天下》 20260814 08:00",
+    "url": "https://tv.cctv.cn/2026/08/14/VIDEy5uvzx07gDB5IeUOyktt260814.shtml",
+    "date": "2026-08-14",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/14/3135aafc244e4a4896a10bb01af9125b-1.jpg",
+    "description": "本期节目主要内容：\n    商务部对原产印度进口单模光纤继续征收反倾销税；生态环境部：我国生态环境持续向好，主要指标明显改善；伊朗武装部队称霍尔木兹海峡在伊方控制下；美航母被曝条件恶劣，多名议员要求彻查。（《朝闻天下》 20260814 08:00）",
+    "program": "zwtx",
+    "guid": "3135aafc244e4a4896a10bb01af9125b",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/14/VIDEy5uvzx07gDB5IeUOyktt260814.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3135aafc244e4a4896a10bb01af9125b/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3135aafc244e4a4896a10bb01af9125b/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3135aafc244e4a4896a10bb01af9125b/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "createdAt": "2026-08-14T20:43:23.010Z",
+    "durationSeconds": 3173.08
+  },
+  {
     "id": "122cccc0c6414d298ad6889311c50d7e",
     "title": "《朝闻天下》 20260813 08:00",
     "url": "https://tv.cctv.cn/2026/08/13/VIDEOm6mhio7C7knm8t8ZdHA260813.shtml",
@@ -530,24 +549,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c3970d80d477439499d06e528e836d4a/main.m3u8",
     "createdAt": "2026-07-15T21:14:17.263Z",
     "durationSeconds": 3094.6
-  },
-  {
-    "id": "d10fb5195f0741ccb370d33732b8cb8a",
-    "title": "《朝闻天下》 20260714 0600",
-    "url": "https://tv.cctv.cn/2026/07/14/VIDEX8ygIDbCBUSIhOAw0hER260714.shtml",
-    "date": "2026-07-14",
-    "broadcastTime": "06:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/14/d10fb5195f0741ccb370d33732b8cb8a-1.jpg",
-    "description": "本期节目主要内容：\n    中国经济半年报：2026年上半年铁路发送旅客23.48亿人次；“七一勋章”获得者陈俊武：许国七十载，志为石化梦；《南海仲裁案裁决新批驳》报告发布·专家：所谓“裁决”是违反国际法坏典型；国际油价13日大幅上涨。（《朝闻天下》 20260714 06:00）",
-    "program": "zwtx",
-    "guid": "d10fb5195f0741ccb370d33732b8cb8a",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/14/VIDEX8ygIDbCBUSIhOAw0hER260714.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d10fb5195f0741ccb370d33732b8cb8a/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d10fb5195f0741ccb370d33732b8cb8a/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d10fb5195f0741ccb370d33732b8cb8a/main.m3u8",
-    "createdAt": "2026-07-14T21:13:58.541Z",
-    "durationSeconds": 3201.16
   }
 ]

@@ -1,0 +1,19 @@
+{
+  "id": "3135aafc244e4a4896a10bb01af9125b",
+  "title": "《朝闻天下》 20260814 08:00",
+  "url": "https://tv.cctv.cn/2026/08/14/VIDEy5uvzx07gDB5IeUOyktt260814.shtml",
+  "date": "2026-08-14",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/08/14/3135aafc244e4a4896a10bb01af9125b-1.jpg",
+  "description": "本期节目主要内容：\n    商务部对原产印度进口单模光纤继续征收反倾销税；生态环境部：我国生态环境持续向好，主要指标明显改善；伊朗武装部队称霍尔木兹海峡在伊方控制下；美航母被曝条件恶劣，多名议员要求彻查。（《朝闻天下》 20260814 08:00）",
+  "program": "zwtx",
+  "guid": "3135aafc244e4a4896a10bb01af9125b",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/14/VIDEy5uvzx07gDB5IeUOyktt260814.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3135aafc244e4a4896a10bb01af9125b/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3135aafc244e4a4896a10bb01af9125b/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3135aafc244e4a4896a10bb01af9125b/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "createdAt": "2026-08-14T20:43:23.010Z",
+  "durationSeconds": 3173.08
+}
