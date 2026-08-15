@@ -1,0 +1,19 @@
+{
+  "id": "95e831f90a634bf3a6c5159a9055561d",
+  "title": "《朝闻天下》 20260815 08:00",
+  "url": "https://tv.cctv.cn/2026/08/15/VIDETpUff7S5D67E2mDCODAW260815.shtml",
+  "date": "2026-08-15",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/08/15/95e831f90a634bf3a6c5159a9055561d-1.jpg",
+  "description": "本期节目主要内容：\n    1—7月我国邮政行业业务量和收入双增长；APEC第三次高官会8月17日至28日在辽宁大连举办，外交部介绍会议筹备情况；中国人民银行、国家外汇管理局：跨国公司资金池政策推广至全国。（《朝闻天下》 20260815 08:00）",
+  "program": "zwtx",
+  "guid": "95e831f90a634bf3a6c5159a9055561d",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/15/VIDETpUff7S5D67E2mDCODAW260815.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95e831f90a634bf3a6c5159a9055561d/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95e831f90a634bf3a6c5159a9055561d/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95e831f90a634bf3a6c5159a9055561d/main.m3u8",
+  "createdAt": "2026-08-15T20:37:04.543Z",
+  "durationSeconds": 3105.4
+}
