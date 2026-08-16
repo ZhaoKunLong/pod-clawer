@@ -1,5 +1,24 @@
 [
   {
+    "id": "4e8d0a9546ce44e2a150894d1b84c187",
+    "title": "《朝闻天下》 20260816 08:00",
+    "url": "https://tv.cctv.cn/2026/08/16/VIDEMdxVG9eV73SF3gTV1mxG260816.shtml",
+    "date": "2026-08-16",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/16/4e8d0a9546ce44e2a150894d1b84c187-1.jpg",
+    "description": "本期节目主要内容：  2026年全国生态日主场活动·国家发展改革委：扎实开展碳达峰行动；伊朗战事延宕，美航母部署时长恐再刷纪录；关注俄乌冲突：俄称控制一居民点，乌称远程打击俄目标；日本无条件投降81周年：日本东京举行展览，祈愿和平；美军仓皇撤离阿富汗五周年：喀布尔举行活动纪念阿富汗战争结束五周年。（《朝闻天下》 20260816 08:00）",
+    "program": "zwtx",
+    "guid": "4e8d0a9546ce44e2a150894d1b84c187",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/16/VIDEMdxVG9eV73SF3gTV1mxG260816.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4e8d0a9546ce44e2a150894d1b84c187/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4e8d0a9546ce44e2a150894d1b84c187/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4e8d0a9546ce44e2a150894d1b84c187/main.m3u8",
+    "createdAt": "2026-08-16T20:36:05.920Z",
+    "durationSeconds": 3016.6
+  },
+  {
     "id": "95e831f90a634bf3a6c5159a9055561d",
     "title": "《朝闻天下》 20260815 08:00",
     "url": "https://tv.cctv.cn/2026/08/15/VIDETpUff7S5D67E2mDCODAW260815.shtml",
@@ -530,24 +549,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7995cb30ee0e4422860467bd20494cb9/main.m3u8",
     "createdAt": "2026-07-17T21:07:22.074Z",
     "durationSeconds": 3031.8
-  },
-  {
-    "id": "c770fb62ed66406fac288aee8263e8b1",
-    "title": "《朝闻天下》 20260716 0800",
-    "url": "https://tv.cctv.cn/2026/07/16/VIDEziVhfw8Bhh0mdfvdey3z260716.shtml",
-    "date": "2026-07-16",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/16/c770fb62ed66406fac288aee8263e8b1-1.jpg",
-    "description": "本期节目主要内容：\n    中国经济半年报：中国经济持续向新向优；2026世界人工智能大会7月17日开幕，超过300款产品将实现全球首发；特朗普称伊朗愿谈判，伊方否认称专注防御。\n（《朝闻天下》 20260716 08:00）",
-    "program": "zwtx",
-    "guid": "c770fb62ed66406fac288aee8263e8b1",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/16/VIDEziVhfw8Bhh0mdfvdey3z260716.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c770fb62ed66406fac288aee8263e8b1/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c770fb62ed66406fac288aee8263e8b1/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c770fb62ed66406fac288aee8263e8b1/main.m3u8",
-    "createdAt": "2026-07-16T21:15:01.553Z",
-    "durationSeconds": 3200.44
   }
 ]
