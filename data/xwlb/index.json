@@ -1,5 +1,24 @@
 [
   {
+    "id": "48bd71a904b54898abbbe02e7b97b4df",
+    "title": "《新闻联播》 20260815 21:00",
+    "url": "https://tv.cctv.cn/2026/08/15/VIDEytLJLKZLd2kCcaL7cf4g260815.shtml",
+    "date": "2026-08-15",
+    "broadcastTime": "21:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/15/48bd71a904b54898abbbe02e7b97b4df-1.jpg",
+    "description": "本期节目主要内容：\n1.【新思想引领新征程】法治护航美丽中国建设 筑牢中华民族永续发展生态根基；\n2.文献纪录片《江泽民》今晚继续播出；\n3.【凝心聚力 真抓实干 奋力实现“十五五”良好开局】北京建设历史文化名城 让保护与发展相融共生；\n4.日本无条件投降81周年 各地举行活动铭记历史缅怀先烈；\n5.我国多措并举加快绿色低碳发展；\n6.多地出现强降雨天气 防汛救灾加紧进行；\n7.各地创新举措 推进完整社区建设；\n8.【新闻特写】中国，我还会再来！\n9.国内联播快讯：\n（1）前7个月全国铁路发送旅客28亿人次；\n（2）前7个月中国—中东欧国家经贸合作示范区贸易额超370亿元；\n（3）我国进一步规范检验类医疗服务项目收费；\n（4）中消协发布《中国消费者绿色消费指南（2026版）》；\n（5）中欧北极快航季节性航线开启常态化运营；\n（6）“CMG电影文化嘉年华·天津专场”启动；\n10.日本民众举行集会 敦促日本政府反省侵略战争罪行；\n11.国际人士批评日本歪曲历史 加速“再军事化”等危险举动；\n12.国际联播快讯：\n（1）印尼发生7.7级强震 已致38人死亡；\n（2）伊朗称美破坏停火 协议无法延长；\n（3）古巴谴责美对古实施极限施压和经济扼杀；\n（4）数据显示8月美消费者信心指数显著下滑；\n（5）干旱持续 欧洲多条河流水位达新低。\n（《新闻联播》 20260815 21:00）",
+    "program": "xwlb",
+    "guid": "48bd71a904b54898abbbe02e7b97b4df",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/15/VIDEytLJLKZLd2kCcaL7cf4g260815.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/8/b/d/48bd71a904b54898abbbe02e7b97b4df/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/8/b/d/48bd71a904b54898abbbe02e7b97b4df/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/8/b/d/48bd71a904b54898abbbe02e7b97b4df/mp3/main.m3u8",
+    "createdAt": "2026-08-16T08:49:16.475Z",
+    "durationSeconds": 1799.4
+  },
+  {
     "id": "4e3dd3e090784ae4b73b27eb0f96c3d3",
     "title": "《新闻联播》 20260814 21:00",
     "url": "https://tv.cctv.cn/2026/08/14/VIDEAgq2tRTfff9WcjnxYgCK260814.shtml",
@@ -492,24 +511,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/d/2/c/0d2cf56b586443e6849aa49164bb5180/mp3/main.m3u8",
     "createdAt": "2026-07-17T10:13:11.412Z",
     "durationSeconds": 1799.64
-  },
-  {
-    "id": "d2a0aa0a91d4433999abd91c4a8413b0",
-    "title": "《新闻联播》 20260715 2100",
-    "url": "https://tv.cctv.cn/2026/07/15/VIDEah0ZktVJfmfnk7G5da7u260715.shtml",
-    "date": "2026-07-15",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/15/d2a0aa0a91d4433999abd91c4a8413b0-1.jpg",
-    "description": "本期节目主要内容：\n1.习近平在上海考察时强调 全面践行人民城市理念 高质量推进城市更新；\n2.韩正会见新西兰前总理；\n3.上半年GDP同比增长4.7% 中国经济持续向新向优；\n4.上半年金融总量合理增长 信贷结构持续优化；\n5.东北地区全力开展防汛抢险排涝工作；\n6.【树立和践行正确政绩观】办好群众身边事 学习教育见实效；\n7.我国持续推进农村公路提质升级；\n8.【文化中国行】呵护古城肌理 赓续千年姑苏繁华；\n9.国内联播快讯：\n（1）“十五五”时期支持建设200个左右“无废城市”；\n（2）前六个月全社会用电量同比增长5.3%；\n（3）6月份一线城市商品住宅销售价格环比上涨；\n（4）《人工智能拟人化互动服务管理暂行办法》今起施行；\n（5）长三角一体化示范区建设三年行动计划发布；\n（6）《市场监督管理严重违法失信名单管理办法》今起施行；\n（7）我国派专家组加入埃博拉“突发事件管理支持小组”支援非洲疫情防控；\n10.2026上合组织国家文明对话在比什凯克举行；\n11.美国称对伊朗实施打击并恢复海上封锁 伊朗称打击地区内美军基地 美媒称白宫讨论对伊大规模进攻计划 伊朗称美已违反谅解备忘录所有条款；\n12.国际联播快讯：\n（1）黎巴嫩与以色列举行新一轮会谈；\n（2）欧盟上半年从俄进口液化天然气创纪录；\n（3）美联储主席：高通胀已成为过度负担；\n（4）巴黎近郊大火 6人涉嫌引发火情被捕；\n（5）英将对16至17岁青少年实施社媒“宵禁”。\n（《新闻联播》 20260715 21:00）",
-    "program": "xwlb",
-    "guid": "d2a0aa0a91d4433999abd91c4a8413b0",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/15/VIDEah0ZktVJfmfnk7G5da7u260715.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d2a0aa0a91d4433999abd91c4a8413b0/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d2a0aa0a91d4433999abd91c4a8413b0/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d2a0aa0a91d4433999abd91c4a8413b0/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "createdAt": "2026-07-16T10:22:32.303Z",
-    "durationSeconds": 1799.72
   }
 ]
