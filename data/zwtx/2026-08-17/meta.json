@@ -1,0 +1,19 @@
+{
+  "id": "aaa092f48c654f0fb9cbd9f987573a48",
+  "title": "《朝闻天下》 20260817 08:00",
+  "url": "https://tv.cctv.cn/2026/08/17/VIDEyuaHQoQqKkPh93gfriIR260817.shtml",
+  "date": "2026-08-17",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/08/17/aaa092f48c654f0fb9cbd9f987573a48-1.jpg",
+  "description": "本期节目主要内容：  中国经济半年报：冷链消费稳步扩大，绿色转型提速增效；南海海域、东海部分海域开渔；美媒：海湾盟友对美国沮丧情绪持续上升；韩国将重启亲日反民族行为者财产追缴；哥伦比亚发生7.5级强震：救援物资持续分发，志愿者接力传递希望。（《朝闻天下》 20260817 08:00）",
+  "program": "zwtx",
+  "guid": "aaa092f48c654f0fb9cbd9f987573a48",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/17/VIDEyuaHQoQqKkPh93gfriIR260817.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/aaa092f48c654f0fb9cbd9f987573a48/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/aaa092f48c654f0fb9cbd9f987573a48/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/aaa092f48c654f0fb9cbd9f987573a48/main.m3u8",
+  "createdAt": "2026-08-17T20:41:23.340Z",
+  "durationSeconds": 3120.36
+}
