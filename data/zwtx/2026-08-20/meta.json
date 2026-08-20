@@ -1,0 +1,19 @@
+{
+  "id": "30b2704f20a74c8ca8e2ece3e6d35c9c",
+  "title": "《朝闻天下》 20260820 08:00",
+  "url": "https://tv.cctv.cn/2026/08/20/VIDEyYowOKh0lhaETtFPEHin260820.shtml",
+  "date": "2026-08-20",
+  "broadcastTime": "08:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/08/20/30b2704f20a74c8ca8e2ece3e6d35c9c-1.jpg",
+  "description": "本期节目主要内容：\n    《网络数据安全风险评估办法》8月20日起施行；《全民医疗保障“十五五”规划》发布：健全保障体系到2029年基本实现省级统筹；嫦娥七号任务器箭组合体垂直转运至发射区：嫦娥七号将奔赴充满未知的月球南极。（《朝闻天下》 20260820 08:00）",
+  "program": "zwtx",
+  "guid": "30b2704f20a74c8ca8e2ece3e6d35c9c",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/20/VIDEyYowOKh0lhaETtFPEHin260820.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/30b2704f20a74c8ca8e2ece3e6d35c9c/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/30b2704f20a74c8ca8e2ece3e6d35c9c/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/30b2704f20a74c8ca8e2ece3e6d35c9c/main.m3u8",
+  "createdAt": "2026-08-20T20:43:48.427Z",
+  "durationSeconds": 3149.8
+}
