@@ -1,5 +1,24 @@
 [
   {
+    "id": "825d189b8724412180f8af8ba64d1a52",
+    "title": "《朝闻天下》 20260821 08:00",
+    "url": "https://tv.cctv.cn/2026/08/21/VIDEfjeRpl8eoUS1LZa6iWoM260821.shtml",
+    "date": "2026-08-21",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/21/825d189b8724412180f8af8ba64d1a52-1.jpg",
+    "description": "本期节目主要内容：\n    中国与瑞士宣布完成自贸协定升级谈判；2026年前7个月，全国网上商品和服务零售额增长4.8%；埃及、卡塔尔和土耳其发表联合声明，三国强烈谴责以色列近期袭击加沙地带。（《朝闻天下》 20260821 08:00）",
+    "program": "zwtx",
+    "guid": "825d189b8724412180f8af8ba64d1a52",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/21/VIDEfjeRpl8eoUS1LZa6iWoM260821.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/825d189b8724412180f8af8ba64d1a52/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/825d189b8724412180f8af8ba64d1a52/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/825d189b8724412180f8af8ba64d1a52/main.m3u8",
+    "createdAt": "2026-08-21T20:39:03.750Z",
+    "durationSeconds": 3090.44
+  },
+  {
     "id": "30b2704f20a74c8ca8e2ece3e6d35c9c",
     "title": "《朝闻天下》 20260820 08:00",
     "url": "https://tv.cctv.cn/2026/08/20/VIDEyYowOKh0lhaETtFPEHin260820.shtml",
@@ -492,24 +511,5 @@
     "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/a985053e7f684c0d8b6e0f89dd001d32/main.m3u8?maxbr=2048",
     "createdAt": "2026-07-22T21:21:05.606Z",
     "durationSeconds": 3194.68
-  },
-  {
-    "id": "b0a1f1b9c01f43b088f449005193ce02",
-    "title": "《朝闻天下》 20260721 0800",
-    "url": "https://tv.cctv.cn/2026/07/21/VIDENprqRzBJSoGRHNlo2szf260721.shtml",
-    "date": "2026-07-21",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/21/b0a1f1b9c01f43b088f449005193ce02-1.jpg",
-    "description": "本期节目主要内容：\n    中国经济半年报：2026年上半年规上工业增加值同比增长5.4%；世界人工智能大会达成丰硕成果；美军对伊朗展开新一轮打击行动；联合国对中东多地敌对行动再起深感关切。\n（《朝闻天下》 20260721 08:00）",
-    "program": "zwtx",
-    "guid": "b0a1f1b9c01f43b088f449005193ce02",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/21/VIDENprqRzBJSoGRHNlo2szf260721.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b0a1f1b9c01f43b088f449005193ce02/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b0a1f1b9c01f43b088f449005193ce02/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b0a1f1b9c01f43b088f449005193ce02/main.m3u8",
-    "createdAt": "2026-07-21T21:32:29.298Z",
-    "durationSeconds": 3143.8
   }
 ]

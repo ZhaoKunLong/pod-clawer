@@ -1,0 +1,19 @@
+{
+  "id": "825d189b8724412180f8af8ba64d1a52",
+  "title": "《朝闻天下》 20260821 08:00",
+  "url": "https://tv.cctv.cn/2026/08/21/VIDEfjeRpl8eoUS1LZa6iWoM260821.shtml",
+  "date": "2026-08-21",
+  "broadcastTime": "08:00",
+  "image": "https://p5.img.cctvpic.com/fmspic/2026/08/21/825d189b8724412180f8af8ba64d1a52-1.jpg",
+  "description": "本期节目主要内容：\n    中国与瑞士宣布完成自贸协定升级谈判；2026年前7个月，全国网上商品和服务零售额增长4.8%；埃及、卡塔尔和土耳其发表联合声明，三国强烈谴责以色列近期袭击加沙地带。（《朝闻天下》 20260821 08:00）",
+  "program": "zwtx",
+  "guid": "825d189b8724412180f8af8ba64d1a52",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/21/VIDEfjeRpl8eoUS1LZa6iWoM260821.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/825d189b8724412180f8af8ba64d1a52/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/825d189b8724412180f8af8ba64d1a52/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/825d189b8724412180f8af8ba64d1a52/main.m3u8",
+  "createdAt": "2026-08-21T20:39:03.750Z",
+  "durationSeconds": 3090.44
+}
