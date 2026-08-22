@@ -1,0 +1,19 @@
+{
+  "id": "ca413e6b40c5486eb4bb2366c76e778a",
+  "title": "《朝闻天下》 20260822 08:00",
+  "url": "https://tv.cctv.cn/2026/08/22/VIDEPYqFEHHkk1yIRe2PNSyF260822.shtml",
+  "date": "2026-08-22",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/08/22/ca413e6b40c5486eb4bb2366c76e778a-1.jpg",
+  "description": "本期节目主要内容：  财经老王：12.4万亿元投向民生，保障网越织越密；2026世界机器人大会：48家央企首次组团参展；八国联合声明谴责以色列非法定居点政策；伊朗议长：必须制定计划应对制裁；巴西总统卢拉重申反对美对巴商品加征关税。（《朝闻天下》 20260822 08:00）",
+  "program": "zwtx",
+  "guid": "ca413e6b40c5486eb4bb2366c76e778a",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/22/VIDEPYqFEHHkk1yIRe2PNSyF260822.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ca413e6b40c5486eb4bb2366c76e778a/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ca413e6b40c5486eb4bb2366c76e778a/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ca413e6b40c5486eb4bb2366c76e778a/main.m3u8",
+  "createdAt": "2026-08-22T20:37:41.649Z",
+  "durationSeconds": 3071
+}
