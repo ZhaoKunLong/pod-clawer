@@ -1,0 +1,19 @@
+{
+  "id": "3b4c9782ff2f4be7b3457bd6df8307d7",
+  "title": "《朝闻天下》 20260823 08:00",
+  "url": "https://tv.cctv.cn/2026/08/23/VIDEVRRUENS2vhdeini0uplV260823.shtml",
+  "date": "2026-08-23",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/08/23/3b4c9782ff2f4be7b3457bd6df8307d7-1.jpg",
+  "description": "本期节目主要内容：  “十五五”时期：“黄金大外环”建设改造里程约7400公里；香港特区政府在皇岗口岸举行压力测试；两岸观察·台2027年度防务预算首破“万亿”：民进党穷兵黩武掏空台湾；美媒：美国陆军部长预计年底前卸任；加拿大宣布对美等额反制关税将于9月生效。（《朝闻天下》 20260823 08:00）",
+  "program": "zwtx",
+  "guid": "3b4c9782ff2f4be7b3457bd6df8307d7",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/23/VIDEVRRUENS2vhdeini0uplV260823.shtml",
+  "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/3b4c9782ff2f4be7b3457bd6df8307d7/main.m3u8?maxbr=2048",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/3b4c9782ff2f4be7b3457bd6df8307d7/main.m3u8?maxbr=2048",
+  "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/3b4c9782ff2f4be7b3457bd6df8307d7/main.m3u8?maxbr=2048",
+  "createdAt": "2026-08-23T20:37:27.751Z",
+  "durationSeconds": 2966.04
+}

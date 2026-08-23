@@ -1,5 +1,24 @@
 [
   {
+    "id": "3b4c9782ff2f4be7b3457bd6df8307d7",
+    "title": "《朝闻天下》 20260823 08:00",
+    "url": "https://tv.cctv.cn/2026/08/23/VIDEVRRUENS2vhdeini0uplV260823.shtml",
+    "date": "2026-08-23",
+    "broadcastTime": "08:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/08/23/3b4c9782ff2f4be7b3457bd6df8307d7-1.jpg",
+    "description": "本期节目主要内容：  “十五五”时期：“黄金大外环”建设改造里程约7400公里；香港特区政府在皇岗口岸举行压力测试；两岸观察·台2027年度防务预算首破“万亿”：民进党穷兵黩武掏空台湾；美媒：美国陆军部长预计年底前卸任；加拿大宣布对美等额反制关税将于9月生效。（《朝闻天下》 20260823 08:00）",
+    "program": "zwtx",
+    "guid": "3b4c9782ff2f4be7b3457bd6df8307d7",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/23/VIDEVRRUENS2vhdeini0uplV260823.shtml",
+    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/3b4c9782ff2f4be7b3457bd6df8307d7/main.m3u8?maxbr=2048",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/3b4c9782ff2f4be7b3457bd6df8307d7/main.m3u8?maxbr=2048",
+    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/3b4c9782ff2f4be7b3457bd6df8307d7/main.m3u8?maxbr=2048",
+    "createdAt": "2026-08-23T20:37:27.751Z",
+    "durationSeconds": 2966.04
+  },
+  {
     "id": "ca413e6b40c5486eb4bb2366c76e778a",
     "title": "《朝闻天下》 20260822 08:00",
     "url": "https://tv.cctv.cn/2026/08/22/VIDEPYqFEHHkk1yIRe2PNSyF260822.shtml",
@@ -492,24 +511,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/bf8a2a1b314c462da6dc536ee11864f4/main.m3u8",
     "createdAt": "2026-07-24T21:19:46.432Z",
     "durationSeconds": 3202.76
-  },
-  {
-    "id": "6d42791e014349b08c0889823921f925",
-    "title": "《朝闻天下》 20260723 0800",
-    "url": "https://tv.cctv.cn/2026/07/23/VIDEbpQ9Ck17cJBV1XXOykp6260723.shtml",
-    "date": "2026-07-23",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/23/6d42791e014349b08c0889823921f925-1.jpg",
-    "description": "本期节目主要内容：\n    中国经济半年报：造船业三大指标再创新高；美军连续第12晚对伊朗发动军事打击；联合国：美伊冲突正让世界变得更加不安全；胡塞武装对沙特禁运，红海多艘油轮改道。\n（《朝闻天下》 20260723 08:00）",
-    "program": "zwtx",
-    "guid": "6d42791e014349b08c0889823921f925",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/23/VIDEbpQ9Ck17cJBV1XXOykp6260723.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/6d42791e014349b08c0889823921f925/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/6d42791e014349b08c0889823921f925/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/6d42791e014349b08c0889823921f925/main.m3u8?maxbr=2048",
-    "createdAt": "2026-07-23T21:20:26.626Z",
-    "durationSeconds": 3143.96
   }
 ]
