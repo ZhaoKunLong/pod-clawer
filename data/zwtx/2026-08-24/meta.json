@@ -1,0 +1,19 @@
+{
+  "id": "d50e3c21aea64eb2a6f67b454e709b29",
+  "title": "《朝闻天下》 20260824 08:00",
+  "url": "https://tv.cctv.cn/2026/08/24/VIDEj9mo4mYjwK4yk0KT1hhl260824.shtml",
+  "date": "2026-08-24",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/08/24/d50e3c21aea64eb2a6f67b454e709b29-1.jpg",
+  "description": "本期节目主要内容：\n    多家商业银行发布公告，公布优化后的消费贷贴息政策执行方案；我国绿色矿山建设提速，实现增值反哺；部分日本民众集会，抗议高市政府危险动向；2026年世界羽毛球锦标赛：梁伟铿/王昶夺得世锦赛男双金牌。（《朝闻天下》 20260824 08:00）",
+  "program": "zwtx",
+  "guid": "d50e3c21aea64eb2a6f67b454e709b29",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/24/VIDEj9mo4mYjwK4yk0KT1hhl260824.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d50e3c21aea64eb2a6f67b454e709b29/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d50e3c21aea64eb2a6f67b454e709b29/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d50e3c21aea64eb2a6f67b454e709b29/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "createdAt": "2026-08-24T20:46:16.622Z",
+  "durationSeconds": 3187.08
+}

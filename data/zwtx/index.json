@@ -1,5 +1,24 @@
 [
   {
+    "id": "d50e3c21aea64eb2a6f67b454e709b29",
+    "title": "《朝闻天下》 20260824 08:00",
+    "url": "https://tv.cctv.cn/2026/08/24/VIDEj9mo4mYjwK4yk0KT1hhl260824.shtml",
+    "date": "2026-08-24",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/08/24/d50e3c21aea64eb2a6f67b454e709b29-1.jpg",
+    "description": "本期节目主要内容：\n    多家商业银行发布公告，公布优化后的消费贷贴息政策执行方案；我国绿色矿山建设提速，实现增值反哺；部分日本民众集会，抗议高市政府危险动向；2026年世界羽毛球锦标赛：梁伟铿/王昶夺得世锦赛男双金牌。（《朝闻天下》 20260824 08:00）",
+    "program": "zwtx",
+    "guid": "d50e3c21aea64eb2a6f67b454e709b29",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/24/VIDEj9mo4mYjwK4yk0KT1hhl260824.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d50e3c21aea64eb2a6f67b454e709b29/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d50e3c21aea64eb2a6f67b454e709b29/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d50e3c21aea64eb2a6f67b454e709b29/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "createdAt": "2026-08-24T20:46:16.622Z",
+    "durationSeconds": 3187.08
+  },
+  {
     "id": "3b4c9782ff2f4be7b3457bd6df8307d7",
     "title": "《朝闻天下》 20260823 08:00",
     "url": "https://tv.cctv.cn/2026/08/23/VIDEVRRUENS2vhdeini0uplV260823.shtml",
@@ -492,24 +511,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95c040b4a8814510b16b2bb0f27ba661/main.m3u8",
     "createdAt": "2026-07-25T21:08:22.204Z",
     "durationSeconds": 2810.52
-  },
-  {
-    "id": "bf8a2a1b314c462da6dc536ee11864f4",
-    "title": "《朝闻天下》 20260724 08:00",
-    "url": "https://tv.cctv.cn/2026/07/24/VIDEfPnRpkGapHLTQLA3QzeT260724.shtml",
-    "date": "2026-07-24",
-    "broadcastTime": "08:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/24/bf8a2a1b314c462da6dc536ee11864f4-1.jpg",
-    "description": "本期节目主要内容：\n    美军连续第13晚对伊朗发动空袭；美国：OpenAI承认其模型失控，侵入抱抱脸系统；法国：西南部山火逼近，距居民区不足300米；我国成功发射天仪48星等五颗卫星。\n（《朝闻天下》 20260724 08:00）",
-    "program": "zwtx",
-    "guid": "bf8a2a1b314c462da6dc536ee11864f4",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/24/VIDEfPnRpkGapHLTQLA3QzeT260724.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/bf8a2a1b314c462da6dc536ee11864f4/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/bf8a2a1b314c462da6dc536ee11864f4/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/bf8a2a1b314c462da6dc536ee11864f4/main.m3u8",
-    "createdAt": "2026-07-24T21:19:46.432Z",
-    "durationSeconds": 3202.76
   }
 ]
