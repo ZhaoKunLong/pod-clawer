@@ -1,0 +1,19 @@
+{
+  "id": "7e99e0278044484e86cd445f9547e25f",
+  "title": "《朝闻天下》 20260825 08:00",
+  "url": "https://tv.cctv.cn/2026/08/25/VIDE4L5y6pBGhkL0N1Kq3y9W260825.shtml",
+  "date": "2026-08-25",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/08/25/7e99e0278044484e86cd445f9547e25f-1.jpg",
+  "description": "本期节目主要内容：\n    美国财长公布多项针对伊朗的经济制裁措施·美媒：美加码对伊朗经济制裁或作用有限；英首相称已批准与乌分享导弹制造技术；以色列定居者在约旦河西岸暴力事件频发：巴勒斯坦截肢者遭以色列定居者持铁管殴打；巴西：停车场地下发掘出10万黑奴乱葬遗址。（《朝闻天下》 20260825 08:00）",
+  "program": "zwtx",
+  "guid": "7e99e0278044484e86cd445f9547e25f",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/25/VIDE4L5y6pBGhkL0N1Kq3y9W260825.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7e99e0278044484e86cd445f9547e25f/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7e99e0278044484e86cd445f9547e25f/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7e99e0278044484e86cd445f9547e25f/main.m3u8",
+  "createdAt": "2026-08-25T20:43:57.888Z",
+  "durationSeconds": 3147.4
+}

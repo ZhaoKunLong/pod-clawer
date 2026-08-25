@@ -1,5 +1,24 @@
 [
   {
+    "id": "7e99e0278044484e86cd445f9547e25f",
+    "title": "《朝闻天下》 20260825 08:00",
+    "url": "https://tv.cctv.cn/2026/08/25/VIDE4L5y6pBGhkL0N1Kq3y9W260825.shtml",
+    "date": "2026-08-25",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/08/25/7e99e0278044484e86cd445f9547e25f-1.jpg",
+    "description": "本期节目主要内容：\n    美国财长公布多项针对伊朗的经济制裁措施·美媒：美加码对伊朗经济制裁或作用有限；英首相称已批准与乌分享导弹制造技术；以色列定居者在约旦河西岸暴力事件频发：巴勒斯坦截肢者遭以色列定居者持铁管殴打；巴西：停车场地下发掘出10万黑奴乱葬遗址。（《朝闻天下》 20260825 08:00）",
+    "program": "zwtx",
+    "guid": "7e99e0278044484e86cd445f9547e25f",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/25/VIDE4L5y6pBGhkL0N1Kq3y9W260825.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7e99e0278044484e86cd445f9547e25f/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7e99e0278044484e86cd445f9547e25f/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7e99e0278044484e86cd445f9547e25f/main.m3u8",
+    "createdAt": "2026-08-25T20:43:57.888Z",
+    "durationSeconds": 3147.4
+  },
+  {
     "id": "d50e3c21aea64eb2a6f67b454e709b29",
     "title": "《朝闻天下》 20260824 08:00",
     "url": "https://tv.cctv.cn/2026/08/24/VIDEj9mo4mYjwK4yk0KT1hhl260824.shtml",
@@ -492,24 +511,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b0e0b30a2942488da3b787e8ba2915a3/main.m3u8",
     "createdAt": "2026-07-26T21:11:06.650Z",
     "durationSeconds": 3180.68
-  },
-  {
-    "id": "95c040b4a8814510b16b2bb0f27ba661",
-    "title": "《朝闻天下》 20260725 08:00",
-    "url": "https://tv.cctv.cn/2026/07/25/VIDEC2SFtIOdnnF4RmuPsZgM260725.shtml",
-    "date": "2026-07-25",
-    "broadcastTime": "08:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/25/95c040b4a8814510b16b2bb0f27ba661-1.jpg",
-    "description": "本期节目主要内容：\n    中国经济半年报：上半年农业农村经济运行保持稳中向好势头；商务部：将14家欧盟实体列入出口管制管控名单；美媒报道称：美英筹划召开霍尔木兹海峡问题国际会议；内塔尼亚胡将访美，28日与特朗普会晤。\n（《朝闻天下》 20260725 08:00）",
-    "program": "zwtx",
-    "guid": "95c040b4a8814510b16b2bb0f27ba661",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/25/VIDEC2SFtIOdnnF4RmuPsZgM260725.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95c040b4a8814510b16b2bb0f27ba661/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95c040b4a8814510b16b2bb0f27ba661/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95c040b4a8814510b16b2bb0f27ba661/main.m3u8",
-    "createdAt": "2026-07-25T21:08:22.204Z",
-    "durationSeconds": 2810.52
   }
 ]
