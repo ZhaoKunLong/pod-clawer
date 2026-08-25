@@ -1,5 +1,24 @@
 [
   {
+    "id": "781a4175a63741d097e0c1f59e11a252",
+    "title": "《新闻联播》 20260824 21:00",
+    "url": "https://tv.cctv.cn/2026/08/24/VIDEqVgJPkHWsgwWnnTBvr3Z260824.shtml",
+    "date": "2026-08-24",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/08/24/781a4175a63741d097e0c1f59e11a252-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平举行仪式欢迎约旦国王访华；\n2.习近平同约旦国王会谈；\n3.习近平作出重要指示强调 巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩 蔡奇主持中央党的建设工作领导小组会议并讲话 李希出席并讲话；\n4.习近平致电祝贺阿拉姆吉尔就任孟加拉国总统；\n5.李强会见约旦国王；\n6.王沪宁主持召开全国政协主席会议；\n7.王沪宁会见第三届中美1.5轨对话美方代表；\n8.韩正会见科威特外交大臣；\n9.我国加速形成全链条科技服务体系；\n10.台风影响东南沿海 多地积极应对强降雨；\n11.国务院新闻办举行“新征程上的奋斗者”中外记者见面会；\n12.陈武同志逝世；\n13.国内联播快讯：\n（1）“十五五”期间我国将开展医保助力基层卫生专项行动；\n（2）中央网信办专项行动处置团播违规直播间7200余个；\n（3）第二十一届中国长春电影节开幕；\n14.伊朗发布霍尔木兹海峡通行新规 伊朗称与《麦加共同防务协议》成员国进行相关讨论；\n15.国际联播快讯：\n（1）超七成加拿大受访者支持退出加美谈判；\n（2）欧盟敦促以色列停止扩建定居点计划。\n（《新闻联播》 20260824 21:00）",
+    "program": "xwlb",
+    "guid": "781a4175a63741d097e0c1f59e11a252",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/24/VIDEqVgJPkHWsgwWnnTBvr3Z260824.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/781a4175a63741d097e0c1f59e11a252/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/781a4175a63741d097e0c1f59e11a252/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/781a4175a63741d097e0c1f59e11a252/main.m3u8",
+    "createdAt": "2026-08-25T09:02:39.628Z",
+    "durationSeconds": 1799.16
+  },
+  {
     "id": "baffbedb0e784c28bf3a9afc0cd98f7f",
     "title": "《新闻联播》 20260823 21:00",
     "url": "https://tv.cctv.cn/2026/08/23/VIDEdIIyCEyj1NELVhkCuqRM260823.shtml",
@@ -434,25 +453,6 @@
     "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/7/a/b/67ab301545a1417bbaf9cb53e1901f3a/mp3/main.m3u8",
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/7/a/b/67ab301545a1417bbaf9cb53e1901f3a/mp3/main.m3u8",
     "createdAt": "2026-07-26T10:14:29.362Z",
-    "durationSeconds": 1799.4
-  },
-  {
-    "id": "16c48e0e9e224873bb2e61efe00d7287",
-    "title": "《新闻联播》 20260724 21:00",
-    "url": "https://tv.cctv.cn/2026/07/24/VIDECxZNMw8yjwJX5XsbKs6R260724.shtml",
-    "date": "2026-07-24",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/24/16c48e0e9e224873bb2e61efe00d7287-1.jpg",
-    "description": "本期节目主要内容：\n1.应习近平邀请 斯洛伐克总统将对中国进行国事访问；\n2.【“义乌发展经验”启示】给成长快的孩子换上一件大衣服；\n3.电视专题片《世界义乌——习近平关心引领义乌发展》今晚播出第二集；\n4.【“十五五”开好局起好步】强治理护民安促发展 全力服务保障“十五五”开局起步；\n5.上半年农业农村经济运行保持稳中向好势头；\n6.对口援疆 助力新疆高质量发展；\n7.国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组；\n8.上半年长三角区域进出口同比增长18% 创同期新高；\n9.上半年中央企业研发经费投入同比增长3.8%；\n10.我国造船业三大指标保持全球领先；\n11.台风“红霞”逼近 粤闽积极应对；\n12.国内联播快讯：\n（1）全国开展汛期灾害事故违法不良信息集中清理整治；\n（2）“十五五”末我国林草覆盖率将达56.4%；\n（3）1—6月我国汽车出口超6000亿元 同比增长48.3%；\n（4）上半年进出口银行新发放外贸领域贷款近6500亿元；\n（5）第34届全国图书交易博览会今天开幕；\n（6）中国数学家邓煜、王虹获得菲尔兹奖；\n（7）三体计算星座加速建设 2032年实现千颗卫星规模；\n（8）国内首条穿越长江高铁隧道贯通；\n（9）明年起企业年金个人账户可线上转移接续；\n13.美军连续第13晚对伊朗发动打击 伊朗称打击巴林和约旦的美军基地：\n（1）美威胁重启对伊朗大规模作战行动 伊朗称已准备好应对军事升级；\n（2）国际油价大幅上涨 伦敦原油期货价格再次突破100美元；\n14.国际联播快讯：\n（1）美国对贸易伙伴征收新关税 多方反对；\n（2）伊朗和伊拉克签署多项合作文件；\n（3）美施压沙特与以色列关系正常化。\n（《新闻联播》 20260724 21:00）",
-    "program": "xwlb",
-    "guid": "16c48e0e9e224873bb2e61efe00d7287",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/24/VIDECxZNMw8yjwJX5XsbKs6R260724.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/6/c/4/16c48e0e9e224873bb2e61efe00d7287/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/6/c/4/16c48e0e9e224873bb2e61efe00d7287/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/6/c/4/16c48e0e9e224873bb2e61efe00d7287/mp3/main.m3u8",
-    "createdAt": "2026-07-25T10:04:00.770Z",
     "durationSeconds": 1799.4
   }
 ]
