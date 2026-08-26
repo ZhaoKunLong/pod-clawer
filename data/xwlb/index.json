@@ -1,5 +1,24 @@
 [
   {
+    "id": "79a48948c7e44ae3b9f95bad3c585fad",
+    "title": "《新闻联播》 20260825 21:00",
+    "url": "https://tv.cctv.cn/2026/08/25/VIDEWcP858hNEmNQt5Z9NSG5260825.shtml",
+    "date": "2026-08-25",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/08/25/79a48948c7e44ae3b9f95bad3c585fad-1.jpg",
+    "description": "本期节目主要内容：\n1.【新思想引领新征程】为人民出政绩 以实干出政绩；\n2.央视快评：努力创造经得起实践人民历史检验的实绩；\n3.十四届全国人大常委会第二十四次会议在京举行 赵乐际主持；\n4.全国政协十四届常委会第十八次会议开幕 王沪宁出席；\n5.韩正会见印度国家安全顾问、中印边界问题印方特别代表多瓦尔；\n6.全国夏粮收购进入高峰 累计收购总量超9000万吨；\n7.前7个月我国交通运输主要指标保持增长；\n8.我国加快推进公共数据开放共享 赋能千行百业；\n9.第二十六届投洽会将于9月8日至11日在厦门举行；\n10.首批国家公园生态系统质量和旗舰物种数量实现双提升；\n11.国内联播快讯：\n（1）上半年全国新开工建设口袋公园超2800个；\n（2）截至7月底我国电动汽车充电基础设施总数超2360万个；\n（3）“十五五”期间我国将为参保人建立个人医保云；\n（4）各地组织开展残疾预防科普活动；\n（5）第十一届APEC粮食安全部长级会议达成多项重要成果；\n（6）驻香港部队组织第29次建制单位轮换；\n（7）第三批“青年律师西部锻炼计划”启动；\n（8）北京口岸今年出入境人员总量突破1500万人次；\n（9）济南黄岗路黄河隧道今天通车；\n（10）受台风影响 未来三天南方部分地区有大到暴雨；\n12.美宣布对伊朗实施新一轮制裁措施 伊朗称美国将再遭失败；\n13.美威胁进一步提高对加关税 加称不接受不平等双边关系；\n14.英首相称已批准与乌分享导弹制造技术 俄称将摧毁相关目标；\n15.国际联播快讯：\n（1）古特雷斯敦促各方合作尽快解决航运阻断；\n（2）也门胡塞武装称袭击沙特油轮及军事目标；\n（3）欧盟气候机构称全球日均海表温度创新高；\n（4）法国南部遭龙卷风袭击。\n（《新闻联播》 20260825 21:00）",
+    "program": "xwlb",
+    "guid": "79a48948c7e44ae3b9f95bad3c585fad",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/25/VIDEWcP858hNEmNQt5Z9NSG5260825.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/79a48948c7e44ae3b9f95bad3c585fad/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/79a48948c7e44ae3b9f95bad3c585fad/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/79a48948c7e44ae3b9f95bad3c585fad/main.m3u8",
+    "createdAt": "2026-08-26T09:05:30.725Z",
+    "durationSeconds": 1799.48
+  },
+  {
     "id": "781a4175a63741d097e0c1f59e11a252",
     "title": "《新闻联播》 20260824 21:00",
     "url": "https://tv.cctv.cn/2026/08/24/VIDEqVgJPkHWsgwWnnTBvr3Z260824.shtml",
@@ -435,24 +454,5 @@
     "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/7533f04587ee4c8ca0149502b8189b7d/main.m3u8?maxbr=2048",
     "createdAt": "2026-07-27T11:43:09.725Z",
     "durationSeconds": 1799.16
-  },
-  {
-    "id": "67ab301545a1417bbaf9cb53e1901f3a",
-    "title": "《新闻联播》 20260725 21:00",
-    "url": "https://tv.cctv.cn/2026/07/25/VIDEaEQ83q6mith4EpnQyVHb260725.shtml",
-    "date": "2026-07-25",
-    "broadcastTime": "21:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/07/25/67ab301545a1417bbaf9cb53e1901f3a-1.jpg",
-    "description": "本期节目主要内容：\n1.【“义乌发展经验”启示】在全面小康的道路上不落下一个；\n2.电视专题片《世界义乌——习近平关心引领义乌发展》今晚播出第三集；\n3.【树立和践行正确政绩观】办好群众身边事 学习教育见实效；\n4.今年以来消费品以旧换新销售额超万亿元；\n5.【在希望的田野上】全国秋粮田管有序推进；\n6.【活力中国调研行】瞄准科学“无人区” 原始创新如何突破；\n7.各地各部门积极部署应对台风“红霞”；\n8.“景德镇手工瓷业遗存”成功列入《世界遗产名录》；\n9.国内联播快讯：\n（1）APEC人工智能高级别论坛达成多项成果；\n（2）2030年我国中医药服务体系将更加健全；\n（3）上半年国家电网完成固定资产投资同比增长12.6%；\n（4）西部陆海新通道上半年进出口超5000亿元；\n（5）西康高铁全线拉通试验正式启动；\n10.伊朗打击中东多国美军目标回应美袭击 美称仍在与伊朗对话并威胁升级打击力度；\n11.沙特主导的多国联军空袭也门荷台达 胡塞武装称局势升级；\n12.国际联播快讯：\n（1）约旦河西岸爆发冲突 巴谴责以暴力袭击；\n（2）俄打击乌无人机演示场 乌称打击俄军企；\n（3）法西两国林火蔓延 大量居民疏散。\n（《新闻联播》 20260725 21:00）",
-    "program": "xwlb",
-    "guid": "67ab301545a1417bbaf9cb53e1901f3a",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/25/VIDEaEQ83q6mith4EpnQyVHb260725.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/7/a/b/67ab301545a1417bbaf9cb53e1901f3a/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/7/a/b/67ab301545a1417bbaf9cb53e1901f3a/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/7/a/b/67ab301545a1417bbaf9cb53e1901f3a/mp3/main.m3u8",
-    "createdAt": "2026-07-26T10:14:29.362Z",
-    "durationSeconds": 1799.4
   }
 ]
