@@ -1,0 +1,19 @@
+{
+  "id": "3eb0cb19c70340e8b95fc7c62dce7c50",
+  "title": "《朝闻天下》 20260826 08:00",
+  "url": "https://tv.cctv.cn/2026/08/26/VIDEa49GPggWfWd3U2lhmERj260826.shtml",
+  "date": "2026-08-26",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/08/26/3eb0cb19c70340e8b95fc7c62dce7c50-1.jpg",
+  "description": "本期节目主要内容：\n    台风暴雨强对流，中央气象台三预警齐发；2026年上半年，数字产业收入超20万亿元，同比增13.6%；同心同行，两岸青年交流季上海站活动举行；加拿大宣布对美国实施报复性关税。（《朝闻天下》 20260826 08:00）",
+  "program": "zwtx",
+  "guid": "3eb0cb19c70340e8b95fc7c62dce7c50",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/26/VIDEa49GPggWfWd3U2lhmERj260826.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3eb0cb19c70340e8b95fc7c62dce7c50/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3eb0cb19c70340e8b95fc7c62dce7c50/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3eb0cb19c70340e8b95fc7c62dce7c50/main.m3u8",
+  "createdAt": "2026-08-26T23:29:43.772Z",
+  "durationSeconds": 3170.04
+}

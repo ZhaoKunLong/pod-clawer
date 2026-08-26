@@ -1,5 +1,24 @@
 [
   {
+    "id": "3eb0cb19c70340e8b95fc7c62dce7c50",
+    "title": "《朝闻天下》 20260826 08:00",
+    "url": "https://tv.cctv.cn/2026/08/26/VIDEa49GPggWfWd3U2lhmERj260826.shtml",
+    "date": "2026-08-26",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/26/3eb0cb19c70340e8b95fc7c62dce7c50-1.jpg",
+    "description": "本期节目主要内容：\n    台风暴雨强对流，中央气象台三预警齐发；2026年上半年，数字产业收入超20万亿元，同比增13.6%；同心同行，两岸青年交流季上海站活动举行；加拿大宣布对美国实施报复性关税。（《朝闻天下》 20260826 08:00）",
+    "program": "zwtx",
+    "guid": "3eb0cb19c70340e8b95fc7c62dce7c50",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/26/VIDEa49GPggWfWd3U2lhmERj260826.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3eb0cb19c70340e8b95fc7c62dce7c50/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3eb0cb19c70340e8b95fc7c62dce7c50/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3eb0cb19c70340e8b95fc7c62dce7c50/main.m3u8",
+    "createdAt": "2026-08-26T23:29:43.772Z",
+    "durationSeconds": 3170.04
+  },
+  {
     "id": "7e99e0278044484e86cd445f9547e25f",
     "title": "《朝闻天下》 20260825 08:00",
     "url": "https://tv.cctv.cn/2026/08/25/VIDE4L5y6pBGhkL0N1Kq3y9W260825.shtml",
@@ -492,24 +511,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fff57d14f68344f598c10aaea3b917c0/main.m3u8",
     "createdAt": "2026-07-27T21:22:51.911Z",
     "durationSeconds": 3127.88
-  },
-  {
-    "id": "b0e0b30a2942488da3b787e8ba2915a3",
-    "title": "《朝闻天下》 20260726 08:00",
-    "url": "https://tv.cctv.cn/2026/07/26/VIDETmQfuaC2VjpC3ChdFSVl260726.shtml",
-    "date": "2026-07-26",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/07/26/b0e0b30a2942488da3b787e8ba2915a3-1.jpg",
-    "description": "本期节目主要内容：\n    广东惠东：台风“红霞”登陆，带来狂风暴雨，影响强烈；APEC将拓展数据资源开发利用等合作；景德镇手工瓷业遗存成功列入世界遗产名录；伊朗媒体公布卫星图像：美军在约旦基地的弹药库被摧毁。\n（《朝闻天下》 20260726 08:00）",
-    "program": "zwtx",
-    "guid": "b0e0b30a2942488da3b787e8ba2915a3",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/26/VIDETmQfuaC2VjpC3ChdFSVl260726.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b0e0b30a2942488da3b787e8ba2915a3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b0e0b30a2942488da3b787e8ba2915a3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b0e0b30a2942488da3b787e8ba2915a3/main.m3u8",
-    "createdAt": "2026-07-26T21:11:06.650Z",
-    "durationSeconds": 3180.68
   }
 ]
