@@ -1,5 +1,24 @@
 [
   {
+    "id": "17f7815abb8c4d738115b8c8515c13a8",
+    "title": "《新闻联播》 20260827 21:00",
+    "url": "https://tv.cctv.cn/2026/08/27/VIDEsVv4bRNygyAgu4eFLrdT260827.shtml",
+    "date": "2026-08-27",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/08/27/17f7815abb8c4d738115b8c8515c13a8-1.jpg",
+    "description": "本期节目主要内容：\n1.《习近平文化文选》第一卷、第二卷出版发行；\n2.受习近平总书记委托 李强抵达西藏吉隆指导抢险救灾工作；\n3.各方全力以赴开展西藏吉隆县泥石流抢险救援；\n4.十四届全国人大常委会举行第七十二次委员长会议；\n5.提升公民法治素养 培育全社会法治信仰；\n6.前七个月我国规模以上工业企业利润保持较快增长；\n7.我国经济发展新动能指数保持较快增长；\n8.中小微企业和服务业经营主体贷款贴息新政落地；\n9.我国机器人产业创新不断涌现；\n10.【一线调研】“盘活”出来的新效能；\n11.我国高耗能行业加速推进节能降碳；\n12.我国都市圈加快推进1小时通勤圈建设；\n13.国内联播快讯：\n（1）我国开展汽车产品质量提升专项行动；\n（2）两部门印发文件 加强知识产权数据资源开发利用；\n（3）我国启动建设医保病理云 病理检查结果可全国通用；\n（4）驻澳门部队组织第27次建制单位轮换；\n（5）平陆运河通航前实船试验完成；\n（6）全国首列中老泰图定快速班列开行；\n14.尼泊尔北部泥石流灾害已致289人遇难 数百人失联；\n15.伊朗称伊军事方针从防御转为进攻 美称未就恢复谈判设时间表；\n16.国际联播快讯：\n（1）俄国家杜马主席敦促日本正视其侵略历史；\n（2）加拿大一省宣布对美国酒类征收反制关税；\n（3）刚果（金）埃博拉确诊病例超5600例。\n（《新闻联播》 20260827 21:00）",
+    "program": "xwlb",
+    "guid": "17f7815abb8c4d738115b8c8515c13a8",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/27/VIDEsVv4bRNygyAgu4eFLrdT260827.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/7/f/7/17f7815abb8c4d738115b8c8515c13a8/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/7/f/7/17f7815abb8c4d738115b8c8515c13a8/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/7/f/7/17f7815abb8c4d738115b8c8515c13a8/mp3/main.m3u8",
+    "createdAt": "2026-08-27T19:06:31.894Z",
+    "durationSeconds": 1799.64
+  },
+  {
     "id": "79a48948c7e44ae3b9f95bad3c585fad",
     "title": "《新闻联播》 20260825 21:00",
     "url": "https://tv.cctv.cn/2026/08/25/VIDEWcP858hNEmNQt5Z9NSG5260825.shtml",
@@ -416,43 +435,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/d/6/1/9d61d6eb818a4321b336f830288ecccd/mp3/main.m3u8",
     "createdAt": "2026-07-29T10:50:27.681Z",
     "durationSeconds": 1799.64
-  },
-  {
-    "id": "fba70eb7f10c4866b7d8f381c0052274",
-    "title": "《新闻联播》 20260727 21:00",
-    "url": "https://tv.cctv.cn/2026/07/27/VIDEPkb5jiiHqLzozSMtiUjS260727.shtml",
-    "date": "2026-07-27",
-    "broadcastTime": "21:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/27/fba70eb7f10c4866b7d8f381c0052274-1.jpg",
-    "description": "本期节目主要内容：\n1.习近平同巴西总统通电话；\n2.【新思想引领新征程】向新向优 中国外贸持续彰显强大韧性；\n3.中共中央 国务院转发《中央宣传部、司法部关于开展法治宣传教育的第九个五年规划（2026—2030年）》；\n4.上半年全国规模以上工业企业利润实现较快增长；\n5.【“十五五”开好局起好步】推动残疾人事业全面发展高质量发展；\n6.“在高质量发展中保障和改善民生”形势政策系列报告会第七场报告会在京举行；\n7.新唐山建设五十年 绘就高质量发展新图景；\n8.“红霞”影响持续 各地各部门采取措施积极应对；\n9.【文化中国行】一纸侨批赤子情；\n10.国内联播快讯：\n（1）第九届进博会倒计时100天 筹备工作稳步推进；\n（2）网信部门严管“自媒体”未规范标注信息来源行为；\n（3）长江干线货物吞吐量上半年达19.7亿吨；\n（4）9000吨级气膜粮仓完成首次装粮压仓；\n（5）烟威1000千伏特高压工程今天实现全线贯通；\n（6）“文物01星”首批空间采集图像公布；\n（7）中国海警舰艇编队起航赴北太平洋开展公海渔业执法巡航；\n（8）辽宁长山群岛纳入世界自然遗产；\n11.金正恩参谒中国人民志愿军烈士陵园；\n12.美国和伊朗暂停互袭 国际油价大幅下跌；\n13.伊朗最高领袖称保卫黎巴嫩是伊战略使命 黎军批评以军违反协议阻碍黎军部署；\n14.国际联播快讯：\n（1）胡塞武装称48小时内袭击三艘沙特油轮；\n（2）俄控制关键居民点 乌提升远程打击能力；\n（3）西班牙森林机构称林火强度已超灭火能力。\n（《新闻联播》 20260727 21:00）",
-    "program": "xwlb",
-    "guid": "fba70eb7f10c4866b7d8f381c0052274",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/27/VIDEPkb5jiiHqLzozSMtiUjS260727.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/f/b/a/7/fba70eb7f10c4866b7d8f381c0052274/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/f/b/a/7/fba70eb7f10c4866b7d8f381c0052274/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/f/b/a/7/fba70eb7f10c4866b7d8f381c0052274/mp3/main.m3u8",
-    "createdAt": "2026-07-28T10:46:33.602Z",
-    "durationSeconds": 1799.64
-  },
-  {
-    "id": "7533f04587ee4c8ca0149502b8189b7d",
-    "title": "《新闻联播》 20260726 21:00",
-    "url": "https://tv.cctv.cn/2026/07/26/VIDE6vupWOJsflSA14KBp4rY260726.shtml",
-    "date": "2026-07-26",
-    "broadcastTime": "21:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/26/7533f04587ee4c8ca0149502b8189b7d-1.jpg",
-    "description": "本期节目主要内容：\n1.【新思想引领新征程】创新驱动 激发更强发展新动能；\n2.【树立和践行正确政绩观】办好民生实事 推动学习教育见行见效；\n3.台风“红霞”今天凌晨登陆 各地各部门全力应对；\n4.我国成为世界上少数红树林面积持续增加的国家之一；\n5.我国冷链物流网络加速提质升级；\n6.多元文旅资源和消费场景带动入境游快速增长；\n7.【文化中国行】千年窑火绽芳华；\n8.国内联播快讯：\n（1）APEC将拓展数据资源开发利用等新领域合作；\n（2）1—6月我国农业保险提供风险保障3.31万亿元；\n（3）我国将进一步加强建筑市场监管；\n（4）2025年我国能源重点项目投资同比增长近11%；\n（5）北京162项公安政务服务事项实现“全程网办”；\n（6）第十二批援疆干部人才赴新疆工作；\n（7）一艘越南籍船舶遇险沉没 中方持续救援；\n9.美媒称美总统中断空袭伊朗 伊朗称摧毁美军弹药库；\n10.法国和西班牙林火灾情持续恶化 超30万人疏散；\n11.国际联播快讯：\n（1）伊朗谴责乌克兰袭击伊朗商船；\n（2）也门胡塞武装称打击沙特能源设施；\n（3）以军空袭加沙 在西岸扣押巴勒斯坦人；\n（4）防美干预大选 巴西拒向美官员发签证。\n（《新闻联播》 20260726 21:00）",
-    "program": "xwlb",
-    "guid": "7533f04587ee4c8ca0149502b8189b7d",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/26/VIDE6vupWOJsflSA14KBp4rY260726.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/7533f04587ee4c8ca0149502b8189b7d/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/7533f04587ee4c8ca0149502b8189b7d/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/7533f04587ee4c8ca0149502b8189b7d/main.m3u8?maxbr=2048",
-    "createdAt": "2026-07-27T11:43:09.725Z",
-    "durationSeconds": 1799.16
   }
 ]
