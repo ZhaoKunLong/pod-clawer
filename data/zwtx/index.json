@@ -1,5 +1,24 @@
 [
   {
+    "id": "22b28aff0d2040a9bc3f42240d974e99",
+    "title": "《朝闻天下》 20260828 08:00",
+    "url": "https://tv.cctv.cn/2026/08/28/VIDEGRCnw7OVvAVS9zA64khk260828.shtml",
+    "date": "2026-08-28",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/28/22b28aff0d2040a9bc3f42240d974e99-1.jpg",
+    "description": "本期节目主要内容：  西藏日喀则市吉隆县遭受泥石流灾害：两部门启动国家二级救灾应急响应；尼泊尔北部泥石流灾害已致389人遇难；中国与上合组织其他成员国贸易额占我国贸易总额的8%；伊朗革命卫队：增强战略主动性；日本：福岛核事故反应堆压力容器存在约3米大洞。（《朝闻天下》 20260828 08:00）",
+    "program": "zwtx",
+    "guid": "22b28aff0d2040a9bc3f42240d974e99",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/28/VIDEGRCnw7OVvAVS9zA64khk260828.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/22b28aff0d2040a9bc3f42240d974e99/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/22b28aff0d2040a9bc3f42240d974e99/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/22b28aff0d2040a9bc3f42240d974e99/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "createdAt": "2026-08-28T04:22:42.676Z",
+    "durationSeconds": 3170.44
+  },
+  {
     "id": "3eb0cb19c70340e8b95fc7c62dce7c50",
     "title": "《朝闻天下》 20260826 08:00",
     "url": "https://tv.cctv.cn/2026/08/26/VIDEa49GPggWfWd3U2lhmERj260826.shtml",
@@ -473,43 +492,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7747a09da37644ea8249e2efc53f70e8/main.m3u8",
     "createdAt": "2026-07-29T21:11:43.709Z",
     "durationSeconds": 3022
-  },
-  {
-    "id": "b6e59f31228b4f8fa925cddb4f240d7b",
-    "title": "《朝闻天下》 20260728 08:00",
-    "url": "https://tv.cctv.cn/2026/07/28/VIDEtCg7K7nxcQ4USFnc0BmR260728.shtml",
-    "date": "2026-07-28",
-    "broadcastTime": "08:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/28/b6e59f31228b4f8fa925cddb4f240d7b-1.jpg",
-    "description": "本期节目主要内容：\n    中国经济半年报：全国规模以上工业企业利润同比增长18.7%；开局起步“十五五”系列主题新闻发布会：推动残疾人事业全面发展高质量发展；伊朗武装部队对美国海上封锁发出警告；新闻观察：美伊停火但互信脆弱，战火重燃风险仍存在。\n（《朝闻天下》 20260728 08:00）",
-    "program": "zwtx",
-    "guid": "b6e59f31228b4f8fa925cddb4f240d7b",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/28/VIDEtCg7K7nxcQ4USFnc0BmR260728.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/b6e59f31228b4f8fa925cddb4f240d7b/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/b6e59f31228b4f8fa925cddb4f240d7b/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/b6e59f31228b4f8fa925cddb4f240d7b/main.m3u8?maxbr=2048",
-    "createdAt": "2026-07-28T21:20:59.063Z",
-    "durationSeconds": 3190.28
-  },
-  {
-    "id": "fff57d14f68344f598c10aaea3b917c0",
-    "title": "《朝闻天下》 20260727 08:00",
-    "url": "https://tv.cctv.cn/2026/07/27/VIDEsnyPes9YlsEZsaNqVMjt260727.shtml",
-    "date": "2026-07-27",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/07/27/fff57d14f68344f598c10aaea3b917c0-1.jpg",
-    "description": "本期节目主要内容：\n    我国现代化水网建设全面提速：2026年上半年，全国实施水利项目3.3万个；伊朗外交部发言人称：伊美之间信息传递及斡旋方活动仍在进行；关注黎以局势：黎军称以军阻碍其在“试点区域”部署。\n（《朝闻天下》 20260727 08:00）",
-    "program": "zwtx",
-    "guid": "fff57d14f68344f598c10aaea3b917c0",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/27/VIDEsnyPes9YlsEZsaNqVMjt260727.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fff57d14f68344f598c10aaea3b917c0/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fff57d14f68344f598c10aaea3b917c0/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fff57d14f68344f598c10aaea3b917c0/main.m3u8",
-    "createdAt": "2026-07-27T21:22:51.911Z",
-    "durationSeconds": 3127.88
   }
 ]
