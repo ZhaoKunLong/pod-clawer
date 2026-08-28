@@ -1,5 +1,24 @@
 [
   {
+    "id": "92a0367c30e846d28ad9fb3a0981b8c6",
+    "title": "《新闻联播》 20260828 21:00",
+    "url": "https://tv.cctv.cn/2026/08/28/VIDEqIosU0ERf9HfB7Mx8Loq260828.shtml",
+    "date": "2026-08-28",
+    "broadcastTime": "21:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/28/92a0367c30e846d28ad9fb3a0981b8c6-1.jpg",
+    "description": "本期节目主要内容：\n1.中共中央政治局召开会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作 中共中央总书记习近平主持会议；\n2.习近平就尼泊尔遭受泥石流灾害向尼泊尔总统致慰问电 李强向尼泊尔总理致慰问电；\n3.陈武同志遗体在京火化；\n4.习近平签署国家主席令；\n5.习近平在吉尔吉斯斯坦媒体发表署名文章；\n6.李强在西藏吉隆指导抢险救援和应急处置工作；\n7.十四届全国人大常委会第二十四次会议在京闭幕；\n8.各方力量开展西藏吉隆县泥石流灾害抢险救援；\n9.神舟二十三号航天员乘组圆满完成出舱活动；\n10.联播快讯：\n（1）2026中国国际大数据产业博览会开幕；\n（2）2026年APEC第三次高官会在大连举行；\n（3）美更改安大略湖名称 加称永不改名；\n（4）伊朗称将反制任何升级经济紧张局势行动。\n（《新闻联播》 20260828 21:00）",
+    "program": "xwlb",
+    "guid": "92a0367c30e846d28ad9fb3a0981b8c6",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/28/VIDEqIosU0ERf9HfB7Mx8Loq260828.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/2/a/0/92a0367c30e846d28ad9fb3a0981b8c6/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/2/a/0/92a0367c30e846d28ad9fb3a0981b8c6/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/2/a/0/92a0367c30e846d28ad9fb3a0981b8c6/mp3/main.m3u8",
+    "createdAt": "2026-08-28T20:14:18.260Z",
+    "durationSeconds": 1799.48
+  },
+  {
     "id": "17f7815abb8c4d738115b8c8515c13a8",
     "title": "《新闻联播》 20260827 21:00",
     "url": "https://tv.cctv.cn/2026/08/27/VIDEsVv4bRNygyAgu4eFLrdT260827.shtml",
@@ -416,24 +435,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/9/4/7/594711caf5aa4118a00d0aaf38fd190f/mp3/main.m3u8",
     "createdAt": "2026-07-30T10:35:29.611Z",
     "durationSeconds": 1799.48
-  },
-  {
-    "id": "9d61d6eb818a4321b336f830288ecccd",
-    "title": "《新闻联播》 20260728 21:00",
-    "url": "https://tv.cctv.cn/2026/07/28/VIDEZfPWNEMg5tUkXpjMDoNa260728.shtml",
-    "date": "2026-07-28",
-    "broadcastTime": "21:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/07/28/9d61d6eb818a4321b336f830288ecccd-1.jpg",
-    "description": "本期节目主要内容：\n1.习近平举行仪式欢迎斯洛伐克总统访华；\n2.习近平同斯洛伐克总统会谈；\n3.习近平对侨务工作作出重要指示强调 更好凝聚侨心侨力 促进海内外中华儿女团结奋斗 王沪宁出席全国侨务工作会议并讲话；\n4.央视快评：促进海内外中华儿女团结奋斗；\n5.李强在河北唐山调研慰问；\n6.全国政协召开“加快农业农村现代化”专题协商会 王沪宁出席并讲话；\n7.【“十五五”开好局起好步】上半年税收收入稳步增长 新质生产力发展成效明显；\n8.商务部就所谓“产能过剩”问题介绍中方立场；\n9.王戟：冲锋不止的“科研尖兵”；\n10.国内联播快讯：\n（1）全国市场监管部门共查办节庆等相关违法案件197件；\n（2）《2026年APEC林业部长级会议联合声明》发布；\n（3）“百日千万招聘专项行动”推出四个线上招聘专场；\n（4）2026年暑期档票房突破60亿元；\n（5）总台首届智能机器人应用技能大展启动；\n11.国际联播快讯：\n（1）美国称正与伊朗进行谈判 伊方否认；\n（2）日本九州岛发生6.8级地震；\n（3）也门胡塞武装称打击沙特石油基础设施；\n（4）普京签署扩军令 俄军增至超242万人；\n（5）美多州林火肆虐 过火超4000平方公里。\n（《新闻联播》 20260728 21:00）",
-    "program": "xwlb",
-    "guid": "9d61d6eb818a4321b336f830288ecccd",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/28/VIDEZfPWNEMg5tUkXpjMDoNa260728.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/d/6/1/9d61d6eb818a4321b336f830288ecccd/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/d/6/1/9d61d6eb818a4321b336f830288ecccd/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/d/6/1/9d61d6eb818a4321b336f830288ecccd/mp3/main.m3u8",
-    "createdAt": "2026-07-29T10:50:27.681Z",
-    "durationSeconds": 1799.64
   }
 ]
