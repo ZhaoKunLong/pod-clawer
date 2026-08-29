@@ -1,0 +1,19 @@
+{
+  "id": "d5f1c449ed4249d6a17251600af99284",
+  "title": "《朝闻天下》 20260829 08:00",
+  "url": "https://tv.cctv.cn/2026/08/29/VIDE0IDj4zGs21q5tFNbCpka260829.shtml",
+  "date": "2026-08-29",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/08/29/d5f1c449ed4249d6a17251600af99284-1.jpg",
+  "description": "本期节目主要内容：  西藏日喀则市吉隆县泥石流灾害抢险救援：空军无人机发现数万方冰屑汇入堰塞湖；2026年APEC第三次高官会圆满结束：高官会实现既定目标，达成广泛共识；神舟二十三号航天员乘组圆满完成出舱活动；伊朗外交部发表声明称：美对伊制裁等同于实施国家恐怖主义。（《朝闻天下》 20260829 08:00）",
+  "program": "zwtx",
+  "guid": "d5f1c449ed4249d6a17251600af99284",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/29/VIDE0IDj4zGs21q5tFNbCpka260829.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d5f1c449ed4249d6a17251600af99284/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d5f1c449ed4249d6a17251600af99284/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d5f1c449ed4249d6a17251600af99284/main.m3u8",
+  "createdAt": "2026-08-29T02:49:57.766Z",
+  "durationSeconds": 3121.16
+}
