@@ -1,5 +1,24 @@
 [
   {
+    "id": "2d52b74d76814fca8c37356e10a31135",
+    "title": "《新闻联播》 20260829 21:00",
+    "url": "https://tv.cctv.cn/2026/08/29/VIDEqPoxdWIJ1hXo6Z83nfbF260829.shtml",
+    "date": "2026-08-29",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/08/29/2d52b74d76814fca8c37356e10a31135-1.jpg",
+    "description": "本期节目主要内容：\n1.【新思想引领新征程】践行全球治理倡议 推动建设更加美好的世界；\n2.中央党校（国家行政学院）举行秋季学期开学典礼 蔡奇出席并讲话；\n3.各方力量全力挺进受灾核心区 西藏吉隆县泥石流灾害抢险救援持续进行；\n4.我国将推出多项举措加力促进有效投资；\n5.上半年数字产业收入超20万亿元；\n6.2026年中国国际服务贸易交易会将于9月9日在京开幕；\n7.前七个月我国物流运行稳中有进；\n8.我国居民主要健康指标持续向好；\n9.国内联播快讯：\n（1）财政部等部门紧急拨付1.5亿元资金支持防汛防台风抢险救灾；\n（2）国家发展改革委紧急安排1亿元支持浙江 福建台风灾害灾后应急恢复；\n（3）人民币跨境支付系统持续扩容；\n（4）2025年中国与上合组织其他成员国贸易额达5235亿美元；\n（5）今年前7月中国与吉尔吉斯斯坦贸易额达117亿美元；\n（6）我国首次实现地月双向高速激光通信；\n（7）衡水至黄骅港高铁开始联调联试；\n（8）“2026中国文学盛典·鲁迅文学奖之夜”在上海举行；\n（9）2026全球创业者峰会在北京闭幕；\n10.吉尔吉斯斯坦各界表示习近平主席署名文章为开创两国关系高质量发展新局面指引方向 国际人士期待比什凯克峰会推动上合组织命运共同体建设迈上新台阶；\n11.总台精品影视节目吉尔吉斯斯坦和埃及展播活动启动；\n12.国际联播快讯：\n（1）伊称未经协调船只不可通过霍尔木兹海峡；\n（2）日本大规模干预汇市未能阻止日元贬值；\n（3）西班牙将采取措施加强休达边境管控。\n（《新闻联播》 20260829 21:00）",
+    "program": "xwlb",
+    "guid": "2d52b74d76814fca8c37356e10a31135",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/29/VIDEqPoxdWIJ1hXo6Z83nfbF260829.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/d/5/2/2d52b74d76814fca8c37356e10a31135/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/d/5/2/2d52b74d76814fca8c37356e10a31135/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/d/5/2/2d52b74d76814fca8c37356e10a31135/mp3/main.m3u8",
+    "createdAt": "2026-08-29T13:52:02.792Z",
+    "durationSeconds": 1799.48
+  },
+  {
     "id": "92a0367c30e846d28ad9fb3a0981b8c6",
     "title": "《新闻联播》 20260828 21:00",
     "url": "https://tv.cctv.cn/2026/08/28/VIDEqIosU0ERf9HfB7Mx8Loq260828.shtml",
@@ -416,24 +435,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/e/1/e/2e1ea09291a346528bc92ae854f11198/mp3/main.m3u8",
     "createdAt": "2026-07-31T11:01:55.615Z",
     "durationSeconds": 1799.32
-  },
-  {
-    "id": "594711caf5aa4118a00d0aaf38fd190f",
-    "title": "《新闻联播》 20260729 21:00",
-    "url": "https://tv.cctv.cn/2026/07/29/VIDEQ77Bewg2UONMlI4jWnoc260729.shtml",
-    "date": "2026-07-29",
-    "broadcastTime": "21:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/07/29/594711caf5aa4118a00d0aaf38fd190f-1.jpg",
-    "description": "本期节目主要内容：\n1.习近平致电祝贺诺瓦当选连任圣多美和普林西比总统；\n2.【新思想引领新征程】锚定农业农村现代化 乡村全面振兴扎实推进；\n3.厚植家国情怀 共襄复兴伟业——习近平总书记对侨务工作作出重要指示引发热烈反响；\n4.李强会见斯洛伐克总统；\n5.赵乐际会见斯洛伐克总统；\n6.【树立和践行正确政绩观】校准干事创业价值坐标 推动学习教育成果转化；\n7.【“十五五”开好局起好步】2030年我国知识产权综合实力进一步增强；\n8.“新新三样”成中国出口新名片；\n9.中央宣传部授予王戟“时代楷模”称号；\n10.国内联播快讯：\n（1）国家防办要求各地切实做好汛期旅游安全工作；\n（2）我国“十五五”期间单位国内生产总值二氧化碳排放将降17%；\n（3）我国电动汽车充电基础设施总数超2300万个；\n（4）C919高原型首架机完成首次飞行试验；\n（5）今年上半年广东外贸进出口值5.49万亿元；\n（6）贵州德江白果坨大桥顺利完成荷载试验；\n（7）新疆伊犁河谷天然草场进入打草季；\n（8）我国东北虎豹野生种群数量实现恢复性增长；\n11.日本熊本县地震已致14人死亡 熊本县基础设施受损 交通受阻；\n12.美称拦截伊朗多枚导弹 伊称打击约旦的美军基地 美以领导人会晤 就伊朗战事等展开讨论。\n（《新闻联播》 20260729 21:00）",
-    "program": "xwlb",
-    "guid": "594711caf5aa4118a00d0aaf38fd190f",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/29/VIDEQ77Bewg2UONMlI4jWnoc260729.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/9/4/7/594711caf5aa4118a00d0aaf38fd190f/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/9/4/7/594711caf5aa4118a00d0aaf38fd190f/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/5/9/4/7/594711caf5aa4118a00d0aaf38fd190f/mp3/main.m3u8",
-    "createdAt": "2026-07-30T10:35:29.611Z",
-    "durationSeconds": 1799.48
   }
 ]
