@@ -1,5 +1,24 @@
 [
   {
+    "id": "5a480e4e90354eafbdb24d899484bbb9",
+    "title": "《朝闻天下》 20260830 08:00",
+    "url": "https://tv.cctv.cn/2026/08/30/VIDEP7N7p6QMY8CpCYIyIRWA260830.shtml",
+    "date": "2026-08-30",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/30/5a480e4e90354eafbdb24d899484bbb9-1.jpg",
+    "description": "本期节目主要内容：\n    国际社会期待习主席此访擘画合作蓝图；三名美国军报雇员因报道美航母工作条件恶劣而被解雇，法官要求美国防部暂缓执行解雇令；美称与委达成石油协议，被批“抢劫”；菲律宾吕宋岛发生山体滑坡，至少2人死亡。（《朝闻天下》 20260830 08:00）",
+    "program": "zwtx",
+    "guid": "5a480e4e90354eafbdb24d899484bbb9",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/30/VIDEP7N7p6QMY8CpCYIyIRWA260830.shtml",
+    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5a480e4e90354eafbdb24d899484bbb9/main.m3u8?maxbr=2048",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5a480e4e90354eafbdb24d899484bbb9/main.m3u8?maxbr=2048",
+    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5a480e4e90354eafbdb24d899484bbb9/main.m3u8?maxbr=2048",
+    "createdAt": "2026-08-30T22:43:55.811Z",
+    "durationSeconds": 3067.56
+  },
+  {
     "id": "d5f1c449ed4249d6a17251600af99284",
     "title": "《朝闻天下》 20260829 08:00",
     "url": "https://tv.cctv.cn/2026/08/29/VIDE0IDj4zGs21q5tFNbCpka260829.shtml",
@@ -473,24 +492,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ca454202b8364e5c8e273ca46301cac2/main.m3u8",
     "createdAt": "2026-07-31T21:19:25.577Z",
     "durationSeconds": 3139.24
-  },
-  {
-    "id": "1cdba39eef844890b5b8c7c42886a537",
-    "title": "《朝闻天下》 20260730 08:00",
-    "url": "https://tv.cctv.cn/2026/07/30/VIDEBDnpDojtJs0KoZ4dnajE260730.shtml",
-    "date": "2026-07-30",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/30/1cdba39eef844890b5b8c7c42886a537-1.jpg",
-    "description": "本期节目主要内容：\n    美媒称美国重启对伊朗空袭；联合国警告中东冲突扩大，呼吁重返谈判；吉林汪清：强降雨造成河水猛涨，妥善转移安置群众；关注俄乌冲突：俄称继续打击乌港口和货船。\n（《朝闻天下》 20260730 08:00）",
-    "program": "zwtx",
-    "guid": "1cdba39eef844890b5b8c7c42886a537",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/30/VIDEBDnpDojtJs0KoZ4dnajE260730.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1cdba39eef844890b5b8c7c42886a537/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1cdba39eef844890b5b8c7c42886a537/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/1cdba39eef844890b5b8c7c42886a537/main.m3u8",
-    "createdAt": "2026-07-30T21:21:49.701Z",
-    "durationSeconds": 3032.92
   }
 ]

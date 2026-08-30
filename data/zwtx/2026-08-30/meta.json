@@ -1,0 +1,19 @@
+{
+  "id": "5a480e4e90354eafbdb24d899484bbb9",
+  "title": "《朝闻天下》 20260830 08:00",
+  "url": "https://tv.cctv.cn/2026/08/30/VIDEP7N7p6QMY8CpCYIyIRWA260830.shtml",
+  "date": "2026-08-30",
+  "broadcastTime": "08:00",
+  "image": "https://p5.img.cctvpic.com/fmspic/2026/08/30/5a480e4e90354eafbdb24d899484bbb9-1.jpg",
+  "description": "本期节目主要内容：\n    国际社会期待习主席此访擘画合作蓝图；三名美国军报雇员因报道美航母工作条件恶劣而被解雇，法官要求美国防部暂缓执行解雇令；美称与委达成石油协议，被批“抢劫”；菲律宾吕宋岛发生山体滑坡，至少2人死亡。（《朝闻天下》 20260830 08:00）",
+  "program": "zwtx",
+  "guid": "5a480e4e90354eafbdb24d899484bbb9",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/30/VIDEP7N7p6QMY8CpCYIyIRWA260830.shtml",
+  "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5a480e4e90354eafbdb24d899484bbb9/main.m3u8?maxbr=2048",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5a480e4e90354eafbdb24d899484bbb9/main.m3u8?maxbr=2048",
+  "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5a480e4e90354eafbdb24d899484bbb9/main.m3u8?maxbr=2048",
+  "createdAt": "2026-08-30T22:43:55.811Z",
+  "durationSeconds": 3067.56
+}
