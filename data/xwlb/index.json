@@ -1,5 +1,24 @@
 [
   {
+    "id": "299795ed822349d2afe4b3221d7103ab",
+    "title": "《新闻联播》 20260830 21:00",
+    "url": "https://tv.cctv.cn/2026/08/30/VIDEUq3suzfkFhetjFyWyUOE260830.shtml",
+    "date": "2026-08-30",
+    "broadcastTime": "21:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/08/30/299795ed822349d2afe4b3221d7103ab-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平离京出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问；\n2.习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问；\n3.《平“语”近人——习近平喜欢的典故》（多语种版）在上海合作组织国家主流媒体播出；\n4.【凝心聚力 真抓实干 奋力实现“十五五”良好开局】内蒙古加快绿色产业发展；\n5.我国推出新举措加快数据产业发展；\n6.上半年全国新设外商投资企业3.5万户；\n7.西藏吉隆县泥石流灾害抢险救援工作有力有序推进；\n8.科技助力田管 推动粮食稳产增收；\n9.“虫口夺粮”背后的科技力量；\n10.技能培训提升就业能力；\n11.我国健全多层次医保体系 满足多样化保障需求；\n12.国内联播快讯：\n（1）到2030年我国将基本建成现代农产品产地市场体系；\n（2）我国首版全国几何基准影像发布；\n（3）新疆750千伏超高压输电线路总长度突破15000公里；\n（4）广州中欧班列十年累计进出口货值超1100亿元；\n13.推动中吉新时代全面战略伙伴关系迈上新台阶——吉尔吉斯斯坦各界人士欢迎习近平主席对吉尔吉斯斯坦进行国事访问；\n14.国际联播快讯：\n（1）中塞合作建设的人形机器人工厂启动量产；\n（2）伊朗称美国履行承诺前不会重开海峡；\n（3）乌基辅州一军火仓库遭袭发生连环爆炸；\n（4）英媒称欧盟天然气储备或降至13年来最低；\n（5）加拿大在安大略湖旁树立名称标牌。\n（《新闻联播》 20260830 21:00）",
+    "program": "xwlb",
+    "guid": "299795ed822349d2afe4b3221d7103ab",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/08/30/VIDEUq3suzfkFhetjFyWyUOE260830.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/9/9/7/299795ed822349d2afe4b3221d7103ab/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/9/9/7/299795ed822349d2afe4b3221d7103ab/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/9/9/7/299795ed822349d2afe4b3221d7103ab/mp3/main.m3u8",
+    "createdAt": "2026-08-30T13:50:13.262Z",
+    "durationSeconds": 1799.16
+  },
+  {
     "id": "2d52b74d76814fca8c37356e10a31135",
     "title": "《新闻联播》 20260829 21:00",
     "url": "https://tv.cctv.cn/2026/08/29/VIDEqPoxdWIJ1hXo6Z83nfbF260829.shtml",
@@ -415,25 +434,6 @@
     "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/fd2f686b51ed43c18eee3e619f40fc01/main.m3u8?maxbr=2048&contentid=15120519184043",
     "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/fd2f686b51ed43c18eee3e619f40fc01/main.m3u8?maxbr=2048&contentid=15120519184043",
     "createdAt": "2026-08-01T10:12:52.153Z",
-    "durationSeconds": 1799.32
-  },
-  {
-    "id": "2e1ea09291a346528bc92ae854f11198",
-    "title": "《新闻联播》 20260730 21:00",
-    "url": "https://tv.cctv.cn/2026/07/30/VIDEhtE84hNPLCtuepQripKk260730.shtml",
-    "date": "2026-07-30",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/07/30/2e1ea09291a346528bc92ae854f11198-1.jpg",
-    "description": "本期节目主要内容：\n1.中共中央政治局召开会议 决定召开二十届五中全会 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议；\n2.就当前经济形势和下半年经济工作 中共中央召开党外人士座谈会 习近平主持并发表重要讲话；\n3.新华社长篇通讯：向着建军一百年奋斗目标阔步前行——以习近平同志为核心的党中央引领人民军队书写强军兴军新篇章；\n4.思想解读类融媒体片《制胜》今晚播出；\n5.中国智造加速出海 人工智能产品远销全球；\n6.我国物流总量稳步扩大 需求结构不断优化；\n7.文化企业营收平稳增长 新业态发展动能强劲；\n8.“电影+”拉动消费链不断延伸 助力暑期文旅升温；\n9.国内联播快讯：\n（1）2025年我国“三新”经济增加值同比增长6.2%；\n（2）自然资源部修订印发《临时用海管理办法》；\n（3）我国启动区划地名文物名录建设试点工作；\n（4）《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见；\n（5）上半年深圳对APEC经济体进出口同比增长33%；\n（6）2026“新疆是个好地方”非遗援疆主题展示活动举办；\n10.美军结束短暂停火恢复对伊朗打击 约旦称拦截伊朗导弹；\n11.国际联播快讯：\n（1）伊拉克谴责美沙袭击侵犯其主权；\n（2）日本熊本县地震已造成34人死亡；\n（3）俄称对乌首都等地目标发动大规模打击；\n（4）美联储年内连续第5次维持利率不变；\n（5）法国西班牙林火多处复燃 交通受阻。\n（《新闻联播》 20260730 21:00）",
-    "program": "xwlb",
-    "guid": "2e1ea09291a346528bc92ae854f11198",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/30/VIDEhtE84hNPLCtuepQripKk260730.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/e/1/e/2e1ea09291a346528bc92ae854f11198/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/e/1/e/2e1ea09291a346528bc92ae854f11198/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/e/1/e/2e1ea09291a346528bc92ae854f11198/mp3/main.m3u8",
-    "createdAt": "2026-07-31T11:01:55.615Z",
     "durationSeconds": 1799.32
   }
 ]
