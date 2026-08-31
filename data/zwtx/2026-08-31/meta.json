@@ -1,0 +1,18 @@
+{
+  "id": "VIDEMHHGtYuo15pZeaaWEVwh260831",
+  "title": "《朝闻天下》 20260831 08:00",
+  "url": "https://tv.cctv.cn/2026/08/31/VIDEMHHGtYuo15pZeaaWEVwh260831.shtml",
+  "date": "2026-08-31",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/08/31/e76c38f16f2849f08b5c8bc7998ed0c3-1.jpg",
+  "program": "zwtx",
+  "guid": "e76c38f16f2849f08b5c8bc7998ed0c3",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/08/31/VIDEMHHGtYuo15pZeaaWEVwh260831.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e76c38f16f2849f08b5c8bc7998ed0c3/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e76c38f16f2849f08b5c8bc7998ed0c3/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e76c38f16f2849f08b5c8bc7998ed0c3/main.m3u8",
+  "createdAt": "2026-08-31T23:49:55.268Z",
+  "durationSeconds": 3121.8
+}
