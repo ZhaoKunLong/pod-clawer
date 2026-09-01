@@ -1,0 +1,19 @@
+{
+  "id": "11e528120dd44b16ae65e9e76f8593c8",
+  "title": "《朝闻天下》 20260901 08:00",
+  "url": "https://tv.cctv.cn/2026/09/01/VIDEQIe1qd9aHxYtgKW9yYHK260901.shtml",
+  "date": "2026-09-01",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/09/01/11e528120dd44b16ae65e9e76f8593c8-1.jpg",
+  "description": "本期节目主要内容：\n    习近平出席吉尔吉斯斯坦总统举行的欢迎仪式；2026年消费品以旧换新带动销售超1.54万亿元；《中国数字乡村发展报告（2019—2025年）》发布：我国数字乡村发展基础更加坚实。（《朝闻天下》 20260901 08:00）",
+  "program": "zwtx",
+  "guid": "11e528120dd44b16ae65e9e76f8593c8",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/01/VIDEQIe1qd9aHxYtgKW9yYHK260901.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/11e528120dd44b16ae65e9e76f8593c8/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/11e528120dd44b16ae65e9e76f8593c8/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/11e528120dd44b16ae65e9e76f8593c8/main.m3u8",
+  "createdAt": "2026-09-01T22:36:02.382Z",
+  "durationSeconds": 3127.96
+}

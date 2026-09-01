@@ -1,5 +1,24 @@
 [
   {
+    "id": "11e528120dd44b16ae65e9e76f8593c8",
+    "title": "《朝闻天下》 20260901 08:00",
+    "url": "https://tv.cctv.cn/2026/09/01/VIDEQIe1qd9aHxYtgKW9yYHK260901.shtml",
+    "date": "2026-09-01",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/09/01/11e528120dd44b16ae65e9e76f8593c8-1.jpg",
+    "description": "本期节目主要内容：\n    习近平出席吉尔吉斯斯坦总统举行的欢迎仪式；2026年消费品以旧换新带动销售超1.54万亿元；《中国数字乡村发展报告（2019—2025年）》发布：我国数字乡村发展基础更加坚实。（《朝闻天下》 20260901 08:00）",
+    "program": "zwtx",
+    "guid": "11e528120dd44b16ae65e9e76f8593c8",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/01/VIDEQIe1qd9aHxYtgKW9yYHK260901.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/11e528120dd44b16ae65e9e76f8593c8/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/11e528120dd44b16ae65e9e76f8593c8/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/11e528120dd44b16ae65e9e76f8593c8/main.m3u8",
+    "createdAt": "2026-09-01T22:36:02.382Z",
+    "durationSeconds": 3127.96
+  },
+  {
     "id": "VIDEMHHGtYuo15pZeaaWEVwh260831",
     "title": "《朝闻天下》 20260831 08:00",
     "url": "https://tv.cctv.cn/2026/08/31/VIDEMHHGtYuo15pZeaaWEVwh260831.shtml",
@@ -472,24 +491,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/cbf0cfea73724b6d96e74bb2441e17b1/main.m3u8",
     "createdAt": "2026-08-02T21:08:55.844Z",
     "durationSeconds": 3197.64
-  },
-  {
-    "id": "a8986cff6a964d7aaddb6c8ac4a29d55",
-    "title": "《朝闻天下》 20260725 08:00",
-    "url": "https://tv.cctv.cn/2026/08/01/VIDEX3wYlUUIWEYUAhf9wR83260801.shtml",
-    "date": "2026-08-01",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/01/a8986cff6a964d7aaddb6c8ac4a29d55-1.jpg",
-    "description": "本期节目主要内容：\n    中国经济半年报：上半年农业农村经济运行保持稳中向好势头；商务部：将14家欧盟实体列入出口管制管控名单；美媒报道称：美英筹划召开霍尔木兹海峡问题国际会议；内塔尼亚胡将访美，28日与特朗普会晤。\n（《朝闻天下》 20260725 08:00）",
-    "program": "zwtx",
-    "guid": "a8986cff6a964d7aaddb6c8ac4a29d55",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/01/VIDEX3wYlUUIWEYUAhf9wR83260801.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a8986cff6a964d7aaddb6c8ac4a29d55/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a8986cff6a964d7aaddb6c8ac4a29d55/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a8986cff6a964d7aaddb6c8ac4a29d55/main.m3u8",
-    "createdAt": "2026-08-01T21:08:50.943Z",
-    "durationSeconds": 2524.04
   }
 ]
