@@ -1,5 +1,24 @@
 [
   {
+    "id": "467a9afbc6a84b06a6dc19e2acb119e7",
+    "title": "《新闻联播》 20260902 21:00",
+    "url": "https://tv.cctv.cn/2026/09/02/VIDE3vo0AwLTag9mal0396OP260902.shtml",
+    "date": "2026-09-02",
+    "broadcastTime": "21:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/09/02/467a9afbc6a84b06a6dc19e2acb119e7-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平抵达开罗对埃及进行国事访问；\n2.习近平出席埃及总统举行的欢迎仪式；\n3.习近平同埃及总统会谈；\n4.习近平致电祝贺挪威国王哈康八世即位；\n5.《平“语”近人——习近平喜欢的典故》（阿拉伯语版）在埃及主流媒体播出；\n6.秋粮主产区分类施策 全力夺取丰收；\n7.上半年信贷资金加速流向科创企业；\n8.西藏吉隆口岸核心区域陆路救援通道实现畅通；\n9.国内联播快讯：\n（1）国务院安委办联合多部门部署加强渔业安全防范工作；\n（2）新版国家基本药物目录实施 更多好药惠及基层；\n（3）《互联网信息内容多渠道分发服务管理规定》施行；\n（4）今年前7个月我国对埃及进出口同比增长18.7%；\n（5）我国铜金矿勘查获重大突破；\n（6）2026年全国科普月启动；\n（7）2026年暑期档电影票房为124.98亿元 放映场次创新高；\n10.埃及各界人士表示习近平主席此次国事访问将开创埃中关系更加美好的未来；\n11.美国对伊朗发动新一轮军事打击 伊朗回击美在多国基地；\n12.国际联播快讯：\n（1）加总理称加美贸易协议须尊重加主权；\n（2）欧元区8月通胀率升至3.3%；\n（3）联合国称刚果（金）埃博拉呈指数级扩散。\n（《新闻联播》 20260902 21:00）",
+    "program": "xwlb",
+    "guid": "467a9afbc6a84b06a6dc19e2acb119e7",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/02/VIDE3vo0AwLTag9mal0396OP260902.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/6/7/a/467a9afbc6a84b06a6dc19e2acb119e7/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/6/7/a/467a9afbc6a84b06a6dc19e2acb119e7/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/6/7/a/467a9afbc6a84b06a6dc19e2acb119e7/mp3/main.m3u8",
+    "createdAt": "2026-09-03T12:51:58.326Z",
+    "durationSeconds": 1799.56
+  },
+  {
     "id": "299795ed822349d2afe4b3221d7103ab",
     "title": "《新闻联播》 20260830 21:00",
     "url": "https://tv.cctv.cn/2026/08/30/VIDEUq3suzfkFhetjFyWyUOE260830.shtml",
@@ -397,43 +416,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/6/2/c/c/62ccad746477487691cca213658dd001/mp3/main.m3u8",
     "createdAt": "2026-08-04T10:58:53.743Z",
     "durationSeconds": 1799.56
-  },
-  {
-    "id": "3be19a6cfbf5417fb5a790c62248ce8e",
-    "title": "《新闻联播》 20260801 21:00",
-    "url": "https://tv.cctv.cn/2026/08/01/VIDEifS7jV7lMsMDQPNQwnsJ260801.shtml",
-    "date": "2026-08-01",
-    "broadcastTime": "21:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/01/3be19a6cfbf5417fb5a790c62248ce8e-1.jpg",
-    "description": "本期节目主要内容：\n1.《求是》杂志发表习近平总书记重要文章《加快建设健康中国》；\n2.【新思想引领新征程】在党的旗帜下书写强军兴军新荣光；\n3.我国现代化水网建设提速；\n4.邮政行业寄递业务量2030年将达2900亿件；\n5.第十二批国家组织药品集采开标 药品可及性持续提升；\n6.超长期特别国债资金精准发力 加快补齐民生短板；\n7.铁路暑运过半 消夏旅游列车激发消费活力；\n8.国内联播快讯：\n（1）水利部发布《中国节约用水报告2025》；\n（2）《退役军人就业创业促进条例》今起正式实施；\n（3）《黄岩岛国家级自然保护区管理办法》印发；\n（4）中东部高温天气持续 东北局地防汛救灾加紧进行；\n（5）中国—乌兹别克斯坦“经认证的经营者”（AEO）互认安排正式实施；\n（6）穗深城际全线贯通 广深两大机场轨道直连；\n（7）雄商高铁河北段今天进入运行试验阶段；\n（8）海南首个“华龙一号”核电机组并网发电；\n（9）百吨级纯电双向行驶无人驾驶矿用自卸车成功投运；\n（10）第三批中国专家组赴刚果（金）支援埃博拉疫情防控；\n（11）2026中国西藏第七届跨喜马拉雅国际公路自行车极限赛开幕；\n9.美媒披露美以欲猛烈轰炸伊朗能源设施 伊朗称已制定全面应对计划；\n10.西班牙飞地移民危机死亡人数升至67人 意大利暂停与西班牙的申根自由通行机制 法德称加强边境管控；\n11.法国东南部林火再度蔓延 罗马尼亚全国因干旱缺电进入警报状态 世界气象组织称厄尔尼诺持续增强；\n12.国际联播快讯：\n（1）美称向乌转让导弹生产技术须非常谨慎；\n（2）哈马斯称移交武器前提是以军撤离加沙；\n（3）人工智能发展推升一季度全球商品贸易；\n（4）美军一架F-35隐形战机在加州坠毁；\n（5）遭强烈反对 国际足联放弃新商业提案。\n（《新闻联播》 20260801 21:00）",
-    "program": "xwlb",
-    "guid": "3be19a6cfbf5417fb5a790c62248ce8e",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/01/VIDEifS7jV7lMsMDQPNQwnsJ260801.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3be19a6cfbf5417fb5a790c62248ce8e/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3be19a6cfbf5417fb5a790c62248ce8e/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3be19a6cfbf5417fb5a790c62248ce8e/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "createdAt": "2026-08-02T10:10:24.664Z",
-    "durationSeconds": 1799
-  },
-  {
-    "id": "fd2f686b51ed43c18eee3e619f40fc01",
-    "title": "《新闻联播》 20260731 21:00",
-    "url": "https://tv.cctv.cn/2026/07/31/VIDEnfPbeuvwU6cxaT6LmKAJ260731.shtml",
-    "date": "2026-07-31",
-    "broadcastTime": "21:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/07/31/fd2f686b51ed43c18eee3e619f40fc01-1.jpg",
-    "description": "本期节目主要内容：\n1.习近平在中共中央政治局第二十七次集体学习时强调 强化政治引领 深化创新发展 高质量推进国防和军队现代化；\n2.中央军委主席习近平签署通令 给1名个人记功；\n3.李强主持召开国务院常务会议；\n4.国务院印发《知识产权保护和运用“十五五”规划》；\n5.中央宣传部 中央军委政治工作部联合发布12名“最美新时代革命军人”；\n6.【“十五五”开好局起好步】我国推动退役军人工作提质增效；\n7.政策发力提效 推动经济持续向新向优向好发展；\n8.上半年我国煤电发电量占总发电量比重首次低于50%；\n9.北斗三号构筑时空新底座；\n10.医保基金结算堵点加快打通 减轻群众就医负担；\n11.【美丽中国行】玛多“千湖”归来的背后；\n12.河北省委主要负责同志职务调整；\n13.国内联播快讯：\n（1）《工业绿色低碳发展“十五五”规划》发布；\n（2）“十五五”时期全国新建改造上百个战略农资储备库；\n（3）四部门联合发布22条健全金融机构治理机制措施；\n（4）8月1日起一批国家标准将实施；\n（5）2026年质量督察首批督察组全部实现督察进驻；\n（6）内蒙古送电上海配套过江工程开工建设；\n（7）连霍高速改扩建工程星星峡至吐峪沟段正式通车；\n（8）中国维和警队赴联合国中非 塞浦路斯任务区执行维和任务；\n（9）全国多地出现降雨天气；\n（10）《高端访谈》今晚播出对斯洛伐克总统佩列格里尼的专访；\n14.伊朗称打击中东美军基地 美军方否认F-35战机被击毁；\n15.国际联播快讯：\n（1）媒体称胡塞武装否认袭击埃及港口船只；\n（2）德国7月能源价格上涨 推高通胀；\n（3）非法移民持续进入西班牙飞地休达；\n（4）今年欧洲林火过火面积超4340平方公里。\n（《新闻联播》 20260731 21:00）",
-    "program": "xwlb",
-    "guid": "fd2f686b51ed43c18eee3e619f40fc01",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/07/31/VIDEnfPbeuvwU6cxaT6LmKAJ260731.shtml",
-    "streamUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/fd2f686b51ed43c18eee3e619f40fc01/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/fd2f686b51ed43c18eee3e619f40fc01/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/fd2f686b51ed43c18eee3e619f40fc01/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "createdAt": "2026-08-01T10:12:52.153Z",
-    "durationSeconds": 1799.32
   }
 ]
