@@ -1,5 +1,24 @@
 [
   {
+    "id": "83c9d2288ab843808e2fc442f3e0fa8c",
+    "title": "《朝闻天下》 20260904 08:00",
+    "url": "https://tv.cctv.cn/2026/09/04/VIDEgOVy1AXIJfsa3nILkAVG260904.shtml",
+    "date": "2026-09-04",
+    "broadcastTime": "08:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/09/04/83c9d2288ab843808e2fc442f3e0fa8c-1.jpg",
+    "description": "本期节目主要内容：  中国商务部：中吉将加强服务贸易和电子商务等领域合作；人工智能中小企业创业支持计划启动；联合国安理会审议叙利亚化武问题；日本自卫队首次公开一款攻击型无人机。（《朝闻天下》 20260904 08:00）",
+    "program": "zwtx",
+    "guid": "83c9d2288ab843808e2fc442f3e0fa8c",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/04/VIDEgOVy1AXIJfsa3nILkAVG260904.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/83c9d2288ab843808e2fc442f3e0fa8c/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/83c9d2288ab843808e2fc442f3e0fa8c/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/83c9d2288ab843808e2fc442f3e0fa8c/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "createdAt": "2026-09-04T22:21:03.249Z",
+    "durationSeconds": 3053.24
+  },
+  {
     "id": "62e924c5889842818e1fa71552d134d8",
     "title": "《朝闻天下》 20260903 08:00",
     "url": "https://tv.cctv.cn/2026/09/03/VIDEd0YAU5aHn7puUtC8XxSJ260903.shtml",
@@ -472,24 +491,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5472b0df343f41d99b678259dc45cc1f/main.m3u8",
     "createdAt": "2026-08-05T21:23:55.560Z",
     "durationSeconds": 3160.04
-  },
-  {
-    "id": "329d47b33b6b49839808795c5d6a86d2",
-    "title": "《朝闻天下》 20260804 08:00",
-    "url": "https://tv.cctv.cn/2026/08/04/VIDEme5noY6yYjSFEVz7MW5x260804.shtml",
-    "date": "2026-08-04",
-    "broadcastTime": "08:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/08/04/329d47b33b6b49839808795c5d6a86d2-1.jpg",
-    "description": "本期节目主要内容：\n    中国经济半年报：多项经济数据成绩亮眼；美总统称美伊对话是伊朗的“最后机会”；霍尔木兹海峡单日船舶通行量持续下降；关注俄乌冲突：俄称控制两个居民点，乌称击退俄军进攻。\n（《朝闻天下》 20260804 08:00）",
-    "program": "zwtx",
-    "guid": "329d47b33b6b49839808795c5d6a86d2",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/04/VIDEme5noY6yYjSFEVz7MW5x260804.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/329d47b33b6b49839808795c5d6a86d2/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/329d47b33b6b49839808795c5d6a86d2/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/329d47b33b6b49839808795c5d6a86d2/main.m3u8",
-    "createdAt": "2026-08-04T21:33:59.110Z",
-    "durationSeconds": 3194.84
   }
 ]
