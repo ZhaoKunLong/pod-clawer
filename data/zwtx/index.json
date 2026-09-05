@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa17128505224867a561d9581163d41f",
+    "title": "《朝闻天下》 20260905 08:00",
+    "url": "https://tv.cctv.cn/2026/09/05/VIDERlmn2qoEm9tyY3eyE2if260905.shtml",
+    "date": "2026-09-05",
+    "broadcastTime": "08:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/09/05/fa17128505224867a561d9581163d41f-1.jpg",
+    "description": "本期节目主要内容：\n    美总统称“可能很快”打击伊朗镐山；2026世界超级摩托车锦标赛法国站：“张雪机车”车手包揽排位赛前两名；福建莆田：记者探访一处应急避难场所，生活物资充足；日本大型电机企业被认定大规模造假。（《朝闻天下》 20260905 08:00）",
+    "program": "zwtx",
+    "guid": "fa17128505224867a561d9581163d41f",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/05/VIDERlmn2qoEm9tyY3eyE2if260905.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa17128505224867a561d9581163d41f/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa17128505224867a561d9581163d41f/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa17128505224867a561d9581163d41f/main.m3u8",
+    "createdAt": "2026-09-05T22:04:01.626Z",
+    "durationSeconds": 3154.52
+  },
+  {
     "id": "83c9d2288ab843808e2fc442f3e0fa8c",
     "title": "《朝闻天下》 20260904 08:00",
     "url": "https://tv.cctv.cn/2026/09/04/VIDEgOVy1AXIJfsa3nILkAVG260904.shtml",
@@ -472,24 +491,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/34308d355a0d4d529622e8e9e1834e53/main.m3u8",
     "createdAt": "2026-08-07T00:56:38.490Z",
     "durationSeconds": 3232.68
-  },
-  {
-    "id": "5472b0df343f41d99b678259dc45cc1f",
-    "title": "《朝闻天下》 20260805 08:00",
-    "url": "https://tv.cctv.cn/2026/08/05/VIDEGlwXhsLJrLsEpRoBJ3Va260805.shtml",
-    "date": "2026-08-05",
-    "broadcastTime": "08:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/05/5472b0df343f41d99b678259dc45cc1f-1.jpg",
-    "description": "本期节目主要内容：\n    国家邮政局对申通快递立案调查；韩国抗议日《防卫白皮书》有关独岛主张；美称美伊即将就霍尔木兹海峡通行达成协议；也门胡塞武装称袭击沙特一机场。\n（《朝闻天下》 20260805 08:00）",
-    "program": "zwtx",
-    "guid": "5472b0df343f41d99b678259dc45cc1f",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/05/VIDEGlwXhsLJrLsEpRoBJ3Va260805.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5472b0df343f41d99b678259dc45cc1f/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5472b0df343f41d99b678259dc45cc1f/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/5472b0df343f41d99b678259dc45cc1f/main.m3u8",
-    "createdAt": "2026-08-05T21:23:55.560Z",
-    "durationSeconds": 3160.04
   }
 ]

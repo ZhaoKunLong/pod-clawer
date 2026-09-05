@@ -1,0 +1,19 @@
+{
+  "id": "fa17128505224867a561d9581163d41f",
+  "title": "《朝闻天下》 20260905 08:00",
+  "url": "https://tv.cctv.cn/2026/09/05/VIDERlmn2qoEm9tyY3eyE2if260905.shtml",
+  "date": "2026-09-05",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/09/05/fa17128505224867a561d9581163d41f-1.jpg",
+  "description": "本期节目主要内容：\n    美总统称“可能很快”打击伊朗镐山；2026世界超级摩托车锦标赛法国站：“张雪机车”车手包揽排位赛前两名；福建莆田：记者探访一处应急避难场所，生活物资充足；日本大型电机企业被认定大规模造假。（《朝闻天下》 20260905 08:00）",
+  "program": "zwtx",
+  "guid": "fa17128505224867a561d9581163d41f",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/05/VIDERlmn2qoEm9tyY3eyE2if260905.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa17128505224867a561d9581163d41f/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa17128505224867a561d9581163d41f/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa17128505224867a561d9581163d41f/main.m3u8",
+  "createdAt": "2026-09-05T22:04:01.626Z",
+  "durationSeconds": 3154.52
+}
