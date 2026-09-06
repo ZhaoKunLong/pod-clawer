@@ -1,5 +1,24 @@
 [
   {
+    "id": "90e9eaa41f2141f5991d95e4ad14b249",
+    "title": "《朝闻天下》 20260906 08:00",
+    "url": "https://tv.cctv.cn/2026/09/06/VIDEqcoGJAdHaQpWl4SnvaE6260906.shtml",
+    "date": "2026-09-06",
+    "broadcastTime": "08:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/09/06/90e9eaa41f2141f5991d95e4ad14b249-1.jpg",
+    "description": "本期节目主要内容：\n    2026年1-7月，我国动力电池累计销量同比增长37.1%；关注黎以局势：以军称打击黎南部真主党人员和设施；加拿大学者表示：反制措施可打疼美国，对加国内影响有限；“张雪机车”车手法国站首回合登上领奖台。（《朝闻天下》 20260906 08:00）",
+    "program": "zwtx",
+    "guid": "90e9eaa41f2141f5991d95e4ad14b249",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/06/VIDEqcoGJAdHaQpWl4SnvaE6260906.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/90e9eaa41f2141f5991d95e4ad14b249/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/90e9eaa41f2141f5991d95e4ad14b249/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/90e9eaa41f2141f5991d95e4ad14b249/main.m3u8",
+    "createdAt": "2026-09-06T22:07:45.390Z",
+    "durationSeconds": 3206.76
+  },
+  {
     "id": "fa17128505224867a561d9581163d41f",
     "title": "《朝闻天下》 20260905 08:00",
     "url": "https://tv.cctv.cn/2026/09/05/VIDERlmn2qoEm9tyY3eyE2if260905.shtml",
