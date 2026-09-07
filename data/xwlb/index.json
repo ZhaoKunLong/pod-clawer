@@ -1,5 +1,24 @@
 [
   {
+    "id": "35efb92d309f44cd98c11b7f56e211ac",
+    "title": "《新闻联播》 20260907 21:00",
+    "url": "https://tv.cctv.cn/2026/09/07/VIDEdEYtnTfnJiUxBoL6CEQr260907.shtml",
+    "date": "2026-09-07",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/09/07/35efb92d309f44cd98c11b7f56e211ac-1.jpg",
+    "description": "本期节目主要内容：\n1.《习近平生态文明思想概论》出版发行；\n2.【新思想引领新征程】以主体功能区战略塑造发展新优势；\n3.李强会见卡塔尔首相兼外交大臣；\n4.韩正分别会见保加利亚副总理、柬埔寨副首相、塞尔维亚副总理；\n5.各地一批重大工程扎实有序推进；\n6.我国加快推动历史经典产业迈向中高端；\n7.第五届全球数字贸易博览会将于9月23日至27日在浙江杭州举办；\n8.我国将加快完善乡村振兴投入机制；\n9.平陆运河将于9月16日建成通航；\n10.国内联播快讯：\n（1）两部门紧急拨付2.4亿元支持5省做好应急抢险救灾工作；\n（2）最高人民法院发布首部涉人工智能司法裁判规则文件；\n（3）8月末我国外汇储备规模为34383亿美元；\n（4）中央宣传部 国家发展改革委联合发布“诚信之星”；\n（5）2026年服贸会首批进口展品入境；\n（6）“钱凯—上海”海运航线进出口货值突破100亿元；\n（7）2026“把青春华章写在祖国大地上”网络主题宣传活动在安徽举行；\n（8）2026年金融教育宣传周活动今天启动；\n（9）我国北方地区迎来大范围降温；\n11.伊朗称将在霍尔木兹海峡之外设立禁区 美称与伊朗仍处于冲突状态；\n12.乌美会谈结束 美称向乌方转达此前俄美会谈相关观点；\n13.国际联播快讯：\n（1）也门政府军与胡塞武装发生激烈交火；\n（2）7个主要产油国决定10月暂停增产；\n（3）美一货机降落时冲出跑道 致5死5伤；\n（4）火山喷发致印尼大批航班取消或延误；\n14.二十四节气·白露。\n（《新闻联播》 20260907 21:00）",
+    "program": "xwlb",
+    "guid": "35efb92d309f44cd98c11b7f56e211ac",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/07/VIDEdEYtnTfnJiUxBoL6CEQr260907.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/5/e/f/35efb92d309f44cd98c11b7f56e211ac/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/5/e/f/35efb92d309f44cd98c11b7f56e211ac/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/5/e/f/35efb92d309f44cd98c11b7f56e211ac/mp3/main.m3u8",
+    "createdAt": "2026-09-07T14:18:16.295Z",
+    "durationSeconds": 1799.64
+  },
+  {
     "id": "aa7beb8bd70e4c81a286257d723e0172",
     "title": "《新闻联播》 20260905 21:00",
     "url": "https://tv.cctv.cn/2026/09/05/VIDEjRLQni3Njsxlz3hCveg3260905.shtml",
@@ -397,24 +416,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/8/f/0/78f0bb030eed428eb2458d0308339913/mp3/main.m3u8",
     "createdAt": "2026-08-09T09:05:27.744Z",
     "durationSeconds": 1799.64
-  },
-  {
-    "id": "95aec7f40f4c445f8d98eac242176b5b",
-    "title": "《新闻联播》 20260806 21:00",
-    "url": "https://tv.cctv.cn/2026/08/06/VIDE4Wo4xBBm1BKSomqzBZqf260806.shtml",
-    "date": "2026-08-06",
-    "broadcastTime": "21:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/06/95aec7f40f4c445f8d98eac242176b5b-1.jpg",
-    "description": "本期节目主要内容：\n1.【奋力开创中国式现代化建设新局面——习近平总书记今年以来治国理政纪实】持续推动构建人类命运共同体 为世界注入更多正能量；\n2.上半年我国机械工业经济运行稳中有进；\n3.我国吸引外资结构进一步向新向好；\n4.上半年我国乡村特色产业全链升级；\n5.【党旗在基层一线高高飘扬】生死瞬间 将希望留给他人；\n6.我国“华龙一号”核电技术全面迭代升级；\n7.我国首座可抗17级台风海上浮式风电平台正式投运；\n8.国内联播快讯：\n（1）国家发展改革委安排5000万元支持陕西灾后应急恢复；\n（2）7月份中国大宗商品价格指数同比上涨15.5%；\n（3）我国加快推进数据产权登记；\n（4）我国编制完成新版全月地质图；\n（5）最高法发布生态环境法典首个配套司法解释；\n（6）最北高铁哈尔滨至伊春高铁今天启动按图运行试验；\n（7）雄安人工智能实训基地今天投运；\n（8）上合组织“天山-2026”联合网络反恐演习在新疆举行；\n9.伊朗称与阿曼涉霍尔木兹海峡谈判接近达成协议；\n10.国际联播快讯：\n（1）也门胡塞武装称一天内袭击两艘沙特油轮；\n（2）以军空袭黎南部 以媒称黎以谈判暂停；\n（3）联合国：厄尔尼诺增强加剧粮食安全问题；\n（4）英报告称部分AI模型测试中实施有害行为；\n（5）国际足联就子公司商业提案公开致歉。\n（《新闻联播》 20260806 21:00）",
-    "program": "xwlb",
-    "guid": "95aec7f40f4c445f8d98eac242176b5b",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/06/VIDE4Wo4xBBm1BKSomqzBZqf260806.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/5/a/e/95aec7f40f4c445f8d98eac242176b5b/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/5/a/e/95aec7f40f4c445f8d98eac242176b5b/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/5/a/e/95aec7f40f4c445f8d98eac242176b5b/mp3/main.m3u8",
-    "createdAt": "2026-08-07T09:17:21.353Z",
-    "durationSeconds": 1798.92
   }
 ]
