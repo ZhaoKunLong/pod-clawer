@@ -1,0 +1,19 @@
+{
+  "id": "dd4443c6d1de4eeaae1538187e28e33e",
+  "title": "《朝闻天下》 20260907 08:00",
+  "url": "https://tv.cctv.cn/2026/09/07/VIDEr5BbWMmqp2M2h0WPiwdj260907.shtml",
+  "date": "2026-09-07",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/09/07/dd4443c6d1de4eeaae1538187e28e33e-1.jpg",
+  "description": "本期节目主要内容：\n    8家中央金融企业迎来增资，拟增资3600亿元用于补充资本；西藏吉隆县“8·26”泥石流灾害应急救援指挥部举行中外媒体见面会：妥善做好1720名尼泊尔籍边民生活保障；伊朗警告称对伊侵犯将遭到更猛烈的回应。（《朝闻天下》 20260907 08:00）",
+  "program": "zwtx",
+  "guid": "dd4443c6d1de4eeaae1538187e28e33e",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/07/VIDEr5BbWMmqp2M2h0WPiwdj260907.shtml",
+  "streamUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/dd4443c6d1de4eeaae1538187e28e33e/main.m3u8?maxbr=2048&contentid=15120519184043",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/dd4443c6d1de4eeaae1538187e28e33e/main.m3u8?maxbr=2048&contentid=15120519184043",
+  "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/dd4443c6d1de4eeaae1538187e28e33e/main.m3u8?maxbr=2048&contentid=15120519184043",
+  "createdAt": "2026-09-07T22:48:59.132Z",
+  "durationSeconds": 3122
+}

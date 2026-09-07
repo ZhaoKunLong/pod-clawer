@@ -1,5 +1,24 @@
 [
   {
+    "id": "dd4443c6d1de4eeaae1538187e28e33e",
+    "title": "《朝闻天下》 20260907 08:00",
+    "url": "https://tv.cctv.cn/2026/09/07/VIDEr5BbWMmqp2M2h0WPiwdj260907.shtml",
+    "date": "2026-09-07",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/09/07/dd4443c6d1de4eeaae1538187e28e33e-1.jpg",
+    "description": "本期节目主要内容：\n    8家中央金融企业迎来增资，拟增资3600亿元用于补充资本；西藏吉隆县“8·26”泥石流灾害应急救援指挥部举行中外媒体见面会：妥善做好1720名尼泊尔籍边民生活保障；伊朗警告称对伊侵犯将遭到更猛烈的回应。（《朝闻天下》 20260907 08:00）",
+    "program": "zwtx",
+    "guid": "dd4443c6d1de4eeaae1538187e28e33e",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/07/VIDEr5BbWMmqp2M2h0WPiwdj260907.shtml",
+    "streamUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/dd4443c6d1de4eeaae1538187e28e33e/main.m3u8?maxbr=2048&contentid=15120519184043",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/dd4443c6d1de4eeaae1538187e28e33e/main.m3u8?maxbr=2048&contentid=15120519184043",
+    "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/dd4443c6d1de4eeaae1538187e28e33e/main.m3u8?maxbr=2048&contentid=15120519184043",
+    "createdAt": "2026-09-07T22:48:59.132Z",
+    "durationSeconds": 3122
+  },
+  {
     "id": "90e9eaa41f2141f5991d95e4ad14b249",
     "title": "《朝闻天下》 20260906 08:00",
     "url": "https://tv.cctv.cn/2026/09/06/VIDEqcoGJAdHaQpWl4SnvaE6260906.shtml",
@@ -491,24 +510,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/0176e4b998d44a5aa8e8fd825e0f1a4a/main.m3u8",
     "createdAt": "2026-08-09T20:50:12.773Z",
     "durationSeconds": 3136.76
-  },
-  {
-    "id": "34308d355a0d4d529622e8e9e1834e53",
-    "title": "《朝闻天下》 20260807 07:00",
-    "url": "https://tv.cctv.cn/2026/08/07/VIDEOLZYdNkUcBNvIozPl5V3260807.shtml",
-    "date": "2026-08-07",
-    "broadcastTime": "07:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/07/34308d355a0d4d529622e8e9e1834e53-1.jpg",
-    "description": "本期节目主要内容：\n    中国人民银行与阿根廷中央银行续签双边本币互换协议，有效期五年；关注霍尔木兹海峡局势·消息人士：海峡通行协议或数日内公布；记者观察：黎以新一轮谈判结束，和平进程仍然脆弱；8月7日立秋，东北多地通常率先感受到秋意。（《朝闻天下》 20260807 07:00）",
-    "program": "zwtx",
-    "guid": "34308d355a0d4d529622e8e9e1834e53",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/07/VIDEOLZYdNkUcBNvIozPl5V3260807.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/34308d355a0d4d529622e8e9e1834e53/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/34308d355a0d4d529622e8e9e1834e53/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/34308d355a0d4d529622e8e9e1834e53/main.m3u8",
-    "createdAt": "2026-08-07T00:56:38.490Z",
-    "durationSeconds": 3232.68
   }
 ]
