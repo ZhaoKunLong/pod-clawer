@@ -1,5 +1,24 @@
 [
   {
+    "id": "7b3f801605584510bf068b98b9a9e1f6",
+    "title": "《朝闻天下》 20260908 08:00",
+    "url": "https://tv.cctv.cn/2026/09/08/VIDEgjd86zveYJorvpuEhHu8260908.shtml",
+    "date": "2026-09-08",
+    "broadcastTime": "08:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/09/08/7b3f801605584510bf068b98b9a9e1f6-1.jpg",
+    "description": "本期节目主要内容：\n    加拿大对美等额反制关税措施8日生效：特朗普威胁在美国禁售加拿大庞巴迪产品；“丝路电商”成高质量共建“一带一路”新引擎；2026年中国国际服务贸易交易会9月9日至13日举办：首批进口展品入境，运抵北京首钢园。（《朝闻天下》 20260908 08:00）",
+    "program": "zwtx",
+    "guid": "7b3f801605584510bf068b98b9a9e1f6",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/08/VIDEgjd86zveYJorvpuEhHu8260908.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7b3f801605584510bf068b98b9a9e1f6/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7b3f801605584510bf068b98b9a9e1f6/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/7b3f801605584510bf068b98b9a9e1f6/main.m3u8",
+    "createdAt": "2026-09-08T22:38:03.265Z",
+    "durationSeconds": 3168.84
+  },
+  {
     "id": "dd4443c6d1de4eeaae1538187e28e33e",
     "title": "《朝闻天下》 20260907 08:00",
     "url": "https://tv.cctv.cn/2026/09/07/VIDEr5BbWMmqp2M2h0WPiwdj260907.shtml",
