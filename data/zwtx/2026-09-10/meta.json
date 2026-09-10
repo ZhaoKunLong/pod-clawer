@@ -1,0 +1,19 @@
+{
+  "id": "e362405f94f1464f8b93fa73af95cd39",
+  "title": "《朝闻天下》 20260910 08:00",
+  "url": "https://tv.cctv.cn/2026/09/10/VIDEJdxcu3tOBVeXBDcxmE04260910.shtml",
+  "date": "2026-09-10",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/09/10/e362405f94f1464f8b93fa73af95cd39-1.jpg",
+  "description": "本期节目主要内容：\n    外交部：中美都是人工智能大国，应加强合作；第二十六届中国国际投资贸易洽谈会：中国继续保持双向投资大国地位；2026年中国国际服务贸易交易会：多场论坛聚焦数字消费和全球文旅；伊朗外交部谴责美军袭扰伊朗商船；韩国称不参加佐渡金山劳工受害者悼念仪式。\n（《朝闻天下》 20260910 08:00）",
+  "program": "zwtx",
+  "guid": "e362405f94f1464f8b93fa73af95cd39",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/10/VIDEJdxcu3tOBVeXBDcxmE04260910.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e362405f94f1464f8b93fa73af95cd39/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e362405f94f1464f8b93fa73af95cd39/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e362405f94f1464f8b93fa73af95cd39/main.m3u8",
+  "createdAt": "2026-09-10T22:34:05.951Z",
+  "durationSeconds": 3172.36
+}

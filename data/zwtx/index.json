@@ -1,5 +1,24 @@
 [
   {
+    "id": "e362405f94f1464f8b93fa73af95cd39",
+    "title": "《朝闻天下》 20260910 08:00",
+    "url": "https://tv.cctv.cn/2026/09/10/VIDEJdxcu3tOBVeXBDcxmE04260910.shtml",
+    "date": "2026-09-10",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/09/10/e362405f94f1464f8b93fa73af95cd39-1.jpg",
+    "description": "本期节目主要内容：\n    外交部：中美都是人工智能大国，应加强合作；第二十六届中国国际投资贸易洽谈会：中国继续保持双向投资大国地位；2026年中国国际服务贸易交易会：多场论坛聚焦数字消费和全球文旅；伊朗外交部谴责美军袭扰伊朗商船；韩国称不参加佐渡金山劳工受害者悼念仪式。\n（《朝闻天下》 20260910 08:00）",
+    "program": "zwtx",
+    "guid": "e362405f94f1464f8b93fa73af95cd39",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/10/VIDEJdxcu3tOBVeXBDcxmE04260910.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e362405f94f1464f8b93fa73af95cd39/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e362405f94f1464f8b93fa73af95cd39/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e362405f94f1464f8b93fa73af95cd39/main.m3u8",
+    "createdAt": "2026-09-10T22:34:05.951Z",
+    "durationSeconds": 3172.36
+  },
+  {
     "id": "3bc97a4576304902936627a495e95594",
     "title": "《朝闻天下》 20260909 08:00",
     "url": "https://tv.cctv.cn/2026/09/09/VIDEgieLNe7qIQ5ZclsmDrbh260909.shtml",
@@ -510,24 +529,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c7be6a950144493790047374620fcc99/main.m3u8",
     "createdAt": "2026-08-11T21:02:07.377Z",
     "durationSeconds": 3136.52
-  },
-  {
-    "id": "d386092f30b1475597d0c294d705de42",
-    "title": "《朝闻天下》 20260810 08:00",
-    "url": "https://tv.cctv.cn/2026/08/10/VIDETTiQ2mDJ9wK65vWWW2SK260810.shtml",
-    "date": "2026-08-10",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/10/d386092f30b1475597d0c294d705de42-1.jpg",
-    "description": "本期节目主要内容：\n    国家统计局：7月份居民消费价格指数同比上涨0.5%；长崎核爆81周年：日本民众集会反对高市政权扩军修宪；伊朗外长：目前伊美没有进行任何谈判；伊朗：议会内部委员会批准霍尔木兹海峡安全纲要。\n（《朝闻天下》 20260810 08:00）",
-    "program": "zwtx",
-    "guid": "d386092f30b1475597d0c294d705de42",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/10/VIDETTiQ2mDJ9wK65vWWW2SK260810.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d386092f30b1475597d0c294d705de42/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d386092f30b1475597d0c294d705de42/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d386092f30b1475597d0c294d705de42/main.m3u8",
-    "createdAt": "2026-08-10T20:59:44.447Z",
-    "durationSeconds": 3196
   }
 ]
