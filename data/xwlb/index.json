@@ -1,5 +1,24 @@
 [
   {
+    "id": "c4abaaff228b44fc88f2010d537d28ca",
+    "title": "《新闻联播》 20260910 21:00",
+    "url": "https://tv.cctv.cn/2026/09/10/VIDEOCL909x6tYE8wuZ5Va5G260910.shtml",
+    "date": "2026-09-10",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/09/10/c4abaaff228b44fc88f2010d537d28ca-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示强调 深入排查整治各类火灾隐患 落实落细防范措施 坚决遏制重特大事故发生 李强作出批示；\n2.习近平将赴印度出席金砖国家领导人第十八次会晤；\n3.【新思想引领新征程】大力弘扬教育家精神 书写教育强国时代新篇；\n4.【“十五五”开好局起好步】锚定金融强国建设 服务经济高质量发展；\n5.新技术新成果集中亮相2026年服贸会；\n6.今年全国新增84个重点外资项目；\n7.2030年我国将全面建成新一代通信网；\n8.中国与其他金砖成员国贸易指数连续10年向上攀升；\n9.中央宣传部 教育部联合发布2026年“最美教师”；\n10.革命文物保护利用片区建设工作取得新成效；\n11.【文化中国行】让长城文化在保护与传承中生生不息；\n12.国内联播快讯：\n（1）国际打击电信网络诈骗联盟成立；\n（2）中国—上海合作组织基础教育合作中心在北京成立；\n（3）第三届新时代青年“重走长征路”活动在贵州遵义启动；\n（4）国家标准委发布298项国家标准；\n（5）第七批国家组织医用耗材集采产生中选结果；\n（6）西部陆海新通道班列累计发送货物突破600万标箱；\n（7）三峡水库2026年度蓄水正式启动；\n（8）第22届亚洲地区海岸警备机构高官会呼吁加强海上多边执法合作；\n（9）2026世界顶尖科学家奖在上海揭晓；\n13.俄罗斯表示日本应认真反省其历史罪行；\n14.美总统称美伊战事将在中期选举后结束 伊朗称美没有在该地区维持存在的能力 布伦特原油期货价格突破每桶100美元；\n15.国际联播快讯：\n（1）沙特与胡塞武装打击对方目标；\n（2）叙谴责以总理进入叙领土公然侵犯主权；\n（3）世贸组织：全球货物贸易增长保持韧性；\n（4）欧盟向西班牙提供援助资金应对休达局势。\n（《新闻联播》 20260910 21:00）",
+    "program": "xwlb",
+    "guid": "c4abaaff228b44fc88f2010d537d28ca",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/10/VIDEOCL909x6tYE8wuZ5Va5G260910.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/c/4/a/b/c4abaaff228b44fc88f2010d537d28ca/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/c/4/a/b/c4abaaff228b44fc88f2010d537d28ca/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/c/4/a/b/c4abaaff228b44fc88f2010d537d28ca/mp3/main.m3u8",
+    "createdAt": "2026-09-11T12:51:46.956Z",
+    "durationSeconds": 1799.32
+  },
+  {
     "id": "cafb0c29b6d94cddb348cf1abe783680",
     "title": "《新闻联播》 20260908 21:00",
     "url": "https://tv.cctv.cn/2026/09/08/VIDEdh9mw0pcI53swlKjtZhH260908.shtml",
@@ -397,24 +416,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a120990a9cba449ebccd7b02ed3c31fe/main.m3u8",
     "createdAt": "2026-08-12T09:33:42.700Z",
     "durationSeconds": 1799.24
-  },
-  {
-    "id": "3169edbc635e4d09bcc7dcef513e50c9",
-    "title": "《新闻联播》 20260810 21:00",
-    "url": "https://tv.cctv.cn/2026/08/10/VIDEoRNbqcR8KzfnouGXB8RQ260810.shtml",
-    "date": "2026-08-10",
-    "broadcastTime": "21:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/10/3169edbc635e4d09bcc7dcef513e50c9-1.jpg",
-    "description": "本期节目主要内容：\n1.【新思想引领新征程】加快构建城乡融合发展新格局；\n2.【凝心聚力 真抓实干 奋力实现“十五五”良好开局】共享智造助力河北激活产业集群新活力；\n3.南水北调东中线一期工程调水突破900亿立方米；\n4.7月先行指标折射经济稳中向优态势明显；\n5.各地各部门多举措应对台风“白海豚”影响；\n6.我国已建成国家慢性病综合防控示范区578个；\n7.服务消费拓展就业新空间；\n8.我国国际航线网络持续优化 更好满足入境游需求；\n9.【一线调研】公园拓展消费新场景；\n10.国内联播快讯：\n（1）我国已建成绿色燃料产能约800万吨；\n（2）港珠澳大桥珠海公路口岸进出境车辆累计突破2500万辆次；\n（3）中国第16次北冰洋考察队开展冰站调查作业；\n（4）濒危物种林麝现身重庆巫溪；\n11.日本民众举行集会抗议高市政权扩军修宪的危险动向；\n12.以色列总理称拒绝美支持的加沙和平计划 美媒称白宫“不在意”；\n13.胡塞武装称袭击也门政府军目标及沙特炼油厂；\n14.国际联播快讯：\n（1）美媒称美总统倾向对伊朗施加经济压力；\n（2）俄称控制更多区域 乌称敖德萨遭袭断电；\n（3）丹麦民众举行皮艇集会 支持格陵兰岛；\n（4）北美和欧洲多地林火持续蔓延。\n（《新闻联播》 20260810 21:00）",
-    "program": "xwlb",
-    "guid": "3169edbc635e4d09bcc7dcef513e50c9",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/10/VIDEoRNbqcR8KzfnouGXB8RQ260810.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/1/6/9/3169edbc635e4d09bcc7dcef513e50c9/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/1/6/9/3169edbc635e4d09bcc7dcef513e50c9/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/1/6/9/3169edbc635e4d09bcc7dcef513e50c9/mp3/main.m3u8",
-    "createdAt": "2026-08-11T09:16:21.883Z",
-    "durationSeconds": 1799.4
   }
 ]
