@@ -1,0 +1,19 @@
+{
+  "id": "47b80a21301c48cf8fc2b8fcb4824801",
+  "title": "《朝闻天下》 20260912 08:00",
+  "url": "https://tv.cctv.cn/2026/09/12/VIDEwyqZyva5pvtmegnzHK5W260912.shtml",
+  "date": "2026-09-12",
+  "broadcastTime": "08:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/09/12/47b80a21301c48cf8fc2b8fcb4824801-1.jpg",
+  "description": "本期节目主要内容：\n    伊朗外交部发言人宣布：14日将在阿曼讨论霍尔木兹海峡商运航线；第16次亚太经合组织能源部长会议达成多个能源合作共识；加拿大政府负责加美贸易的部长表示：加美尚无谈判安排，任何协议须尊重加主权。（《朝闻天下》 20260912 08:00）",
+  "program": "zwtx",
+  "guid": "47b80a21301c48cf8fc2b8fcb4824801",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/12/VIDEwyqZyva5pvtmegnzHK5W260912.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/47b80a21301c48cf8fc2b8fcb4824801/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/47b80a21301c48cf8fc2b8fcb4824801/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/47b80a21301c48cf8fc2b8fcb4824801/main.m3u8",
+  "createdAt": "2026-09-12T22:15:10.863Z",
+  "durationSeconds": 3196.36
+}
