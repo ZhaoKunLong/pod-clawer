@@ -1,5 +1,24 @@
 [
   {
+    "id": "b8334ca3dc534541826614ecbd146fdd",
+    "title": "《朝闻天下》 20260913 08:00",
+    "url": "https://tv.cctv.cn/2026/09/13/VIDE0TKvVqP25kdWw2VAZRod260913.shtml",
+    "date": "2026-09-13",
+    "broadcastTime": "08:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/09/13/b8334ca3dc534541826614ecbd146fdd-1.jpg",
+    "description": "本期节目主要内容：\n    习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话；联合国开发计划署驻华代表处：与中方推动的南南合作项目取得丰硕成果；2026年服贸会：首钢园里的机遇与收获。（《朝闻天下》 20260913 08:00）",
+    "program": "zwtx",
+    "guid": "b8334ca3dc534541826614ecbd146fdd",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/13/VIDE0TKvVqP25kdWw2VAZRod260913.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b8334ca3dc534541826614ecbd146fdd/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b8334ca3dc534541826614ecbd146fdd/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b8334ca3dc534541826614ecbd146fdd/main.m3u8",
+    "createdAt": "2026-09-13T22:24:04.714Z",
+    "durationSeconds": 3131.24
+  },
+  {
     "id": "47b80a21301c48cf8fc2b8fcb4824801",
     "title": "《朝闻天下》 20260912 08:00",
     "url": "https://tv.cctv.cn/2026/09/12/VIDEwyqZyva5pvtmegnzHK5W260912.shtml",
@@ -491,24 +510,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3135aafc244e4a4896a10bb01af9125b/main.m3u8?maxbr=2048&contentid=18120319242338",
     "createdAt": "2026-08-14T20:43:23.010Z",
     "durationSeconds": 3173.08
-  },
-  {
-    "id": "122cccc0c6414d298ad6889311c50d7e",
-    "title": "《朝闻天下》 20260813 08:00",
-    "url": "https://tv.cctv.cn/2026/08/13/VIDEOm6mhio7C7knm8t8ZdHA260813.shtml",
-    "date": "2026-08-13",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/13/122cccc0c6414d298ad6889311c50d7e-1.jpg",
-    "description": "本期节目主要内容：\n    中国海军第49批护航编队起航赴亚丁湾；核电建设稳步推进，总装机规模居世界第一；韩国市民团体举行“慰安妇”纪念日集会；意大利：埃特纳火山持续喷发，航班受影响；河南：漯河舞阳泥河洼蓄滞洪区启用。\n（《朝闻天下》 20260813 08:00）",
-    "program": "zwtx",
-    "guid": "122cccc0c6414d298ad6889311c50d7e",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/13/VIDEOm6mhio7C7knm8t8ZdHA260813.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/122cccc0c6414d298ad6889311c50d7e/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/122cccc0c6414d298ad6889311c50d7e/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/122cccc0c6414d298ad6889311c50d7e/main.m3u8",
-    "createdAt": "2026-08-13T21:00:37.582Z",
-    "durationSeconds": 3123.4
   }
 ]

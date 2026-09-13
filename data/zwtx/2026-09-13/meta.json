@@ -1,0 +1,19 @@
+{
+  "id": "b8334ca3dc534541826614ecbd146fdd",
+  "title": "《朝闻天下》 20260913 08:00",
+  "url": "https://tv.cctv.cn/2026/09/13/VIDE0TKvVqP25kdWw2VAZRod260913.shtml",
+  "date": "2026-09-13",
+  "broadcastTime": "08:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/09/13/b8334ca3dc534541826614ecbd146fdd-1.jpg",
+  "description": "本期节目主要内容：\n    习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话；联合国开发计划署驻华代表处：与中方推动的南南合作项目取得丰硕成果；2026年服贸会：首钢园里的机遇与收获。（《朝闻天下》 20260913 08:00）",
+  "program": "zwtx",
+  "guid": "b8334ca3dc534541826614ecbd146fdd",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/13/VIDE0TKvVqP25kdWw2VAZRod260913.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b8334ca3dc534541826614ecbd146fdd/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b8334ca3dc534541826614ecbd146fdd/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b8334ca3dc534541826614ecbd146fdd/main.m3u8",
+  "createdAt": "2026-09-13T22:24:04.714Z",
+  "durationSeconds": 3131.24
+}
