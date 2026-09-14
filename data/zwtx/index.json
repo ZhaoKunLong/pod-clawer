@@ -1,5 +1,24 @@
 [
   {
+    "id": "c32f3f35c70243a3be8969a58a0454b4",
+    "title": "《朝闻天下》 20260914 08:00",
+    "url": "https://tv.cctv.cn/2026/09/14/VIDEhDw4CIU7PiHFHzNZPZrX260914.shtml",
+    "date": "2026-09-14",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/09/14/c32f3f35c70243a3be8969a58a0454b4-1.jpg",
+    "description": "本期节目主要内容：\n    习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话；平陆运河9月16日通航，全线准备就绪：平陆通江海，总台直播团队准备就绪；2026年服贸会闭幕，多领域达成丰硕成果。（《朝闻天下》 20260914 08:00）",
+    "program": "zwtx",
+    "guid": "c32f3f35c70243a3be8969a58a0454b4",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/14/VIDEhDw4CIU7PiHFHzNZPZrX260914.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c32f3f35c70243a3be8969a58a0454b4/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c32f3f35c70243a3be8969a58a0454b4/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c32f3f35c70243a3be8969a58a0454b4/main.m3u8",
+    "createdAt": "2026-09-14T23:07:57.138Z",
+    "durationSeconds": 3172.6
+  },
+  {
     "id": "b8334ca3dc534541826614ecbd146fdd",
     "title": "《朝闻天下》 20260913 08:00",
     "url": "https://tv.cctv.cn/2026/09/13/VIDE0TKvVqP25kdWw2VAZRod260913.shtml",
@@ -491,24 +510,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95e831f90a634bf3a6c5159a9055561d/main.m3u8",
     "createdAt": "2026-08-15T20:37:04.543Z",
     "durationSeconds": 3105.4
-  },
-  {
-    "id": "3135aafc244e4a4896a10bb01af9125b",
-    "title": "《朝闻天下》 20260814 08:00",
-    "url": "https://tv.cctv.cn/2026/08/14/VIDEy5uvzx07gDB5IeUOyktt260814.shtml",
-    "date": "2026-08-14",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/14/3135aafc244e4a4896a10bb01af9125b-1.jpg",
-    "description": "本期节目主要内容：\n    商务部对原产印度进口单模光纤继续征收反倾销税；生态环境部：我国生态环境持续向好，主要指标明显改善；伊朗武装部队称霍尔木兹海峡在伊方控制下；美航母被曝条件恶劣，多名议员要求彻查。（《朝闻天下》 20260814 08:00）",
-    "program": "zwtx",
-    "guid": "3135aafc244e4a4896a10bb01af9125b",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/14/VIDEy5uvzx07gDB5IeUOyktt260814.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3135aafc244e4a4896a10bb01af9125b/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3135aafc244e4a4896a10bb01af9125b/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/3135aafc244e4a4896a10bb01af9125b/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "createdAt": "2026-08-14T20:43:23.010Z",
-    "durationSeconds": 3173.08
   }
 ]
