@@ -1,5 +1,24 @@
 [
   {
+    "id": "354410b2858e4e77afea43bcf5a5cbc9",
+    "title": "《朝闻天下》 20260915 08:00",
+    "url": "https://tv.cctv.cn/2026/09/15/VIDEfp65rqc591ktdtPBnjh4260915.shtml",
+    "date": "2026-09-15",
+    "broadcastTime": "08:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/09/15/354410b2858e4e77afea43bcf5a5cbc9-1.jpg",
+    "description": "本期节目主要内容：\n    平陆运河9月16日通航：货来了船到了，多式联运江海直达；中国人民银行：我国社会融资规模保持在合理水平；沙特东西输油管道遭袭：伊朗称美方有关伊朗参与该事件说法不实；美总统称对美伊谈判持“开放”态度；武契奇称将于27日辞去塞尔维亚总统职务。\n（《朝闻天下》 20260915 08:00）",
+    "program": "zwtx",
+    "guid": "354410b2858e4e77afea43bcf5a5cbc9",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/15/VIDEfp65rqc591ktdtPBnjh4260915.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/354410b2858e4e77afea43bcf5a5cbc9/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/354410b2858e4e77afea43bcf5a5cbc9/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/354410b2858e4e77afea43bcf5a5cbc9/main.m3u8",
+    "createdAt": "2026-09-15T22:53:33.762Z",
+    "durationSeconds": 3127.8
+  },
+  {
     "id": "c32f3f35c70243a3be8969a58a0454b4",
     "title": "《朝闻天下》 20260914 08:00",
     "url": "https://tv.cctv.cn/2026/09/14/VIDEhDw4CIU7PiHFHzNZPZrX260914.shtml",
@@ -491,24 +510,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4e8d0a9546ce44e2a150894d1b84c187/main.m3u8",
     "createdAt": "2026-08-16T20:36:05.920Z",
     "durationSeconds": 3016.6
-  },
-  {
-    "id": "95e831f90a634bf3a6c5159a9055561d",
-    "title": "《朝闻天下》 20260815 08:00",
-    "url": "https://tv.cctv.cn/2026/08/15/VIDETpUff7S5D67E2mDCODAW260815.shtml",
-    "date": "2026-08-15",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/08/15/95e831f90a634bf3a6c5159a9055561d-1.jpg",
-    "description": "本期节目主要内容：\n    1—7月我国邮政行业业务量和收入双增长；APEC第三次高官会8月17日至28日在辽宁大连举办，外交部介绍会议筹备情况；中国人民银行、国家外汇管理局：跨国公司资金池政策推广至全国。（《朝闻天下》 20260815 08:00）",
-    "program": "zwtx",
-    "guid": "95e831f90a634bf3a6c5159a9055561d",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/15/VIDETpUff7S5D67E2mDCODAW260815.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95e831f90a634bf3a6c5159a9055561d/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95e831f90a634bf3a6c5159a9055561d/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/95e831f90a634bf3a6c5159a9055561d/main.m3u8",
-    "createdAt": "2026-08-15T20:37:04.543Z",
-    "durationSeconds": 3105.4
   }
 ]

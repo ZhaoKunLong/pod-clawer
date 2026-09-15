@@ -1,0 +1,19 @@
+{
+  "id": "354410b2858e4e77afea43bcf5a5cbc9",
+  "title": "《朝闻天下》 20260915 08:00",
+  "url": "https://tv.cctv.cn/2026/09/15/VIDEfp65rqc591ktdtPBnjh4260915.shtml",
+  "date": "2026-09-15",
+  "broadcastTime": "08:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/09/15/354410b2858e4e77afea43bcf5a5cbc9-1.jpg",
+  "description": "本期节目主要内容：\n    平陆运河9月16日通航：货来了船到了，多式联运江海直达；中国人民银行：我国社会融资规模保持在合理水平；沙特东西输油管道遭袭：伊朗称美方有关伊朗参与该事件说法不实；美总统称对美伊谈判持“开放”态度；武契奇称将于27日辞去塞尔维亚总统职务。\n（《朝闻天下》 20260915 08:00）",
+  "program": "zwtx",
+  "guid": "354410b2858e4e77afea43bcf5a5cbc9",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/15/VIDEfp65rqc591ktdtPBnjh4260915.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/354410b2858e4e77afea43bcf5a5cbc9/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/354410b2858e4e77afea43bcf5a5cbc9/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/354410b2858e4e77afea43bcf5a5cbc9/main.m3u8",
+  "createdAt": "2026-09-15T22:53:33.762Z",
+  "durationSeconds": 3127.8
+}
