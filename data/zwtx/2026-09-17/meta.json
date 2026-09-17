@@ -1,0 +1,19 @@
+{
+  "id": "8f6ac15e91054ab995421154cacddbe5",
+  "title": "《朝闻天下》 20260917 08:00",
+  "url": "https://tv.cctv.cn/2026/09/17/VIDETNF5CeQZ2eZfcg2s1qG0260917.shtml",
+  "date": "2026-09-17",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/09/17/8f6ac15e91054ab995421154cacddbe5-1.jpg",
+  "description": "本期节目主要内容：\n    美国总统特朗普签署公告：将加拿大产品排除出美政府采购计划；美国媒体称：美国准备向以色列出售28亿美元重磅炸弹；加沙地带：加沙城战损危楼凌晨坍塌，约百人被埋；日本财务省数据显示：日本连续4个月出现贸易逆差。（《朝闻天下》 20260917 08:00）",
+  "program": "zwtx",
+  "guid": "8f6ac15e91054ab995421154cacddbe5",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/17/VIDETNF5CeQZ2eZfcg2s1qG0260917.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/8f6ac15e91054ab995421154cacddbe5/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/8f6ac15e91054ab995421154cacddbe5/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/8f6ac15e91054ab995421154cacddbe5/main.m3u8?maxbr=2048&contentid=18120319242338",
+  "createdAt": "2026-09-17T22:51:27.944Z",
+  "durationSeconds": 3160.6
+}

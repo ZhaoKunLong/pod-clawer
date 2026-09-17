@@ -1,5 +1,24 @@
 [
   {
+    "id": "8f6ac15e91054ab995421154cacddbe5",
+    "title": "《朝闻天下》 20260917 08:00",
+    "url": "https://tv.cctv.cn/2026/09/17/VIDETNF5CeQZ2eZfcg2s1qG0260917.shtml",
+    "date": "2026-09-17",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/09/17/8f6ac15e91054ab995421154cacddbe5-1.jpg",
+    "description": "本期节目主要内容：\n    美国总统特朗普签署公告：将加拿大产品排除出美政府采购计划；美国媒体称：美国准备向以色列出售28亿美元重磅炸弹；加沙地带：加沙城战损危楼凌晨坍塌，约百人被埋；日本财务省数据显示：日本连续4个月出现贸易逆差。（《朝闻天下》 20260917 08:00）",
+    "program": "zwtx",
+    "guid": "8f6ac15e91054ab995421154cacddbe5",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/17/VIDETNF5CeQZ2eZfcg2s1qG0260917.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/8f6ac15e91054ab995421154cacddbe5/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/8f6ac15e91054ab995421154cacddbe5/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/8f6ac15e91054ab995421154cacddbe5/main.m3u8?maxbr=2048&contentid=18120319242338",
+    "createdAt": "2026-09-17T22:51:27.944Z",
+    "durationSeconds": 3160.6
+  },
+  {
     "id": "354410b2858e4e77afea43bcf5a5cbc9",
     "title": "《朝闻天下》 20260915 08:00",
     "url": "https://tv.cctv.cn/2026/09/15/VIDEfp65rqc591ktdtPBnjh4260915.shtml",
@@ -472,43 +491,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/30b2704f20a74c8ca8e2ece3e6d35c9c/main.m3u8",
     "createdAt": "2026-08-20T20:43:48.427Z",
     "durationSeconds": 3149.8
-  },
-  {
-    "id": "aaa092f48c654f0fb9cbd9f987573a48",
-    "title": "《朝闻天下》 20260817 08:00",
-    "url": "https://tv.cctv.cn/2026/08/17/VIDEyuaHQoQqKkPh93gfriIR260817.shtml",
-    "date": "2026-08-17",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/17/aaa092f48c654f0fb9cbd9f987573a48-1.jpg",
-    "description": "本期节目主要内容：  中国经济半年报：冷链消费稳步扩大，绿色转型提速增效；南海海域、东海部分海域开渔；美媒：海湾盟友对美国沮丧情绪持续上升；韩国将重启亲日反民族行为者财产追缴；哥伦比亚发生7.5级强震：救援物资持续分发，志愿者接力传递希望。（《朝闻天下》 20260817 08:00）",
-    "program": "zwtx",
-    "guid": "aaa092f48c654f0fb9cbd9f987573a48",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/17/VIDEyuaHQoQqKkPh93gfriIR260817.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/aaa092f48c654f0fb9cbd9f987573a48/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/aaa092f48c654f0fb9cbd9f987573a48/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/aaa092f48c654f0fb9cbd9f987573a48/main.m3u8",
-    "createdAt": "2026-08-17T20:41:23.340Z",
-    "durationSeconds": 3120.36
-  },
-  {
-    "id": "4e8d0a9546ce44e2a150894d1b84c187",
-    "title": "《朝闻天下》 20260816 08:00",
-    "url": "https://tv.cctv.cn/2026/08/16/VIDEMdxVG9eV73SF3gTV1mxG260816.shtml",
-    "date": "2026-08-16",
-    "broadcastTime": "08:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/16/4e8d0a9546ce44e2a150894d1b84c187-1.jpg",
-    "description": "本期节目主要内容：  2026年全国生态日主场活动·国家发展改革委：扎实开展碳达峰行动；伊朗战事延宕，美航母部署时长恐再刷纪录；关注俄乌冲突：俄称控制一居民点，乌称远程打击俄目标；日本无条件投降81周年：日本东京举行展览，祈愿和平；美军仓皇撤离阿富汗五周年：喀布尔举行活动纪念阿富汗战争结束五周年。（《朝闻天下》 20260816 08:00）",
-    "program": "zwtx",
-    "guid": "4e8d0a9546ce44e2a150894d1b84c187",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/16/VIDEMdxVG9eV73SF3gTV1mxG260816.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4e8d0a9546ce44e2a150894d1b84c187/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4e8d0a9546ce44e2a150894d1b84c187/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/4e8d0a9546ce44e2a150894d1b84c187/main.m3u8",
-    "createdAt": "2026-08-16T20:36:05.920Z",
-    "durationSeconds": 3016.6
   }
 ]
