@@ -1,5 +1,24 @@
 [
   {
+    "id": "51e35378b3934c09aa81e4dec3e44564",
+    "title": "《朝闻天下》 20260918 08:00",
+    "url": "https://tv.cctv.cn/2026/09/18/VIDEqXidqcPacUqLtBjpUYqF260918.shtml",
+    "date": "2026-09-18",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/09/18/51e35378b3934c09aa81e4dec3e44564-1.jpg",
+    "description": "本期节目主要内容：\n    2026年是九一八事变爆发95周年：勿忘九一八，撞钟鸣警仪式9月18日将在沈阳举行；安理会未能通过伊朗制裁委专家组延期决议草案，中方反对在安理会强推恢复对伊朗制裁；美向我国返还64件（套）文物艺术品及化石：一件天龙山石窟造像流失海外多年终回家。（《朝闻天下》 20260918 08:00）",
+    "program": "zwtx",
+    "guid": "51e35378b3934c09aa81e4dec3e44564",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/18/VIDEqXidqcPacUqLtBjpUYqF260918.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/51e35378b3934c09aa81e4dec3e44564/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/51e35378b3934c09aa81e4dec3e44564/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/51e35378b3934c09aa81e4dec3e44564/main.m3u8",
+    "createdAt": "2026-09-18T22:34:05.728Z",
+    "durationSeconds": 3206.2
+  },
+  {
     "id": "8f6ac15e91054ab995421154cacddbe5",
     "title": "《朝闻天下》 20260917 08:00",
     "url": "https://tv.cctv.cn/2026/09/17/VIDETNF5CeQZ2eZfcg2s1qG0260917.shtml",
