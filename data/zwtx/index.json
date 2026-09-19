@@ -1,5 +1,24 @@
 [
   {
+    "id": "f073fb56abb94f0c88addbb81178ddbe",
+    "title": "《朝闻天下》 20260919 08:00",
+    "url": "https://tv.cctv.cn/2026/09/19/VIDEMxL5fIl2FIkM2vQ4BWxF260919.shtml",
+    "date": "2026-09-19",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/09/19/f073fb56abb94f0c88addbb81178ddbe-1.jpg",
+    "description": "本期节目主要内容：\n    2026年前8个月，高技术产业实际使用外资同比增35.1%；日本民众9月18日晚上在东京举行集会，民众：日本政府必须对犯下的侵略罪行反思；2026年前8个月，全国一般公共预算收入同比增长5.7%。（《朝闻天下》 20260919 08:00）",
+    "program": "zwtx",
+    "guid": "f073fb56abb94f0c88addbb81178ddbe",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/19/VIDEMxL5fIl2FIkM2vQ4BWxF260919.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f073fb56abb94f0c88addbb81178ddbe/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f073fb56abb94f0c88addbb81178ddbe/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f073fb56abb94f0c88addbb81178ddbe/main.m3u8",
+    "createdAt": "2026-09-19T22:20:30.026Z",
+    "durationSeconds": 3134.92
+  },
+  {
     "id": "51e35378b3934c09aa81e4dec3e44564",
     "title": "《朝闻天下》 20260918 08:00",
     "url": "https://tv.cctv.cn/2026/09/18/VIDEqXidqcPacUqLtBjpUYqF260918.shtml",
