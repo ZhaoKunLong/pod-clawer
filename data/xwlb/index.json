@@ -1,5 +1,24 @@
 [
   {
+    "id": "5f08f987e680445ca1592d2f064f3d30",
+    "title": "《新闻联播》 20260921 21:00",
+    "url": "https://tv.cctv.cn/2026/09/21/VIDEDyMI65dvGRGvO3ieqyS4260921.shtml",
+    "date": "2026-09-21",
+    "broadcastTime": "21:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/09/21/5f08f987e680445ca1592d2f064f3d30-1.jpg",
+    "description": "本期节目主要内容：\n1.中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议；\n2.习近平将对美国进行国事访问；\n3.习近平复信美国10所高校青年学生；\n4.王沪宁会见印度尼西亚人民协商会议主席；\n5.丁薛祥接见“向国旗敬礼”港澳青少年升旗队代表访京团；\n6.韩正会见澳大利亚联邦议会众议长；\n7.中美经贸磋商在美国纽约举行；\n8.张又侠、刘振立严重违纪违法被开除党籍军籍；\n9.铸牢共同体 中华一家亲；\n10.【“十五五”开好局起好步】我国加快建立现代化粮食流通体系；\n11.今年我国新建主干油气管道超2500公里；\n12.国务院新闻办举行“新征程上的奋斗者”中外记者见面会；\n13.【第二十届亚运会】中国队单日斩获12枚金牌；\n14.国内联播快讯：\n（1）《公共文化服务体系建设“十五五”规划》发布；\n（2）最高人民法院发布民刑交叉司法解释；\n（3）五部门整治生态环境监测数据弄虚作假问题；\n（4）市场监管总局开展月饼专项抽检 安全状况总体稳定；\n（5）第23届中国—东盟博览会今天闭幕；\n（6）第八届APEC人力资源开发部长会达成多项重要成果；\n（7）2026年国际和平日纪念活动在武汉开幕；\n（8）总台“三农”新视听产品片单发布；\n15.俄国家杜马选举初步结果公布 执政党统俄党得票过半 俄称乌发动大规模袭击干扰俄选举 俄将加大对乌首都打击力度；\n16.国际联播快讯：\n（1）美总统称也门胡塞武装同意不与美交战；\n（2）德执政党基民盟在两州选举中失利；\n（3）台风“杜鹃”影响日本多地 航班取消；\n（4）哥伦比亚中部博亚卡省林火蔓延。\n（《新闻联播》 20260921 21:00）",
+    "program": "xwlb",
+    "guid": "5f08f987e680445ca1592d2f064f3d30",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/21/VIDEDyMI65dvGRGvO3ieqyS4260921.shtml",
+    "streamUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/5f08f987e680445ca1592d2f064f3d30/main.m3u8?maxbr=2048&contentid=161251027175538",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/5f08f987e680445ca1592d2f064f3d30/main.m3u8?maxbr=2048&contentid=161251027175538",
+    "audioSourceUrl": "https://dhls2.cntv.cdn20.com/asp/enc2/hls/main/0303000a/3/default/5f08f987e680445ca1592d2f064f3d30/main.m3u8?maxbr=2048&contentid=161251027175538",
+    "createdAt": "2026-09-21T15:08:57.028Z",
+    "durationSeconds": 1799.32
+  },
+  {
     "id": "cac3f6c372654f9c8785bdbab933eebe",
     "title": "《新闻联播》 20260919 21:00",
     "url": "https://tv.cctv.cn/2026/09/19/VIDEYtoSxHz3ktXpKJX7Kx4W260919.shtml",
@@ -397,43 +416,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/c0721f5b04ea4d73a6c2c93535f190cb/main.m3u8",
     "createdAt": "2026-08-23T08:51:16.458Z",
     "durationSeconds": 1799.48
-  },
-  {
-    "id": "421f159eb91b4e248e6c04f0146a597c",
-    "title": "《新闻联播》 20260821 21:00",
-    "url": "https://tv.cctv.cn/2026/08/21/VIDEnmee4Stx2hwq0xNMGORc260821.shtml",
-    "date": "2026-08-21",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/08/21/421f159eb91b4e248e6c04f0146a597c-1.jpg",
-    "description": "本期节目主要内容：\n1.【新思想引领新征程】无惧风浪 中国经济高质量发展行稳致远；\n2.李强主持召开国务院常务会议；\n3.赵乐际会见约旦国王；\n4.【“十五五”开好局起好步】积极财政政策助推经济社会高质量发展；\n5.我国早稻产量连续6年稳定在560亿斤以上；\n6.【活力中国调研行】AI助跑 科创加速；\n7.赛事激发经济发展新活力；\n8.国务院新闻办举行“新征程上的奋斗者”中外记者见面会；\n9.国内联播快讯：\n（1）中国进出口银行前7个月新发放制造业贷款近5000亿元；\n（2）财政部在澳门发行60亿元人民币国债；\n（3）2026年个人信息保护系列专项行动督促整改隐患问题1.2万余个；\n（4）市场监管总局部署推进2026年质量强链十大项目；\n（5）APEC经济体签署多份农食产品领域及海关合作双边协议；\n（6）我国在十地开展首批数据领域国际合作试点；\n（7）我国自主研发建造11.5万吨成品油轮正式交付；\n（8）《高端访谈》今晚播出对联合国副秘书长亚丝明·福阿德的专访；\n10.俄外交部：日本应全面承认二战结果 停止篡改侵略历史；\n11.伊朗谴责美国新制裁是“经济恐怖主义”；\n12.受高温干旱天气影响 西班牙等国林火持续 德国央行报告称持续干旱恐拖累经济复苏；\n13.国际联播快讯：\n（1）七国谴责以色列推进定居点建设项目；\n（2）胡塞武装称袭击沙特南部一机场等目标；\n（3）欧盟：希望休达非法移民全部返回摩洛哥。\n（《新闻联播》 20260821 21:00）",
-    "program": "xwlb",
-    "guid": "421f159eb91b4e248e6c04f0146a597c",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/21/VIDEnmee4Stx2hwq0xNMGORc260821.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/2/1/f/421f159eb91b4e248e6c04f0146a597c/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/2/1/f/421f159eb91b4e248e6c04f0146a597c/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/4/2/1/f/421f159eb91b4e248e6c04f0146a597c/mp3/main.m3u8",
-    "createdAt": "2026-08-22T08:49:49.885Z",
-    "durationSeconds": 1799.64
-  },
-  {
-    "id": "91bec305910c4c1eae3fa3b7eca55507",
-    "title": "《新闻联播》 20260820 21:00",
-    "url": "https://tv.cctv.cn/2026/08/20/VIDE6qniGr0z67ercSsyQojK260820.shtml",
-    "date": "2026-08-20",
-    "broadcastTime": "21:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/08/20/91bec305910c4c1eae3fa3b7eca55507-1.jpg",
-    "description": "本期节目主要内容：\n1.习近平致电祝贺希奇莱马当选连任赞比亚总统；\n2.【新思想引领新征程】优质医疗资源下沉惠民 绘就健康中国新图景；\n3.中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定；\n4.赵乐际同萨尔瓦多立法大会主席举行会谈；\n5.各地重大工程稳步推进；\n6.我国工业经济新动能贡献持续增强；\n7.丰收时节 特色农产品助农增收；\n8.国内联播快讯：\n（1）全国总工会发布“十五五”规划 明确产业工人队伍建设改革目标；\n（2）“十五五”期间基本医保参保率保持在95%左右；\n（3）我国启动“人工智能+交通运输”典型应用场景创新行动；\n（4）最高法修改审理著作权案件的司法解释；\n（5）两部门部署发展服务类社会救助；\n（6）中国240小时过境免签“朋友圈”扩展至57国；\n（7）第七届中非媒体合作论坛开幕；\n（8）四川石渠记录到百余头白唇鹿渡过雅砻江；\n9.日本民众抗议高市政权危险动向将国家引向战争边缘；\n10.美总统称对伊朗实施毁灭性经济行动 伊朗称严禁敌对船只进入霍尔木兹海峡；\n11.美国联邦政府债务首次超40万亿美元 美媒称美结构性危机加剧；\n12.国际联播快讯：\n（1）俄太平洋舰队在俄日争议岛屿附近演习；\n（2）德国称“北溪”爆炸案又一嫌疑人被捕；\n（3）伊拉克领导人会见伊朗议长 拟深化合作；\n（4）以称不容土军在叙立足 土呼吁制止侵略；\n（5）因技术问题 美取消救援卫星天文台任务。\n（《新闻联播》 20260820 21:00）",
-    "program": "xwlb",
-    "guid": "91bec305910c4c1eae3fa3b7eca55507",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/20/VIDE6qniGr0z67ercSsyQojK260820.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/1/b/e/91bec305910c4c1eae3fa3b7eca55507/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/1/b/e/91bec305910c4c1eae3fa3b7eca55507/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/1/b/e/91bec305910c4c1eae3fa3b7eca55507/mp3/main.m3u8",
-    "createdAt": "2026-08-21T09:00:02.892Z",
-    "durationSeconds": 1799.56
   }
 ]
