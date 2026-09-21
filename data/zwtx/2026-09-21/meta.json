@@ -1,0 +1,19 @@
+{
+  "id": "32049457b47b4eeaba108437104b7af0",
+  "title": "《朝闻天下》 20260921 08:00",
+  "url": "https://tv.cctv.cn/2026/09/21/VIDEXaGMozS5o9SCF23LaW9z260921.shtml",
+  "date": "2026-09-21",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/09/21/32049457b47b4eeaba108437104b7af0-1.jpg",
+  "description": "本期节目主要内容：\n    商务部：前八个月网上商品和服务零售额增长4.6%；8月份全社会用电量突破万亿千瓦时；卡塔尔称美国希望与伊朗达成协议；记者观察：德国和西班牙围绕欧盟长期预算分歧明显；瑞士：欧洲核子研究中心用人工智能寻找新发现。\n（《朝闻天下》 20260921 08:00）",
+  "program": "zwtx",
+  "guid": "32049457b47b4eeaba108437104b7af0",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/21/VIDEXaGMozS5o9SCF23LaW9z260921.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/32049457b47b4eeaba108437104b7af0/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/32049457b47b4eeaba108437104b7af0/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/32049457b47b4eeaba108437104b7af0/main.m3u8",
+  "createdAt": "2026-09-21T23:16:17.963Z",
+  "durationSeconds": 2823.48
+}
