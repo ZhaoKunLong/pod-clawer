@@ -1,5 +1,24 @@
 [
   {
+    "id": "21910e19fcf74c7782c9aaf43e893abf",
+    "title": "《朝闻天下》 20260922 08:00",
+    "url": "https://tv.cctv.cn/2026/09/22/VIDE8JwADUbOuUmmabfBn1Ka260922.shtml",
+    "date": "2026-09-22",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/09/22/21910e19fcf74c7782c9aaf43e893abf-1.jpg",
+    "description": "本期节目主要内容：\n    大国来信·共航蔚蓝；丹麦及格陵兰岛将同美国签署安全协议；多国领导人联合撰文呼吁支持多边主义；中东局势带动全球超大型油轮采购热潮；英国将向沙特提供“防御性”军事支持。\n（《朝闻天下》 20260922 08:00）",
+    "program": "zwtx",
+    "guid": "21910e19fcf74c7782c9aaf43e893abf",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/22/VIDE8JwADUbOuUmmabfBn1Ka260922.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/21910e19fcf74c7782c9aaf43e893abf/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/21910e19fcf74c7782c9aaf43e893abf/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/21910e19fcf74c7782c9aaf43e893abf/main.m3u8",
+    "createdAt": "2026-09-22T22:56:34.265Z",
+    "durationSeconds": 3002.68
+  },
+  {
     "id": "32049457b47b4eeaba108437104b7af0",
     "title": "《朝闻天下》 20260921 08:00",
     "url": "https://tv.cctv.cn/2026/09/21/VIDEXaGMozS5o9SCF23LaW9z260921.shtml",
@@ -510,24 +529,5 @@
     "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/3b4c9782ff2f4be7b3457bd6df8307d7/main.m3u8?maxbr=2048",
     "createdAt": "2026-08-23T20:37:27.751Z",
     "durationSeconds": 2966.04
-  },
-  {
-    "id": "ca413e6b40c5486eb4bb2366c76e778a",
-    "title": "《朝闻天下》 20260822 08:00",
-    "url": "https://tv.cctv.cn/2026/08/22/VIDEPYqFEHHkk1yIRe2PNSyF260822.shtml",
-    "date": "2026-08-22",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/22/ca413e6b40c5486eb4bb2366c76e778a-1.jpg",
-    "description": "本期节目主要内容：  财经老王：12.4万亿元投向民生，保障网越织越密；2026世界机器人大会：48家央企首次组团参展；八国联合声明谴责以色列非法定居点政策；伊朗议长：必须制定计划应对制裁；巴西总统卢拉重申反对美对巴商品加征关税。（《朝闻天下》 20260822 08:00）",
-    "program": "zwtx",
-    "guid": "ca413e6b40c5486eb4bb2366c76e778a",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/22/VIDEPYqFEHHkk1yIRe2PNSyF260822.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ca413e6b40c5486eb4bb2366c76e778a/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ca413e6b40c5486eb4bb2366c76e778a/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ca413e6b40c5486eb4bb2366c76e778a/main.m3u8",
-    "createdAt": "2026-08-22T20:37:41.649Z",
-    "durationSeconds": 3071
   }
 ]

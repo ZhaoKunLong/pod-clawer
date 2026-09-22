@@ -1,0 +1,19 @@
+{
+  "id": "21910e19fcf74c7782c9aaf43e893abf",
+  "title": "《朝闻天下》 20260922 08:00",
+  "url": "https://tv.cctv.cn/2026/09/22/VIDE8JwADUbOuUmmabfBn1Ka260922.shtml",
+  "date": "2026-09-22",
+  "broadcastTime": "08:00",
+  "image": "https://p5.img.cctvpic.com/fmspic/2026/09/22/21910e19fcf74c7782c9aaf43e893abf-1.jpg",
+  "description": "本期节目主要内容：\n    大国来信·共航蔚蓝；丹麦及格陵兰岛将同美国签署安全协议；多国领导人联合撰文呼吁支持多边主义；中东局势带动全球超大型油轮采购热潮；英国将向沙特提供“防御性”军事支持。\n（《朝闻天下》 20260922 08:00）",
+  "program": "zwtx",
+  "guid": "21910e19fcf74c7782c9aaf43e893abf",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/22/VIDE8JwADUbOuUmmabfBn1Ka260922.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/21910e19fcf74c7782c9aaf43e893abf/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/21910e19fcf74c7782c9aaf43e893abf/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/21910e19fcf74c7782c9aaf43e893abf/main.m3u8",
+  "createdAt": "2026-09-22T22:56:34.265Z",
+  "durationSeconds": 3002.68
+}
