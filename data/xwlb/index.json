@@ -1,5 +1,24 @@
 [
   {
+    "id": "3b466e5f0a624e6da06220a1a0397c17",
+    "title": "《新闻联播》 20260923 21:00",
+    "url": "https://tv.cctv.cn/2026/09/23/VIDE4E05XulnLXXtt2WX85zp260923.shtml",
+    "date": "2026-09-23",
+    "broadcastTime": "21:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/09/23/3b466e5f0a624e6da06220a1a0397c17-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平离京对美国进行国事访问；\n2.习近平向第48届世界技能大赛致贺信；\n3.央视快评：鼓励引导更多劳动者特别是青年人走技能成才之路；\n4.【新思想引领新征程】丰收的底气；\n5.第48届世界技能大赛在上海隆重开幕 李强出席并宣布开幕；\n6.李强出席2026年世界技能大会开幕式并致辞；\n7.【“十五五”开好局起好步】锚定蓝图 加快建设教育强国；\n8.【“十五五”开好局起好步】强化普惠性基础性兜底性民生建设；\n9.前8个月工业经济稳步增长 新质生产力加快培育；\n10.国务院新闻办举行“新征程上的奋斗者”中外记者见面会；\n11.中央纪委国家监委公开通报六起违反中央八项规定精神典型问题；\n12.【第二十届亚运会】中国体育代表团斩获多项团体金牌；\n13.安徽等3省省委主要负责同志职务调整；\n14.国内联播快讯：\n（1）前8个月熊猫债券累计发行已超2000亿元；\n（2）我国农产品出口连续5年保持增长；\n（3）2025年我国民营企业500强营收额同比增长4.35%；\n（4）中消协发布中秋国庆双节消费提示；\n（5）铁路中秋国庆假期运输今日启动；\n（6）第五届全球数字贸易博览会举行；\n（7）《中国乡村旅游大会·乡村文旅促消费》南方主会场活动启动；\n（8）《2026年中国农民丰收节晚会》今晚播出；\n15.国际社会期待习近平主席访美造福两国 惠及世界；\n16.国际联播快讯：\n（1）第81届联合国大会一般性辩论开幕；\n（2）美伊举行会谈 伊朗再提重开海峡条件；\n（3）经合组织上调2026年全球经济增速预期；\n17.二十四节气·秋分。\n（《新闻联播》 20260923 21:00）",
+    "program": "xwlb",
+    "guid": "3b466e5f0a624e6da06220a1a0397c17",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/23/VIDE4E05XulnLXXtt2WX85zp260923.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/b/4/6/3b466e5f0a624e6da06220a1a0397c17/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/b/4/6/3b466e5f0a624e6da06220a1a0397c17/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/b/4/6/3b466e5f0a624e6da06220a1a0397c17/mp3/main.m3u8",
+    "createdAt": "2026-09-23T13:41:39.840Z",
+    "durationSeconds": 1799.24
+  },
+  {
     "id": "ddb71b8207f245ea98fb39fff95a595a",
     "title": "《新闻联播》 20260922 19:00",
     "url": "https://tv.cctv.cn/2026/09/22/VIDEzaUxIQZf4g9XsEAqpEfx260922.shtml",
@@ -397,24 +416,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/781a4175a63741d097e0c1f59e11a252/main.m3u8",
     "createdAt": "2026-08-25T09:02:39.628Z",
     "durationSeconds": 1799.16
-  },
-  {
-    "id": "baffbedb0e784c28bf3a9afc0cd98f7f",
-    "title": "《新闻联播》 20260823 21:00",
-    "url": "https://tv.cctv.cn/2026/08/23/VIDEdIIyCEyj1NELVhkCuqRM260823.shtml",
-    "date": "2026-08-23",
-    "broadcastTime": "21:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/08/23/baffbedb0e784c28bf3a9afc0cd98f7f-1.jpg",
-    "description": "本期节目主要内容：\n1.【新思想引领新征程】用好红色资源 赓续红色血脉；\n2.【凝心聚力 真抓实干 奋力实现“十五五”良好开局】青海：完善生态保护修复体系 筑牢“中华水塔”生态屏障；\n3.1—7月我国电子商务稳定创新发展；\n4.多家商业银行发布优化后的消费贷贴息政策执行方案；\n5.我国矿山生态保护修复向绿向新；\n6.国产农机“新装”上阵；\n7.第二届世界人形机器人运动会在北京开幕；\n8.中国第16次北冰洋考察冰站调查全部完成；\n9.国内联播快讯：\n（1）金融监管总局强化非车险业务综合治理；\n（2）前7个月中国与APEC其他经济体进出口超18万亿元；\n（3）三台风同时影响 东南沿海多地有强降雨；\n（4）第48届世界技能大赛中国代表团成立；\n（5）第二十五届“汉语桥”世界大学生中文比赛全球总决赛举行；\n10.伊朗称参与美对伊“经济战”的国家将被视为敌人 伊朗再次要求卡塔尔将扣留的伊朗飞行员送回；\n11.加拿大宣布对美等额反制关税将于9月8日生效；\n12.国际联播快讯：\n（1）中国参建坦桑尼亚最大水电项目正式启用；\n（2）叙利亚谴责以色列制造袭击侵犯其主权；\n（3）美法官推翻美暂停发75国移民签证政策；\n（4）日本茨城县5.8级地震 数十人受伤；\n13.二十四节气·处暑。\n（《新闻联播》 20260823 21:00）",
-    "program": "xwlb",
-    "guid": "baffbedb0e784c28bf3a9afc0cd98f7f",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/23/VIDEdIIyCEyj1NELVhkCuqRM260823.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/baffbedb0e784c28bf3a9afc0cd98f7f/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/baffbedb0e784c28bf3a9afc0cd98f7f/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/baffbedb0e784c28bf3a9afc0cd98f7f/main.m3u8",
-    "createdAt": "2026-08-24T09:07:12.969Z",
-    "durationSeconds": 1799.48
   }
 ]
