@@ -1,5 +1,24 @@
 [
   {
+    "id": "ea2b9f22c6474ecc8d46887a75162071",
+    "title": "《朝闻天下》 20260923 08:00",
+    "url": "https://tv.cctv.cn/2026/09/23/VIDEkk6f1tSneojhM0apjM0a260923.shtml",
+    "date": "2026-09-23",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/09/23/ea2b9f22c6474ecc8d46887a75162071-1.jpg",
+    "description": "本期节目主要内容：\n    习近平向第48届世界技能大赛致贺信；第81届联合国大会一般性辩论·古特雷斯：世界多极化趋势不可逆转；也门胡塞武装称一天内遭沙特19次空袭；2026全国国庆文化和旅游消费月启动，各地将发放超3.1亿元消费券等消费补贴。（《朝闻天下》 20260923 08:00）",
+    "program": "zwtx",
+    "guid": "ea2b9f22c6474ecc8d46887a75162071",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/23/VIDEkk6f1tSneojhM0apjM0a260923.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ea2b9f22c6474ecc8d46887a75162071/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ea2b9f22c6474ecc8d46887a75162071/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ea2b9f22c6474ecc8d46887a75162071/main.m3u8",
+    "createdAt": "2026-09-23T22:57:32.120Z",
+    "durationSeconds": 3142.28
+  },
+  {
     "id": "21910e19fcf74c7782c9aaf43e893abf",
     "title": "《朝闻天下》 20260922 08:00",
     "url": "https://tv.cctv.cn/2026/09/22/VIDE8JwADUbOuUmmabfBn1Ka260922.shtml",
@@ -510,24 +529,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/d50e3c21aea64eb2a6f67b454e709b29/main.m3u8?maxbr=2048&contentid=18120319242338",
     "createdAt": "2026-08-24T20:46:16.622Z",
     "durationSeconds": 3187.08
-  },
-  {
-    "id": "3b4c9782ff2f4be7b3457bd6df8307d7",
-    "title": "《朝闻天下》 20260823 08:00",
-    "url": "https://tv.cctv.cn/2026/08/23/VIDEVRRUENS2vhdeini0uplV260823.shtml",
-    "date": "2026-08-23",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/08/23/3b4c9782ff2f4be7b3457bd6df8307d7-1.jpg",
-    "description": "本期节目主要内容：  “十五五”时期：“黄金大外环”建设改造里程约7400公里；香港特区政府在皇岗口岸举行压力测试；两岸观察·台2027年度防务预算首破“万亿”：民进党穷兵黩武掏空台湾；美媒：美国陆军部长预计年底前卸任；加拿大宣布对美等额反制关税将于9月生效。（《朝闻天下》 20260823 08:00）",
-    "program": "zwtx",
-    "guid": "3b4c9782ff2f4be7b3457bd6df8307d7",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/23/VIDEVRRUENS2vhdeini0uplV260823.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/3b4c9782ff2f4be7b3457bd6df8307d7/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/3b4c9782ff2f4be7b3457bd6df8307d7/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/3b4c9782ff2f4be7b3457bd6df8307d7/main.m3u8?maxbr=2048",
-    "createdAt": "2026-08-23T20:37:27.751Z",
-    "durationSeconds": 2966.04
   }
 ]
