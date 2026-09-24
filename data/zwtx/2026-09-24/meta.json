@@ -1,0 +1,19 @@
+{
+  "id": "f880737c58f74644b1486bcb90cd660d",
+  "title": "《朝闻天下》 20260924 08:00",
+  "url": "https://tv.cctv.cn/2026/09/24/VIDEzCIfK82aL5UoWRRERCbR260924.shtml",
+  "date": "2026-09-24",
+  "broadcastTime": "08:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/09/24/f880737c58f74644b1486bcb90cd660d-1.jpg",
+  "description": "本期节目主要内容：\n    习近平抵达华盛顿对美国进行国事访问；第81届联合国大会一般性辩论·伊朗总统：愿意开展对话，不屈服于威胁；俄美外长会晤·俄外长：俄美应尽快“修复双边关系”；塞尔维亚：中塞警务联巡启动仪式在贝尔格莱德举行。（《朝闻天下》 20260924 08:00）",
+  "program": "zwtx",
+  "guid": "f880737c58f74644b1486bcb90cd660d",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/24/VIDEzCIfK82aL5UoWRRERCbR260924.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f880737c58f74644b1486bcb90cd660d/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f880737c58f74644b1486bcb90cd660d/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f880737c58f74644b1486bcb90cd660d/main.m3u8",
+  "createdAt": "2026-09-24T23:12:47.981Z",
+  "durationSeconds": 3207.24
+}
