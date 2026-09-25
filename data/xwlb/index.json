@@ -1,5 +1,24 @@
 [
   {
+    "id": "f2c3febe5e844ba29f84eb317f890bbc",
+    "title": "《新闻联播》 20260925 21:00",
+    "url": "https://tv.cctv.cn/2026/09/25/VIDEYTSPcOtxzLrvyMNgDYYx260925.shtml",
+    "date": "2026-09-25",
+    "broadcastTime": "21:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/09/25/f2c3febe5e844ba29f84eb317f890bbc-1.jpg",
+    "description": "本期节目主要内容：\r\n1.习近平出席美国总统在白宫举行的欢迎仪式；\r\n2.习近平同美国总统会谈；\r\n3.习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴；\r\n4.纪念长征胜利90周年主题展览今天向公众开放；\r\n5.各地举行多彩活动欢度中秋；\r\n6.“天宫”过中秋 神舟二十三号乘组在轨送祝福；\r\n7.【第二十届亚运会】中国队再获多枚金牌；\r\n8.国际人士表示中美元首会晤意义重大 为应对全球挑战作出积极贡献；\r\n9.天涯共此时 多个国家举办欢庆中秋活动；\r\n10.中国传统佳节·中秋。\r\n（《新闻联播》 20260925 21:00）",
+    "program": "xwlb",
+    "guid": "f2c3febe5e844ba29f84eb317f890bbc",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/25/VIDEYTSPcOtxzLrvyMNgDYYx260925.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/f/2/c/3/f2c3febe5e844ba29f84eb317f890bbc/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/f/2/c/3/f2c3febe5e844ba29f84eb317f890bbc/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/f/2/c/3/f2c3febe5e844ba29f84eb317f890bbc/mp3/main.m3u8",
+    "createdAt": "2026-09-25T13:52:15.471Z",
+    "durationSeconds": 1799.64
+  },
+  {
     "id": "80c2793871374a3f8b664f5db3c3d237",
     "title": "品强茅台中秋版26年9月_1788946971",
     "url": "https://tv.cctv.cn/2026/09/24/VIDEcA2lLUImn9IarZR40bnn260924.shtml",
@@ -397,24 +416,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/1/7/f/7/17f7815abb8c4d738115b8c8515c13a8/mp3/main.m3u8",
     "createdAt": "2026-08-27T19:06:31.894Z",
     "durationSeconds": 1799.64
-  },
-  {
-    "id": "79a48948c7e44ae3b9f95bad3c585fad",
-    "title": "《新闻联播》 20260825 21:00",
-    "url": "https://tv.cctv.cn/2026/08/25/VIDEWcP858hNEmNQt5Z9NSG5260825.shtml",
-    "date": "2026-08-25",
-    "broadcastTime": "21:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/08/25/79a48948c7e44ae3b9f95bad3c585fad-1.jpg",
-    "description": "本期节目主要内容：\n1.【新思想引领新征程】为人民出政绩 以实干出政绩；\n2.央视快评：努力创造经得起实践人民历史检验的实绩；\n3.十四届全国人大常委会第二十四次会议在京举行 赵乐际主持；\n4.全国政协十四届常委会第十八次会议开幕 王沪宁出席；\n5.韩正会见印度国家安全顾问、中印边界问题印方特别代表多瓦尔；\n6.全国夏粮收购进入高峰 累计收购总量超9000万吨；\n7.前7个月我国交通运输主要指标保持增长；\n8.我国加快推进公共数据开放共享 赋能千行百业；\n9.第二十六届投洽会将于9月8日至11日在厦门举行；\n10.首批国家公园生态系统质量和旗舰物种数量实现双提升；\n11.国内联播快讯：\n（1）上半年全国新开工建设口袋公园超2800个；\n（2）截至7月底我国电动汽车充电基础设施总数超2360万个；\n（3）“十五五”期间我国将为参保人建立个人医保云；\n（4）各地组织开展残疾预防科普活动；\n（5）第十一届APEC粮食安全部长级会议达成多项重要成果；\n（6）驻香港部队组织第29次建制单位轮换；\n（7）第三批“青年律师西部锻炼计划”启动；\n（8）北京口岸今年出入境人员总量突破1500万人次；\n（9）济南黄岗路黄河隧道今天通车；\n（10）受台风影响 未来三天南方部分地区有大到暴雨；\n12.美宣布对伊朗实施新一轮制裁措施 伊朗称美国将再遭失败；\n13.美威胁进一步提高对加关税 加称不接受不平等双边关系；\n14.英首相称已批准与乌分享导弹制造技术 俄称将摧毁相关目标；\n15.国际联播快讯：\n（1）古特雷斯敦促各方合作尽快解决航运阻断；\n（2）也门胡塞武装称袭击沙特油轮及军事目标；\n（3）欧盟气候机构称全球日均海表温度创新高；\n（4）法国南部遭龙卷风袭击。\n（《新闻联播》 20260825 21:00）",
-    "program": "xwlb",
-    "guid": "79a48948c7e44ae3b9f95bad3c585fad",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/25/VIDEWcP858hNEmNQt5Z9NSG5260825.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/79a48948c7e44ae3b9f95bad3c585fad/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/79a48948c7e44ae3b9f95bad3c585fad/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/79a48948c7e44ae3b9f95bad3c585fad/main.m3u8",
-    "createdAt": "2026-08-26T09:05:30.725Z",
-    "durationSeconds": 1799.48
   }
 ]

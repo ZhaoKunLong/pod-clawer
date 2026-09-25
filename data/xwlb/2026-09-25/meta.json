@@ -1,0 +1,19 @@
+{
+  "id": "f2c3febe5e844ba29f84eb317f890bbc",
+  "title": "《新闻联播》 20260925 21:00",
+  "url": "https://tv.cctv.cn/2026/09/25/VIDEYTSPcOtxzLrvyMNgDYYx260925.shtml",
+  "date": "2026-09-25",
+  "broadcastTime": "21:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/09/25/f2c3febe5e844ba29f84eb317f890bbc-1.jpg",
+  "description": "本期节目主要内容：\r\n1.习近平出席美国总统在白宫举行的欢迎仪式；\r\n2.习近平同美国总统会谈；\r\n3.习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴；\r\n4.纪念长征胜利90周年主题展览今天向公众开放；\r\n5.各地举行多彩活动欢度中秋；\r\n6.“天宫”过中秋 神舟二十三号乘组在轨送祝福；\r\n7.【第二十届亚运会】中国队再获多枚金牌；\r\n8.国际人士表示中美元首会晤意义重大 为应对全球挑战作出积极贡献；\r\n9.天涯共此时 多个国家举办欢庆中秋活动；\r\n10.中国传统佳节·中秋。\r\n（《新闻联播》 20260925 21:00）",
+  "program": "xwlb",
+  "guid": "f2c3febe5e844ba29f84eb317f890bbc",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/25/VIDEYTSPcOtxzLrvyMNgDYYx260925.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/f/2/c/3/f2c3febe5e844ba29f84eb317f890bbc/mp3/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/f/2/c/3/f2c3febe5e844ba29f84eb317f890bbc/mp3/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/f/2/c/3/f2c3febe5e844ba29f84eb317f890bbc/mp3/main.m3u8",
+  "createdAt": "2026-09-25T13:52:15.471Z",
+  "durationSeconds": 1799.64
+}
