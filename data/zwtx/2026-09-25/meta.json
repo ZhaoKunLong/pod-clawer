@@ -1,0 +1,19 @@
+{
+  "id": "10969cbec40a49399dde360f634a2bed",
+  "title": "《朝闻天下》 20260925 08:00",
+  "url": "https://tv.cctv.cn/2026/09/25/VIDEsHdff6fTuRVyGhERYzNT260925.shtml",
+  "date": "2026-09-25",
+  "broadcastTime": "08:00",
+  "image": "https://p5.img.cctvpic.com/fmspic/2026/09/25/10969cbec40a49399dde360f634a2bed-1.jpg",
+  "description": "本期节目主要内容：\n    习近平出席美国总统在白宫举行的欢迎仪式；大国外交最前线：在白宫见证中美关系又一历史性时刻；商务部发布前8个月我国服务外包产业数据：维修维护服务和研发服务增长较快。（《朝闻天下》 20260925 08:00）",
+  "program": "zwtx",
+  "guid": "10969cbec40a49399dde360f634a2bed",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/25/VIDEsHdff6fTuRVyGhERYzNT260925.shtml",
+  "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/10969cbec40a49399dde360f634a2bed/main.m3u8?maxbr=2048",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/10969cbec40a49399dde360f634a2bed/main.m3u8?maxbr=2048",
+  "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/10969cbec40a49399dde360f634a2bed/main.m3u8?maxbr=2048",
+  "createdAt": "2026-09-25T23:18:09.808Z",
+  "durationSeconds": 3128.76
+}
