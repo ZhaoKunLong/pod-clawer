@@ -1,5 +1,24 @@
 [
   {
+    "id": "db2029bb399d4d2da884a0e651bcbe7c",
+    "title": "《朝闻天下》 20260926 08:00",
+    "url": "https://tv.cctv.cn/2026/09/26/VIDEixgpRDIO11H5jnACOHaZ260926.shtml",
+    "date": "2026-09-26",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/09/26/db2029bb399d4d2da884a0e651bcbe7c-1.jpg",
+    "description": "本期节目主要内容：\n    习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴；中美开启新一轮大熊猫保护国际合作；第81届联合国大会一般性辩论：巴基斯坦总理感谢中国提出四大全球倡议；伊朗提出七日内重开霍尔木兹海峡计划。（《朝闻天下》 20260926 08:00）",
+    "program": "zwtx",
+    "guid": "db2029bb399d4d2da884a0e651bcbe7c",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/26/VIDEixgpRDIO11H5jnACOHaZ260926.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/db2029bb399d4d2da884a0e651bcbe7c/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/db2029bb399d4d2da884a0e651bcbe7c/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/db2029bb399d4d2da884a0e651bcbe7c/main.m3u8",
+    "createdAt": "2026-09-26T22:46:24.109Z",
+    "durationSeconds": 3186.36
+  },
+  {
     "id": "10969cbec40a49399dde360f634a2bed",
     "title": "《朝闻天下》 20260925 08:00",
     "url": "https://tv.cctv.cn/2026/09/25/VIDEsHdff6fTuRVyGhERYzNT260925.shtml",
@@ -510,24 +529,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/22b28aff0d2040a9bc3f42240d974e99/main.m3u8?maxbr=2048&contentid=18120319242338",
     "createdAt": "2026-08-28T04:22:42.676Z",
     "durationSeconds": 3170.44
-  },
-  {
-    "id": "3eb0cb19c70340e8b95fc7c62dce7c50",
-    "title": "《朝闻天下》 20260826 08:00",
-    "url": "https://tv.cctv.cn/2026/08/26/VIDEa49GPggWfWd3U2lhmERj260826.shtml",
-    "date": "2026-08-26",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/08/26/3eb0cb19c70340e8b95fc7c62dce7c50-1.jpg",
-    "description": "本期节目主要内容：\n    台风暴雨强对流，中央气象台三预警齐发；2026年上半年，数字产业收入超20万亿元，同比增13.6%；同心同行，两岸青年交流季上海站活动举行；加拿大宣布对美国实施报复性关税。（《朝闻天下》 20260826 08:00）",
-    "program": "zwtx",
-    "guid": "3eb0cb19c70340e8b95fc7c62dce7c50",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/26/VIDEa49GPggWfWd3U2lhmERj260826.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3eb0cb19c70340e8b95fc7c62dce7c50/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3eb0cb19c70340e8b95fc7c62dce7c50/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3eb0cb19c70340e8b95fc7c62dce7c50/main.m3u8",
-    "createdAt": "2026-08-26T23:29:43.772Z",
-    "durationSeconds": 3170.04
   }
 ]
