@@ -1,5 +1,24 @@
 [
   {
+    "id": "fff9df53f3e7416b96834327866c0c6e",
+    "title": "《朝闻天下》 20260927 08:00",
+    "url": "https://tv.cctv.cn/2026/09/27/VIDEAJ0sCC6lTry8XguwfDyv260927.shtml",
+    "date": "2026-09-27",
+    "broadcastTime": "08:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/09/27/fff9df53f3e7416b96834327866c0c6e-1.jpg",
+    "description": "本期节目主要内容：\n    中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训；“两重”建设扩大优质高等教育资源供给；伊朗总统表示：霍尔木兹海峡问题只能通过谈判解决；第81届联合国大会一般性辩论·俄罗斯外长表示：西方为遏制俄罗斯而摧毁欧洲安全体系；第15届联合国预防犯罪和刑事司法大会开幕。\n（《朝闻天下》 20260927 08:00）",
+    "program": "zwtx",
+    "guid": "fff9df53f3e7416b96834327866c0c6e",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/27/VIDEAJ0sCC6lTry8XguwfDyv260927.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fff9df53f3e7416b96834327866c0c6e/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fff9df53f3e7416b96834327866c0c6e/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fff9df53f3e7416b96834327866c0c6e/main.m3u8",
+    "createdAt": "2026-09-27T23:01:09.757Z",
+    "durationSeconds": 2921.88
+  },
+  {
     "id": "db2029bb399d4d2da884a0e651bcbe7c",
     "title": "《朝闻天下》 20260926 08:00",
     "url": "https://tv.cctv.cn/2026/09/26/VIDEixgpRDIO11H5jnACOHaZ260926.shtml",
