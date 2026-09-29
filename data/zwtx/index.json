@@ -1,5 +1,23 @@
 [
   {
+    "id": "VIDEmXCaQDDCauRInoi5LTRm260929",
+    "title": "《朝闻天下》 20260929 06:00",
+    "url": "https://tv.cctv.cn/2026/09/29/VIDEmXCaQDDCauRInoi5LTRm260929.shtml",
+    "date": "2026-09-29",
+    "broadcastTime": "06:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/09/29/2921b148024a425091732d13181c7078-1.jpg",
+    "program": "zwtx",
+    "guid": "2921b148024a425091732d13181c7078",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/29/VIDEmXCaQDDCauRInoi5LTRm260929.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2921b148024a425091732d13181c7078/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2921b148024a425091732d13181c7078/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2921b148024a425091732d13181c7078/main.m3u8",
+    "createdAt": "2026-09-29T00:22:27.515Z",
+    "durationSeconds": 3200.12
+  },
+  {
     "id": "fff9df53f3e7416b96834327866c0c6e",
     "title": "《朝闻天下》 20260927 08:00",
     "url": "https://tv.cctv.cn/2026/09/27/VIDEAJ0sCC6lTry8XguwfDyv260927.shtml",
@@ -510,43 +528,5 @@
     "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5a480e4e90354eafbdb24d899484bbb9/main.m3u8?maxbr=2048",
     "createdAt": "2026-08-30T22:43:55.811Z",
     "durationSeconds": 3067.56
-  },
-  {
-    "id": "d5f1c449ed4249d6a17251600af99284",
-    "title": "《朝闻天下》 20260829 08:00",
-    "url": "https://tv.cctv.cn/2026/08/29/VIDE0IDj4zGs21q5tFNbCpka260829.shtml",
-    "date": "2026-08-29",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/08/29/d5f1c449ed4249d6a17251600af99284-1.jpg",
-    "description": "本期节目主要内容：  西藏日喀则市吉隆县泥石流灾害抢险救援：空军无人机发现数万方冰屑汇入堰塞湖；2026年APEC第三次高官会圆满结束：高官会实现既定目标，达成广泛共识；神舟二十三号航天员乘组圆满完成出舱活动；伊朗外交部发表声明称：美对伊制裁等同于实施国家恐怖主义。（《朝闻天下》 20260829 08:00）",
-    "program": "zwtx",
-    "guid": "d5f1c449ed4249d6a17251600af99284",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/29/VIDE0IDj4zGs21q5tFNbCpka260829.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d5f1c449ed4249d6a17251600af99284/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d5f1c449ed4249d6a17251600af99284/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/d5f1c449ed4249d6a17251600af99284/main.m3u8",
-    "createdAt": "2026-08-29T02:49:57.766Z",
-    "durationSeconds": 3121.16
-  },
-  {
-    "id": "22b28aff0d2040a9bc3f42240d974e99",
-    "title": "《朝闻天下》 20260828 08:00",
-    "url": "https://tv.cctv.cn/2026/08/28/VIDEGRCnw7OVvAVS9zA64khk260828.shtml",
-    "date": "2026-08-28",
-    "broadcastTime": "08:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/28/22b28aff0d2040a9bc3f42240d974e99-1.jpg",
-    "description": "本期节目主要内容：  西藏日喀则市吉隆县遭受泥石流灾害：两部门启动国家二级救灾应急响应；尼泊尔北部泥石流灾害已致389人遇难；中国与上合组织其他成员国贸易额占我国贸易总额的8%；伊朗革命卫队：增强战略主动性；日本：福岛核事故反应堆压力容器存在约3米大洞。（《朝闻天下》 20260828 08:00）",
-    "program": "zwtx",
-    "guid": "22b28aff0d2040a9bc3f42240d974e99",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/28/VIDEGRCnw7OVvAVS9zA64khk260828.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/22b28aff0d2040a9bc3f42240d974e99/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/22b28aff0d2040a9bc3f42240d974e99/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/22b28aff0d2040a9bc3f42240d974e99/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "createdAt": "2026-08-28T04:22:42.676Z",
-    "durationSeconds": 3170.44
   }
 ]
