@@ -1,0 +1,19 @@
+{
+  "id": "102f612b780e42a0a5c66c4c74958148",
+  "title": "《新闻联播》 20260930 21:00",
+  "url": "https://tv.cctv.cn/2026/09/30/VIDEO83eBjtqwayNHq4s1CQ2260930.shtml",
+  "date": "2026-09-30",
+  "broadcastTime": "21:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/09/30/102f612b780e42a0a5c66c4c74958148-1.jpg",
+  "description": "本期节目主要内容：\n1.烈士纪念日向人民英雄敬献花篮仪式在京隆重举行；\n2.庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话；\n3.人民日报社论：在新的伟大征程上接续奋斗再创辉煌——热烈庆祝中华人民共和国成立七十七周年；\n4.习近平同文莱苏丹就中文建交35周年互致贺电；\n5.【“十五五”开好局起好步】我国加快建设现代化水网；\n6.9月制造业采购经理指数回升 重回扩张区间；\n7.喜迎国庆 各地节日氛围浓厚；\n8.国内联播快讯：\n（1）254项国家标准10月1日起实施；\n（2）中欧联合研制“微笑”卫星首批观测图像发布；\n（3）经港珠澳大桥供港鲜活食品明天起将全天通关；\n（4）第33届中国电视金鹰奖获奖结果揭晓；\n9.我驻国际组织代表团和驻多国使馆举办活动庆祝新中国成立77周年；\n10.国际联播快讯：\n（1）伊朗称已收到美国就推进谈判条件的回复；\n（2）英首相称将推动改善与欧盟关系；\n（3）美对加部分商品进口禁令生效。\n（《新闻联播》 20260930 21:00）",
+  "program": "xwlb",
+  "guid": "102f612b780e42a0a5c66c4c74958148",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/09/30/VIDEO83eBjtqwayNHq4s1CQ2260930.shtml",
+  "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/102f612b780e42a0a5c66c4c74958148/main.m3u8?maxbr=2048",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/102f612b780e42a0a5c66c4c74958148/main.m3u8?maxbr=2048",
+  "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/102f612b780e42a0a5c66c4c74958148/main.m3u8?maxbr=2048",
+  "createdAt": "2026-09-30T14:58:09.579Z",
+  "durationSeconds": 1799.48
+}
