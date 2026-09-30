@@ -1,5 +1,24 @@
 [
   {
+    "id": "25a4b4b2eca145c0b264595fcec9895a",
+    "title": "《朝闻天下》 20260930 08:00",
+    "url": "https://tv.cctv.cn/2026/09/30/VIDE4vDVttSXMpgMA20iKDQ9260930.shtml",
+    "date": "2026-09-30",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/09/30/25a4b4b2eca145c0b264595fcec9895a-1.jpg",
+    "description": "本期节目主要内容：\n    欧盟相关成员国推动欧委会打造欧版“301”工具：商务部作出回应，捍卫中国产业合法权益；日本政府强化情报活动专家会议首次开会；美国9月消费者信心指数显著走低；第33届中国电视金鹰奖获奖名单揭晓。（《朝闻天下》 20260930 08:00）",
+    "program": "zwtx",
+    "guid": "25a4b4b2eca145c0b264595fcec9895a",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/09/30/VIDE4vDVttSXMpgMA20iKDQ9260930.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/25a4b4b2eca145c0b264595fcec9895a/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/25a4b4b2eca145c0b264595fcec9895a/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/25a4b4b2eca145c0b264595fcec9895a/main.m3u8",
+    "createdAt": "2026-09-30T23:46:57.127Z",
+    "durationSeconds": 3245.48
+  },
+  {
     "id": "VIDEmXCaQDDCauRInoi5LTRm260929",
     "title": "《朝闻天下》 20260929 06:00",
     "url": "https://tv.cctv.cn/2026/09/29/VIDEmXCaQDDCauRInoi5LTRm260929.shtml",
@@ -509,24 +528,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e76c38f16f2849f08b5c8bc7998ed0c3/main.m3u8",
     "createdAt": "2026-08-31T23:49:55.268Z",
     "durationSeconds": 3121.8
-  },
-  {
-    "id": "5a480e4e90354eafbdb24d899484bbb9",
-    "title": "《朝闻天下》 20260830 08:00",
-    "url": "https://tv.cctv.cn/2026/08/30/VIDEP7N7p6QMY8CpCYIyIRWA260830.shtml",
-    "date": "2026-08-30",
-    "broadcastTime": "08:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/08/30/5a480e4e90354eafbdb24d899484bbb9-1.jpg",
-    "description": "本期节目主要内容：\n    国际社会期待习主席此访擘画合作蓝图；三名美国军报雇员因报道美航母工作条件恶劣而被解雇，法官要求美国防部暂缓执行解雇令；美称与委达成石油协议，被批“抢劫”；菲律宾吕宋岛发生山体滑坡，至少2人死亡。（《朝闻天下》 20260830 08:00）",
-    "program": "zwtx",
-    "guid": "5a480e4e90354eafbdb24d899484bbb9",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/08/30/VIDEP7N7p6QMY8CpCYIyIRWA260830.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5a480e4e90354eafbdb24d899484bbb9/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5a480e4e90354eafbdb24d899484bbb9/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/5a480e4e90354eafbdb24d899484bbb9/main.m3u8?maxbr=2048",
-    "createdAt": "2026-08-30T22:43:55.811Z",
-    "durationSeconds": 3067.56
   }
 ]
