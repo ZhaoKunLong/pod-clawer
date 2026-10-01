@@ -1,5 +1,24 @@
 [
   {
+    "id": "76e37c8b26504dfaae8e40ebb446a8bc",
+    "title": "《新闻联播》 20261001 21:00",
+    "url": "https://tv.cctv.cn/2026/10/01/VIDEkbCtoYpU7iQuS1vpjM6u261001.shtml",
+    "date": "2026-10-01",
+    "broadcastTime": "21:00",
+    "image": "https://p5.img.cctvpic.com/photoAlbum/vms/standard/img/2026/10/1/VIDEiRdBim0QX8OOKpO526Pc261001.jpg",
+    "description": "本期节目主要内容：\r\n1.《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》；\r\n2.朝着全面建成社会主义现代化强国目标奋勇前进——习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话引发热烈反响；\r\n3.央视快评：实现中华民族伟大复兴势不可挡——热烈庆祝中华人民共和国成立77周年；\r\n4.举国同庆 首都天安门广场隆重举行升国旗仪式；\r\n5.同升一面旗 共祝祖国好；\r\n6.神舟二十三号航天员在太空为祖国送祝福；\r\n7.国庆假期迎出行高峰 交通部门全力保障；\r\n8.国庆假期 总台节目丰富多彩；\r\n9.国内联播快讯：\r\n（1）第二十届亚运会 中国队继续位列金牌榜榜首；\r\n（2）2026中国网球公开赛正式开赛；\r\n（3）2026国庆档电影首日票房超1.5亿元；\r\n10.我驻外使馆使团举办活动庆祝新中国成立77周年；\r\n11.国际联播快讯：\r\n（1）美媒称美伊谈判陷入僵局；\r\n（2）伊拉克宣布美主导国际联盟部队结束任务；\r\n（3）一架赴以航班发生安全事件改道迫降；\r\n12.神州锦绣。\r\n（《新闻联播》 20261001 21:00）",
+    "program": "xwlb",
+    "guid": "76e37c8b26504dfaae8e40ebb446a8bc",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/01/VIDEkbCtoYpU7iQuS1vpjM6u261001.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/6/e/3/76e37c8b26504dfaae8e40ebb446a8bc/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/6/e/3/76e37c8b26504dfaae8e40ebb446a8bc/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/6/e/3/76e37c8b26504dfaae8e40ebb446a8bc/mp3/main.m3u8",
+    "createdAt": "2026-10-01T15:30:02.528Z",
+    "durationSeconds": 1799.56
+  },
+  {
     "id": "102f612b780e42a0a5c66c4c74958148",
     "title": "《新闻联播》 20260930 21:00",
     "url": "https://tv.cctv.cn/2026/09/30/VIDEO83eBjtqwayNHq4s1CQ2260930.shtml",
