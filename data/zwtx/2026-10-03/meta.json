@@ -1,0 +1,19 @@
+{
+  "id": "fa67cc1f6d534b20b4203e3551b3bea7",
+  "title": "《朝闻天下》 20261003 08:00",
+  "url": "https://tv.cctv.cn/2026/10/03/VIDEl7FAXnAsAJJuXEh919Ow261003.shtml",
+  "date": "2026-10-03",
+  "broadcastTime": "08:00",
+  "image": "https://p5.img.cctvpic.com/fmspic/2026/10/03/fa67cc1f6d534b20b4203e3551b3bea7-1.jpg",
+  "description": "本期节目主要内容：\n    数说假日中国：“一口鲜”里的烟火味；也门胡塞武装称：过去一天沙特对胡塞控制区实施94次空袭；迪拜航空公司客机发生安全事件·迪拜航空：正在进行全面官方调查；七国集团将释放1亿桶战略石油储备；英国柴油价格达近年来最高点。\n（《朝闻天下》 20261003 08:00）",
+  "program": "zwtx",
+  "guid": "fa67cc1f6d534b20b4203e3551b3bea7",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/10/03/VIDEl7FAXnAsAJJuXEh919Ow261003.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa67cc1f6d534b20b4203e3551b3bea7/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa67cc1f6d534b20b4203e3551b3bea7/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa67cc1f6d534b20b4203e3551b3bea7/main.m3u8",
+  "createdAt": "2026-10-03T22:53:05.594Z",
+  "durationSeconds": 3139.24
+}

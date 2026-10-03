@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa67cc1f6d534b20b4203e3551b3bea7",
+    "title": "《朝闻天下》 20261003 08:00",
+    "url": "https://tv.cctv.cn/2026/10/03/VIDEl7FAXnAsAJJuXEh919Ow261003.shtml",
+    "date": "2026-10-03",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/10/03/fa67cc1f6d534b20b4203e3551b3bea7-1.jpg",
+    "description": "本期节目主要内容：\n    数说假日中国：“一口鲜”里的烟火味；也门胡塞武装称：过去一天沙特对胡塞控制区实施94次空袭；迪拜航空公司客机发生安全事件·迪拜航空：正在进行全面官方调查；七国集团将释放1亿桶战略石油储备；英国柴油价格达近年来最高点。\n（《朝闻天下》 20261003 08:00）",
+    "program": "zwtx",
+    "guid": "fa67cc1f6d534b20b4203e3551b3bea7",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/03/VIDEl7FAXnAsAJJuXEh919Ow261003.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa67cc1f6d534b20b4203e3551b3bea7/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa67cc1f6d534b20b4203e3551b3bea7/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa67cc1f6d534b20b4203e3551b3bea7/main.m3u8",
+    "createdAt": "2026-10-03T22:53:05.594Z",
+    "durationSeconds": 3139.24
+  },
+  {
     "id": "VIDE0LJ8Mna8QakIaAjtO4o6261002",
     "title": "《朝闻天下》 20261002 08:00",
     "url": "https://tv.cctv.cn/2026/10/02/VIDE0LJ8Mna8QakIaAjtO4o6261002.shtml",
@@ -490,24 +509,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/62e924c5889842818e1fa71552d134d8/main.m3u8",
     "createdAt": "2026-09-03T22:39:50.390Z",
     "durationSeconds": 3137.48
-  },
-  {
-    "id": "2b1580a468a64989a4afde69ddce252f",
-    "title": "《朝闻天下》 20260902 08:00",
-    "url": "https://tv.cctv.cn/2026/09/02/VIDE6YtAvsErbaMpgT4Dvswn260902.shtml",
-    "date": "2026-09-02",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/09/02/2b1580a468a64989a4afde69ddce252f-1.jpg",
-    "description": "本期节目主要内容：\n    习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话；工业和信息化部：2026年1—7月我国软件业务收入同比增9.2%；第23届中国—东盟博览会将于9月17日至21日在广西南宁举办。（《朝闻天下》 20260902 08:00）",
-    "program": "zwtx",
-    "guid": "2b1580a468a64989a4afde69ddce252f",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/02/VIDE6YtAvsErbaMpgT4Dvswn260902.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2b1580a468a64989a4afde69ddce252f/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2b1580a468a64989a4afde69ddce252f/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2b1580a468a64989a4afde69ddce252f/main.m3u8",
-    "createdAt": "2026-09-02T22:36:58.734Z",
-    "durationSeconds": 3187.08
   }
 ]
