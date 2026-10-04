@@ -1,5 +1,23 @@
 [
   {
+    "id": "VIDEDMOB4BDB0eevcyQ57uZq261004",
+    "title": "《朝闻天下》 20261004 08:00",
+    "url": "https://tv.cctv.cn/2026/10/04/VIDEDMOB4BDB0eevcyQ57uZq261004.shtml",
+    "date": "2026-10-04",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/10/04/b21d3e2b953e4f6c870a731a5787c7a4-1.jpg",
+    "program": "zwtx",
+    "guid": "b21d3e2b953e4f6c870a731a5787c7a4",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/04/VIDEDMOB4BDB0eevcyQ57uZq261004.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b21d3e2b953e4f6c870a731a5787c7a4/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b21d3e2b953e4f6c870a731a5787c7a4/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b21d3e2b953e4f6c870a731a5787c7a4/main.m3u8",
+    "createdAt": "2026-10-04T23:05:27.840Z",
+    "durationSeconds": 3214.28
+  },
+  {
     "id": "fa67cc1f6d534b20b4203e3551b3bea7",
     "title": "《朝闻天下》 20261003 08:00",
     "url": "https://tv.cctv.cn/2026/10/03/VIDEl7FAXnAsAJJuXEh919Ow261003.shtml",
@@ -490,24 +508,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/83c9d2288ab843808e2fc442f3e0fa8c/main.m3u8?maxbr=2048&contentid=18120319242338",
     "createdAt": "2026-09-04T22:21:03.249Z",
     "durationSeconds": 3053.24
-  },
-  {
-    "id": "62e924c5889842818e1fa71552d134d8",
-    "title": "《朝闻天下》 20260903 08:00",
-    "url": "https://tv.cctv.cn/2026/09/03/VIDEd0YAU5aHn7puUtC8XxSJ260903.shtml",
-    "date": "2026-09-03",
-    "broadcastTime": "08:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/09/03/62e924c5889842818e1fa71552d134d8-1.jpg",
-    "description": "本期节目主要内容：  习近平出席埃及总统举行的欢迎仪式；美总统称“随时”准备再次袭击伊朗；新闻观察：日本“宙斯盾系统搭载舰”首舰主桅杆已安装；福建东山：台风“沙德尔”登陆，澳角码头迎风雨；荷兰央行将86吨黄金从北美转移至欧洲。（《朝闻天下》 20260903 08:00）",
-    "program": "zwtx",
-    "guid": "62e924c5889842818e1fa71552d134d8",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/03/VIDEd0YAU5aHn7puUtC8XxSJ260903.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/62e924c5889842818e1fa71552d134d8/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/62e924c5889842818e1fa71552d134d8/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/62e924c5889842818e1fa71552d134d8/main.m3u8",
-    "createdAt": "2026-09-03T22:39:50.390Z",
-    "durationSeconds": 3137.48
   }
 ]
