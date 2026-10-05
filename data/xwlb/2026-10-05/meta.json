@@ -1,0 +1,19 @@
+{
+  "id": "df3fd5fa9e044aa1b06cc97902c4ad37",
+  "title": "《新闻联播》 20261005 21:00",
+  "url": "https://tv.cctv.cn/2026/10/05/VIDEhcZ6nJvnFL4POT0Cc2HL261005.shtml",
+  "date": "2026-10-05",
+  "broadcastTime": "21:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/10/05/df3fd5fa9e044aa1b06cc97902c4ad37-1.jpg",
+  "description": "本期节目主要内容：\n1.【新思想引领新征程】以实干开创美好未来；\n2.假日消费市场新意足人气旺；\n3.打造新场景新空间 在假期邂逅文化之美；\n4.升级交通服务 强化返程保障；\n5.我国大宗商品市场景气水平进一步提升；\n6.【一线调研】技术攻坚 锻造“六张网”硬核底座；\n7.一条热线连接市民冷暖和城市治理；\n8.中国第16次北冰洋考察取得多项重要进展；\n9.国内联播快讯：\n（1）我国海水淡化日处理能力突破300万吨；\n（2）“整治短视频虚假人设乱象”专项行动启动；\n（3）世界数据组织新设5个分支机构；\n10.我驻多国使馆和驻国际组织使团举办活动庆祝新中国成立77周年；\n11.也门政府军称对胡塞武装实施大规模军事行动 也门媒体称政府军控制曼德海峡 也门胡塞武装称仍在争夺曼德海峡控制权；\n12.国际联播快讯：\n（1）美媒：美将所有B-1轰炸机撤出英国基地；\n（2）德总理访乌提供军援 俄称加强打击基辅；\n（3）巴西总统选举将进行第二轮角逐；\n（4）美国加州突发山火 火势快速蔓延；\n13.神州锦绣。\n（《新闻联播》 20261005 21:00）",
+  "program": "xwlb",
+  "guid": "df3fd5fa9e044aa1b06cc97902c4ad37",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/10/05/VIDEhcZ6nJvnFL4POT0Cc2HL261005.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/d/f/3/f/df3fd5fa9e044aa1b06cc97902c4ad37/mp3/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/d/f/3/f/df3fd5fa9e044aa1b06cc97902c4ad37/mp3/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/d/f/3/f/df3fd5fa9e044aa1b06cc97902c4ad37/mp3/main.m3u8",
+  "createdAt": "2026-10-05T17:12:04.990Z",
+  "durationSeconds": 1799.64
+}
