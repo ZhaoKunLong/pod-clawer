@@ -1,0 +1,19 @@
+{
+  "id": "f07ae71297c74a9599368330d10e8048",
+  "title": "《朝闻天下》 20261006 08:00",
+  "url": "https://tv.cctv.cn/2026/10/06/VIDEKOYO8kDTGTakf0fGpEy5261006.shtml",
+  "date": "2026-10-06",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/10/06/f07ae71297c74a9599368330d10e8048-1.jpg",
+  "description": "本期节目主要内容：\n    六网编织向新行，中国式现代化硬核支撑：三峡水运新通道，协同三张网；假日服务台·出行：10月5日全国道路交通平稳有序；沙特首都利雅得传出爆炸声，胡塞武装称袭击沙特多个目标。\n（《朝闻天下》 20261006 08:00）",
+  "program": "zwtx",
+  "guid": "f07ae71297c74a9599368330d10e8048",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/10/06/VIDEKOYO8kDTGTakf0fGpEy5261006.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f07ae71297c74a9599368330d10e8048/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f07ae71297c74a9599368330d10e8048/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f07ae71297c74a9599368330d10e8048/main.m3u8",
+  "createdAt": "2026-10-06T01:18:21.380Z",
+  "durationSeconds": 3244.12
+}

@@ -1,5 +1,24 @@
 [
   {
+    "id": "f07ae71297c74a9599368330d10e8048",
+    "title": "《朝闻天下》 20261006 08:00",
+    "url": "https://tv.cctv.cn/2026/10/06/VIDEKOYO8kDTGTakf0fGpEy5261006.shtml",
+    "date": "2026-10-06",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/10/06/f07ae71297c74a9599368330d10e8048-1.jpg",
+    "description": "本期节目主要内容：\n    六网编织向新行，中国式现代化硬核支撑：三峡水运新通道，协同三张网；假日服务台·出行：10月5日全国道路交通平稳有序；沙特首都利雅得传出爆炸声，胡塞武装称袭击沙特多个目标。\n（《朝闻天下》 20261006 08:00）",
+    "program": "zwtx",
+    "guid": "f07ae71297c74a9599368330d10e8048",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/06/VIDEKOYO8kDTGTakf0fGpEy5261006.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f07ae71297c74a9599368330d10e8048/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f07ae71297c74a9599368330d10e8048/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f07ae71297c74a9599368330d10e8048/main.m3u8",
+    "createdAt": "2026-10-06T01:18:21.380Z",
+    "durationSeconds": 3244.12
+  },
+  {
     "id": "VIDEDMOB4BDB0eevcyQ57uZq261004",
     "title": "《朝闻天下》 20261004 08:00",
     "url": "https://tv.cctv.cn/2026/10/04/VIDEDMOB4BDB0eevcyQ57uZq261004.shtml",
@@ -470,43 +489,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/90e9eaa41f2141f5991d95e4ad14b249/main.m3u8",
     "createdAt": "2026-09-06T22:07:45.390Z",
     "durationSeconds": 3206.76
-  },
-  {
-    "id": "fa17128505224867a561d9581163d41f",
-    "title": "《朝闻天下》 20260905 08:00",
-    "url": "https://tv.cctv.cn/2026/09/05/VIDERlmn2qoEm9tyY3eyE2if260905.shtml",
-    "date": "2026-09-05",
-    "broadcastTime": "08:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/09/05/fa17128505224867a561d9581163d41f-1.jpg",
-    "description": "本期节目主要内容：\n    美总统称“可能很快”打击伊朗镐山；2026世界超级摩托车锦标赛法国站：“张雪机车”车手包揽排位赛前两名；福建莆田：记者探访一处应急避难场所，生活物资充足；日本大型电机企业被认定大规模造假。（《朝闻天下》 20260905 08:00）",
-    "program": "zwtx",
-    "guid": "fa17128505224867a561d9581163d41f",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/05/VIDERlmn2qoEm9tyY3eyE2if260905.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa17128505224867a561d9581163d41f/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa17128505224867a561d9581163d41f/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/fa17128505224867a561d9581163d41f/main.m3u8",
-    "createdAt": "2026-09-05T22:04:01.626Z",
-    "durationSeconds": 3154.52
-  },
-  {
-    "id": "83c9d2288ab843808e2fc442f3e0fa8c",
-    "title": "《朝闻天下》 20260904 08:00",
-    "url": "https://tv.cctv.cn/2026/09/04/VIDEgOVy1AXIJfsa3nILkAVG260904.shtml",
-    "date": "2026-09-04",
-    "broadcastTime": "08:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/09/04/83c9d2288ab843808e2fc442f3e0fa8c-1.jpg",
-    "description": "本期节目主要内容：  中国商务部：中吉将加强服务贸易和电子商务等领域合作；人工智能中小企业创业支持计划启动；联合国安理会审议叙利亚化武问题；日本自卫队首次公开一款攻击型无人机。（《朝闻天下》 20260904 08:00）",
-    "program": "zwtx",
-    "guid": "83c9d2288ab843808e2fc442f3e0fa8c",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/04/VIDEgOVy1AXIJfsa3nILkAVG260904.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/83c9d2288ab843808e2fc442f3e0fa8c/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/83c9d2288ab843808e2fc442f3e0fa8c/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/83c9d2288ab843808e2fc442f3e0fa8c/main.m3u8?maxbr=2048&contentid=18120319242338",
-    "createdAt": "2026-09-04T22:21:03.249Z",
-    "durationSeconds": 3053.24
   }
 ]
