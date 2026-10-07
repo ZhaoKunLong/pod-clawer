@@ -1,5 +1,24 @@
 [
   {
+    "id": "2316d5bb3f7e4ddc940dd1b493e28076",
+    "title": "《新闻联播》 20261007 21:00",
+    "url": "https://tv.cctv.cn/2026/10/07/VIDEx2ci6KysnuRXIX5KJQ0D261007.shtml",
+    "date": "2026-10-07",
+    "broadcastTime": "21:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/10/07/2316d5bb3f7e4ddc940dd1b493e28076-1.jpg",
+    "description": "本期节目主要内容：\n1.【新思想引领新征程】以习近平文化思想为指引 铸就中华文化新辉煌；\n2.【在希望的田野上】各地秋粮加紧收获；\n3.国庆期间超2.1亿人次游公园 乐享假日时光；\n4.国庆假期出行需求旺盛 发展活力持续释放；\n5.入境游持续升温 外国游客深度体验多彩中国；\n6.阅读点亮假期生活 书香中国蔚然成风；\n7.【一线调研】从物畅其流到产销联动；\n8.国内联播快讯：\n（1）《老年人照料设施建筑设计标准》局部修订版发布；\n（2）中老铁路累计进出口货值突破1000亿元；\n（3）“三北”工程攻坚战累计完成各类建设任务2.65亿亩；\n9.俄称将采取一切措施应对立陶宛解禁部署核武器：\n（1）法国试射一枚未装载核弹头的潜射洲际导弹；\n（2）瑞典将向波兰部署“爱国者”防空系统；\n10.也门胡塞武装称打击沙特主要机场和空军基地 在曼德海峡方向击退政府军进攻 也门政府称打击胡塞武装行动取得进展；\n11.国际联播快讯：\n（1）多艘商船在黑海遭袭 一艘沉没；\n（2）以军袭击加沙地带多地导致人员伤亡；\n（3）美报告称对伊朗战事损失81架军机；\n（4）亚特兰大动物园称赴美大熊猫下月初亮相；\n12.神州锦绣。\n（《新闻联播》 20261007 21:00）",
+    "program": "xwlb",
+    "guid": "2316d5bb3f7e4ddc940dd1b493e28076",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/07/VIDEx2ci6KysnuRXIX5KJQ0D261007.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/3/1/6/2316d5bb3f7e4ddc940dd1b493e28076/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/3/1/6/2316d5bb3f7e4ddc940dd1b493e28076/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/2/3/1/6/2316d5bb3f7e4ddc940dd1b493e28076/mp3/main.m3u8",
+    "createdAt": "2026-10-07T15:36:02.252Z",
+    "durationSeconds": 1799.64
+  },
+  {
     "id": "df3fd5fa9e044aa1b06cc97902c4ad37",
     "title": "《新闻联播》 20261005 21:00",
     "url": "https://tv.cctv.cn/2026/10/05/VIDEhcZ6nJvnFL4POT0Cc2HL261005.shtml",
@@ -378,24 +397,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/5/e/f/35efb92d309f44cd98c11b7f56e211ac/mp3/main.m3u8",
     "createdAt": "2026-09-07T14:18:16.295Z",
     "durationSeconds": 1799.64
-  },
-  {
-    "id": "aa7beb8bd70e4c81a286257d723e0172",
-    "title": "《新闻联播》 20260905 21:00",
-    "url": "https://tv.cctv.cn/2026/09/05/VIDEjRLQni3Njsxlz3hCveg3260905.shtml",
-    "date": "2026-09-05",
-    "broadcastTime": "21:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/09/05/aa7beb8bd70e4c81a286257d723e0172-1.jpg",
-    "description": "本期节目主要内容：\n1.【新思想引领新征程】兜住万家事 筑牢平安网 书写新时代基层治理的民生答卷；\n2.深耕少儿文化沃土 培养德智体美劳全面发展的社会主义建设者和接班人——习近平总书记致信祝贺中央广播电视总台《小喇叭》节目开播70周年引发热烈反响；\n3.丁薛祥会见俄罗斯总统并与俄方共同主持中俄双边机制性会议；\n4.亚太媒体高端论坛在深圳举办；\n5.前7个月我国服务贸易保持较快增长；\n6.上半年我国支持城市更新减税降费及退税4870亿元；\n7.丰收时节 特色农产品助力农民增收；\n8.西藏吉隆县泥石流灾害抢险救援工作持续推进；\n9.国内联播快讯：\n（1）《促进数字化绿色化协同转型发展实施方案（2026—2030年）》印发；\n（2）《中华人民共和国保险法（修订草案征求意见稿）》发布；\n（3）全国登记认定慈善组织1.59万家；\n（4）我国北斗基准站服务数据首次向社会共享开放；\n（5）横琴粤澳深度合作区成立五年来进出口总值达1900亿元；\n（6）山东招远核电项目2号机组主体工程开工；\n（7）第二十六届中国国际投资贸易洽谈会首批展品入境；\n（8）内蒙古贺兰山第二次综合科考发现6个新物种；\n（9）第5批援瓦 第32批援几中国医疗队启程；\n10.也门政府军与胡塞武装冲突加剧：\n（1）胡塞武装称打击也门境内沙特军事目标；\n（2）联合国呼吁也门冲突相关方保持克制 尽快降级局势；\n11.俄称一周控制15个居民点 乌称国家安全局总部遭袭 德国要求俄驻波恩总领事馆人员限期离境 俄称德方决定毫无根据；\n12.国际联播快讯：\n（1）中吉乌铁路吉尔吉斯斯坦段首座隧道贯通；\n（2）美总统再次威胁打击伊朗镐山；\n（3）粮农组织报告五大类食品价格指数均上升；\n（4）美多家人工智能公司服务同日发生故障。\n（《新闻联播》 20260905 21:00）",
-    "program": "xwlb",
-    "guid": "aa7beb8bd70e4c81a286257d723e0172",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/05/VIDEjRLQni3Njsxlz3hCveg3260905.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/a/a/7/b/aa7beb8bd70e4c81a286257d723e0172/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/a/a/7/b/aa7beb8bd70e4c81a286257d723e0172/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/a/a/7/b/aa7beb8bd70e4c81a286257d723e0172/mp3/main.m3u8",
-    "createdAt": "2026-09-06T12:11:00.946Z",
-    "durationSeconds": 1799.4
   }
 ]
