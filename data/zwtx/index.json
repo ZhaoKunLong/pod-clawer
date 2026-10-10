@@ -1,5 +1,23 @@
 [
   {
+    "id": "VIDEoviikNXyULdLqxR9bBF5261010",
+    "title": "《朝闻天下》 20261010 08:00",
+    "url": "https://tv.cctv.cn/2026/10/10/VIDEoviikNXyULdLqxR9bBF5261010.shtml",
+    "date": "2026-10-10",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/10/10/67491377678f4c34b6251c6ef70d98a1-1.jpg",
+    "program": "zwtx",
+    "guid": "67491377678f4c34b6251c6ef70d98a1",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/10/VIDEoviikNXyULdLqxR9bBF5261010.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/67491377678f4c34b6251c6ef70d98a1/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/67491377678f4c34b6251c6ef70d98a1/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/67491377678f4c34b6251c6ef70d98a1/main.m3u8",
+    "createdAt": "2026-10-10T23:32:10.353Z",
+    "durationSeconds": 3222.36
+  },
+  {
     "id": "VIDE3hVDFtSZTS5musFko7Hp261009",
     "title": "《朝闻天下》 20261009 06:00",
     "url": "https://tv.cctv.cn/2026/10/09/VIDE3hVDFtSZTS5musFko7Hp261009.shtml",
@@ -431,24 +449,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/e362405f94f1464f8b93fa73af95cd39/main.m3u8",
     "createdAt": "2026-09-10T22:34:05.951Z",
     "durationSeconds": 3172.36
-  },
-  {
-    "id": "3bc97a4576304902936627a495e95594",
-    "title": "《朝闻天下》 20260909 08:00",
-    "url": "https://tv.cctv.cn/2026/09/09/VIDEgieLNe7qIQ5ZclsmDrbh260909.shtml",
-    "date": "2026-09-09",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/09/09/3bc97a4576304902936627a495e95594-1.jpg",
-    "description": "本期节目主要内容：\n    人民币跨境支付系统与11家外资银行签约；伊朗媒体称哈尔克岛和贾斯克传出爆炸声；俄美总统通电话：俄方称通话“富有建设性且非常坦诚”；第81届联合国大会开幕：联大聚焦重建信任与联合国改革。\n（《朝闻天下》 20260909 08:00）",
-    "program": "zwtx",
-    "guid": "3bc97a4576304902936627a495e95594",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/09/VIDEgieLNe7qIQ5ZclsmDrbh260909.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3bc97a4576304902936627a495e95594/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3bc97a4576304902936627a495e95594/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/3bc97a4576304902936627a495e95594/main.m3u8",
-    "createdAt": "2026-09-09T22:32:12.347Z",
-    "durationSeconds": 2953.64
   }
 ]
