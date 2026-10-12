@@ -1,5 +1,24 @@
 [
   {
+    "id": "aac40ead42354271ae3ce139ff7f08f3",
+    "title": "《新闻联播》 20261012 21:00",
+    "url": "https://tv.cctv.cn/2026/10/12/VIDECKUjkV9ocAOOxTj7Kl3R261012.shtml",
+    "date": "2026-10-12",
+    "broadcastTime": "21:00",
+    "image": "https://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2026/10/12/VIDEp9GsBnKRKp3uSwVIeghg261012.jpg",
+    "description": "本期节目主要内容：\r\n1.习近平同巴布亚新几内亚总督就中巴新建交50周年互致贺电 李强同巴新总理互致贺电；\r\n2.【新思想引领新征程】以人民为中心 加快建设健康中国；\r\n3.李强会见越南国会主席；\r\n4.李强同新西兰总理通电话；\r\n5.赵乐际同越南国会主席会谈并共同主持中越立法机构联合委员会第二次会议；\r\n6.王沪宁出席中国侨联成立70周年纪念大会；\r\n7.【铸牢共同体 中华一家亲】内蒙古：同心共建北疆美好家园；\r\n8.前三季度新能源汽车产销量实现较高增长；\r\n9.我国服务业数智化改造加速落地；\r\n10.2026中国网球公开赛落幕 多项数据创赛会纪录；\r\n11.国内联播快讯：\r\n（1）我国全面系统推进老旧水库改造提升；\r\n（2）第三轮第七批中央生态环境保护督察全面启动；\r\n（3）《关于依法从严查处危害食品安全违法犯罪的意见》印发；\r\n（4）七部门出台举措大力培育品质电商；\r\n（5）最高检发布一批长征文物保护公益诉讼典型案例；\r\n（6）2026北京接诉即办改革论坛今天开幕；\r\n（7）第九届进博会首批展品通关进境；\r\n（8）世界葡萄与葡萄酒大会在宁夏银川开幕；\r\n12.沙特利雅得机场再遭袭 也门胡塞武装称对沙特设施发动多轮打击；\r\n13.国际联播快讯：\r\n（1）伊朗称美国已接受伊方所提部分条件；\r\n（2）一移民船在吉布提沿海倾覆 139人死亡；\r\n（3）飓风“施蒙”在墨西哥西部多地引发灾情。\r\n（《新闻联播》 20261012 21:00）",
+    "program": "xwlb",
+    "guid": "aac40ead42354271ae3ce139ff7f08f3",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/12/VIDECKUjkV9ocAOOxTj7Kl3R261012.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/a/a/c/4/aac40ead42354271ae3ce139ff7f08f3/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/a/a/c/4/aac40ead42354271ae3ce139ff7f08f3/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/a/a/c/4/aac40ead42354271ae3ce139ff7f08f3/mp3/main.m3u8",
+    "createdAt": "2026-10-12T17:59:49.311Z",
+    "durationSeconds": 1799.32
+  },
+  {
     "id": "8ef0b04d9c9e4251bfb6dcfa398e26b6",
     "title": "《新闻联播》 20261011 21:00",
     "url": "https://tv.cctv.cn/2026/10/11/VIDEUPXHgmLKPvBh2CClGOft261011.shtml",
@@ -397,24 +416,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/5/4/a/054ad7c47ade4ee3a64b62d67519a00d/mp3/main.m3u8",
     "createdAt": "2026-09-14T15:03:37.486Z",
     "durationSeconds": 1799.48
-  },
-  {
-    "id": "858186e531344c718c5cfc87e43b9030",
-    "title": "《新闻联播》 20260911 21:00",
-    "url": "https://tv.cctv.cn/2026/09/11/VIDEo4BILNWF2qdfHLaf3Gn2260911.shtml",
-    "date": "2026-09-11",
-    "broadcastTime": "21:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/09/11/858186e531344c718c5cfc87e43b9030-1.jpg",
-    "description": "本期节目主要内容：\n1.【新思想引领新征程】践行全球发展倡议 汇聚发展振兴力量；\n2.李强主持召开国务院常务会议；\n3.李强签署国务院令 公布《市场监督管理所条例》；\n4.赵乐际同安哥拉国民议会议长会谈；\n5.王沪宁会见安哥拉国民议会议长；\n6.丁薛祥出席第十六次亚太经合组织能源部长会议开幕式并致辞；\n7.“中国共产党的故事——习近平新时代中国特色社会主义思想在陕西的实践”专题宣介会举行；\n8.指数环比回升 电商物流活力提升；\n9.我国正式推行数据产权登记制度；\n10.国内联播快讯：\n（1）第二十六届中国国际投资贸易洽谈会成果丰硕；\n（2）整治低价无序竞争 重要工业品成本核算要求明确；\n（3）我国已建成省级以上绿色矿山5600余家；\n（4）海外反垄断合规服务平台正式上线；\n（5）2026年服贸会雄安数字贸易创新发展大会开幕；\n11.凝聚合力 推动“大金砖合作”高质量发展——国际人士热切期待习近平主席出席金砖国家领导人第十八次会晤；\n12.也门胡塞武装攻占红海战略要地；\n13.国际联播快讯：\n（1）伊朗称击毁美无人艇 美否认战机受损；\n（2）以军使用大量炸药炸毁黎南部地下设施；\n（3）非洲首个奥林匹克赛事圣火从雅典启程。\n（《新闻联播》 20260911 21:00）",
-    "program": "xwlb",
-    "guid": "858186e531344c718c5cfc87e43b9030",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/11/VIDEo4BILNWF2qdfHLaf3Gn2260911.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/8/5/8/1/858186e531344c718c5cfc87e43b9030/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/8/5/8/1/858186e531344c718c5cfc87e43b9030/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/8/5/8/1/858186e531344c718c5cfc87e43b9030/mp3/main.m3u8",
-    "createdAt": "2026-09-12T12:12:40.302Z",
-    "durationSeconds": 1798.68
   }
 ]
