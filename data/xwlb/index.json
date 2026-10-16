@@ -1,5 +1,24 @@
 [
   {
+    "id": "d19ea41c2a67402e805236f91fb75670",
+    "title": "《新闻联播》 20261016 19:00",
+    "url": "https://tv.cctv.cn/2026/10/16/VIDEx4GVKthyEyuM0E6sy6RL261016.shtml",
+    "date": "2026-10-16",
+    "broadcastTime": "19:00",
+    "image": "https://p2.img.cctvpic.com/photoAlbum/vms/standard/img/2026/10/16/VIDEEq5UjQEcUn8ycoE0CNoD261016.jpg",
+    "description": "本期节目主要内容：\r\n1.习近平在内蒙古乌兰察布考察时强调 统筹高质量发展和高水平保护 坚定不移走生态优先绿色发展之路；\r\n2.央视快评：坚定不移走生态优先绿色发展之路；\r\n3.《求是》杂志发表习近平总书记重要文章《以更高标准、更实举措推进全面从严治党》；\r\n4.习近平致信祝贺湖南大学建校100周年；\r\n5.李强主持召开国务院常务会议；\r\n6.丁薛祥出席2026年世界职业技术教育发展大会开幕式并会见与会外国政要；\r\n7.【赓续长征精神 奋进复兴征程】青海：雪域传薪火 绿色启新程；\r\n8.我国进一步规范养老服务价格；\r\n9.第140届广交会：以前沿创新展品对接全球供需；\r\n10.4100多家境外企业参展第九届进博会；\r\n11.我国智能粮仓建设取得显著成效；\r\n12.国务院新闻办举行“新征程上的奋斗者”中外记者见面会；\r\n13.国内联播快讯：\r\n（1）我国研究与试验发展经费总量位居世界第二位；\r\n（2）我国船舶工业市场份额连续16年全球领先；\r\n（3）《高端访谈》今晚播出对博茨瓦纳总统博科的专访；\r\n14.也门政府称总统府遭袭 胡塞武装称袭击沙特指挥部 沙特主导的多国联军称本月利雅得机场遭袭20次 胡塞武装称相关行动属防御性质；\r\n15.3位中国女性获联合国粮农组织“巾帼英雄”表彰；\r\n16.国际联播快讯：\r\n（1）俄方反对日方就涉嫌间谍活动人员的交涉；\r\n（2）美联储报告称高油价对经济产生广泛影响；\r\n（3）国际计量大会决定取消闰秒。\r\n（《新闻联播》 20261016 19:00）",
+    "program": "xwlb",
+    "guid": "d19ea41c2a67402e805236f91fb75670",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/16/VIDEx4GVKthyEyuM0E6sy6RL261016.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/d/1/9/e/d19ea41c2a67402e805236f91fb75670/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/d/1/9/e/d19ea41c2a67402e805236f91fb75670/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/d/1/9/e/d19ea41c2a67402e805236f91fb75670/mp3/main.m3u8",
+    "createdAt": "2026-10-16T13:18:20.773Z",
+    "durationSeconds": 1801.88
+  },
+  {
     "id": "de528b70eb5c494684d5f4e194afb7a2",
     "title": "《新闻联播》 20261015 19:00",
     "url": "https://tv.cctv.cn/2026/10/15/VIDEk89bQYrpSqGrWKeOz3jD261015.shtml",
@@ -416,24 +435,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/enc/hls/main/0303000a/3/default/de3e07dd471d471e8d38a6a1e28b6245/main.m3u8?maxbr=2048&contentid=18120319242338",
     "createdAt": "2026-09-17T13:31:46.764Z",
     "durationSeconds": 1801.32
-  },
-  {
-    "id": "0379e8e134c7419890ab026d13254fc2",
-    "title": "《新闻联播》 20260915 19:00",
-    "url": "https://tv.cctv.cn/2026/09/15/VIDE4dDkrntrkpR7uynNZZe1260915.shtml",
-    "date": "2026-09-15",
-    "broadcastTime": "19:00",
-    "image": "https://p5.img.cctvpic.com/photoAlbum/vms/standard/img/2026/9/15/VIDEwgQj65HWJlBgGjDFCx7N260915.jpg",
-    "description": "本期节目主要内容：\r\n1.习近平给福建省“漳州110”全体队员回信强调 坚守为民初心矢志担当奉献 做党和人民的忠诚卫士；\r\n2.央视快评：用心用情为群众排忧解难 兢兢业业守护万家灯火；\r\n3.【新思想引领新征程】通江达海 西部陆海新通道拓展开放新空间；\r\n4.【赓续长征精神 奋进复兴征程】广东：红色薪火映粤北 老区新程启华章；\r\n5.闽宁协作暨东西部协作理论与实践研讨会在银川举行；\r\n6.8月我国国民经济运行总体平稳；\r\n7.2030年电子信息制造业规上企业营业收入将突破30万亿元；\r\n8.1至8月我国乡村建设已落实项目资金超1300亿元；\r\n9.【文化中国行】绍兴历史街区保护：留人见物有生活；\r\n10.国内联播快讯：\r\n（1）8月份一二三线城市商品住宅销售价格同比降幅继续收窄；\r\n（2）前8个月我国碳排放权交易市场累计成交近10亿吨；\r\n（3）两部门对在线酒店预订平台服务行业开展行政指导；\r\n（4）我国将试行医疗服务价格预立项制度；\r\n（5）前8个月我国牵头制定可穿戴电子设备等国际标准214项；\r\n（6）2026上合组织数字经济论坛举行；\r\n（7）2026长江文明论坛在重庆开幕；\r\n（8）民营火箭首次执行规模化卫星互联网星座组网任务；\r\n（9）2026年“百万英才兴海南·四城同办”校招活动启动；\r\n11.“嫦娥六号”月背月壤样品落户维也纳联合国总部；\r\n12.美称对谈判持开放态度 伊朗称其条件被满足前不会与美谈判 美国防部报告称美在中东基地损失严重；\r\n13.国际联播快讯：\r\n（1）也门胡塞武装称打击沙特空军基地；\r\n（2）俄称多方向推进 又控制3处居民点；\r\n（3）美10年期国债收益率达2007年以来新高。\r\n（《新闻联播》 20260915 19:00）",
-    "program": "xwlb",
-    "guid": "0379e8e134c7419890ab026d13254fc2",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/15/VIDE4dDkrntrkpR7uynNZZe1260915.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/3/7/9/0379e8e134c7419890ab026d13254fc2/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/3/7/9/0379e8e134c7419890ab026d13254fc2/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/0/3/7/9/0379e8e134c7419890ab026d13254fc2/mp3/main.m3u8",
-    "createdAt": "2026-09-15T13:37:08.498Z",
-    "durationSeconds": 1801
   }
 ]
