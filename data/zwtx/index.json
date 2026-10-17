@@ -1,5 +1,24 @@
 [
   {
+    "id": "03a3dee1f0d64342a02d7f68a2a112fc",
+    "title": "《朝闻天下》 20261017 08:00",
+    "url": "https://tv.cctv.cn/2026/10/17/VIDEhr5UmOFWFkgfvcE2M2CW261017.shtml",
+    "date": "2026-10-17",
+    "broadcastTime": "08:00",
+    "image": "https://p4.img.cctvpic.com/fmspic/2026/10/17/03a3dee1f0d64342a02d7f68a2a112fc-1.jpg",
+    "description": "本期节目主要内容：\n    习近平在内蒙古乌兰察布考察时强调：统筹高质量发展和高水平保护，坚定不移走生态优先绿色发展之路；我国常态化帮扶取得新进展；第140届广交会：聚焦新质生产力，创新展品对接全球供需。（《朝闻天下》 20261017 08:00）",
+    "program": "zwtx",
+    "guid": "03a3dee1f0d64342a02d7f68a2a112fc",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/17/VIDEhr5UmOFWFkgfvcE2M2CW261017.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/03a3dee1f0d64342a02d7f68a2a112fc/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/03a3dee1f0d64342a02d7f68a2a112fc/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/03a3dee1f0d64342a02d7f68a2a112fc/main.m3u8",
+    "createdAt": "2026-10-17T22:16:33.754Z",
+    "durationSeconds": 3078.2
+  },
+  {
     "id": "VIDEEZx2qXsKhfj2GKQzsN0a261016",
     "title": "《朝闻天下》 20261016 08:00",
     "url": "https://tv.cctv.cn/2026/10/16/VIDEEZx2qXsKhfj2GKQzsN0a261016.shtml",
