@@ -1,0 +1,19 @@
+{
+  "id": "cb672ce3074a42149d5c98a45d84c8f1",
+  "title": "《朝闻天下》 20261018 08:00",
+  "url": "https://tv.cctv.cn/2026/10/18/VIDEmzvgfPPjvnAFnlt9zloI261018.shtml",
+  "date": "2026-10-18",
+  "broadcastTime": "08:00",
+  "image": "https://p2.img.cctvpic.com/fmspic/2026/10/18/cb672ce3074a42149d5c98a45d84c8f1-1.jpg",
+  "description": "本期节目主要内容：\n    第140届广交会：AI新品圈粉客商，新技术解锁外贸新场景；财经老王记者团·银发新主张：安心养老催生金融新服务；关注俄乌冲突：俄国防部称大规模打击乌能源设施。\n（《朝闻天下》 20261018 08:00）",
+  "program": "zwtx",
+  "guid": "cb672ce3074a42149d5c98a45d84c8f1",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/10/18/VIDEmzvgfPPjvnAFnlt9zloI261018.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/cb672ce3074a42149d5c98a45d84c8f1/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/cb672ce3074a42149d5c98a45d84c8f1/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/cb672ce3074a42149d5c98a45d84c8f1/main.m3u8",
+  "createdAt": "2026-10-18T22:24:55.477Z",
+  "durationSeconds": 3222.6
+}
