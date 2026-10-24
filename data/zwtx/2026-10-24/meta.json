@@ -1,0 +1,19 @@
+{
+  "id": "84fd0538d1524fe0b3790479151d34f2",
+  "title": "《朝闻天下》 20261024 08:00",
+  "url": "https://tv.cctv.cn/2026/10/24/VIDEmXSCXIIgiOJnnjwAk3Ea261024.shtml",
+  "date": "2026-10-24",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/10/24/84fd0538d1524fe0b3790479151d34f2-1.jpg",
+  "description": "本期节目主要内容：\n    中共中央政治局召开会议，审议《关于二十届中央第七轮巡视情况的综合报告》，中共中央总书记习近平主持会议；约旦河西岸发生袭击事件：以总理称准备开展“大规模军事行动”；甘肃：食鲜鱼酌药酒，莫高窟里话霜降。（《朝闻天下》 20261024 08:00）",
+  "program": "zwtx",
+  "guid": "84fd0538d1524fe0b3790479151d34f2",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/10/24/VIDEmXSCXIIgiOJnnjwAk3Ea261024.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/84fd0538d1524fe0b3790479151d34f2/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/84fd0538d1524fe0b3790479151d34f2/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/84fd0538d1524fe0b3790479151d34f2/main.m3u8",
+  "createdAt": "2026-10-24T22:28:00.795Z",
+  "durationSeconds": 3211.56
+}
