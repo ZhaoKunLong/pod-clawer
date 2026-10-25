@@ -1,0 +1,19 @@
+{
+  "id": "6f4bcb8088984b9d88699b1f07642cc7",
+  "title": "《朝闻天下》 20261025 08:00",
+  "url": "https://tv.cctv.cn/2026/10/25/VIDEzFSeXo2Oc6nyD7Xjelvb261025.shtml",
+  "date": "2026-10-25",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/10/25/6f4bcb8088984b9d88699b1f07642cc7-1.jpg",
+  "description": "本期节目主要内容：\n    二十届中央第八轮巡视对象公布；西藏那曲市巴青县发生7.0级地震：震区电力供应全面恢复；生态环境部就地下水污染防治重点区管理征求意见；中国贸促会组织企业赴澳门拓展国际商机；伊朗总统指责美国未能与伊朗达成协议。\n（《朝闻天下》 20261025 08:00）",
+  "program": "zwtx",
+  "guid": "6f4bcb8088984b9d88699b1f07642cc7",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/10/25/VIDEzFSeXo2Oc6nyD7Xjelvb261025.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6f4bcb8088984b9d88699b1f07642cc7/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6f4bcb8088984b9d88699b1f07642cc7/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6f4bcb8088984b9d88699b1f07642cc7/main.m3u8",
+  "createdAt": "2026-10-25T22:32:43.277Z",
+  "durationSeconds": 3033.48
+}
