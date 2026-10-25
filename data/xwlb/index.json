@@ -1,5 +1,24 @@
 [
   {
+    "id": "a063ee1a91714baf9f5c0e01013c502b",
+    "title": "《新闻联播》 20261025 19:00",
+    "url": "https://tv.cctv.cn/2026/10/25/VIDEBG1o1rJLsV4EgXG645n4261025.shtml",
+    "date": "2026-10-25",
+    "broadcastTime": "19:00",
+    "image": "https://p5.img.cctvpic.com/photoAlbum/vms/standard/img/2026/10/25/VIDE4rcXXcTKgtoRKOTeBl4v261025.jpg",
+    "description": "本期节目主要内容：\r\n1.习近平同比利时国王就中比建交55周年互致贺信；\r\n2.【持之以恒推进全面从严治党】用党的创新理论凝心铸魂；\r\n3.人民日报任仲平文章：在新征程上持之以恒推进全面从严治党；\r\n4.以青春之志 在新长征路上续写奋斗篇章——习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话引发热烈反响；\r\n5.二十届中央第七轮巡视完成反馈；\r\n6.我国造船业持续领跑全球；\r\n7.西藏那曲市巴青县7.0级地震抢险救援有序进行；\r\n8.全国一刻钟便民生活圈提质升级；\r\n9.粤桂优化协作 助力乡村全面振兴；\r\n10.广交会：从单品输出到方案交付 集成式出海成新趋势；\r\n11.国内联播快讯：\r\n（1）2026全球治理论坛（雄安）今天闭幕；\r\n（2）第五届亚残运会闭幕 中国队连续五届位居金牌榜奖牌榜首位；\r\n（3）杨凌农高会开幕 1000多项最新成果集中发布；\r\n（4）2026世界青年科学家峰会发布“世界青年科学家创新创业成长支持计划”；\r\n（5）全国民航今起执行冬春航季航班计划；\r\n12.推进全面从严治党为中国发展提供保障——国际人士高度关注中国共产党二十届五中全会；\r\n13.国际联播快讯：\r\n（1）朝鲜新坪郡志愿军烈士陵园修缮竣工；\r\n（2）也门胡塞武装否认袭击沙特麦加和麦地那；\r\n（3）巴勒斯坦谴责以军升级约旦河西岸局势。\r\n（《新闻联播》 20261025 19:00）",
+    "program": "xwlb",
+    "guid": "a063ee1a91714baf9f5c0e01013c502b",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/25/VIDEBG1o1rJLsV4EgXG645n4261025.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a063ee1a91714baf9f5c0e01013c502b/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a063ee1a91714baf9f5c0e01013c502b/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/a063ee1a91714baf9f5c0e01013c502b/main.m3u8",
+    "createdAt": "2026-10-25T13:13:42.169Z",
+    "durationSeconds": 1800.84
+  },
+  {
     "id": "700653f07d8143f38bd258a22d8bf127",
     "title": "《新闻联播》 20261023 19:00",
     "url": "https://tv.cctv.cn/2026/10/23/VIDE4uMMZCSSa7O2PG5ZXX8v261023.shtml",
@@ -397,43 +416,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/f/2/c/3/f2c3febe5e844ba29f84eb317f890bbc/mp3/main.m3u8",
     "createdAt": "2026-09-25T13:52:15.471Z",
     "durationSeconds": 1799.64
-  },
-  {
-    "id": "80c2793871374a3f8b664f5db3c3d237",
-    "title": "品强茅台中秋版26年9月_1788946971",
-    "url": "https://tv.cctv.cn/2026/09/24/VIDEcA2lLUImn9IarZR40bnn260924.shtml",
-    "date": "2026-09-24",
-    "broadcastTime": "19:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/09/09/54ba5d6690794bb3a4ce8aa00a7c1616-180.jpg",
-    "description": "本期节目主要内容：\r\n1.习近平抵达华盛顿对美国进行国事访问；\r\n2.李强出席第五届全球数字贸易博览会启动仪式并致辞；\r\n3.李强会见吉尔吉斯斯坦总理；\r\n4.李强会见马来西亚总理；\r\n5.李强签署国务院令 公布修订后的《中华人民共和国审计法实施条例》；\r\n6.赵乐际在吉林黑龙江调研；\r\n7.第七届全国少数民族文艺会演在京闭幕 王沪宁出席闭幕式；\r\n8.王沪宁主持召开全国政协主席会议；\r\n9.【“十五五”开好局起好步】推进文化和旅游高质量发展；\r\n10.中秋国庆假期将至 跨区域人员流动量将呈现高位运行态势；\r\n11.【第二十届亚运会】中国队表现亮眼 赛艇队单日摘9金；\r\n12.总台推出精彩节目陪您共度中秋；\r\n13.国内联播快讯：\r\n（1）截至8月底全国累计发电装机容量同比增长11.1%；\r\n（2）江阴靖江长江隧道及南北接线正式通车；\r\n（3）中秋国庆档暨纪念红军长征胜利90周年电影片单发布；\r\n14.国际人士表示习近平主席书面讲话推动中美相向而行 为全球发展注入确定性；\r\n15.国际联播快讯：\r\n（1）英国向中国返还12件流失文物艺术品；\r\n（2）俄称日“再军事化”迫使俄采取防卫措施；\r\n（3）意大利议会通过法案将重启核能发电。\r\n（《新闻联播》 20260924 19:00）",
-    "program": "xwlb",
-    "guid": "54ba5d6690794bb3a4ce8aa00a7c1616",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/24/VIDEcA2lLUImn9IarZR40bnn260924.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/54ba5d6690794bb3a4ce8aa00a7c1616/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/54ba5d6690794bb3a4ce8aa00a7c1616/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/54ba5d6690794bb3a4ce8aa00a7c1616/main.m3u8",
-    "createdAt": "2026-09-24T13:36:33.343Z",
-    "durationSeconds": 15.04
-  },
-  {
-    "id": "3b466e5f0a624e6da06220a1a0397c17",
-    "title": "《新闻联播》 20260923 21:00",
-    "url": "https://tv.cctv.cn/2026/09/23/VIDE4E05XulnLXXtt2WX85zp260923.shtml",
-    "date": "2026-09-23",
-    "broadcastTime": "21:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/09/23/3b466e5f0a624e6da06220a1a0397c17-1.jpg",
-    "description": "本期节目主要内容：\n1.习近平离京对美国进行国事访问；\n2.习近平向第48届世界技能大赛致贺信；\n3.央视快评：鼓励引导更多劳动者特别是青年人走技能成才之路；\n4.【新思想引领新征程】丰收的底气；\n5.第48届世界技能大赛在上海隆重开幕 李强出席并宣布开幕；\n6.李强出席2026年世界技能大会开幕式并致辞；\n7.【“十五五”开好局起好步】锚定蓝图 加快建设教育强国；\n8.【“十五五”开好局起好步】强化普惠性基础性兜底性民生建设；\n9.前8个月工业经济稳步增长 新质生产力加快培育；\n10.国务院新闻办举行“新征程上的奋斗者”中外记者见面会；\n11.中央纪委国家监委公开通报六起违反中央八项规定精神典型问题；\n12.【第二十届亚运会】中国体育代表团斩获多项团体金牌；\n13.安徽等3省省委主要负责同志职务调整；\n14.国内联播快讯：\n（1）前8个月熊猫债券累计发行已超2000亿元；\n（2）我国农产品出口连续5年保持增长；\n（3）2025年我国民营企业500强营收额同比增长4.35%；\n（4）中消协发布中秋国庆双节消费提示；\n（5）铁路中秋国庆假期运输今日启动；\n（6）第五届全球数字贸易博览会举行；\n（7）《中国乡村旅游大会·乡村文旅促消费》南方主会场活动启动；\n（8）《2026年中国农民丰收节晚会》今晚播出；\n15.国际社会期待习近平主席访美造福两国 惠及世界；\n16.国际联播快讯：\n（1）第81届联合国大会一般性辩论开幕；\n（2）美伊举行会谈 伊朗再提重开海峡条件；\n（3）经合组织上调2026年全球经济增速预期；\n17.二十四节气·秋分。\n（《新闻联播》 20260923 21:00）",
-    "program": "xwlb",
-    "guid": "3b466e5f0a624e6da06220a1a0397c17",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/23/VIDE4E05XulnLXXtt2WX85zp260923.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/b/4/6/3b466e5f0a624e6da06220a1a0397c17/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/b/4/6/3b466e5f0a624e6da06220a1a0397c17/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/b/4/6/3b466e5f0a624e6da06220a1a0397c17/mp3/main.m3u8",
-    "createdAt": "2026-09-23T13:41:39.840Z",
-    "durationSeconds": 1799.24
   }
 ]
