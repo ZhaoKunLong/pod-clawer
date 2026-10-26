@@ -1,0 +1,18 @@
+{
+  "id": "VIDEvvjgK2FQw6HCtvr0Zdhz261026",
+  "title": "《朝闻天下》 20261026 08:00",
+  "url": "https://tv.cctv.cn/2026/10/26/VIDEvvjgK2FQw6HCtvr0Zdhz261026.shtml",
+  "date": "2026-10-26",
+  "broadcastTime": "08:00",
+  "image": "https://p4.img.cctvpic.com/fmspic/2026/10/26/824302f1977d4073b129e8f27ab960c9-1.jpg",
+  "program": "zwtx",
+  "guid": "824302f1977d4073b129e8f27ab960c9",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/10/26/VIDEvvjgK2FQw6HCtvr0Zdhz261026.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/824302f1977d4073b129e8f27ab960c9/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/824302f1977d4073b129e8f27ab960c9/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/824302f1977d4073b129e8f27ab960c9/main.m3u8",
+  "createdAt": "2026-10-26T23:51:26.486Z",
+  "durationSeconds": 3185
+}
