@@ -1,5 +1,24 @@
 [
   {
+    "id": "39ee564683bb46bd85e7c6bd4be0d5bf",
+    "title": "《新闻联播》 20261027 21:00",
+    "url": "https://tv.cctv.cn/2026/10/27/VIDECiUSPy90M6OReT9ce6Xn261027.shtml",
+    "date": "2026-10-27",
+    "broadcastTime": "21:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/10/27/39ee564683bb46bd85e7c6bd4be0d5bf-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平致电祝贺卢拉当选连任巴西总统；\n2.习近平向日本前首相福田康夫遗属致唁电；\n3.【持之以恒推进全面从严治党】以优良作风厚植党的执政根基；\n4.前三季度规模以上工业企业利润实现较快增长；\n5.各地重大水利工程加快建设；\n6.【在希望的田野上】各地秋收秋种有序推进；\n7.我国风电光伏累计装机容量突破20亿千瓦；\n8.第140届广交会第二期线下展今天闭展；\n9.城市公交通行 模式活起来服务暖起来；\n10.国内联播快讯：\n（1）前三季度西部陆海新通道沿线经通道进出口超7870亿元；\n（2）第三季度全国农产品质量安全状况保持稳定；\n（3）民政部部署开展“寒冬送温暖”专项救助行动；\n（4）前三季度全国环境空气质量总体向好；\n（5）我国首条至冰岛定期客运航线正式开通；\n（6）新建银川至巴彦浩特铁路正式启动联调联试；\n（7）2026年电影票房超315亿元；\n11.全面从严治党为世界政党治理提供重要借鉴——国际人士高度关注中国共产党二十届五中全会；\n12.纪念东京审判开庭80周年图片展在纽约联合国总部开幕；\n13.国际联播快讯：\n（1）俄乌在阿列什基实行人道主义停火；\n（2）胡塞武装称打击沙特军队和机场等目标；\n（3）伊沙土巴四国同意磋商以加强安全合作；\n（4）欧洲天然气价格升至近四年来最高水平。\n（《新闻联播》 20261027 21:00）",
+    "program": "xwlb",
+    "guid": "39ee564683bb46bd85e7c6bd4be0d5bf",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/27/VIDECiUSPy90M6OReT9ce6Xn261027.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/9/e/e/39ee564683bb46bd85e7c6bd4be0d5bf/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/9/e/e/39ee564683bb46bd85e7c6bd4be0d5bf/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/3/9/e/e/39ee564683bb46bd85e7c6bd4be0d5bf/mp3/main.m3u8",
+    "createdAt": "2026-10-27T14:34:46.194Z",
+    "durationSeconds": 1799.24
+  },
+  {
     "id": "2672bf92d0de460eb42775bd4a97e17b",
     "title": "《新闻联播》 20261026 21:00",
     "url": "https://tv.cctv.cn/2026/10/26/VIDEZYno0ile5LKE4pPYZXxc261026.shtml",
