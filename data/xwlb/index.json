@@ -1,5 +1,24 @@
 [
   {
+    "id": "7563043d42c24f2a95d961a371e03c66",
+    "title": "《新闻联播》 20261029 21:00",
+    "url": "https://tv.cctv.cn/2026/10/29/VIDE5LNdZuGWgCeRynFvChLj261029.shtml",
+    "date": "2026-10-29",
+    "broadcastTime": "21:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/10/29/7563043d42c24f2a95d961a371e03c66-1.jpg",
+    "description": "本期节目主要内容：\n1.中国共产党第二十届中央委员会第五次全体会议公报；\n2.张升民同志简历；\n3.习近平就西班牙高速列车追尾脱轨事故向西班牙国王致慰问电 李强向西班牙首相致慰问电；\n4.【学习贯彻党的二十届五中全会精神】不断开创新时代管党治党、兴党强党新局面；\n5.人民日报社论：把我们党建设得更好、更强；\n6.三季度末科技型中小企业贷款余额同比增长20.1%；\n7.今年以来以旧换新带动相关品类销售额超2万亿元；\n8.联播快讯：\n（1）8000亿元新型政策性金融工具投放完成；\n（2）前三季度大湾区内地9市对APEC经济体进出口创历史同期新高；\n（3）前三季度全国地表水水质持续向好；\n（4）国内最长地铁环线全线贯通；\n（5）群众有望在“家门口”体验到15项以上中医适宜技术；\n（6）联大再次通过决议敦促美终止对古封锁；\n（7）以议会选举初步计票显示无阵营议席过半；\n（8）美媒：美副总统致信伊朗高官欲重启谈判；\n（9）俄称不打算邀请欧洲参加俄美乌会谈；\n（10）电脑故障及错误指令导致西班牙列车相撞。\n（《新闻联播》 20261029 21:00）",
+    "program": "xwlb",
+    "guid": "7563043d42c24f2a95d961a371e03c66",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/29/VIDE5LNdZuGWgCeRynFvChLj261029.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/5/6/3/7563043d42c24f2a95d961a371e03c66/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/5/6/3/7563043d42c24f2a95d961a371e03c66/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/5/6/3/7563043d42c24f2a95d961a371e03c66/mp3/main.m3u8",
+    "createdAt": "2026-10-29T15:16:24.658Z",
+    "durationSeconds": 2399.48
+  },
+  {
     "id": "39ee564683bb46bd85e7c6bd4be0d5bf",
     "title": "《新闻联播》 20261027 21:00",
     "url": "https://tv.cctv.cn/2026/10/27/VIDECiUSPy90M6OReT9ce6Xn261027.shtml",
@@ -416,24 +435,5 @@
     "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/102f612b780e42a0a5c66c4c74958148/main.m3u8?maxbr=2048",
     "createdAt": "2026-09-30T14:58:09.579Z",
     "durationSeconds": 1799.48
-  },
-  {
-    "id": "7d4ea260906a4b5e82bd959197b477d9",
-    "title": "《新闻联播》 20260927 21:00",
-    "url": "https://tv.cctv.cn/2026/09/27/VIDEHVyurub3oa8cK1UJGsOO260927.shtml",
-    "date": "2026-09-27",
-    "broadcastTime": "21:00",
-    "image": "https://p3.img.cctvpic.com/fmspic/2026/09/27/7d4ea260906a4b5e82bd959197b477d9-1.jpg",
-    "description": "本期节目主要内容：\n1.【新思想引领新征程】守护文化遗产 滋养当代生活；\n2.专题片《开辟大国相处正确之道 书写中美关系历史新篇——习近平主席对美国进行国事访问纪实》今晚播出；\n3.韩正出席第81届联合国大会一般性辩论并发表讲话；\n4.夯实国家平安基石 守护群众万家安宁；\n5.乐享多彩假期 共度幸福时光；\n6.中秋假期交通出行需求保持高位 短途出行活跃；\n7.【文化中国行】明月照古今 中华文明中的观天智慧；\n8.大熊猫“平平”“福双”启程前往美国；\n9.【第二十届亚运会】赛程过半 中国队领跑金牌榜奖牌榜；\n10.解放军南部战区位黄岩岛周边海空域组织海空联合演训 中国海警在黄岩岛附近海域组织维权执法管控演练；\n11.国内联播快讯：\n（1）第五届全球数字贸易博览会取得多项成果；\n（2）第140届广交会首批进境展品运抵广州；\n（3）南昌—比什凯克中亚班列今日开通；\n（4）鄂尔多斯盆地探明千亿立方米深层煤层气田；\n12.推动国际发展合作 重振全球发展事业——国际人士高度评价习近平主席致全球发展倡议5周年高级别对话会的贺信；\n13.国际联播快讯：\n（1）阿曼称力保霍尔木兹海峡安全通行；\n（2）也门政府军称在重要交通线击退胡塞进攻；\n（3）泰国多地遭遇强降雨 首都成洪水灾区。\n（《新闻联播》 20260927 21:00）",
-    "program": "xwlb",
-    "guid": "7d4ea260906a4b5e82bd959197b477d9",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/27/VIDEHVyurub3oa8cK1UJGsOO260927.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/d/4/e/7d4ea260906a4b5e82bd959197b477d9/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/d/4/e/7d4ea260906a4b5e82bd959197b477d9/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/d/4/e/7d4ea260906a4b5e82bd959197b477d9/mp3/main.m3u8",
-    "createdAt": "2026-09-27T14:02:50.785Z",
-    "durationSeconds": 1799.32
   }
 ]
