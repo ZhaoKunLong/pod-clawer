@@ -1,5 +1,23 @@
 [
   {
+    "id": "VIDEJVILQkhMqIbX7h2wPi7o261030",
+    "title": "《朝闻天下》 20261030 08:00",
+    "url": "https://tv.cctv.cn/2026/10/30/VIDEJVILQkhMqIbX7h2wPi7o261030.shtml",
+    "date": "2026-10-30",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/10/30/67db50276f4a4b9c99ccc6bb0e0daeba-1.jpg",
+    "program": "zwtx",
+    "guid": "67db50276f4a4b9c99ccc6bb0e0daeba",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/30/VIDEJVILQkhMqIbX7h2wPi7o261030.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/67db50276f4a4b9c99ccc6bb0e0daeba/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/67db50276f4a4b9c99ccc6bb0e0daeba/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/67db50276f4a4b9c99ccc6bb0e0daeba/main.m3u8",
+    "createdAt": "2026-10-30T23:43:49.685Z",
+    "durationSeconds": 3346.68
+  },
+  {
     "id": "VIDE1gdBxbt4Rw3EZx3y7TxM261029",
     "title": "《朝闻天下》 20261029 08:00",
     "url": "https://tv.cctv.cn/2026/10/29/VIDE1gdBxbt4Rw3EZx3y7TxM261029.shtml",
@@ -438,23 +456,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/25a4b4b2eca145c0b264595fcec9895a/main.m3u8",
     "createdAt": "2026-09-30T23:46:57.127Z",
     "durationSeconds": 3245.48
-  },
-  {
-    "id": "VIDEmXCaQDDCauRInoi5LTRm260929",
-    "title": "《朝闻天下》 20260929 06:00",
-    "url": "https://tv.cctv.cn/2026/09/29/VIDEmXCaQDDCauRInoi5LTRm260929.shtml",
-    "date": "2026-09-29",
-    "broadcastTime": "06:00",
-    "image": "https://p5.img.cctvpic.com/fmspic/2026/09/29/2921b148024a425091732d13181c7078-1.jpg",
-    "program": "zwtx",
-    "guid": "2921b148024a425091732d13181c7078",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/29/VIDEmXCaQDDCauRInoi5LTRm260929.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2921b148024a425091732d13181c7078/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2921b148024a425091732d13181c7078/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/2921b148024a425091732d13181c7078/main.m3u8",
-    "createdAt": "2026-09-29T00:22:27.515Z",
-    "durationSeconds": 3200.12
   }
 ]
