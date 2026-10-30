@@ -1,5 +1,24 @@
 [
   {
+    "id": "72e936d0fe524ba9bd3cc4b25b5a1925",
+    "title": "《新闻联播》 20261030 21:00",
+    "url": "https://tv.cctv.cn/2026/10/30/VIDEgqqr8QUVeFWtIlqAgqY5261030.shtml",
+    "date": "2026-10-30",
+    "broadcastTime": "21:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/10/30/72e936d0fe524ba9bd3cc4b25b5a1925-1.jpg",
+    "description": "本期节目主要内容：\n1.征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见 中共中央召开党外人士座谈会 习近平主持并发表重要讲话；\n2.习近平举行仪式欢迎德国总统访华；\n3.习近平同德国总统会谈；\n4.习近平会见瑞士联邦主席；\n5.应习近平邀请 阿曼苏丹将对中国进行国事访问；\n6.李强主持召开国务院党组会议 学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神 丁薛祥出席；\n7.李强会见德国总统；\n8.全国人大常委会党组举行会议 学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神 赵乐际主持并讲话；\n9.赵乐际会见德国总统；\n10.中共全国政协党组召开会议 传达学习贯彻党的二十届五中全会精神 王沪宁主持并讲话；\n11.李希主持召开中央纪委常委会会议 传达学习贯彻党的二十届五中全会精神；\n12.中共中央举行新闻发布会 解读党的二十届五中全会精神；\n13.【学习贯彻党的二十届五中全会精神】深入推进新时代党的建设新的伟大工程；\n14.人民日报评论员文章：全面贯彻习近平党建思想——论学习贯彻党的二十届五中全会精神；\n15.央视快评：不断开创新时代管党治党、兴党强党新局面；\n16.联播快讯：\n（1）前三季度全国规模以上文化企业营业收入同比增长4.3%；\n（2）中国蓝湾行动获评世界生态恢复旗舰项目；\n（3）伊朗称多艘违规油轮在霍尔木兹海峡触雷；\n（4）欧盟多国承诺加快释放4260万桶储备油。\n（《新闻联播》 20261030 21:00）",
+    "program": "xwlb",
+    "guid": "72e936d0fe524ba9bd3cc4b25b5a1925",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/30/VIDEgqqr8QUVeFWtIlqAgqY5261030.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/2/e/9/72e936d0fe524ba9bd3cc4b25b5a1925/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/2/e/9/72e936d0fe524ba9bd3cc4b25b5a1925/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/2/e/9/72e936d0fe524ba9bd3cc4b25b5a1925/mp3/main.m3u8",
+    "createdAt": "2026-10-30T15:05:22.009Z",
+    "durationSeconds": 2699.4
+  },
+  {
     "id": "7563043d42c24f2a95d961a371e03c66",
     "title": "《新闻联播》 20261029 21:00",
     "url": "https://tv.cctv.cn/2026/10/29/VIDE5LNdZuGWgCeRynFvChLj261029.shtml",
