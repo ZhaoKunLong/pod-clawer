@@ -1,5 +1,24 @@
 [
   {
+    "id": "9cbab7c93ba143cfa861beecb571fb92",
+    "title": "《新闻联播》 20261031 21:00",
+    "url": "https://tv.cctv.cn/2026/10/31/VIDEh0mFi7RR3iPDme1nqYAv261031.shtml",
+    "date": "2026-10-31",
+    "broadcastTime": "21:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/10/31/9cbab7c93ba143cfa861beecb571fb92-1.jpg",
+    "description": "本期节目主要内容：\n1.【学习贯彻党的二十届五中全会精神】走在前作表率 奋力谱写持之以恒推进全面从严治党新篇章；\n2.人民日报评论员文章：坚持服务党的使命任务——论学习贯彻党的二十届五中全会精神；\n3.央视快评：持之以恒推进全面从严治党；\n4.算力网加速织就 助力数字中国建设；\n5.外资企业加快在中国建设全球创新枢纽；\n6.回望伟大远征 汲取强军力量——万名官兵走进“伟大的远征”主题展览；\n7.【铸牢共同体 中华一家亲】云南司莫拉村：让“幸福的地方”更幸福；\n8.我国找矿行动取得一批较好成果；\n9.我国月球探测工程登月阶段任务扎实推进；\n10.第140届广交会第三期今天开展；\n11.秋日文旅热 赏秋正当时；\n12.国内联播快讯：\n（1）前三季度全国可再生能源发电量同比增长约8%；\n（2）一批国家标准11月1日起实施；\n（3）我国进一步健全社会组织退出机制；\n（4）三部门向西藏地震灾区增调1000套中央救灾板房；\n（5）全球最大规模液态空气储能国家示范项目并网发电；\n（6）我国开展水资源调度的跨省江河达89条；\n（7）姚家平水利枢纽工程今天实现大江截流；\n（8）山东海阳核电项目三期工程开工建设；\n（9）2026中国航空产业大会在江西南昌开幕；\n13.国际人士：二十届五中全会展现中国共产党全面从严治党的信心和决心；\n14.国际联播快讯：\n（1）俄称筹备会谈不代表俄承诺限制军事行动；\n（2）意大利全国多地爆发抗议和冲突；\n（3）加拿大欧盟启动构建“未来联盟”；\n（4）菲律宾马荣火山喷发 警戒级别上调。\n（《新闻联播》 20261031 21:00）",
+    "program": "xwlb",
+    "guid": "9cbab7c93ba143cfa861beecb571fb92",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/31/VIDEh0mFi7RR3iPDme1nqYAv261031.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/c/b/a/9cbab7c93ba143cfa861beecb571fb92/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/c/b/a/9cbab7c93ba143cfa861beecb571fb92/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/9/c/b/a/9cbab7c93ba143cfa861beecb571fb92/mp3/main.m3u8",
+    "createdAt": "2026-10-31T14:34:27.082Z",
+    "durationSeconds": 1799.48
+  },
+  {
     "id": "72e936d0fe524ba9bd3cc4b25b5a1925",
     "title": "《新闻联播》 20261030 21:00",
     "url": "https://tv.cctv.cn/2026/10/30/VIDEgqqr8QUVeFWtIlqAgqY5261030.shtml",
@@ -435,24 +454,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/6/e/3/76e37c8b26504dfaae8e40ebb446a8bc/mp3/main.m3u8",
     "createdAt": "2026-10-01T15:30:02.528Z",
     "durationSeconds": 1799.56
-  },
-  {
-    "id": "102f612b780e42a0a5c66c4c74958148",
-    "title": "《新闻联播》 20260930 21:00",
-    "url": "https://tv.cctv.cn/2026/09/30/VIDEO83eBjtqwayNHq4s1CQ2260930.shtml",
-    "date": "2026-09-30",
-    "broadcastTime": "21:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/09/30/102f612b780e42a0a5c66c4c74958148-1.jpg",
-    "description": "本期节目主要内容：\n1.烈士纪念日向人民英雄敬献花篮仪式在京隆重举行；\n2.庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话；\n3.人民日报社论：在新的伟大征程上接续奋斗再创辉煌——热烈庆祝中华人民共和国成立七十七周年；\n4.习近平同文莱苏丹就中文建交35周年互致贺电；\n5.【“十五五”开好局起好步】我国加快建设现代化水网；\n6.9月制造业采购经理指数回升 重回扩张区间；\n7.喜迎国庆 各地节日氛围浓厚；\n8.国内联播快讯：\n（1）254项国家标准10月1日起实施；\n（2）中欧联合研制“微笑”卫星首批观测图像发布；\n（3）经港珠澳大桥供港鲜活食品明天起将全天通关；\n（4）第33届中国电视金鹰奖获奖结果揭晓；\n9.我驻国际组织代表团和驻多国使馆举办活动庆祝新中国成立77周年；\n10.国际联播快讯：\n（1）伊朗称已收到美国就推进谈判条件的回复；\n（2）英首相称将推动改善与欧盟关系；\n（3）美对加部分商品进口禁令生效。\n（《新闻联播》 20260930 21:00）",
-    "program": "xwlb",
-    "guid": "102f612b780e42a0a5c66c4c74958148",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/30/VIDEO83eBjtqwayNHq4s1CQ2260930.shtml",
-    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/102f612b780e42a0a5c66c4c74958148/main.m3u8?maxbr=2048",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/102f612b780e42a0a5c66c4c74958148/main.m3u8?maxbr=2048",
-    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/102f612b780e42a0a5c66c4c74958148/main.m3u8?maxbr=2048",
-    "createdAt": "2026-09-30T14:58:09.579Z",
-    "durationSeconds": 1799.48
   }
 ]
