@@ -1,5 +1,23 @@
 [
   {
+    "id": "VIDE0cBmLQw1Y3ZtuZznlamA261031",
+    "title": "《朝闻天下》 20261031 08:00",
+    "url": "https://tv.cctv.cn/2026/10/31/VIDE0cBmLQw1Y3ZtuZznlamA261031.shtml",
+    "date": "2026-10-31",
+    "broadcastTime": "08:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/10/31/6cf9f8015f5c442b93ba9ec4ba98d6d4-1.jpg",
+    "program": "zwtx",
+    "guid": "6cf9f8015f5c442b93ba9ec4ba98d6d4",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/10/31/VIDE0cBmLQw1Y3ZtuZznlamA261031.shtml",
+    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/6cf9f8015f5c442b93ba9ec4ba98d6d4/main.m3u8?maxbr=2048",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/6cf9f8015f5c442b93ba9ec4ba98d6d4/main.m3u8?maxbr=2048",
+    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/6cf9f8015f5c442b93ba9ec4ba98d6d4/main.m3u8?maxbr=2048",
+    "createdAt": "2026-10-31T23:21:46.431Z",
+    "durationSeconds": 3114
+  },
+  {
     "id": "VIDEJVILQkhMqIbX7h2wPi7o261030",
     "title": "《朝闻天下》 20261030 08:00",
     "url": "https://tv.cctv.cn/2026/10/30/VIDEJVILQkhMqIbX7h2wPi7o261030.shtml",
@@ -437,24 +455,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/deb848ec34c54206a05db1545fe4b044/main.m3u8",
     "createdAt": "2026-10-02T23:46:36.016Z",
     "durationSeconds": 2871.64
-  },
-  {
-    "id": "25a4b4b2eca145c0b264595fcec9895a",
-    "title": "《朝闻天下》 20260930 08:00",
-    "url": "https://tv.cctv.cn/2026/09/30/VIDE4vDVttSXMpgMA20iKDQ9260930.shtml",
-    "date": "2026-09-30",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/09/30/25a4b4b2eca145c0b264595fcec9895a-1.jpg",
-    "description": "本期节目主要内容：\n    欧盟相关成员国推动欧委会打造欧版“301”工具：商务部作出回应，捍卫中国产业合法权益；日本政府强化情报活动专家会议首次开会；美国9月消费者信心指数显著走低；第33届中国电视金鹰奖获奖名单揭晓。（《朝闻天下》 20260930 08:00）",
-    "program": "zwtx",
-    "guid": "25a4b4b2eca145c0b264595fcec9895a",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/09/30/VIDE4vDVttSXMpgMA20iKDQ9260930.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/25a4b4b2eca145c0b264595fcec9895a/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/25a4b4b2eca145c0b264595fcec9895a/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/25a4b4b2eca145c0b264595fcec9895a/main.m3u8",
-    "createdAt": "2026-09-30T23:46:57.127Z",
-    "durationSeconds": 3245.48
   }
 ]
