@@ -1,5 +1,24 @@
 [
   {
+    "id": "c3b75311ff1a402799c354f30062446b",
+    "title": "《新闻联播》 20261101 21:00",
+    "url": "https://tv.cctv.cn/2026/11/01/VIDECaWkE8hKqLNB1zAhasAs261101.shtml",
+    "date": "2026-11-01",
+    "broadcastTime": "21:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/11/01/c3b75311ff1a402799c354f30062446b-1.jpg",
+    "description": "本期节目主要内容：\n1.习近平关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明；\n2.中共中央关于持之以恒推进全面从严治党若干重大问题的决定；\n3.《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》单行本出版；\n4.【学习贯彻党的二十届五中全会精神】勇担历史使命 把持之以恒推进全面从严治党落在实处；\n5.人民日报评论员文章：坚持严的基调，激发全党积极性主动性创造性——论学习贯彻党的二十届五中全会精神；\n6.央视快评：增强一体推进不敢腐不能腐不想腐综合效能；\n7.黄河流域生态保护和高质量发展取得新成效；\n8.我国前三季度社会物流运行质效稳步向好；\n9.西藏那曲市巴青县7.0级地震受灾群众有序安置；\n10.国际人士高度评价中国共产党持之以恒推进全面从严治党。\n（《新闻联播》 20261101 21:00）",
+    "program": "xwlb",
+    "guid": "c3b75311ff1a402799c354f30062446b",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/11/01/VIDECaWkE8hKqLNB1zAhasAs261101.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/c/3/b/7/c3b75311ff1a402799c354f30062446b/mp3/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/c/3/b/7/c3b75311ff1a402799c354f30062446b/mp3/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/c/3/b/7/c3b75311ff1a402799c354f30062446b/mp3/main.m3u8",
+    "createdAt": "2026-11-01T15:15:06.749Z",
+    "durationSeconds": 2699.4
+  },
+  {
     "id": "9cbab7c93ba143cfa861beecb571fb92",
     "title": "《新闻联播》 20261031 21:00",
     "url": "https://tv.cctv.cn/2026/10/31/VIDEh0mFi7RR3iPDme1nqYAv261031.shtml",
@@ -435,24 +454,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/c/1/2/c/c12ca7ac0a5b46d6811dfe7ce28620bb/mp3/main.m3u8",
     "createdAt": "2026-10-02T14:46:53.227Z",
     "durationSeconds": 1799.48
-  },
-  {
-    "id": "76e37c8b26504dfaae8e40ebb446a8bc",
-    "title": "《新闻联播》 20261001 21:00",
-    "url": "https://tv.cctv.cn/2026/10/01/VIDEkbCtoYpU7iQuS1vpjM6u261001.shtml",
-    "date": "2026-10-01",
-    "broadcastTime": "21:00",
-    "image": "https://p5.img.cctvpic.com/photoAlbum/vms/standard/img/2026/10/1/VIDEiRdBim0QX8OOKpO526Pc261001.jpg",
-    "description": "本期节目主要内容：\r\n1.《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》；\r\n2.朝着全面建成社会主义现代化强国目标奋勇前进——习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话引发热烈反响；\r\n3.央视快评：实现中华民族伟大复兴势不可挡——热烈庆祝中华人民共和国成立77周年；\r\n4.举国同庆 首都天安门广场隆重举行升国旗仪式；\r\n5.同升一面旗 共祝祖国好；\r\n6.神舟二十三号航天员在太空为祖国送祝福；\r\n7.国庆假期迎出行高峰 交通部门全力保障；\r\n8.国庆假期 总台节目丰富多彩；\r\n9.国内联播快讯：\r\n（1）第二十届亚运会 中国队继续位列金牌榜榜首；\r\n（2）2026中国网球公开赛正式开赛；\r\n（3）2026国庆档电影首日票房超1.5亿元；\r\n10.我驻外使馆使团举办活动庆祝新中国成立77周年；\r\n11.国际联播快讯：\r\n（1）美媒称美伊谈判陷入僵局；\r\n（2）伊拉克宣布美主导国际联盟部队结束任务；\r\n（3）一架赴以航班发生安全事件改道迫降；\r\n12.神州锦绣。\r\n（《新闻联播》 20261001 21:00）",
-    "program": "xwlb",
-    "guid": "76e37c8b26504dfaae8e40ebb446a8bc",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/10/01/VIDEkbCtoYpU7iQuS1vpjM6u261001.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/6/e/3/76e37c8b26504dfaae8e40ebb446a8bc/mp3/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/6/e/3/76e37c8b26504dfaae8e40ebb446a8bc/mp3/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/audio/7/6/e/3/76e37c8b26504dfaae8e40ebb446a8bc/mp3/main.m3u8",
-    "createdAt": "2026-10-01T15:30:02.528Z",
-    "durationSeconds": 1799.56
   }
 ]
