@@ -1,0 +1,19 @@
+{
+  "id": "57e6f129cb1949b4886c759d9571db71",
+  "title": "《朝闻天下》 20261103 08:00",
+  "url": "https://tv.cctv.cn/2026/11/03/VIDESdmCfYHm8JS3TpJYd89F261103.shtml",
+  "date": "2026-11-03",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/11/03/57e6f129cb1949b4886c759d9571db71-1.jpg",
+  "description": "本期节目主要内容：\n    十四届全国人大常委会第二十五次会议：可再生能源法修订草案提请初次审议；异地复课，巴青震区第二批学生11月2日晚到拉萨；美国中期选举临近，场面出人意料；日本：燃料成本上涨，东京等地电价创4年来新高。（《朝闻天下》 20261103 08:00）",
+  "program": "zwtx",
+  "guid": "57e6f129cb1949b4886c759d9571db71",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/11/03/VIDESdmCfYHm8JS3TpJYd89F261103.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/57e6f129cb1949b4886c759d9571db71/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/57e6f129cb1949b4886c759d9571db71/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/57e6f129cb1949b4886c759d9571db71/main.m3u8",
+  "createdAt": "2026-11-03T02:16:24.043Z",
+  "durationSeconds": 3128.68
+}
