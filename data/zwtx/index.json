@@ -1,5 +1,24 @@
 [
   {
+    "id": "6be66746f5004c0c9af2156cbf0a8378",
+    "title": "《朝闻天下》 20261104 07:00",
+    "url": "https://tv.cctv.cn/2026/11/04/VIDEvVyiTN59127f6EWgZeGu261104.shtml",
+    "date": "2026-11-04",
+    "broadcastTime": "07:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/11/04/6be66746f5004c0c9af2156cbf0a8378-1.jpg",
+    "description": "本期节目主要内容：\n    国家发展改革委：对人工智能就业替代风险强化监测预警；我国推动世界人工智能合作组织实体化运行，已有38国作为创始成员国加入；美国中期选举投票，经济问题成关注焦点。（《朝闻天下》 20261104 07:00）",
+    "program": "zwtx",
+    "guid": "6be66746f5004c0c9af2156cbf0a8378",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/11/04/VIDEvVyiTN59127f6EWgZeGu261104.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6be66746f5004c0c9af2156cbf0a8378/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6be66746f5004c0c9af2156cbf0a8378/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6be66746f5004c0c9af2156cbf0a8378/main.m3u8",
+    "createdAt": "2026-11-04T00:35:39.349Z",
+    "durationSeconds": 3310.04
+  },
+  {
     "id": "57e6f129cb1949b4886c759d9571db71",
     "title": "《朝闻天下》 20261103 08:00",
     "url": "https://tv.cctv.cn/2026/11/03/VIDESdmCfYHm8JS3TpJYd89F261103.shtml",
@@ -437,23 +456,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f07ae71297c74a9599368330d10e8048/main.m3u8",
     "createdAt": "2026-10-06T01:18:21.380Z",
     "durationSeconds": 3244.12
-  },
-  {
-    "id": "VIDEDMOB4BDB0eevcyQ57uZq261004",
-    "title": "《朝闻天下》 20261004 08:00",
-    "url": "https://tv.cctv.cn/2026/10/04/VIDEDMOB4BDB0eevcyQ57uZq261004.shtml",
-    "date": "2026-10-04",
-    "broadcastTime": "08:00",
-    "image": "https://p1.img.cctvpic.com/fmspic/2026/10/04/b21d3e2b953e4f6c870a731a5787c7a4-1.jpg",
-    "program": "zwtx",
-    "guid": "b21d3e2b953e4f6c870a731a5787c7a4",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/10/04/VIDEDMOB4BDB0eevcyQ57uZq261004.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b21d3e2b953e4f6c870a731a5787c7a4/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b21d3e2b953e4f6c870a731a5787c7a4/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/b21d3e2b953e4f6c870a731a5787c7a4/main.m3u8",
-    "createdAt": "2026-10-04T23:05:27.840Z",
-    "durationSeconds": 3214.28
   }
 ]

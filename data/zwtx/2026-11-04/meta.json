@@ -1,0 +1,19 @@
+{
+  "id": "6be66746f5004c0c9af2156cbf0a8378",
+  "title": "《朝闻天下》 20261104 07:00",
+  "url": "https://tv.cctv.cn/2026/11/04/VIDEvVyiTN59127f6EWgZeGu261104.shtml",
+  "date": "2026-11-04",
+  "broadcastTime": "07:00",
+  "image": "https://p3.img.cctvpic.com/fmspic/2026/11/04/6be66746f5004c0c9af2156cbf0a8378-1.jpg",
+  "description": "本期节目主要内容：\n    国家发展改革委：对人工智能就业替代风险强化监测预警；我国推动世界人工智能合作组织实体化运行，已有38国作为创始成员国加入；美国中期选举投票，经济问题成关注焦点。（《朝闻天下》 20261104 07:00）",
+  "program": "zwtx",
+  "guid": "6be66746f5004c0c9af2156cbf0a8378",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/11/04/VIDEvVyiTN59127f6EWgZeGu261104.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6be66746f5004c0c9af2156cbf0a8378/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6be66746f5004c0c9af2156cbf0a8378/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/6be66746f5004c0c9af2156cbf0a8378/main.m3u8",
+  "createdAt": "2026-11-04T00:35:39.349Z",
+  "durationSeconds": 3310.04
+}
