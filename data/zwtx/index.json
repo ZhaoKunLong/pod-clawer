@@ -1,5 +1,24 @@
 [
   {
+    "id": "dfcfec39c61c477d8dc3e54eb3c289be",
+    "title": "《朝闻天下》 20261105 07:00",
+    "url": "https://tv.cctv.cn/2026/11/05/VIDE2lCjlR6WhGmYG13ZUkcN261105.shtml",
+    "date": "2026-11-05",
+    "broadcastTime": "07:00",
+    "image": "https://p2.img.cctvpic.com/fmspic/2026/11/05/dfcfec39c61c477d8dc3e54eb3c289be-1.jpg",
+    "description": "本期节目主要内容：\n    商务部：前9个月我国服务进出口同比增长8.5%；伊朗民众举行反美反以集会，谴责美以霸权；日本自民党企图加快讨论修宪，遭在野党反对；欧盟主持乌克兰问题对话会议：会议讨论乌克兰战后重建与经济发展方案。（《朝闻天下》 20261105 07:00）",
+    "program": "zwtx",
+    "guid": "dfcfec39c61c477d8dc3e54eb3c289be",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/11/05/VIDE2lCjlR6WhGmYG13ZUkcN261105.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/dfcfec39c61c477d8dc3e54eb3c289be/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/dfcfec39c61c477d8dc3e54eb3c289be/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/dfcfec39c61c477d8dc3e54eb3c289be/main.m3u8",
+    "createdAt": "2026-11-05T00:52:23.740Z",
+    "durationSeconds": 3109.48
+  },
+  {
     "id": "6be66746f5004c0c9af2156cbf0a8378",
     "title": "《朝闻天下》 20261104 07:00",
     "url": "https://tv.cctv.cn/2026/11/04/VIDEvVyiTN59127f6EWgZeGu261104.shtml",
