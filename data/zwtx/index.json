@@ -1,5 +1,23 @@
 [
   {
+    "id": "VIDEkS8QT6zNFSFikV5eL9zd261108",
+    "title": "《朝闻天下》 20261108 08:00",
+    "url": "https://tv.cctv.cn/2026/11/08/VIDEkS8QT6zNFSFikV5eL9zd261108.shtml",
+    "date": "2026-11-08",
+    "broadcastTime": "08:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/11/08/507a0bc2ba6f42cd809eb0a462c6d8c5-1.jpg",
+    "program": "zwtx",
+    "guid": "507a0bc2ba6f42cd809eb0a462c6d8c5",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/11/08/VIDEkS8QT6zNFSFikV5eL9zd261108.shtml",
+    "streamUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/507a0bc2ba6f42cd809eb0a462c6d8c5/main.m3u8?maxbr=2048",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/507a0bc2ba6f42cd809eb0a462c6d8c5/main.m3u8?maxbr=2048",
+    "audioSourceUrl": "https://hls.cntv.cdn20.com/asp/hls/main/0303000a/3/default/507a0bc2ba6f42cd809eb0a462c6d8c5/main.m3u8?maxbr=2048",
+    "createdAt": "2026-11-08T23:42:02.905Z",
+    "durationSeconds": 3091.24
+  },
+  {
     "id": "VIDE2UExmEAUkhmtQQ9g0UZb261107",
     "title": "《朝闻天下》 20261107 08:00",
     "url": "https://tv.cctv.cn/2026/11/07/VIDE2UExmEAUkhmtQQ9g0UZb261107.shtml",
