@@ -1,0 +1,19 @@
+{
+  "id": "ed7a12bf839348daa12f8a8ca13bb443",
+  "title": "《朝闻天下》 20261110 08:00",
+  "url": "https://tv.cctv.cn/2026/11/10/VIDE1XwuBVuSvfXHlHZMeEix261110.shtml",
+  "date": "2026-11-10",
+  "broadcastTime": "08:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/11/10/ed7a12bf839348daa12f8a8ca13bb443-1.jpg",
+  "description": "本期节目主要内容：\n    国务院关税税则委员会发布公告：调整对原产美国的进口商品加征关税措施；第九届进博会：中国吸引力，从开放市场到赋能全球；俄美乌三方会谈11月10日举行，聚焦安全与停火。（《朝闻天下》 20261110 08:00）",
+  "program": "zwtx",
+  "guid": "ed7a12bf839348daa12f8a8ca13bb443",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/11/10/VIDE1XwuBVuSvfXHlHZMeEix261110.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ed7a12bf839348daa12f8a8ca13bb443/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ed7a12bf839348daa12f8a8ca13bb443/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ed7a12bf839348daa12f8a8ca13bb443/main.m3u8",
+  "createdAt": "2026-11-10T02:44:20.156Z",
+  "durationSeconds": 3205.8
+}
