@@ -1,5 +1,24 @@
 [
   {
+    "id": "00fc1fb9392945a69ac1a14b115709ee",
+    "title": "《朝闻天下》 20261111 07:00",
+    "url": "https://tv.cctv.cn/2026/11/11/VIDEAJRbs9GHnolQC4VXtZi3261111.shtml",
+    "date": "2026-11-11",
+    "broadcastTime": "07:00",
+    "image": "https://p5.img.cctvpic.com/fmspic/2026/11/11/00fc1fb9392945a69ac1a14b115709ee-1.jpg",
+    "description": "本期节目主要内容：\n    青海：我国西北地区海拔最高抽水蓄能电站开工；新一轮俄美乌三方会谈举行：首日会谈结束，俄乌分歧犹存；工业和信息化部：批复10家企业开展号码保护服务业务试点；以色列新一届议会举行首次会议。（《朝闻天下》 20261111 07:00）",
+    "program": "zwtx",
+    "guid": "00fc1fb9392945a69ac1a14b115709ee",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/11/11/VIDEAJRbs9GHnolQC4VXtZi3261111.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/00fc1fb9392945a69ac1a14b115709ee/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/00fc1fb9392945a69ac1a14b115709ee/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/00fc1fb9392945a69ac1a14b115709ee/main.m3u8",
+    "createdAt": "2026-11-11T00:38:36.341Z",
+    "durationSeconds": 3158.36
+  },
+  {
     "id": "ed7a12bf839348daa12f8a8ca13bb443",
     "title": "《朝闻天下》 20261110 08:00",
     "url": "https://tv.cctv.cn/2026/11/10/VIDE1XwuBVuSvfXHlHZMeEix261110.shtml",
@@ -475,23 +494,5 @@
     "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/64948cc26cc54339bef68d3995eb2478/main.m3u8?maxbr=2048&contentid=15120519184043",
     "createdAt": "2026-10-13T02:00:30.404Z",
     "durationSeconds": 3155.64
-  },
-  {
-    "id": "VIDEupWTfcm9pJKTP4OyhPvU261011",
-    "title": "《朝闻天下》 20261011 08:00",
-    "url": "https://tv.cctv.cn/2026/10/11/VIDEupWTfcm9pJKTP4OyhPvU261011.shtml",
-    "date": "2026-10-11",
-    "broadcastTime": "08:00",
-    "image": "https://p4.img.cctvpic.com/fmspic/2026/10/11/ad134c1bb3774f6e893761d94e3bd32b-1.jpg",
-    "program": "zwtx",
-    "guid": "ad134c1bb3774f6e893761d94e3bd32b",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/10/11/VIDEupWTfcm9pJKTP4OyhPvU261011.shtml",
-    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ad134c1bb3774f6e893761d94e3bd32b/main.m3u8",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ad134c1bb3774f6e893761d94e3bd32b/main.m3u8",
-    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/ad134c1bb3774f6e893761d94e3bd32b/main.m3u8",
-    "createdAt": "2026-10-11T23:39:20.047Z",
-    "durationSeconds": 3044
   }
 ]

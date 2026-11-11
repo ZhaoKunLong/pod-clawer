@@ -1,0 +1,19 @@
+{
+  "id": "00fc1fb9392945a69ac1a14b115709ee",
+  "title": "《朝闻天下》 20261111 07:00",
+  "url": "https://tv.cctv.cn/2026/11/11/VIDEAJRbs9GHnolQC4VXtZi3261111.shtml",
+  "date": "2026-11-11",
+  "broadcastTime": "07:00",
+  "image": "https://p5.img.cctvpic.com/fmspic/2026/11/11/00fc1fb9392945a69ac1a14b115709ee-1.jpg",
+  "description": "本期节目主要内容：\n    青海：我国西北地区海拔最高抽水蓄能电站开工；新一轮俄美乌三方会谈举行：首日会谈结束，俄乌分歧犹存；工业和信息化部：批复10家企业开展号码保护服务业务试点；以色列新一届议会举行首次会议。（《朝闻天下》 20261111 07:00）",
+  "program": "zwtx",
+  "guid": "00fc1fb9392945a69ac1a14b115709ee",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/11/11/VIDEAJRbs9GHnolQC4VXtZi3261111.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/00fc1fb9392945a69ac1a14b115709ee/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/00fc1fb9392945a69ac1a14b115709ee/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/00fc1fb9392945a69ac1a14b115709ee/main.m3u8",
+  "createdAt": "2026-11-11T00:38:36.341Z",
+  "durationSeconds": 3158.36
+}
