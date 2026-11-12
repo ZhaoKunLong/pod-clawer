@@ -1,5 +1,24 @@
 [
   {
+    "id": "84fa35682fd84d56858b87a58a15deab",
+    "title": "《朝闻天下》 20261112 08:00",
+    "url": "https://tv.cctv.cn/2026/11/12/VIDEFRDAlL7Ixp5k4uj2cd9u261112.shtml",
+    "date": "2026-11-12",
+    "broadcastTime": "08:00",
+    "image": "https://p3.img.cctvpic.com/fmspic/2026/11/12/84fa35682fd84d56858b87a58a15deab-1.jpg",
+    "description": "本期节目主要内容：\n    全国冬小麦播种过八成；2026年APEC领导人会议周新闻中心正式启用：总面积1.5万平方米，接待近5000名中外记者；新一轮俄美乌三方会谈结束·记者观察：俄乌就大规模交换被俘人员达成协议。（《朝闻天下》 20261112 08:00）",
+    "program": "zwtx",
+    "guid": "84fa35682fd84d56858b87a58a15deab",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/11/12/VIDEFRDAlL7Ixp5k4uj2cd9u261112.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/84fa35682fd84d56858b87a58a15deab/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/84fa35682fd84d56858b87a58a15deab/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/84fa35682fd84d56858b87a58a15deab/main.m3u8",
+    "createdAt": "2026-11-12T01:54:55.629Z",
+    "durationSeconds": 3209.64
+  },
+  {
     "id": "00fc1fb9392945a69ac1a14b115709ee",
     "title": "《朝闻天下》 20261111 07:00",
     "url": "https://tv.cctv.cn/2026/11/11/VIDEAJRbs9GHnolQC4VXtZi3261111.shtml",
