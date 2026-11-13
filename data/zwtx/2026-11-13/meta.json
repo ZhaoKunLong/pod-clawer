@@ -1,0 +1,19 @@
+{
+  "id": "adcb475e80b44d9bb50ef48acfe2b9c4",
+  "title": "《朝闻天下》 20261113 07:00",
+  "url": "https://tv.cctv.cn/2026/11/13/VIDEtvCyvNBMIV3ktRCq4exV261113.shtml",
+  "date": "2026-11-13",
+  "broadcastTime": "07:00",
+  "image": "https://p1.img.cctvpic.com/fmspic/2026/11/13/adcb475e80b44d9bb50ef48acfe2b9c4-1.jpg",
+  "description": "本期节目主要内容：\n    纪念孙中山先生诞辰160周年大会在京举行，习近平发表重要讲话；深圳八大口岸开设APEC专用通道；欧洲政治共同体领导人会议举行：乌总统呼吁欧洲直接参与俄乌问题谈判；法国一天内发生多起炸弹威胁警报。（《朝闻天下》 20261113 07:00）",
+  "program": "zwtx",
+  "guid": "adcb475e80b44d9bb50ef48acfe2b9c4",
+  "sourcePageUrl": "https://tv.cctv.cn/2026/11/13/VIDEtvCyvNBMIV3ktRCq4exV261113.shtml",
+  "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/adcb475e80b44d9bb50ef48acfe2b9c4/main.m3u8",
+  "type": "m3u8",
+  "fallback": false,
+  "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/adcb475e80b44d9bb50ef48acfe2b9c4/main.m3u8",
+  "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/adcb475e80b44d9bb50ef48acfe2b9c4/main.m3u8",
+  "createdAt": "2026-11-13T01:03:20.140Z",
+  "durationSeconds": 3233.72
+}

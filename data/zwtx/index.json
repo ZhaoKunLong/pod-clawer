@@ -1,5 +1,24 @@
 [
   {
+    "id": "adcb475e80b44d9bb50ef48acfe2b9c4",
+    "title": "《朝闻天下》 20261113 07:00",
+    "url": "https://tv.cctv.cn/2026/11/13/VIDEtvCyvNBMIV3ktRCq4exV261113.shtml",
+    "date": "2026-11-13",
+    "broadcastTime": "07:00",
+    "image": "https://p1.img.cctvpic.com/fmspic/2026/11/13/adcb475e80b44d9bb50ef48acfe2b9c4-1.jpg",
+    "description": "本期节目主要内容：\n    纪念孙中山先生诞辰160周年大会在京举行，习近平发表重要讲话；深圳八大口岸开设APEC专用通道；欧洲政治共同体领导人会议举行：乌总统呼吁欧洲直接参与俄乌问题谈判；法国一天内发生多起炸弹威胁警报。（《朝闻天下》 20261113 07:00）",
+    "program": "zwtx",
+    "guid": "adcb475e80b44d9bb50ef48acfe2b9c4",
+    "sourcePageUrl": "https://tv.cctv.cn/2026/11/13/VIDEtvCyvNBMIV3ktRCq4exV261113.shtml",
+    "streamUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/adcb475e80b44d9bb50ef48acfe2b9c4/main.m3u8",
+    "type": "m3u8",
+    "fallback": false,
+    "hlsUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/adcb475e80b44d9bb50ef48acfe2b9c4/main.m3u8",
+    "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/adcb475e80b44d9bb50ef48acfe2b9c4/main.m3u8",
+    "createdAt": "2026-11-13T01:03:20.140Z",
+    "durationSeconds": 3233.72
+  },
+  {
     "id": "84fa35682fd84d56858b87a58a15deab",
     "title": "《朝闻天下》 20261112 08:00",
     "url": "https://tv.cctv.cn/2026/11/12/VIDEFRDAlL7Ixp5k4uj2cd9u261112.shtml",
@@ -494,24 +513,5 @@
     "audioSourceUrl": "https://dhls.cntv.cdn20.com/asp/hlsaudio/hls/main/0303000a/3/default/f0cbfb9675724d1fbdcfee0f7ec43224/main.m3u8",
     "createdAt": "2026-10-14T23:12:32.252Z",
     "durationSeconds": 3218.76
-  },
-  {
-    "id": "64948cc26cc54339bef68d3995eb2478",
-    "title": "《朝闻天下》 20261013 08:00",
-    "url": "https://tv.cctv.cn/2026/10/13/VIDEMSYyxGMktLMOly9DOxAf261013.shtml",
-    "date": "2026-10-13",
-    "broadcastTime": "08:00",
-    "image": "https://p2.img.cctvpic.com/fmspic/2026/10/13/64948cc26cc54339bef68d3995eb2478-1.jpg",
-    "description": "本期节目主要内容：\n    沙特首都传出爆炸声，联军拦截胡塞导弹；支持卫生和健康事业发展，2026年前8个月我国减税降费2454亿元；财政部、国家税务总局：新能源汽车增值税出口退税率将下调至9%。（《朝闻天下》 20261013 08:00）",
-    "program": "zwtx",
-    "guid": "64948cc26cc54339bef68d3995eb2478",
-    "sourcePageUrl": "https://tv.cctv.cn/2026/10/13/VIDEMSYyxGMktLMOly9DOxAf261013.shtml",
-    "streamUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/64948cc26cc54339bef68d3995eb2478/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "type": "m3u8",
-    "fallback": false,
-    "hlsUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/64948cc26cc54339bef68d3995eb2478/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "audioSourceUrl": "https://dh5.cntv.cdn20.com/asp/h5e/hls/main/0303000a/3/default/64948cc26cc54339bef68d3995eb2478/main.m3u8?maxbr=2048&contentid=15120519184043",
-    "createdAt": "2026-10-13T02:00:30.404Z",
-    "durationSeconds": 3155.64
   }
 ]
